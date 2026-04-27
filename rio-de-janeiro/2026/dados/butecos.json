@@ -1,0 +1,2627 @@
+[
+  {
+    "id": 1,
+    "slug": "alvoroco",
+    "nome": "Alvoroço",
+    "endereco": "Estrada dos Bandeirantes, 7967",
+    "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9700883,
+    "lng": -43.4133357,
+    "telefone": "21994390023",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "alvoroco_moela-abaixo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Moela abaixo",
+        "descricao": "Uma mistura da tradição porteña com raízes dos nossos botecos tradicionais que se prezam. Empanada de moela com catupiry e chimichurri de alho-poró.",
+        "foto": "alvoroco_moela-abaixo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alvoroco/"
+  },
+  {
+    "id": 2,
+    "slug": "antonios-nordestino",
+    "nome": "Antônio’s Nordestino",
+    "endereco": "R. Ati, 365",
+    "bairro": "Tanque",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9216496,
+    "lng": -43.3574916,
+    "telefone": "21997988080",
+    "horarios": "Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "antonio-s-nordestino_caminho-da-roca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caminho da Roça",
+        "descricao": "Base de queijo coalho empanado, coberto com carne-seca desfiada e cream cheese. Servidos com couve crocante e crispy de alho-poró. Acompanha molho agridoce de melado de rapadura flambado na cachaça de jambu.",
+        "foto": "antonio-s-nordestino_caminho-da-roca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/antonios-nordestino/"
+  },
+  {
+    "id": 3,
+    "slug": "armazem-sao-thiago",
+    "nome": "Armazém São Thiago",
+    "endereco": "R. Áurea, 26",
+    "bairro": "Santa Teresa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9228736,
+    "lng": -43.188443,
+    "telefone": "2122320822",
+    "horarios": "Segunda-feira: 12:00 – 23h | Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 22h",
+    "fotos": [
+      "armazem-sao-thiago_checkup.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Checkup",
+        "descricao": "Almofadinhas recheadas: peito bovino com tomate seco e alho-poró, coração de alcatra com gorgonzola e espinafre e língua bovina ao molho madeira com agrião. Acompanha geleia de vinho.",
+        "foto": "armazem-sao-thiago_checkup.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-sao-thiago/"
+  },
+  {
+    "id": 4,
+    "slug": "3500-revision-v1",
+    "nome": "Art Chopp",
+    "endereco": "Estrada Macembu, 63 - 75",
+    "bairro": "Taquara",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9229766,
+    "lng": -43.3776425,
+    "telefone": "21995668424",
+    "horarios": "Terça-feira: 12h – 0h30 | Quarta-feira: 12h – 0h30 | Quinta-feira: 12h – 0h30 | Sexta-feira: 12h – 0h30 | Sábado: 12h – 0h30 | Domingo: 12h – 23h",
+    "fotos": [
+      "art-chopp_que-delicia-de-rabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Que delícia de rabada!",
+        "descricao": "Rabada desfiada e defumada com agrião refogado e polenta frita.",
+        "foto": "art-chopp_que-delicia-de-rabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3500-revision-v1/"
+  },
+  {
+    "id": 5,
+    "slug": "3508-revision-v1",
+    "nome": "Baixo Gago",
+    "endereco": "R. Gago Coutinho, 51",
+    "bairro": "Laranjeiras",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9314033,
+    "lng": -43.1811229,
+    "telefone": "(21) 98849-3672 | (21) 2556-0638",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 23h30 | Quinta-feira: 12h – 23h30 | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 17h30",
+    "fotos": [
+      "baixo-gago_porogodo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porogodó",
+        "descricao": "Cestinhas de massa de pastel assadas, recheadas com costela bovina e alho-poró e carne-seca com alho-poró. Acompanha geleia artesanal de damasco.",
+        "foto": "baixo-gago_porogodo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3508-revision-v1/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-da-aurea",
+    "nome": "Bar da Áurea",
+    "endereco": "Ladeira Ari Barroso, 20",
+    "bairro": "Leme",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21992739273",
+    "horarios": "Terça-feira: 12h – 21h | Quarta-feira: 12h – 21h | Quinta-feira: 12h – 21h | Sexta-feira: 12h – 21h | Sábado: 12h – 21h | Domingo: 12h – 21h",
+    "fotos": [
+      "bar-da-aurea_brasileirinho-sou-brasileiro-e-nao-desisto-nunca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brasileirinho – Sou brasileiro e não desisto nunca",
+        "descricao": "Uma releitura da feijoada em forma de charuto, acompanhada de um melado de laranja e farofa amarela.",
+        "foto": "bar-da-aurea_brasileirinho-sou-brasileiro-e-nao-desisto-nunca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-aurea/"
+  },
+  {
+    "id": 7,
+    "slug": "bar-da-tati",
+    "nome": "Bar da Tati",
+    "endereco": "Pça. Serzedelo Correia, 15",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2135183879",
+    "horarios": "Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 1h | Sábado: 11h – 1h | Domingo: 14h – 0h",
+    "fotos": [
+      "bar-da-tati_maria-isabel-da-tati.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maria Isabel da Tati",
+        "descricao": "Carne-seca em arroz ao molho de tomate, com jerimum, maxixe e bacon. Finalizada com queijo coalho grelhado e acompanhada de farofa crocante de castanhas com couve crispy.",
+        "foto": "bar-da-tati_maria-isabel-da-tati.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-tati/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-do-aldo",
+    "nome": "Bar do Aldo",
+    "endereco": "Rua Ronald de Carvalho, 161",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9642737,
+    "lng": -43.17728,
+    "telefone": "21979284388",
+    "horarios": "Segunda-feira: 17h – 2h | Terça-feira: 17h – 2h | Quarta-feira: 17h – 2h | Quinta-feira: 17h – 2h | Sexta-feira: 17h – 2h | Sábado: 17h – 2h | Domingo: 17h – 2h",
+    "fotos": [
+      "bar-do-aldo_camarao-folgado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão Folgado",
+        "descricao": "Croquete de camarão com recheio de cream cheese e alho-poró. Servido com molho de ervas apimentado.",
+        "foto": "bar-do-aldo_camarao-folgado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-aldo/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-augusto",
+    "nome": "Bar do Augusto",
+    "endereco": "Avenida Mem de Sá, 72",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9117431,
+    "lng": -43.1893447,
+    "telefone": "21979379966",
+    "horarios": "Segunda-feira: 12h – 0h | Terça-feira: 12h – 0h | Quarta-feira: 12h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 0h |",
+    "fotos": [
+      "bar-do-augusto_la-vem-ele-de-novo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lá vem ele de novo",
+        "descricao": "Bolinho à mineira, recheado com couve, tutu e costelinha suína. Finalizado com catupiry, pimenta-biquinho e cebola crispy.",
+        "foto": "bar-do-augusto_la-vem-ele-de-novo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-augusto/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-do-canedo",
+    "nome": "Bar do Canedo",
+    "endereco": "R. Barão de Mesquita, 916",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9238379,
+    "lng": -43.2550402,
+    "telefone": "2122383028",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h |",
+    "fotos": [
+      "bar-do-canedo_yo-no-creo-en-brujas-pero-que-las-hay-las-hay.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Yo no creo en brujas, pero que las hay, las hay",
+        "descricao": "Costela bovina em um creme especial de quatro queijos, servida numa caminha de aipim com tapioca fritos. “Chuva” de couve mineira frita para finalizar!",
+        "foto": "bar-do-canedo_yo-no-creo-en-brujas-pero-que-las-hay-las-hay.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-canedo/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-do-david-rio",
+    "nome": "Bar do David",
+    "endereco": "Rua Ari Barroso, 66",
+    "bairro": "Rio de Janeiro - RJ",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7902373,
+    "lng": -43.2880994,
+    "telefone": "(21) 96483-1046",
+    "horarios": "",
+    "fotos": [
+      "bar-do-david_conchas-dell-mare.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Conchas Dell Mare",
+        "descricao": "Conchas de macarrão frito, recheadas de frutos do mar ao alho e óleo e pesto de couve.",
+        "foto": "bar-do-david_conchas-dell-mare.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-david-rio/"
+  },
+  {
+    "id": 12,
+    "slug": "bar-do-gilson",
+    "nome": "Bar do Gilson",
+    "endereco": "R. Sousa Franco, 386",
+    "bairro": "Vila Isabel",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9123791,
+    "lng": -43.2465804,
+    "telefone": "21971221299",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 15h | Quarta-feira: 11h – 15h | Quinta-feira: 11h – 21h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 21h",
+    "fotos": [
+      "bar-do-gilson_vaca-atrevida.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vaca Atrevida",
+        "descricao": "Releitura da clássica vaca atolada: creme de aipim com batata-baroa e alho-poró, finalizado com queijo azul, costela bovina desfiada e farofa crocante de bacon.",
+        "foto": "bar-do-gilson_vaca-atrevida.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-gilson/"
+  },
+  {
+    "id": 13,
+    "slug": "bar-do-luisinho",
+    "nome": "Bar do Luisinho",
+    "endereco": "R. Dois de Fevereiro, 228",
+    "bairro": "Encantado",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9019942,
+    "lng": -43.3026066,
+    "telefone": "21 98421-8233",
+    "horarios": "Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 22h30",
+    "fotos": [
+      "bar-do-luisinho_ossinho-da-roca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ossinho da Roça",
+        "descricao": "Duas coxinhas verdes de costela suína com massa de brócolis. Uma releitura criativa do clássico brasileiro: coxinha feita com massa de brócolis, recheada com costela suína desfiada, cozida lentamente. Empanada na farinha panko, sendo finalizada com o próprio osso da costela, que serve como cabo e dá um visual marcante e divertido.",
+        "foto": "bar-do-luisinho_ossinho-da-roca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-luisinho/"
+  },
+  {
+    "id": 14,
+    "slug": "3530-autosave-v1",
+    "nome": "Bar do Mariano",
+    "endereco": "R. Professor Valadares, 78",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9201521,
+    "lng": -43.2634287,
+    "telefone": "(21) 3079-4658 | (21) 2578-1232",
+    "horarios": "Segunda-feira: 13h – 22h30 | Terça-feira: 13h – 22h30 | Quarta-feira: 13h – 22h30 | Quinta-feira: 13h – 23h30 | Sexta-feira: 13h – 23h30 | Sábado: 13h – 23h30 | Domingo: 13h – 22h30",
+    "fotos": [
+      "bar-do-mariano_brasileirinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brasileirinho",
+        "descricao": "Cubos de carnes marinados ao “vinadalho”, com creme de milho e couve refogada. Finalizado com couve crispy, alho torrado e ovo de codorna.",
+        "foto": "bar-do-mariano_brasileirinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3530-autosave-v1/"
+  },
+  {
+    "id": 15,
+    "slug": "bar-do-mineiro",
+    "nome": "Bar do Mineiro",
+    "endereco": "R. Paschoal Carlos Magno, 99",
+    "bairro": "Santa Teresa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.921524,
+    "lng": -43.1859623,
+    "telefone": "2122219227",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-do-mineiro_ora-ora-que-melhora.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ora Ora que melhora",
+        "descricao": "Coxa de frango recheada com catupiry e ora-pro-nóbis, servida com creme de frango.",
+        "foto": "bar-do-mineiro_ora-ora-que-melhora.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-mineiro/"
+  },
+  {
+    "id": 16,
+    "slug": "bar-do-mozoca",
+    "nome": "Bar do Mozoca",
+    "endereco": "R. Leite Ribeiro, 43",
+    "bairro": "Méier",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9032813,
+    "lng": -43.2890187,
+    "telefone": "21964308878",
+    "horarios": "Segunda-feira: 11h – 22h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-do-mozoca_delicia-do-mozoca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Delícia do Mozoca",
+        "descricao": "Massa de batata-doce recheada com carne-seca, queijo e brócolis.",
+        "foto": "bar-do-mozoca_delicia-do-mozoca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-mozoca/"
+  },
+  {
+    "id": 17,
+    "slug": "bar-do-thomaz",
+    "nome": "Bar do Thomaz",
+    "endereco": "Rua Gerônimo Serqueira, 26",
+    "bairro": "Camorim",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21966019675",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 19h – 1h | Sábado: 13h – 1h | Domingo: 13h – 0h",
+    "fotos": [
+      "bar-do-thomaz_do-preto-gostoso-ao-branco-metido-a-besta-tamo-junto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Do preto gostoso ao branco metido à besta: tamo junto",
+        "descricao": "Caldo de feijão-preto e branco. O feijão-preto acompanha couve crispy e torresmo. O feijão-branco acompanha camarão e alho-poró tostado na manteiga.",
+        "foto": "bar-do-thomaz_do-preto-gostoso-ao-branco-metido-a-besta-tamo-junto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-thomaz/"
+  },
+  {
+    "id": 18,
+    "slug": "bar-do-tino",
+    "nome": "Bar do Tino",
+    "endereco": "R. Almirante Alexandrino, 3780",
+    "bairro": "Santa Teresa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9222307,
+    "lng": -43.1878563,
+    "telefone": "21964127284",
+    "horarios": "Quinta-feira: 11h30 – 19h | Sexta-feira: 11h30 – 19h | Sábado: 11h30 – 19h | Domingo: 11h30 – 19h",
+    "fotos": [
+      "bar-do-tino_verdura-e-tino-meu-buteco-e-o-destino.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Verdura e tino, meu buteco é o destino",
+        "descricao": "Costela suína defumada desfiada com couve mineira refogada com bacon e tiras de aipim frito com queijo ralado e salsa.",
+        "foto": "bar-do-tino_verdura-e-tino-meu-buteco-e-o-destino.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-tino/"
+  },
+  {
+    "id": 19,
+    "slug": "bar-do-ze-ilha-de-paqueta",
+    "nome": "Bar do Zé Ilha de Paquetá",
+    "endereco": "R. Comandante Guedes de Carvalho, 97",
+    "bairro": "Paquetá",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7661774,
+    "lng": -43.109505,
+    "telefone": "21997733547",
+    "horarios": "Sexta-feira: 11h – 17h | Sábado: 11h – 17h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-do-ze-ilha-de-paqueta_caldinhos-do-ze.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caldinhos do Zé",
+        "descricao": "Dois caldos: feijoada de camarão com alho-poró, acompanha torradas; caldo de feijão-preto com bacon, linguiça calabresa e cubos de carne. Acompanha farofa de couve e alho.",
+        "foto": "bar-do-ze-ilha-de-paqueta_caldinhos-do-ze.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ze-ilha-de-paqueta/"
+  },
+  {
+    "id": 20,
+    "slug": "bar-du-barao",
+    "nome": "Bar Du Barão",
+    "endereco": "R. Castro Barbosa, 36",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9243429,
+    "lng": -43.2561669,
+    "telefone": "21965512118",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 12h – 22h | Domingo: 12h – 20h",
+    "fotos": [
+      "bar-du-barao_barao-vermelho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Barão Vermelho",
+        "descricao": "Bolinhos com massa de feijão vermelho, recheados com carne-seca, queijo manteiga, queijo muçarela e couve manteiga. Acompanha geleia de caju, levemente picante.",
+        "foto": "bar-du-barao_barao-vermelho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-du-barao/"
+  },
+  {
+    "id": 21,
+    "slug": "bar-e-restaurante-elo-perdido",
+    "nome": "Bar e Restaurante Elo Perdido",
+    "endereco": "Praça da Bandeira, 317",
+    "bairro": "Praça da Bandeira",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9113245,
+    "lng": -43.2146501,
+    "telefone": "2135968962",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-e-restaurante-elo-perdido_era-uma-vez-um-rabo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Era uma vez um Rabo",
+        "descricao": "Bolinho de rabada com agrião, feito com massa de polenta.",
+        "foto": "bar-e-restaurante-elo-perdido_era-uma-vez-um-rabo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-e-restaurante-elo-perdido/"
+  },
+  {
+    "id": 22,
+    "slug": "gato-de-botas",
+    "nome": "Bar Gato de Botas",
+    "endereco": "R. Torres Homem, 118",
+    "bairro": "Vila Isabel",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.914072,
+    "lng": -43.2465389,
+    "telefone": "21981288252",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "bar-gato-de-botas_gato-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Gato Poró",
+        "descricao": "Dois coxões recheados com costela, queijo e alho-poró, acompanhados de molho de abacaxi.",
+        "foto": "bar-gato-de-botas_gato-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gato-de-botas/"
+  },
+  {
+    "id": 23,
+    "slug": "bar-luiza",
+    "nome": "Bar Luiza",
+    "endereco": "Rua São Francisco Xavier, 68",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9211975,
+    "lng": -43.2221317,
+    "telefone": "21985415231",
+    "horarios": "Terça-feira: 13h – 23h30 | Quarta-feira: 13h – 23h30 | Quinta-feira: 13h – 23h30 | Sexta-feira: 13h – 23h30 | Sábado: 13h – 23h30 | Domingo: 13h – 17h30",
+    "fotos": [
+      "bar-luiza_pastel-porcopiry.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel Porcopiry",
+        "descricao": "Pastéis recheados com joelho de porco lentamente cozido e desfiado, finalizado com o toque levemente picante da folha de mostarda.",
+        "foto": "bar-luiza_pastel-porcopiry.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-luiza/"
+  },
+  {
+    "id": 24,
+    "slug": "bar-sambodromo",
+    "nome": "Bar Sambódromo",
+    "endereco": "Avenida Salvador de Sá, 77",
+    "bairro": "Cidade Nova",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9127941,
+    "lng": -43.2014443,
+    "telefone": "2122936703",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 20h | Domingo: 12h – 20h",
+    "fotos": [
+      "bar-sambodromo_porquinho-asiatico-em-aguas-tupiniquins.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho asiático em águas tupiniquins",
+        "descricao": "Guioza de porco com repolho caramelizado no molho de ostra, molho ponzu de tucupi, finalizado com cebolinha, gergelim, pó de camarão e pó de pimenta.",
+        "foto": "bar-sambodromo_porquinho-asiatico-em-aguas-tupiniquins.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-sambodromo/"
+  },
+  {
+    "id": 25,
+    "slug": "bar-to-legal",
+    "nome": "Bar Tô Legal",
+    "endereco": "Rua Juiz de Fora, 179",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9255571,
+    "lng": -43.2591151,
+    "telefone": "2122686001",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "bar-to-legal_fast-tel-to-legal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fast-tel tô legal",
+        "descricao": "Pastéis recheados com costela bovina desfiada e agrião.",
+        "foto": "bar-to-legal_fast-tel-to-legal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-to-legal/"
+  },
+  {
+    "id": 26,
+    "slug": "bar-victor",
+    "nome": "Bar Victor",
+    "endereco": "R. Riachuelo, 32",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9117013,
+    "lng": -43.1931353,
+    "telefone": "21965263450",
+    "horarios": "Segunda-feira: 12h – 23h30 | Terça-feira: 12h – 23h30 | Quarta-feira: 12h – 23h30 | Quinta-feira: 12h – 23h30 | Sexta-feira: 12h – 1h | Sábado: 12h – 1h | Domingo: 12h – 22h",
+    "fotos": [
+      "bar-victor_deu-samba.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Deu Samba",
+        "descricao": "Massa de aipim crocante, temperada com manteiga de garrafa, salsa e queijo parmesão. Por cima, pasta de cream cheese e alho-poró e, para finalizar, ragu de peito bovino com fraldinha. Com toque de molho de tomate artesanal.",
+        "foto": "bar-victor_deu-samba.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-victor/"
+  },
+  {
+    "id": 27,
+    "slug": "beneh-gastrobar",
+    "nome": "Beneh Gastrobar",
+    "endereco": "Rua Dona Maria, 9",
+    "bairro": "Vila Isabel",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9193492,
+    "lng": -43.2379738,
+    "telefone": "21999451740",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 1h | Sábado: 12h – 1h | Domingo: 12h – 22h",
+    "fotos": [
+      "beneh-gastrobar_boa-vista.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boa Vista",
+        "descricao": "Creme aveludado de espinafre e alho confit com mini medalhão de filé-mignon suíno empanado.",
+        "foto": "beneh-gastrobar_boa-vista.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/beneh-gastrobar/"
+  },
+  {
+    "id": 28,
+    "slug": "biricutico-bar-e-botequim",
+    "nome": "Biricutico Bar e Botequim",
+    "endereco": "R. Magalhães Couto, 356",
+    "bairro": "Méier",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9016658,
+    "lng": -43.2880066,
+    "telefone": "21964912235",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "biricutico-bar-e-botequim_pastel-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel do Popeye",
+        "descricao": "Pastel de espinafre com queijo gorgonzola, catupiry e farofa de torresmo.",
+        "foto": "biricutico-bar-e-botequim_pastel-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/biricutico-bar-e-botequim/"
+  },
+  {
+    "id": 29,
+    "slug": "biroska-do-camarao",
+    "nome": "Biroska do Camarão",
+    "endereco": "R. Antônio Sales, 4",
+    "bairro": "Cacuia/Colônia Z-10",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8235529,
+    "lng": -43.1785989,
+    "telefone": "21988698139",
+    "horarios": "Segunda-feira: 12h – 18h | Terça-feira: 12h – 18h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 18h",
+    "fotos": [
+      "biroska-do-camarao_joelho-atrevido.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Joelho atrevido",
+        "descricao": "Massa de aipim frito com cobertura de joelho de porco e cebola caramelizada. Acompanha: molho de espinafre.",
+        "foto": "biroska-do-camarao_joelho-atrevido.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/biroska-do-camarao/"
+  },
+  {
+    "id": 30,
+    "slug": "5854-revision-v1",
+    "nome": "Bistrô Aconchego",
+    "endereco": "Rua das Rosas, 1500",
+    "bairro": "Vila Valqueire",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8888817,
+    "lng": -43.3655133,
+    "telefone": "21982843962",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 12h – 1h | Domingo: 12h – 22h",
+    "fotos": [
+      "bistro-aconchego_amor-de-iza.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Amor de Iza",
+        "descricao": "Trio de tortinhas feitas com massinha de brócolis com queijo, recheadas com: frango com requeijão, costela com barbecue e camarão com alho-poró e cream cheese.",
+        "foto": "bistro-aconchego_amor-de-iza.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/5854-revision-v1/"
+  },
+  {
+    "id": 31,
+    "slug": "boemia-social-clube",
+    "nome": "Boemia Social Clube",
+    "endereco": "Av. Oliveira Belo, 1180",
+    "bairro": "Vila da Penha",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8412392,
+    "lng": -43.3057818,
+    "telefone": "2131905979",
+    "horarios": "Domingo: 11h30 – 0h | Segunda-feira: 11h30 – 0h | Terça-feira: 11h30 – 0h | Quarta-feira: 11h30 – 0h | Quinta-feira: 11h30 – 0h | Sexta-feira: 11h30 – 0h | Sábado: 11h30 – 0h",
+    "fotos": [
+      "boemia-social-clube_poro-prosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poró & Prosa",
+        "descricao": "Pasta de tomate seco com salame, parmesão, alho-poró, manjericão e um toque picante da geleia de pimentão; servido sobre crostini artesanal crocante.",
+        "foto": "boemia-social-clube_poro-prosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boemia-social-clube/"
+  },
+  {
+    "id": 32,
+    "slug": "booze-bar",
+    "nome": "Booze Bar",
+    "endereco": "Av. Mem de Sá, 63",
+    "bairro": "Lapa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9133637,
+    "lng": -43.1812232,
+    "telefone": "2122521588",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 1h | Sábado: 11h – 1h | Domingo: 11h – 23h",
+    "fotos": [
+      "booze-bar_croc-costela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croc Costela",
+        "descricao": "Espeto de costela no bafo envolta por queijo, pesto de rúcula e empanada numa massa dourada e supercrocante. Acompanhada por 3 molhos: ketchup artesanal, mostarda de maçã e pasta de jalapenho.",
+        "foto": "booze-bar_croc-costela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/booze-bar/"
+  },
+  {
+    "id": 33,
+    "slug": "boteco-bacurau",
+    "nome": "Boteco Bacurau",
+    "endereco": "Avenida Mem de Sá, 175",
+    "bairro": "Lapa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9126053,
+    "lng": -43.1846963,
+    "telefone": "21974831461",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 11h – 1h | Quarta-feira: 11h – 1h | Quinta-feira: 11h – 1h | Sexta-feira: 11h – 1h | Sábado: 11h – 1h | Domingo: 11h – 1h",
+    "fotos": [
+      "boteco-bacurau_tacural.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tacural",
+        "descricao": "Quatro tacos de acelga com carne de sol e queijo coalho.",
+        "foto": "boteco-bacurau_tacural.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-bacurau/"
+  },
+  {
+    "id": 34,
+    "slug": "boteco-bella-chama",
+    "nome": "Boteco Bella Chama",
+    "endereco": "Avenida Churchill, 13",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9094907,
+    "lng": -43.1717225,
+    "telefone": "21993256472",
+    "horarios": "Segunda-feira: 7h – 16h | Terça-feira: 7h – 23h | Quarta-feira: 7h – 23h | Quinta-feira: 7h – 23h | Sexta-feira: 7h – 23h | Sábado: 7h – 16h",
+    "fotos": [
+      "boteco-bella-chama_costela-de-cordeiro-a-bella-chama.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costela de cordeiro à Bella Chama",
+        "descricao": "Pedaços de costela de cordeiro servidos com molho de aipo, alho-poró, hortelã e geleia de hortelã cítrica.",
+        "foto": "boteco-bella-chama_costela-de-cordeiro-a-bella-chama.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-bella-chama/"
+  },
+  {
+    "id": 35,
+    "slug": "boteco-boca-miuda",
+    "nome": "Boteco Boca Miúda",
+    "endereco": "Rua Adriano, 235",
+    "bairro": "Méier",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9017721,
+    "lng": -43.2896401,
+    "telefone": "21 992505458",
+    "horarios": "Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "boteco-boca-miuda_quem-conta-um-agriao-aumenta-uma-costela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quem conta um agrião, aumenta uma costela",
+        "descricao": "Tiras crocantes de polenta com costela, creme de queijo e vinagrete de agrião. Acompanha molho de pimenta da casa.",
+        "foto": "boteco-boca-miuda_quem-conta-um-agriao-aumenta-uma-costela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-boca-miuda/"
+  },
+  {
+    "id": 36,
+    "slug": "boteco-brotinho-de-copa",
+    "nome": "Boteco Brotinho de Copa",
+    "endereco": "Av. Prado Junior, 78",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.963153,
+    "lng": -43.1753879,
+    "telefone": "21998622271",
+    "horarios": "Segunda-feira: 11h – 23h20 | Terça-feira: 11h – 23h20 | Quarta-feira: 11h – 23h20 | Quinta-feira: 11h – 23h20 | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 23h20",
+    "fotos": [
+      "boteco-brotinho-de-copa_um-sonho-de-lombo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Um sonho de lombo",
+        "descricao": "Coxinha de lombo de porco assado na pressão, desfiado e refogado com ora-pro-nóbis e bacon fritinho em cubos. Tudo isso em uma tradicional massa de aipim artesanal. Acompanhado de azeite temperado da casa.",
+        "foto": "boteco-brotinho-de-copa_um-sonho-de-lombo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-brotinho-de-copa/"
+  },
+  {
+    "id": 37,
+    "slug": "3532-revision-v1",
+    "nome": "Boteco Carioquinha",
+    "endereco": "Av. Gomes Freire, 822",
+    "bairro": "Lapa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9116751,
+    "lng": -43.1835037,
+    "telefone": "2122523025",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "boteco-carioquinha_aneis-de-porco-recheado-ate-os-talos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Anéis de porco recheado, até os talos",
+        "descricao": "Lombo suíno marinado, recheado com linguiça artesanal, assado e cozido. Servido em anéis com molho do cozimento. Acompanhado de farofa de talos vegetais e batata coberta por queijo gratinado.",
+        "foto": "boteco-carioquinha_aneis-de-porco-recheado-ate-os-talos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3532-revision-v1/"
+  },
+  {
+    "id": 38,
+    "slug": "boteco-do-raoni",
+    "nome": "Boteco do Raoni",
+    "endereco": "Rua Uberaba, 91",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9251805,
+    "lng": -43.2559024,
+    "telefone": "2135706162",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "boteco-do-raoni_cinco-minutinhos-sem-perder-a-amizade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cinco minutinhos sem perder a amizade",
+        "descricao": "Dois bolinhos de carne recheados com queijo, espinafre, cebola e pimenta. Acompanha barbecue de cachaça caseira e 2 bolinhos de batata com funghi secchi, shitake secchi e acelga, acompanhada de teriyaki com manga.",
+        "foto": "boteco-do-raoni_cinco-minutinhos-sem-perder-a-amizade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-raoni/"
+  },
+  {
+    "id": 39,
+    "slug": "boteco-do-russo",
+    "nome": "Boteco do Russo",
+    "endereco": "Estrada de Jacarepaguá, 7040",
+    "bairro": "Anil",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9499039,
+    "lng": -43.339002,
+    "telefone": "21981125473",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "boteco-do-russo_costela-do-montela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costela do Montela",
+        "descricao": "Costela marinada com especiarias, assada por 6 horas, servida com batata calabresa no alecrim, creme de milho e brotos de agrião.",
+        "foto": "boteco-do-russo_costela-do-montela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-russo/"
+  },
+  {
+    "id": 40,
+    "slug": "boteco-vou-demais",
+    "nome": "Boteco Vou Demais",
+    "endereco": "R. Paula Brito, 240",
+    "bairro": "Andaraí",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9284583,
+    "lng": -43.2546247,
+    "telefone": "2134370610",
+    "horarios": "Segunda-feira: 11h30 – 22h | Terça-feira: 11h30 – 22h | Quarta-feira: 11h30 – 22h | Quinta-feira: 11h30 – 22h | Sexta-feira: 11h30 – 23h | Sábado: 11h30 – 23h | Domingo: 11h30 – 20h",
+    "fotos": [
+      "boteco-vou-demais_bananou-o-camarao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bananou o Camarão",
+        "descricao": "Banana-da-terra cozida, temperada com alho, cebola e recheada com camarão puxado no azeite com alho-poró, pimentões vermelho e amarelo.",
+        "foto": "boteco-vou-demais_bananou-o-camarao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-vou-demais/"
+  },
+  {
+    "id": 41,
+    "slug": "boteko-do-cadico",
+    "nome": "Boteko do Cadico",
+    "endereco": "R. Barão de Itaipu, 30",
+    "bairro": "Andaraí",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9244919,
+    "lng": -43.2476156,
+    "telefone": "21964245189",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "boteko-do-cadico_poro-popo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poró-Popó",
+        "descricao": "Cigarretes recheados, com toque de alho-poró caramelizado e acompanhamentos.",
+        "foto": "boteko-do-cadico_poro-popo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteko-do-cadico/"
+  },
+  {
+    "id": 42,
+    "slug": "botequim-chega-mais",
+    "nome": "Botequim Chega Mais",
+    "endereco": "R. Barata Ribeiro, 247",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.965377,
+    "lng": -43.1807578,
+    "telefone": "2125471210",
+    "horarios": "Terça-feira: 13h – 0h | Quarta-feira: 13h – 0h | Quinta-feira: 13h – 0h | Sexta-feira: 13h – 0h | Sábado: 13h – 0h | Domingo: 13h – 0h",
+    "fotos": [
+      "botequim-chega-mais_dom-felipe-de-bacalhau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dom Felipe de Bacalhau",
+        "descricao": "Bacalhau desfiado com batata amassada, espinafre, cenoura ralada, requeijão e parmesão gratinado.",
+        "foto": "botequim-chega-mais_dom-felipe-de-bacalhau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botequim-chega-mais/"
+  },
+  {
+    "id": 43,
+    "slug": "braseiro-do-roque",
+    "nome": "Braseiro do Roque",
+    "endereco": "R. Feliciano Pena, 332",
+    "bairro": "Vila da Penha",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8466188,
+    "lng": -43.3136101,
+    "telefone": "21964838204",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 21h30",
+    "fotos": [
+      "braseiro-do-roque_no-coracao-da-vp.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "No coração da VP",
+        "descricao": "Coração de frango assado na brasa servido no pão com pasta de alho, coberto por camada de queijo meia cura derretido e acompanhado de molho da casa e uma salada de repolho roxo, cenoura e aipo.",
+        "foto": "braseiro-do-roque_no-coracao-da-vp.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/braseiro-do-roque/"
+  },
+  {
+    "id": 44,
+    "slug": "brazuca",
+    "nome": "Brazuca",
+    "endereco": "Rua Luís Sá, 205",
+    "bairro": "Portuguesa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7987726,
+    "lng": -43.2026754,
+    "telefone": "2141412300",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "brazuca_baderna.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Baderna",
+        "descricao": "Baderna, um petisco no copo: creme de espinafre, carne de porco desfiada, cubinhos de queijo coalho tostado e um toque melado.",
+        "foto": "brazuca_baderna.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/brazuca/"
+  },
+  {
+    "id": 45,
+    "slug": "cabeca-de-bagre",
+    "nome": "Cabeça de Bagre",
+    "endereco": "R. Sousa Franco, 254 - Casa",
+    "bairro": "Vila Isabel",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9123791,
+    "lng": -43.2465804,
+    "telefone": "21992947082",
+    "horarios": "Terça a quinta – 17h às 23h  e de Sexta a domingo – 11:15 às 23h",
+    "fotos": [
+      "cabeca-de-bagre_maria-me-perdi-em-toquio.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maria, me perdi em Tóquio!",
+        "descricao": "Dupla de onigiris com base de arroz japonês, recheados com bisque de camarão, camarões empanados e emulsão de alho frito.",
+        "foto": "cabeca-de-bagre_maria-me-perdi-em-toquio.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cabeca-de-bagre/"
+  },
+  {
+    "id": 46,
+    "slug": "3536-revision-v1",
+    "nome": "Cachambeer",
+    "endereco": "R. Cachambi, 475",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8866067,
+    "lng": -43.2769168,
+    "telefone": "2130421640",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 18h",
+    "fotos": [
+      "cachambeer_quem-ve-cara-nao-ve-rabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quem vê cara não vê rabada",
+        "descricao": "Escondidinho de rabada desfiada com agrião, recheado com muçarela, feito com fubá de milho, finalizado com muçarela derretida, pimenta-biquinho e agrião.",
+        "foto": "cachambeer_quem-ve-cara-nao-ve-rabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3536-revision-v1/"
+  },
+  {
+    "id": 47,
+    "slug": "cafe-e-bar-recreio-do-leme",
+    "nome": "Café e Bar Recreio do Leme",
+    "endereco": "R. Gustavo Sampaio, 410",
+    "bairro": "Leme",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9633969,
+    "lng": -43.1713204,
+    "telefone": "2131907893",
+    "horarios": "Segunda-feira: 8h – 0h | Terça-feira: 8h – 0h | Quarta-feira: 8h – 0h | Quinta-feira: 8h – 0h | Sexta-feira: 8h – 0h | Sábado: 8h – 0h | Domingo: 8h – 18h",
+    "fotos": [
+      "cafe-e-bar-recreio-do-leme_crepe-carioca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crepe Carioca",
+        "descricao": "Crepe de espinafre com recheio de brócolis, alho-poró, bacon com creme de cenoura com gorgonzola.",
+        "foto": "cafe-e-bar-recreio-do-leme_crepe-carioca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cafe-e-bar-recreio-do-leme/"
+  },
+  {
+    "id": 48,
+    "slug": "caju-gastrobar",
+    "nome": "Caju GastroBar",
+    "endereco": "R. Barata Ribeiro, 2",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.965377,
+    "lng": -43.1807578,
+    "telefone": "2132643713",
+    "horarios": "Segunda-feira: 11h30 – 23h30 | Terça-feira: 11h30 – 23h30 | Quarta-feira: 11h30 – 23h30 | Quinta-feira: 11h30 – 23h30 | Sexta-feira: 11h30 – 0h30 | Sábado: 11h30 – 0h30 | Domingo: 11h30 – 23h30",
+    "fotos": [
+      "caju-gastrobar_espinafraram-o-bacalhau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espinafraram o Bacalhau",
+        "descricao": "Dadinho de tapioca com bacalhau, com folha de espinafre salteada no azeite e alho, finalizado com vinagrete fresco de espinafre.",
+        "foto": "caju-gastrobar_espinafraram-o-bacalhau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/caju-gastrobar/"
+  },
+  {
+    "id": 49,
+    "slug": "cantinho-da-gigoia",
+    "nome": "Cantinho da Gigóia",
+    "endereco": "Alameda das Mangueiras, 7",
+    "bairro": "Rio de Janeiro - RJ",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0040918,
+    "lng": -43.3089093,
+    "telefone": "21965987268",
+    "horarios": "Segunda-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "cantinho-da-gigoia_arquipelago-de-sabores.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arquipélago de Sabores",
+        "descricao": "Pastel de moqueca com camarão, lula, polvo e filé de linguado. Acompanha geleia de pimenta feita à base de frutos do mar.",
+        "foto": "cantinho-da-gigoia_arquipelago-de-sabores.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantinho-da-gigoia/"
+  },
+  {
+    "id": 50,
+    "slug": "cantinho-do-senado",
+    "nome": "Cantinho do Senado",
+    "endereco": "Rua do Lavradio, 50",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9087684,
+    "lng": -43.1837397,
+    "telefone": "(21) 2509-0535 | (21) 99496-6306",
+    "horarios": "Segunda-feira: 7h – 19h | Terça-feira: 7h – 19h | Quarta-feira: 7h – 19h | Quinta-feira: 7h – 19h | Sexta-feira: 7h – 19h | Sábado: 7h – 19h",
+    "fotos": [
+      "cantinho-do-senado_quebra-carroca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quebra-Carroça",
+        "descricao": "Um croquete de couve-flor, recheado com queijo coalho, acompanhado de geleia de maçãs e pimenta.",
+        "foto": "cantinho-do-senado_quebra-carroca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantinho-do-senado/"
+  },
+  {
+    "id": 51,
+    "slug": "capitania-dos-copos",
+    "nome": "Capitania dos Copos",
+    "endereco": "Praia de Tubiacanga, 24",
+    "bairro": "Tubiacanga",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7845521,
+    "lng": -43.2255619,
+    "telefone": "2133838560",
+    "horarios": "Domingo: 11h – 20h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "capitania-dos-copos_bananada-de-peixe.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bananada de peixe",
+        "descricao": "Banana frita crocante servida com peixe desfiado e um molho refrescante de agrião.",
+        "foto": "capitania-dos-copos_bananada-de-peixe.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/capitania-dos-copos/"
+  },
+  {
+    "id": 52,
+    "slug": "casarao-da-juliao",
+    "nome": "Casarão da Julião",
+    "endereco": "R. Engenheiro Julião Castelo, 165",
+    "bairro": "Méier",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9006141,
+    "lng": -43.273887,
+    "telefone": "21964677588",
+    "horarios": "Segunda-feira: 9h – 16h | Terça-feira: 9h – 16h | Quarta-feira: 9h – 20h | Quinta-feira: 9h – 20h | Sexta-feira: 9h – 22h | Sábado: 9h – 22h | Domingo: 9h – 18h",
+    "fotos": [
+      "casarao-da-juliao_os-causos-da-dona-filo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Os Causos da Dona Filó",
+        "descricao": "Charutos de espinafre recheados com queijo de cabra, acompanhados de carne ao alho e ervas e torradinhas.",
+        "foto": "casarao-da-juliao_os-causos-da-dona-filo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casarao-da-juliao/"
+  },
+  {
+    "id": 53,
+    "slug": "churraxcou",
+    "nome": "Churraxcou",
+    "endereco": "R. Antônio Storino, 161",
+    "bairro": "Vila da Penha",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8440992,
+    "lng": -43.3116863,
+    "telefone": "21981322495",
+    "horarios": "Terça-feira: 12h – 23h30 | Quarta-feira: 12h – 23h30 | Quinta-feira: 12h – 23h30 | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 23h30",
+    "fotos": [
+      "churraxcou_larica-de-sanduba.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Larica de Sanduba",
+        "descricao": "Sanduíche de cupim desfiado com maionese de alho, muçarela gratinada e crispy de alho-poró.",
+        "foto": "churraxcou_larica-de-sanduba.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/churraxcou/"
+  },
+  {
+    "id": 54,
+    "slug": "comida-de-casa",
+    "nome": "Comida de Casa",
+    "endereco": "R. Professor Saldanha, 80",
+    "bairro": "Lagoa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9609081,
+    "lng": -43.2049864,
+    "telefone": "(21) 3179-0577 | (21) 97475-1111",
+    "horarios": "Segunda-feira: 10h – 16h | Terça-feira: 10h – 16h | Quarta-feira: 10h – 16h | Quinta-feira: 10h – 16h | Sexta-feira: 10h – 16h | Sábado: 10h – 18h | Domingo: 10h – 18h",
+    "fotos": [
+      "comida-de-casa_popeye-atolado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popeye Atolado",
+        "descricao": "Por fora, uma trouxinha de espinafre “pra fingir que é light”. E, por dentro, uma surpresa: uma vaca atolada raiz, com costela bovina, cozida em caldo de aipim. Tudo isso com catupiry no meio.",
+        "foto": "comida-de-casa_popeye-atolado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/comida-de-casa/"
+  },
+  {
+    "id": 55,
+    "slug": "contemporaneo-lapa",
+    "nome": "Contemporâneo Lapa",
+    "endereco": "Av. Gomes Freire, 625",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9122804,
+    "lng": -43.1831438,
+    "telefone": "21965520500",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "contemporaneo-lapa_capadocia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Capadócia",
+        "descricao": "Tutu de feijoada com picadinho carioca, em homenagem a São Jorge e ao Rio de Janeiro.",
+        "foto": "contemporaneo-lapa_capadocia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/contemporaneo-lapa/"
+  },
+  {
+    "id": 56,
+    "slug": "crepe-cevada-2",
+    "nome": "Crepe & Cevada",
+    "endereco": "Av. do Magistério, 0 - Moneró",
+    "bairro": "Portuguesa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7949979,
+    "lng": -43.2026809,
+    "telefone": "(21) 97624-6666 | (21) 3546-8933",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "crepe-cevada_sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sertão",
+        "descricao": "Carne de sol refogada na manteiga da terra, acompanhada com feijão tropeiro (feijão-carioquinha com bacon, cebola, couve mineira e farinha da roça).",
+        "foto": "crepe-cevada_sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/crepe-cevada-2/"
+  },
+  {
+    "id": 57,
+    "slug": "da-pedra",
+    "nome": "Da Pedra",
+    "endereco": "R. Argemiro Bulcão, 33",
+    "bairro": "Saúde",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8971758,
+    "lng": -43.1851847,
+    "telefone": "21979415280",
+    "horarios": "Segunda-feira: 11h – 1h | Terça-feira: 11h – 19h | Quarta-feira: 11h – 19h | Quinta-feira: 11h – 19h | Sexta-feira: 11h – 1h | Sábado: 12h – 1h | Domingo: 12h – 0h",
+    "fotos": [
+      "da-pedra_botecadinha-de-frango.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Botecadinha de Frango",
+        "descricao": "O escondidinho de frango com purê de mandioca, recheio de frango desfiado com alho-poró e queijo gratinado.",
+        "foto": "da-pedra_botecadinha-de-frango.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/da-pedra/"
+  },
+  {
+    "id": 58,
+    "slug": "deck-bar",
+    "nome": "Deck Bar",
+    "endereco": "Alameda dos Ingás, 190 - Ilha da Gigóia",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0016593,
+    "lng": -43.3086197,
+    "telefone": "21964903830",
+    "horarios": "Segunda-feira: 11h – 18h | Terça-feira: 11h – 18h | Quarta-feira: 11h – 18h | Quinta-feira: 11h – 18h | Sexta-feira: 11h – 18h | Sábado: 11h – 20h | Domingo: 11h – 20h",
+    "fotos": [
+      "deck-bar_dupla-sensacao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dupla Sensação",
+        "descricao": "Bolinho de arroz com camarão, brócolis e queijo.",
+        "foto": "deck-bar_dupla-sensacao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/deck-bar/"
+  },
+  {
+    "id": 59,
+    "slug": "6223-revision-v1",
+    "nome": "Dida Bar",
+    "endereco": "Rua do Lavradio, 192",
+    "bairro": "Lapa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9117903,
+    "lng": -43.1823288,
+    "telefone": "21979564883",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 20h",
+    "fotos": [
+      "dida-bar_ziriguidum-da-dida.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ziriguidum da Dida",
+        "descricao": "Tiras de frango douradas, à base de alface e coentro. Finalizadas com a nossa maionese caseira.",
+        "foto": "dida-bar_ziriguidum-da-dida.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/6223-revision-v1/"
+  },
+  {
+    "id": 60,
+    "slug": "dom-pedro",
+    "nome": "Dom Pedro",
+    "endereco": "R. Francisco Manuel, 31",
+    "bairro": "Benfica",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8925557,
+    "lng": -43.2401863,
+    "telefone": "2132790092",
+    "horarios": "Segunda-feira: 11h – 21h30 | Terça-feira: 11h – 21h30 | Quarta-feira: 11h – 21h30 | Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 17h",
+    "fotos": [
+      "dom-pedro_na-boca-do-polvo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Na boca do polvo",
+        "descricao": "Bolinho com massa de polvo, recheado com polvo, alho-poró e bacon, acompanhado de azeite temperado.",
+        "foto": "dom-pedro_na-boca-do-polvo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dom-pedro/"
+  },
+  {
+    "id": 61,
+    "slug": "emporio-do-bacalhau",
+    "nome": "Empório do Bacalhau",
+    "endereco": "R. Professora Paula Aquiles, 4",
+    "bairro": "Vila da Penha",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8471569,
+    "lng": -43.3066568,
+    "telefone": "21982898965",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 19h30",
+    "fotos": [
+      "emporio-do-bacalhau_costelenta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costelenta",
+        "descricao": "Polenta cremosa com ragu de costela e agrião.",
+        "foto": "emporio-do-bacalhau_costelenta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-do-bacalhau/"
+  },
+  {
+    "id": 62,
+    "slug": "10420-revision-v1",
+    "nome": "Empório Quintana Boteco",
+    "endereco": "R. Capitão Félix, 110 – CADEG",
+    "bairro": "Benfica",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8942846,
+    "lng": -43.2365376,
+    "telefone": "21960173849",
+    "horarios": "Terça-feira: 12h – 17h30 | Quarta-feira: 12h – 17h30 | Quinta-feira: 12h – 17h30 | Sexta-feira: 12h – 17h30 | Sábado: 12h – 17h30 | Domingo: 12h – 17h30",
+    "fotos": [
+      "emporio-quintana-boteco_mamma-mia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mamma Mia!",
+        "descricao": "Polpetones suínos recheados com cream cheese e alho-poró, molho de tomate com manjericão, gratinados com queijo. Acompanha: torradas da casa.",
+        "foto": "emporio-quintana-boteco_mamma-mia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10420-revision-v1/"
+  },
+  {
+    "id": 63,
+    "slug": "emporio-santa-oliva",
+    "nome": "Empório Santa Oliva",
+    "endereco": "Av. Tenente-Coronel Muniz de Aragão, 26 - Jacarepaguá",
+    "bairro": "Bc Anil",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9474431,
+    "lng": -43.3400342,
+    "telefone": "21990640313",
+    "horarios": "Terça-feira: 12h – 0h | Quarta-feira: 12h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "emporio-santa-oliva_rock-da-olivas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rock da Olivas",
+        "descricao": "Três bolinhos: massa de batata recheada com rabada e agrião; massa de batata com queijo parmesão recheada de cupim com agrião; massa de cupim assado na cerveja recheada com queijo azul e bacon. Acompanha molho chimichurri defumado com whisky.",
+        "foto": "emporio-santa-oliva_rock-da-olivas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-santa-oliva/"
+  },
+  {
+    "id": 64,
+    "slug": "10424-revision-v1",
+    "nome": "Folia do Boi",
+    "endereco": "R. Cachambi, 253",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8901217,
+    "lng": -43.2738816,
+    "telefone": "(21) 3689-1613 | (21) 2261-0058",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 20h",
+    "fotos": [
+      "folia-do-boi_deu-cupim-na-panelinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Deu cupim na panelinha",
+        "descricao": "Cupim com alho laminado, acompanhado de farofa de paio, vinagrete, pimentão vermelho na brasa e alho-poró confitado.",
+        "foto": "folia-do-boi_deu-cupim-na-panelinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10424-revision-v1/"
+  },
+  {
+    "id": 65,
+    "slug": "formigueiro-brasa-e-fogao",
+    "nome": "Formigueiro Brasa e Fogão",
+    "endereco": "R. Araguaia, 603",
+    "bairro": "Freguesia (Jacarepaguá)",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9377056,
+    "lng": -43.3445365,
+    "telefone": "2132267557",
+    "horarios": "Segunda-feira: 11h – 19h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 22h",
+    "fotos": [
+      "formigueiro-brasa-e-fogao_deu-formiga-no-chucrute.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Deu formiga no chucrute",
+        "descricao": "Pulled pork com mix de repolho agridoce.",
+        "foto": "formigueiro-brasa-e-fogao_deu-formiga-no-chucrute.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/formigueiro-brasa-e-fogao/"
+  },
+  {
+    "id": 66,
+    "slug": "fregola-pub",
+    "nome": "Fregola Pub",
+    "endereco": "R. Geminiano Góis, 70",
+    "bairro": "Freguesia (Jacarepaguá)",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9314538,
+    "lng": -43.3383467,
+    "telefone": "21978994818",
+    "horarios": "Terça-feira: 15h30 – 0h | Quarta-feira: 15h30 – 0h | Quinta-feira: 15h30 – 0h | Sexta-feira: 15h30 – 0h | Sábado: 15h30 – 0h | Domingo: 15h30 – 0h",
+    "fotos": [
+      "fregola-pub_onde-ha-couve-flor-eu-vou.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Onde há couve-flor, eu vou",
+        "descricao": "Escondidinho de couve-flor com carne assada e creme de couve-flor com bacon.",
+        "foto": "fregola-pub_onde-ha-couve-flor-eu-vou.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fregola-pub/"
+  },
+  {
+    "id": 67,
+    "slug": "galeto-e-picanha",
+    "nome": "Galeto e Picanha",
+    "endereco": "Rua Sá Viana, 148",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9253707,
+    "lng": -43.2592708,
+    "telefone": "21959261848",
+    "horarios": "Segunda-feira: 11h – 23h30 | Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "galeto-e-picanha_o-boi-do-ze.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O boi do Zé",
+        "descricao": "Costela bovina marinada no azeite com verduras e especiarias. Servido com um purê aligot, agrião, pimenta-biquinho e legumes assados.",
+        "foto": "galeto-e-picanha_o-boi-do-ze.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/galeto-e-picanha/"
+  },
+  {
+    "id": 68,
+    "slug": "galeto-na-brasa",
+    "nome": "Galeto na Brasa",
+    "endereco": "R. Dona Cecília, 39",
+    "bairro": "Rio Comprido",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9245088,
+    "lng": -43.2060646,
+    "telefone": "21974734247",
+    "horarios": "Segunda-feira: 11h30 – 23h | Terça-feira: 11h30 – 23h | Quarta-feira: 11h30 – 23h | Quinta-feira: 11h30 – 23h | Sexta-feira: 11h30 – 23h | Sábado: 11h30 – 23h | Domingo: 11h30 – 23h",
+    "fotos": [
+      "galeto-na-brasa_arancini-carioca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arancini carioca",
+        "descricao": "Croquete de espinafre com risoto de camarão.",
+        "foto": "galeto-na-brasa_arancini-carioca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/galeto-na-brasa/"
+  },
+  {
+    "id": 69,
+    "slug": "gastro-bar-da-familia",
+    "nome": "Gastrô Bar da Família",
+    "endereco": "Rua do Trabalho, 370",
+    "bairro": "Vila da Penha",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.838071,
+    "lng": -43.3065364,
+    "telefone": "21987805899",
+    "horarios": "Terça-feira: 11h – 21h30 | Quarta-feira: 11h – 21h30 | Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 21h30 | Sábado: 11h – 21h30 | Domingo: 11h – 18h",
+    "fotos": [
+      "gastro-bar-da-familia_combinadinho-suburbano.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Combinadinho Suburbano",
+        "descricao": "Farofa de cuscuz marroquino com carne de sol, cebola-roxa, queijo coalho, banana frita, castanha e alho-poró. Acompanha aipim cozido com açafrão e manteiga de garrafa.",
+        "foto": "gastro-bar-da-familia_combinadinho-suburbano.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gastro-bar-da-familia/"
+  },
+  {
+    "id": 70,
+    "slug": "gelados-na-brasa",
+    "nome": "Gelados na Brasa",
+    "endereco": "R. Felisbelo Freire, 296",
+    "bairro": "Ramos",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8498012,
+    "lng": -43.2611275,
+    "telefone": "21993925964",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 16h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 19h",
+    "fotos": [
+      "gelados-na-brasa_mugido-da-rucula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mugido da Rúcula",
+        "descricao": "Croquete de costela bovina com rúcula, marinada em ervas, temperos e cerveja preta, recheada aos três queijos: muçarela, gorgonzola e catupiry.",
+        "foto": "gelados-na-brasa_mugido-da-rucula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gelados-na-brasa/"
+  },
+  {
+    "id": 71,
+    "slug": "guay",
+    "nome": "Guay",
+    "endereco": "R. Almirante Cochrane, 67",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9195098,
+    "lng": -43.2260007,
+    "telefone": "21995807001",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 18h",
+    "fotos": [
+      "guay_cuadraditos-de-espinaca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cuadraditos de Espinaca",
+        "descricao": "Dadinhos de tapioca com espinafre, acompanhados de molho de moqueca de camarão e molho de moqueca de peixe.",
+        "foto": "guay_cuadraditos-de-espinaca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/guay/"
+  },
+  {
+    "id": 72,
+    "slug": "hora-extra-bar-gourmet",
+    "nome": "Hora Extra Bar Gourmet",
+    "endereco": "R. Arcozelo, 60",
+    "bairro": "Vila Valqueire",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8873583,
+    "lng": -43.3706654,
+    "telefone": "21999851785",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 13h – 0h | Domingo: 13h – 22h",
+    "fotos": [
+      "hora-extra-bar-gourmet_discostela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Discostela",
+        "descricao": "Bolinhos de costela e agrião com creme de mandioca.",
+        "foto": "hora-extra-bar-gourmet_discostela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/hora-extra-bar-gourmet/"
+  },
+  {
+    "id": 73,
+    "slug": "il-panino",
+    "nome": "Il Panino",
+    "endereco": "R. Belfort Roxo, 246",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9632557,
+    "lng": -43.1763565,
+    "telefone": "21988567523",
+    "horarios": "Segunda-feira: 12h – 23h30 | Terça-feira: 12h – 23h30 | Quarta-feira: 12h – 23h30 | Quinta-feira: 12h – 23h30 | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 23h30",
+    "fotos": [
+      "il-panino_nao-e-madeira-mas-esta-cheio-de-cupim.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Não é madeira, mas está cheio de cupim",
+        "descricao": "Minissanduíches de cupim com queijo coalho, maionese trufada e rúcula na ciabatta de fermentação natural. Acompanha picles de pepino da casa.",
+        "foto": "il-panino_nao-e-madeira-mas-esta-cheio-de-cupim.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/il-panino/"
+  },
+  {
+    "id": 74,
+    "slug": "ilha-gourmet",
+    "nome": "Ilha Gourmet",
+    "endereco": "Alameda Dalton Barreto, 550 - B",
+    "bairro": "Rio de Janeiro - RJ",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0043859,
+    "lng": -43.3092576,
+    "telefone": "21999582891",
+    "horarios": "Segunda-feira: 11h30 – 0h | Terça-feira: 11h30 – 0h | Quarta-feira: 11h30 – 0h | Quinta-feira: 11h30 – 0h | Sexta-feira: 11h30 – 0h | Sábado: 11h30 – 0h | Domingo: 11h30 – 23h",
+    "fotos": [
+      "ilha-gourmet_cacarolinha-da-saudade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caçarolinha da saudade",
+        "descricao": "Costelinha suína desfiada com pimentões confitados no azeite, ervas finas, aipim refogado com brócolis, cebola, salsinha e manteiga de ervas.",
+        "foto": "ilha-gourmet_cacarolinha-da-saudade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ilha-gourmet/"
+  },
+  {
+    "id": 75,
+    "slug": "kai",
+    "nome": "Kai",
+    "endereco": "Alameda Dalton Barreto, 550",
+    "bairro": "Rio de Janeiro - RJ",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0043859,
+    "lng": -43.3092576,
+    "telefone": "21997837002",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "kai_aquele-que-vem-do-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Aquele que vem do mar",
+        "descricao": "Escondidinho de salmão com alho-poró e escondidinho de gorgonzola com rúcula.",
+        "foto": "kai_aquele-que-vem-do-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kai/"
+  },
+  {
+    "id": 76,
+    "slug": "kumida-di-kasa",
+    "nome": "Kumida di Kasa",
+    "endereco": "R. Tenente Cleto Campelo",
+    "bairro": "Ilha do Governador",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7615264,
+    "lng": -43.305862,
+    "telefone": "21967535632",
+    "horarios": "Segunda-feira: 11h – 20h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 20h",
+    "fotos": [
+      "kumida-di-kasa_pirulito-da-mami.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pirulito da Mami",
+        "descricao": "Rocambole de carne moída, recheado com queijo muçarela, bacon e acelga. Acompanha purê de maçã picante, pesto de rúcula e tomate-cereja confitado.",
+        "foto": "kumida-di-kasa_pirulito-da-mami.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kumida-di-kasa/"
+  },
+  {
+    "id": 77,
+    "slug": "ladeira-7-bar",
+    "nome": "Ladeira 7 Bar",
+    "endereco": "Ld. João Homem, 7",
+    "bairro": "Morro da Conceição",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21969811833",
+    "horarios": "Terça-feira: 12h – 20h | Quarta-feira: 12h – 20h | Quinta-feira: 12h – 20h | Sexta-feira: 12h – 20h | Sábado: 12h – 20h | Domingo: 12h – 20h",
+    "fotos": [
+      "ladeira-7-bar_colhido-no-morro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Colhido no Morro",
+        "descricao": "São quatro bolinhos rústicos fritos, feitos com ora-pro-nóbis refogada, costelinha bovina desfiada e queijo coalho, servidos com um molho agridoce de goiabada cascão e mostarda escura com pimenta-dedo-de-moça.",
+        "foto": "ladeira-7-bar_colhido-no-morro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ladeira-7-bar/"
+  },
+  {
+    "id": 78,
+    "slug": "leme-light",
+    "nome": "Leme Light",
+    "endereco": "R. Gustavo Sampaio, 795",
+    "bairro": "Leme",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9633969,
+    "lng": -43.1713203,
+    "telefone": "2122755498",
+    "horarios": "Segunda-feira: 8h – 0h | Terça-feira: 8h – 0h | Quarta-feira: 8h – 0h | Quinta-feira: 8h – 0h | Sexta-feira: 8h – 1h | Sábado: 8h – 1h | Domingo: 8h – 0h",
+    "fotos": [
+      "leme-light_chiqueirinho-arretado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chiqueirinho Arretado",
+        "descricao": "Três chiqueirinhos de pão sacadura, recheados de pernil desfiado com abacaxi e mix de repolhos, acompanhados de molho arretado de rapadura.",
+        "foto": "leme-light_chiqueirinho-arretado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/leme-light/"
+  },
+  {
+    "id": 79,
+    "slug": "medina-pressao",
+    "nome": "Medina Pressão",
+    "endereco": "R. Medina, 24 - A",
+    "bairro": "Méier",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9007398,
+    "lng": -43.2820942,
+    "telefone": "2134737050",
+    "horarios": "Segunda-feira: 13h – 21h | Terça-feira: 13h – 21h | Quarta-feira: 13h – 21h | Quinta-feira: 13h – 21h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 20h",
+    "fotos": [
+      "medina-pressao_pulled-pork-oriental.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pulled Pork oriental",
+        "descricao": "Guioza recheada com carne suína (pulled pork) sobre paleta suína desfiada com couve. Acompanha molho de mostarda com mel.",
+        "foto": "medina-pressao_pulled-pork-oriental.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/medina-pressao/"
+  },
+  {
+    "id": 80,
+    "slug": "miolo",
+    "nome": "Miolo",
+    "endereco": "R. General Glicério, 440",
+    "bairro": "Laranjeiras",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9425009,
+    "lng": -43.1920263,
+    "telefone": "21967292290",
+    "horarios": "Segunda-feira: 16h – 21h30 | Terça-feira: 16h – 21h30 | Quarta-feira: 16h – 21h30 | Quinta-feira: 16h – 21h30 | Sexta-feira: 16h – 21h30 | Sábado: 12h – 21h30 | Domingo: 16h – 21h30",
+    "fotos": [
+      "miolo_lingua-enrolada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Língua enrolada",
+        "descricao": "Discos de língua com recheio de gorgonzola e maionese de coentro.",
+        "foto": "miolo_lingua-enrolada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/miolo/"
+  },
+  {
+    "id": 81,
+    "slug": "6237-revision-v1",
+    "nome": "Noo Cachaçaria",
+    "endereco": "R. Barão de Iguatemi, 358",
+    "bairro": "Praça da Bandeira",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9118874,
+    "lng": -43.2127995,
+    "telefone": "21972877940",
+    "horarios": "Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 11h – 17h",
+    "fotos": [
+      "noo-cachacaria_nooumami.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "NooUmami",
+        "descricao": "Trio de verduras (acelga, brócolis e couve-flor) refogadas no missô com toque agridoce e crocante.",
+        "foto": "noo-cachacaria_nooumami.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/6237-revision-v1/"
+  },
+  {
+    "id": 82,
+    "slug": "novooeste",
+    "nome": "Novooeste",
+    "endereco": "R. Paschoal Carlos Magno, 90",
+    "bairro": "Santa Teresa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9209033,
+    "lng": -43.1876466,
+    "telefone": "21996601718",
+    "horarios": "Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "novooeste_buquezinho-de-couve-flor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Buquezinho de couve-flor",
+        "descricao": "Floretes de couve-flor crocantes, servidos em buquê, acompanhados da maionese verde da casa e do nosso molho agridoce.",
+        "foto": "novooeste_buquezinho-de-couve-flor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/novooeste/"
+  },
+  {
+    "id": 83,
+    "slug": "o-segreto",
+    "nome": "O Segreto",
+    "endereco": "R. Doutor Bulhões, 689 e 695",
+    "bairro": "Engenho de Dentro",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8968725,
+    "lng": -43.2964972,
+    "telefone": "2134734754",
+    "horarios": "Quarta-feira: 16h30 – 23h30 | Quinta-feira: 16h30 – 23h30 | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 22h",
+    "fotos": [
+      "o-segreto_quem-com-porco-se-mistura-camarao-come.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quem com porco se mistura, camarão come!",
+        "descricao": "Bolinho crocante sem massa, de pernil com camarão e alho-poró, acompanhado com pesto de folha de mostarda.",
+        "foto": "o-segreto_quem-com-porco-se-mistura-camarao-come.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-segreto/"
+  },
+  {
+    "id": 84,
+    "slug": "on-tap-pub",
+    "nome": "On Tap Pub",
+    "endereco": "Rua Major Ávila, 455",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9227608,
+    "lng": -43.2328278,
+    "telefone": "2135029295",
+    "horarios": "Segunda-feira: 12h – 23h | Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "on-tap-pub_porquinho-atolado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho atolado",
+        "descricao": "Quatro bolinhos de paleta de porco desfiada, com agrião, recheados com queijo provolone, acompanhados de pesto de agrião.",
+        "foto": "on-tap-pub_porquinho-atolado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/on-tap-pub/"
+  },
+  {
+    "id": 85,
+    "slug": "pastelaria-do-lido",
+    "nome": "Pastelaria do Lido",
+    "endereco": "Praia José Bonifácio, 59",
+    "bairro": "Paquetá",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.7620097,
+    "lng": -43.1101072,
+    "telefone": "(21) 3397-0377 | (21) 99683-1790",
+    "horarios": "Sexta-feira: 11h – 17h | Sábado: 11h – 17h | Domingo: 11h – 17h",
+    "fotos": [
+      "pastelaria-do-lido_porquinho-da-ilha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho da Ilha",
+        "descricao": "Panelinha com mix de porcos (picanha, pancetta e filé-mignon) desfiados e gratinados, acompanhados de massinha de pastel frita. Acompanhamentos: pesto de rúcula e chutney de abacaxi.",
+        "foto": "pastelaria-do-lido_porquinho-da-ilha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pastelaria-do-lido/"
+  },
+  {
+    "id": 86,
+    "slug": "quintal-do-peixoto",
+    "nome": "Quintal do Peixoto",
+    "endereco": "R. Anita Garibaldi, 60",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9691221,
+    "lng": -43.1880526,
+    "telefone": "21996422100",
+    "horarios": "Terça-feira: 16h30 – 23h30 | Quarta-feira: 16h30 – 23h30 | Quinta-feira: 16h30 – 23h30 | Sexta-feira: 16h30 – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 19h",
+    "fotos": [
+      "quintal-do-peixoto_tem-no-meu-quintal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tem no meu quintal",
+        "descricao": "Bolinho de kafta empanada na farinha panko, recheado com espinafre e queijo. Acompanha molho de hortelã picante.",
+        "foto": "quintal-do-peixoto_tem-no-meu-quintal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-do-peixoto/"
+  },
+  {
+    "id": 87,
+    "slug": "quintal-dugraja",
+    "nome": "Quintal DuGraja",
+    "endereco": "R. Caçapava, 2",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9295418,
+    "lng": -43.2594525,
+    "telefone": "21959133343",
+    "horarios": "Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 18h",
+    "fotos": [
+      "quintal-dugraja_rubacao-a-moda-quintal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rubacão à Moda Quintal",
+        "descricao": "Nosso petisco é uma releitura do Rubacão, prato típico de João Pessoa. Feito com carne seca, feijão-fradinho, queijo coalho, com o tempero típico do quintal DuGraja. Por cima, banana-da-terra grelhada e carne-seca acebolada, finalizado com folhas de rúcula.",
+        "foto": "quintal-dugraja_rubacao-a-moda-quintal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-dugraja/"
+  },
+  {
+    "id": 88,
+    "slug": "raizes-gastrobar",
+    "nome": "Raízes Gastrobar",
+    "endereco": "Estrada dos Três Rios, 470",
+    "bairro": "Freguesia (Jacarepaguá)",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9393602,
+    "lng": -43.3421753,
+    "telefone": "21977016899",
+    "horarios": "Terça-feira: 12h – 0h | Quarta-feira: 12h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "raizes-gastrobar_senta-que-la-vem-historia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Senta, que lá vem história",
+        "descricao": "Quatro medalhões de batata temperada empanados, preparados com queijo meia cura e recheados com carne de panela desfiada e agrião. Servidos com bacon no melado de cana e maionese de pimenta da casa.",
+        "foto": "raizes-gastrobar_senta-que-la-vem-historia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/raizes-gastrobar/"
+  },
+  {
+    "id": 89,
+    "slug": "reginaldos-bar",
+    "nome": "Reginaldo’s Bar",
+    "endereco": "R. João Silva, 162",
+    "bairro": "Olaria",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8480496,
+    "lng": -43.2607463,
+    "telefone": "21976551837",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "reginaldo-s-bar_os-quatro-guardioes-do-ceara.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Os Quatro Guardiões do Ceará",
+        "descricao": "Quatro bolinhos recheados com uma mistura de carne de sol desfiada e vegetais típicos do sertão, representando os quatro elementos do brasão do Ceará: farol, pássaro, mar e plantação.",
+        "foto": "reginaldo-s-bar_os-quatro-guardioes-do-ceara.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/reginaldos-bar/"
+  },
+  {
+    "id": 90,
+    "slug": "restaurante-gaia",
+    "nome": "Restaurante Gaia",
+    "endereco": "Avenida Marechal Henrique Lott, 120",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0022938,
+    "lng": -43.3500714,
+    "telefone": "21976566518",
+    "horarios": "Terça-feira: 12h – 17h | Quarta-feira: 12h – 17h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 18h",
+    "fotos": [
+      "restaurante-gaia_croquete-de-alheira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquete de Alheira",
+        "descricao": "Um croquete típico de Portugal, ele é a base de um embutido português defumado e acompanhado por uma maionese de agrião.",
+        "foto": "restaurante-gaia_croquete-de-alheira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/restaurante-gaia/"
+  },
+  {
+    "id": 91,
+    "slug": "restaurante-ilha-da-fantasia",
+    "nome": "Restaurante Ilha da Fantasia",
+    "endereco": "Alameda dos Colibris, 1",
+    "bairro": "Rio de Janeiro - RJ",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9321353,
+    "lng": -43.0958572,
+    "telefone": "21974821443",
+    "horarios": "Segunda-feira: 12h – 18h | Terça-feira: 12h – 18h | Quarta-feira: 12h – 18h | Quinta-feira: 12h – 18h | Sexta-feira: 12h – 18h | Sábado: 12h – 18h | Domingo: 12h – 18h",
+    "fotos": [
+      "restaurante-ilha-da-fantasia_bobozinho-fantasia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bobózinho Fantasia",
+        "descricao": "Bobó de frutos do mar com alho-poró.",
+        "foto": "restaurante-ilha-da-fantasia_bobozinho-fantasia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/restaurante-ilha-da-fantasia/"
+  },
+  {
+    "id": 92,
+    "slug": "sabara",
+    "nome": "Sabará",
+    "endereco": "R. Almirante Gavião, 11",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9189027,
+    "lng": -43.2139865,
+    "telefone": "21999526110",
+    "horarios": "Segunda-feira: 11h30 – 16h | Terça-feira: 11h30 – 23h30 | Quarta-feira: 11h30 – 23h30 | Quinta-feira: 11h30 – 23h30 | Sexta-feira: 11h30 – 23h30 | Sábado: 11h30 – 23h30 | Domingo: 11h30 – 22h30",
+    "fotos": [
+      "sabara_escondido-que-e-bao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escondido que é bão",
+        "descricao": "Dois escondidinhos, um de pernil e o outro de rabada.",
+        "foto": "sabara_escondido-que-e-bao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sabara/"
+  },
+  {
+    "id": 93,
+    "slug": "selo-de-ouro",
+    "nome": "Selo de Ouro",
+    "endereco": "R. Artur Bernardes, 58 - B",
+    "bairro": "Catete",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9285547,
+    "lng": -43.1782699,
+    "telefone": "2134866589",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "selo-de-ouro_reliquia-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Relíquia do Buteco",
+        "descricao": "Três trouxinhas de couve, recheadas com pernil desfiado, acompanhadas de vinagrete de abacaxi e farofa de bacon com castanha.",
+        "foto": "selo-de-ouro_reliquia-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/selo-de-ouro/"
+  },
+  {
+    "id": 94,
+    "slug": "seu-cristovao",
+    "nome": "Seu Cristóvão",
+    "endereco": "R. São Cristóvão, 291",
+    "bairro": "São Cristóvão",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.8995619,
+    "lng": -43.2146026,
+    "telefone": "2138605278",
+    "horarios": "Segunda-feira: 11h – 23h30 | Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 17h",
+    "fotos": [
+      "seu-cristovao_meu-verde-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Meu verde sertão",
+        "descricao": "Feijão-verde, brócolis e carne-seca refogados com catupiry, nata e aipo, finalizados com castanha crocante, broto de coentro e flor comestível.",
+        "foto": "seu-cristovao_meu-verde-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seu-cristovao/"
+  },
+  {
+    "id": 95,
+    "slug": "sindicato-cafe-bar",
+    "nome": "Sindicato Café Bar",
+    "endereco": "Rua Joaquim Silva, 98",
+    "bairro": "Lapa",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.915962,
+    "lng": -43.1770813,
+    "telefone": "2135966580",
+    "horarios": "Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 18h30",
+    "fotos": [
+      "sindicato-cafe-bar_bebado-de-sabor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bêbado de Sabor",
+        "descricao": "Pastéis de angu recheados com um mix de queijos derretidos, servidos com ragu de cupim, folhas de mostarda salteadas e farofa de banana-da-terra.",
+        "foto": "sindicato-cafe-bar_bebado-de-sabor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sindicato-cafe-bar/"
+  },
+  {
+    "id": 96,
+    "slug": "tartaros-bar-e-grill",
+    "nome": "Tártaros Bar e Grill",
+    "endereco": "Rua Grajaú, 22",
+    "bairro": "Grajaú",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9247211,
+    "lng": -43.2647306,
+    "telefone": "2132516718",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 11h30 – 23h30 | Sábado: 11h30 – 23h30 | Domingo: 11h30 – 23h30",
+    "fotos": [
+      "tartaros-bar-e-grill_deu-cupim-no-mii.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Deu cupim no míi",
+        "descricao": "Cupim defumado lentamente, desmanchando no molho artesanal de cerveja escura e especiarias, servido com creme de milho e finalizado com coleslaw cítrico.",
+        "foto": "tartaros-bar-e-grill_deu-cupim-no-mii.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tartaros-bar-e-grill/"
+  },
+  {
+    "id": 97,
+    "slug": "tasca-do-edgar",
+    "nome": "Tasca do Edgar",
+    "endereco": "Rua Alice, 34",
+    "bairro": "Laranjeiras",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9360233,
+    "lng": -43.190364,
+    "telefone": "2125589447",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 0h | Domingo: 12h – 0h",
+    "fotos": [
+      "tasca-do-edgar_o-polvo-ta-lascado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O polvo tá lascado",
+        "descricao": "Três casquinhas de polvo em lascas, em uma camada de creme de mariscos, com um toque delicado de catupiry, finalizadas com uma cobertura de crispy de alho-poró e pimenta-biquinho.",
+        "foto": "tasca-do-edgar_o-polvo-ta-lascado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tasca-do-edgar/"
+  },
+  {
+    "id": 98,
+    "slug": "tibar",
+    "nome": "Tibar Taquara",
+    "endereco": "R. Salinópolis, 148",
+    "bairro": "Taquara",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9177658,
+    "lng": -43.3864695,
+    "telefone": "2134864234",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 12h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 0h",
+    "fotos": [
+      "tibar-taquara_pure-de-penetrao-na-costela-com-agriao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Purê de penetrão na costela com agrião",
+        "descricao": "Costela com agrião sobre uma camada de purê de batatas, finalizado com cebola crispy.",
+        "foto": "tibar-taquara_pure-de-penetrao-na-costela-com-agriao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tibar/"
+  },
+  {
+    "id": 99,
+    "slug": "tio-juca",
+    "nome": "Tio Juca",
+    "endereco": "R. General Espírito Santo Cardoso, 438",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9310847,
+    "lng": -43.2451858,
+    "telefone": "(21) 97222-7686",
+    "horarios": "Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira: 18h – 22h | Sexta-feira: 18h – 22h | Sábado: 13h – 22h | Domingo: 13h – 22h",
+    "fotos": [
+      "tio-juca_fui-prensada-e-gostei.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fui prensada e gostei!",
+        "descricao": "Costela bovina de longa cocção, prensada, dourada na chapa e servida sobre base crocante, acompanhada de molho de agrião levemente picante.",
+        "foto": "tio-juca_fui-prensada-e-gostei.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tio-juca/"
+  },
+  {
+    "id": 100,
+    "slug": "toca-dos-esquilos",
+    "nome": "Toca dos Esquilos",
+    "endereco": "R. São Tillon, S/N",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -23.0048287,
+    "lng": -43.3146048,
+    "telefone": "21 99822-8863",
+    "horarios": "Segunda-feira: 12h – 15h | Terça-feira: 12h – 15h | Quarta-feira: 12h – 15h | Quinta-feira: 12h – 21h | Sexta-feira: 12h – 21h | Sábado: 12h – 21h | Domingo: 12h – 21h",
+    "fotos": [
+      "toca-dos-esquilos_coxinha-terra-e-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha terra e mar",
+        "descricao": "Coxinha de massa de arroz com brócolis, recheada com camarão, catupiry e queijo parmesão. Servida sobre uma cama de crispy de couve e cebola, acompanhada de molho teriyaki.",
+        "foto": "toca-dos-esquilos_coxinha-terra-e-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/toca-dos-esquilos/"
+  },
+  {
+    "id": 101,
+    "slug": "umas-e-ostras",
+    "nome": "Umas e Ostras",
+    "endereco": "R. Barão de Mesquita, 235",
+    "bairro": "Tijuca",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.916844,
+    "lng": -43.2290711,
+    "telefone": "2125687128",
+    "horarios": "Terça-feira: 11h30 – 17h | Quarta-feira: 11h30 – 17h | Quinta-feira: 11h30 – 17h | Sexta-feira: 11h30 – 22h | Sábado: 11h30 – 22h | Domingo: 11h30 – 17h",
+    "fotos": [
+      "umas-e-ostras_camarao-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão do Popeye",
+        "descricao": "Massa de batata empanada na farinha panko, recheada com camarões refogados no espinafre, acompanhada de molho verde náutico.",
+        "foto": "umas-e-ostras_camarao-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/umas-e-ostras/"
+  },
+  {
+    "id": 102,
+    "slug": "vem-praka",
+    "nome": "Vem Praká",
+    "endereco": "Rua André Rocha, 1896 - B",
+    "bairro": "Taquara",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9367878,
+    "lng": -43.3800782,
+    "telefone": "21994081330",
+    "horarios": "Terça-feira: 11h – 21h | Quarta-feira: 11h – 21h | Quinta-feira: 11h – 21h | Sexta-feira: 11h – 21h | Sábado: 11h – 21h | Domingo: 11h – 17h",
+    "fotos": [
+      "vem-praka_creme-171-golpe-de-sabor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Creme 171 (Golpe de Sabor)",
+        "descricao": "Creme de couve-flor com filé-mignon suíno desfiado e bacon crocante.",
+        "foto": "vem-praka_creme-171-golpe-de-sabor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vem-praka/"
+  },
+  {
+    "id": 103,
+    "slug": "vigal-bar",
+    "nome": "Vigal Bar",
+    "endereco": "R. Lopo Saraiva, 179",
+    "bairro": "Tanque",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9269398,
+    "lng": -43.3597885,
+    "telefone": "2134959535",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 23h | Sábado: 12h – 23h | Domingo: 12h – 20h",
+    "fotos": [
+      "vigal-bar_ta-pipocando-sabores-o-espetaculo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tá pipocando sabores: o espetáculo!",
+        "descricao": "Quatro bolinhos de tapioca granulada com queijo provolone: camarão com alho-poró; fraldinha com agrião; pernil com creme de taioba; calabresa e bacon com couve. Empanados na farinha de pipoca com provolone e bacon, acompanha geleia de abacaxi com hortelã e vinagrete de ervas frescas e chimichurri.",
+        "foto": "vigal-bar_ta-pipocando-sabores-o-espetaculo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vigal-bar/"
+  },
+  {
+    "id": 104,
+    "slug": "vila-rica",
+    "nome": "Vila Rica",
+    "endereco": "R. Cândido Mendes, 16",
+    "bairro": "Glória",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.9195669,
+    "lng": -43.1786546,
+    "telefone": "2125096592",
+    "horarios": "Segunda-feira: 12h – 0h | Terça-feira: 12h – 0h | Quarta-feira: 12h – 0h | Quinta-feira: 12h – 0h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 0h",
+    "fotos": [
+      "vila-rica_bate-forte-coracao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bate forte coração",
+        "descricao": "Patê de coração de galinha, temperado com ervas e especiarias, servido com pão empanado na panko e acompanhado de geleia cítrica.",
+        "foto": "vila-rica_bate-forte-coracao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vila-rica/"
+  },
+  {
+    "id": 105,
+    "slug": "zinho-bier",
+    "nome": "Zinho Bier",
+    "endereco": "Rua São Luiz Gonzaga, 2330",
+    "bairro": "Benfica",
+    "cidade": "Rio de Janeiro",
+    "cidade_slug": "rio-de-janeiro",
+    "ano": "2026",
+    "lat": -22.893677,
+    "lng": -43.239383,
+    "telefone": "2135568310",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 16h | Quarta-feira: 11h – 16h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 17h",
+    "fotos": [
+      "zinho-bier_ragu-de-costela-dos-sonhos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ragu de costela dos sonhos",
+        "descricao": "Ragu de costela no bafo com agrião, acompanhado de palitos crocantes de aipim e pimenta da casa.",
+        "foto": "zinho-bier_ragu-de-costela-dos-sonhos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/zinho-bier/"
+  }
+]
