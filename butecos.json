@@ -8,18 +8,620 @@
     "cidade": "Belo Horizonte",
     "cidade_slug": "belo-horizonte",
     "ano": "2026",
-    "lat": null,
-    "lng": null,
+    "lat": -19.9441031,
+    "lng": -43.9300901,
     "telefone": "3135643061",
     "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 19h30",
-    "fotos": [],
+    "fotos": [
+      "222_buraquim-quente.jpg"
+    ],
     "pratos": [
       {
         "nome": "Buraquim Quente",
         "descricao": "Minipães de sal com gergelim, recheados com carne de panela e finalizados com queijo canastra e couve crispy.",
-        "foto": ""
+        "foto": "222_buraquim-quente.jpg"
       }
     ],
     "url": "https://comidadibuteco.com.br/buteco/3100-revision-v1/"
+  },
+  {
+    "id": 2,
+    "slug": "alexandres-bar",
+    "nome": "Alexandre’s Bar",
+    "endereco": "R. David Alves do Vale, 68",
+    "bairro": "Santa Rosa",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8634011,
+    "lng": -43.9441692,
+    "telefone": "31997753957",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 12h – 22h",
+    "fotos": [
+      "alexandre-s-bar_porco-amostarda.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porco “AMOSTARDA”",
+        "descricao": "Costela suína no purê de moranga com tapenade de mostarda com azeitona preta.",
+        "foto": "alexandre-s-bar_porco-amostarda.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alexandres-bar/"
+  },
+  {
+    "id": 3,
+    "slug": "andrades-beer",
+    "nome": "Andrade’s Beer",
+    "endereco": "R. Dona Geni, 32",
+    "bairro": "Maria Helena",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8013309,
+    "lng": -43.9965515,
+    "telefone": "31989145104",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 16h – 23h | Domingo: 16h – 23h",
+    "fotos": [
+      "andrade-s-beer_ossadinha-atolada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ossadinha Atolada",
+        "descricao": "Pescoço de boi com mandioca cozida e agrião, acompanhado de paçoca de carne de sol e torresmo.",
+        "foto": "andrade-s-beer_ossadinha-atolada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/andrades-beer/"
+  },
+  {
+    "id": 4,
+    "slug": "armazem-santa-amelia",
+    "nome": "Armazém Santa Amélia",
+    "endereco": "Rua da Sinfonia, 253",
+    "bairro": "Santa Amélia",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.83273953764742,
+    "lng": -43.973218581579644,
+    "telefone": "31972174192",
+    "horarios": "Terça-feira: 17h – 1h | Quarta-feira: 17h – 1h | Quinta-feira: 17h – 1h | Sexta-feira: 17h – 1h | Sábado: 13h – 1h | Domingo: 13h – 22h",
+    "fotos": [
+      "armazem-santa-amelia_chucrute-de-mineiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chucrute de Mineiro",
+        "descricao": "Vinagrete de repolho, costelão de boi ao molho do Armazém, acompanhado de batatas-bravas, farofa de bacon crocante e chutney de abacaxi com pimenta-dedo-de-moça.",
+        "foto": "armazem-santa-amelia_chucrute-de-mineiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-santa-amelia/"
+  },
+  {
+    "id": 5,
+    "slug": "avalanche-bar-e-restaurante",
+    "nome": "Avalanche Bar e Restaurante",
+    "endereco": "R. Doutor Álvaro Camargos, 1113",
+    "bairro": "São",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8286695,
+    "lng": -43.9631565,
+    "telefone": "31998990146",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 15h – 0h",
+    "fotos": [
+      "avalanche-bar-e-restaurante_no-peito-e-na-raiz.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "No Peito e na Raiz",
+        "descricao": "Maçã de peito cozida com couve ao alho, acompanhada de purê cremoso de mandioca.",
+        "foto": "avalanche-bar-e-restaurante_no-peito-e-na-raiz.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/avalanche-bar-e-restaurante/"
+  },
+  {
+    "id": 6,
+    "slug": "azougue-fogo-e-bar",
+    "nome": "Azougue Fogo e Bar",
+    "endereco": "Rua do Ouro, 835",
+    "bairro": "Serra",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9335106,
+    "lng": -43.9234402,
+    "telefone": "3135823109",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 23h | Domingo: 12h – 16h",
+    "fotos": [
+      "azougue-fogo-e-bar_on-co-to.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "On co tô",
+        "descricao": "Moelinha de frango escondida sob purê de alho-poró e crispy de cebola.",
+        "foto": "azougue-fogo-e-bar_on-co-to.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/azougue-fogo-e-bar/"
+  },
+  {
+    "id": 7,
+    "slug": "baiuca",
+    "nome": "Baiúca",
+    "endereco": "R. Piauí, 1884",
+    "bairro": "Funcionários",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9358597,
+    "lng": -43.9279865,
+    "telefone": "3132255602",
+    "horarios": "Terça-feira: 12h – 21h30 | Quarta-feira: 12h – 21h30 | Quinta-feira: 12h – 21h30 | Sexta-feira: 12h – 21h30 | Sábado: 12h – 21h30 | Domingo: 12h – 16h",
+    "fotos": [
+      "baiuca_pastel-pega-no-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel Pega no Poró",
+        "descricao": "Pastel de alho-poró com queijo canastra acompanhado de farofa de couve, costelinha, gremolata e molho de goiabada.",
+        "foto": "baiuca_pastel-pega-no-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/baiuca/"
+  },
+  {
+    "id": 8,
+    "slug": "barbambu",
+    "nome": "Bar Bambú",
+    "endereco": "R. Divisa Nova, 670",
+    "bairro": "Salgado Filho",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9440127,
+    "lng": -43.9840632,
+    "telefone": "31995210404",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30 | Domingo: 18h – 23h30",
+    "fotos": [
+      "bar-bambu_to-com-ragu-na-mao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tô com ragu na mão",
+        "descricao": "Repolho ao creme com ragu de fraldinha.",
+        "foto": "bar-bambu_to-com-ragu-na-mao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barbambu/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-bendita-baderna",
+    "nome": "Bar Bendita Baderna",
+    "endereco": "R. Silva Fortes, 47",
+    "bairro": "União",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8811789,
+    "lng": -43.9272578,
+    "telefone": "31991823030",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 12h – 0h | Domingo: 12h – 18h | Segunda-feira: 18h – 0h",
+    "fotos": [
+      "bar-bendita-baderna_bendita-porpeta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bendita porpeta",
+        "descricao": "Porpeta de cupim recheada com alho-poró e queijo canastra, ao molho de tomate da casa. Acompanha: farofa de costela (suína) com ora-pro-nóbis",
+        "foto": "bar-bendita-baderna_bendita-porpeta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-bendita-baderna/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-da-cintia",
+    "nome": "Bar da Cintia",
+    "endereco": "R. Pastor Rui Franco, 257",
+    "bairro": "São João Batista (Venda Nova)",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8168676,
+    "lng": -43.9694756,
+    "telefone": "36469725",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 15h – 23h | Domingo: 15h – 22h",
+    "fotos": [
+      "bar-da-cintia_chuleta-descontraida.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chuleta Descontraída",
+        "descricao": "Chuleta empanada, molho bechamel com repolho, bacon crispy salpicado por cima, acompanhada de um delicioso melaço para dar um toque agridoce ao prato.",
+        "foto": "bar-da-cintia_chuleta-descontraida.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-cintia/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-da-fia",
+    "nome": "Bar da Fia",
+    "endereco": "R. dos Astecas, 2722",
+    "bairro": "Santa Mônica",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8299231,
+    "lng": -43.9791637,
+    "telefone": "31985402775",
+    "horarios": "Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 23h",
+    "fotos": [
+      "bar-da-fia_boca-quente-coracao-mole.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boca quente, coração mole",
+        "descricao": "Pernil assado, acompanhado de tomate recheado com pimenta-dedo-de-moça, geleia de maracujá e finalizado com queijo minas e couve crispy.",
+        "foto": "bar-da-fia_boca-quente-coracao-mole.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-fia/"
+  },
+  {
+    "id": 12,
+    "slug": "bar-da-gisa",
+    "nome": "Bar da Gisa",
+    "endereco": "Rua Maria Ferreira da Silva, 367",
+    "bairro": "Fernão Dias",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8742124,
+    "lng": -43.9146333,
+    "telefone": "31984840138",
+    "horarios": "Terca a sexta 15:00 às 00:00 | sábado 10:00 às 00:00 | Domingo  10:00 às 16:00",
+    "fotos": [
+      "bar-da-gisa_ajoelhou-tem-que-rezar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ajoelhou tem que rezar",
+        "descricao": "Joelho de porco acompanhado de ora-pro-nóbis e polenta frita.",
+        "foto": "bar-da-gisa_ajoelhou-tem-que-rezar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-gisa/"
+  },
+  {
+    "id": 13,
+    "slug": "bar-da-lu",
+    "nome": "Bar da Lu",
+    "endereco": "R. Geralda Marinho, 41",
+    "bairro": "São João Batista (Venda Nova)",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8268831,
+    "lng": -43.9645853,
+    "telefone": "31999327787",
+    "horarios": "Segunda-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h30 – 22h | Domingo: 12h30 – 19h",
+    "fotos": [
+      "bar-da-lu_popeye-mineiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popeye Mineiro",
+        "descricao": "Parmegiana de alcatra regada com molho pomodoro artesanal, manjericão e muçarela derretida. Acompanhada de molho bechamel de espinafre e torradas rústicas.",
+        "foto": "bar-da-lu_popeye-mineiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-lu/"
+  },
+  {
+    "id": 14,
+    "slug": "bar-da-praca",
+    "nome": "Bar da Praça",
+    "endereco": "Rua Oeste, 517",
+    "bairro": "Calafate",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9230609,
+    "lng": -43.969218,
+    "telefone": "(31) 9147-2685",
+    "horarios": "Segunda-feira: 16h – 21h | Terça-feira: 16h – 21h | Quarta-feira: 16h – 21h | Quinta-feira: 16h – 21h | Sexta-feira: 16h – 21h",
+    "fotos": [
+      "bar-da-praca_cadim-de-nos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cadim de Nós",
+        "descricao": "Bolinho de carne recheado com alho-poró, requeijão e queijo parmesão, com farofa de couve com torresmo e molho da casa.",
+        "foto": "bar-da-praca_cadim-de-nos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-praca/"
+  },
+  {
+    "id": 15,
+    "slug": "bar-da-silvania",
+    "nome": "Bar da Silvânia",
+    "endereco": "R. Soares Nogueira, 801",
+    "bairro": "Camargos",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9402357,
+    "lng": -44.0216093,
+    "telefone": "31993387815",
+    "horarios": "Terça-feira: 17h30 – 0h30 | Quarta-feira: 17h30 – 0h30 | Quinta-feira: 17h30 – 0h30 | Sexta-feira: 17h30 – 0h30 | Sábado: 17h30 – 0h30",
+    "fotos": [
+      "bar-da-silvania_tesouro-caipira-com-encanto-da-horta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tesouro caipira com encanto da horta",
+        "descricao": "Corte suíno ao molho curto, creme de mandioca, farofa de couve com bacon e acelga fresca ao alho.",
+        "foto": "bar-da-silvania_tesouro-caipira-com-encanto-da-horta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-silvania/"
+  },
+  {
+    "id": 16,
+    "slug": "bar-do-bartolomeu",
+    "nome": "Bar do Bartolomeu",
+    "endereco": "R. Arthur Luchesi, 356",
+    "bairro": "Santa Helena (Barreiro)",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.985134,
+    "lng": -44.0112649,
+    "telefone": "31975479909",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 14h – 23h | Domingo: 14h – 23h",
+    "fotos": [
+      "bar-do-bartolomeu_trio-mineiro-bao-di-mais.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Mineiro-Bão di Mais",
+        "descricao": "Maçã de peito cozida com molho da casa, purê de batata com queijo, couve com bacon.",
+        "foto": "bar-do-bartolomeu_trio-mineiro-bao-di-mais.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-bartolomeu/"
+  },
+  {
+    "id": 17,
+    "slug": "bar-do-bem",
+    "nome": "Bar do Bem",
+    "endereco": "Rua Vicentina Coutinho Camargos, 100",
+    "bairro": "Álvaro Camargos",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9153621,
+    "lng": -44.0062588,
+    "telefone": "31991745708",
+    "horarios": "Terça-feira: 18h30 – 0h | Quarta-feira: 18h30 – 0h | Quinta-feira: 18h30 – 0h | Sexta-feira: 18h30 – 0h | Sábado: 14h – 0h | Domingo: 13h – 17h",
+    "fotos": [
+      "bar-do-bem_brasileirinho-raiz.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brasileirinho Raiz",
+        "descricao": "Ossobuco com angu ‘molin’, ‘temperadim’, com couve rasgadinha e molho da casa.",
+        "foto": "bar-do-bem_brasileirinho-raiz.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-bem/"
+  },
+  {
+    "id": 18,
+    "slug": "3121-revision-v1",
+    "nome": "Bar do Dedinho",
+    "endereco": "Avenida Guarapari, 872",
+    "bairro": "Santa Amélia",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8388542,
+    "lng": -43.977372,
+    "telefone": "31999902018",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 12h – 0h30 | Sábado: 11h – 0h30 | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-do-dedinho_kaftei-vossa-vontade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kaftei Vossa Vontade",
+        "descricao": "Kafta recheada com queijo, acompanha batata da mamãe e salada americana. Com molhos da casa.",
+        "foto": "bar-do-dedinho_kaftei-vossa-vontade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3121-revision-v1/"
+  },
+  {
+    "id": 19,
+    "slug": "3125-revision-v1",
+    "nome": "Bar do João (São João Batista)",
+    "endereco": "R. Geralda Marinho, 117",
+    "bairro": "São João Batista (Venda Nova)",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8268831,
+    "lng": -43.9645853,
+    "telefone": "3134511344",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 12h30 – 23h30 | Domingo: 12h30 – 23h30",
+    "fotos": [
+      "bar-do-joao-sao-joao-batista_na-boca-do-boi.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Na Boca do Boi",
+        "descricao": "Língua de boi ao molho de cerveja escura, com agrião, acompanhada de pães.",
+        "foto": "bar-do-joao-sao-joao-batista_na-boca-do-boi.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3125-revision-v1/"
+  },
+  {
+    "id": 20,
+    "slug": "bar-do-kim",
+    "nome": "Bar do Kim",
+    "endereco": "Rua Júlio de Castilho, 1071",
+    "bairro": "Palmeiras",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9611483,
+    "lng": -43.9808599,
+    "telefone": "31987768550",
+    "horarios": "Segunda-feira: 17h30 – 23h30 | Terça-feira: 17h30 – 23h30 | Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 23h30 | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "bar-do-kim_fraldinha-suprema.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fraldinha Suprema",
+        "descricao": "Fraldinha com creme de espinafre com crispy de cebola e geleia de tomate.",
+        "foto": "bar-do-kim_fraldinha-suprema.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-kim/"
+  },
+  {
+    "id": 21,
+    "slug": "3520-revision-v1",
+    "nome": "Bar do Momô",
+    "endereco": "Avenida Coronel José Benjamim, 777",
+    "bairro": "Padre Eustáquio",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9166757,
+    "lng": -43.9703332,
+    "telefone": "31987818567",
+    "horarios": "Segunda-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h | Domingo: 12h – 20h",
+    "fotos": [
+      "bar-do-momo_esfera-suina-do-momo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Esfera Suína do Momô",
+        "descricao": "Almôndega de linguiça suína recheada com pimenta-biquinho ao molho de tomate. Acompanhada de farofa de torresmo, ninho de couve com ovo de codorna e muçarela.",
+        "foto": "bar-do-momo_esfera-suina-do-momo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3520-revision-v1/"
+  },
+  {
+    "id": 22,
+    "slug": "bar-do-nelson",
+    "nome": "Bar do Nelson",
+    "endereco": "R. Vicente Risola, 1000",
+    "bairro": "Santa Inês",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8828976,
+    "lng": -43.9096206,
+    "telefone": "996726908",
+    "horarios": "Terça-feira: 15h – 23h55 | Quarta-feira: 15h – 23h55 | Quinta-feira: 15h – 23h55 | Sexta-feira: 15h – 23h55 | Sábado: 11h – 23h55 | Domingo: 11h – 20h",
+    "fotos": [
+      "bar-do-nelson_brasileirinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brasileirinho",
+        "descricao": "Sobrecoxa de frango no molho de cebola queimada, acompanhada de angu na cama de mostarda.",
+        "foto": "bar-do-nelson_brasileirinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-nelson/"
+  },
+  {
+    "id": 23,
+    "slug": "bar-do-peixinho",
+    "nome": "Bar do Peixinho",
+    "endereco": "Avenida Bernardo de Vasconcelos, 1824",
+    "bairro": "Cachoeirinha",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.8757884,
+    "lng": -43.9293954,
+    "telefone": "3137895216",
+    "horarios": "Terça-feira: 11h – 15h e 17h30 – 23h | Quarta-feira: 11h – 15h e 17h30 – 23h | Sexta-feira: 11h – 15h e 17h30 – 23h | Sábado: 17h30 – 23h30 | Domingo: 10h – 16h",
+    "fotos": [
+      "bar-do-peixinho_tilapia-roletera.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tilápia Roletera",
+        "descricao": "Roletes de filé de tilápia empanado, recheados com mix de rúcula, muçarela e tomate seco. Acompanha molho especial da casa.",
+        "foto": "bar-do-peixinho_tilapia-roletera.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-peixinho/"
+  },
+  {
+    "id": 24,
+    "slug": "bar-do-primo",
+    "nome": "Bar do Primo",
+    "endereco": "Avenida Amazonas, 4649",
+    "bairro": "Nova Suíça",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9303187,
+    "lng": -43.9803365,
+    "telefone": "31995323260",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "bar-do-primo_maca-de-peito-a-moda-do-primo.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maçã de peito à moda do primo",
+        "descricao": "Maçã de peito com batata-doce e mostarda.",
+        "foto": "bar-do-primo_maca-de-peito-a-moda-do-primo.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-primo/"
+  },
+  {
+    "id": 25,
+    "slug": "24790-revision-v1",
+    "nome": "Bar do Regis",
+    "endereco": "R. Gávea, 422",
+    "bairro": "Jardim América",
+    "cidade": "Belo Horizonte",
+    "cidade_slug": "belo-horizonte",
+    "ano": "2026",
+    "lat": -19.9388489,
+    "lng": -43.9752421,
+    "telefone": "31971158894",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 14h – 0h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-do-regis_leitao-e-eva-no-paraiso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Leitão e Eva no Paraíso",
+        "descricao": "Costelinha suína, polenta com queijo e ora-pro-nóbis.",
+        "foto": "bar-do-regis_leitao-e-eva-no-paraiso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/24790-revision-v1/"
   }
 ]
