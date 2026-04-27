@@ -1,52 +1,63 @@
 # butecos-data
 
-Dados do app **Butecos Próximos** — gerados automaticamente pelo scraper.
+Dados do app **Comida de Buteco** — gerados automaticamente pelo scraper, organizados por cidade.
 
 ## Estrutura
 
 ```
-butecos.csv              ← dados completos em CSV (fonte do app em produção)
-butecos.json             ← mesmo conteúdo em JSON (dev/debug)
-fotos/
-  2026/
-    belo-horizonte/
-      {bar}_{prato}.jpg  ← foto do prato de cada buteco
-server.py                ← servidor HTTP local com CORS para desenvolvimento
+butecos-data/
+  {cidade_slug}/
+    {ano}/
+      dados/
+        butecos.json          ← dados completos em JSON (carregado pelo app)
+        butecos.csv           ← mesmo conteúdo em CSV
+        geocode-pendente.csv  ← butecos sem coordenadas (se houver)
+      fotos/
+        {bar}_{prato}.jpg     ← foto do prato de cada buteco
+  privacy-policy.html         ← política de privacidade (GitHub Pages)
+  server.py                   ← servidor HTTP local para desenvolvimento
 ```
+
+## Cidades disponíveis
+
+| Cidade | Slug | Butecos |
+|---|---|---|
+| Belo Horizonte | `belo-horizonte` | 127 |
+| Rio de Janeiro | `rio-de-janeiro` | 105 |
 
 ## Servir localmente (desenvolvimento)
 
-Inicia um servidor HTTP com CORS para que o app web consiga carregar fotos:
+Inicia um servidor HTTP com CORS para que o app web consiga carregar fotos e dados:
 
 ```bash
 python3 server.py
+# Acesse em http://localhost:8888
 ```
-
-Acesse em `http://localhost:8888`. O servidor aceita múltiplas conexões simultâneas.
 
 ## Atualização dos dados
 
-Os dados são gerados pelo scraper (`../scraper/`) e publicados neste repositório. O app verifica o SHA do último commit para detectar atualizações e baixar o CSV automaticamente.
+Os dados são gerados pelo scraper (`../scraper/`) e publicados neste repositório.
+O app verifica o SHA do último commit por cidade para detectar atualizações e baixar os dados automaticamente.
 
-Para atualizar manualmente após editar o JSON:
+Para geocodificar coords ausentes e publicar após editar manualmente:
 
 ```bash
 # No diretório scraper/
-npm run geocode        # geocodifica coords ausentes
-npm run push           # publica no GitHub
+CIDADE_SLUG=belo-horizonte npm run geocode   # geocodifica coords ausentes
+npm run push                                  # publica no GitHub
 ```
 
-## Campos do CSV / JSON
+## Campos do JSON / CSV
 
 | Campo | Descrição |
 |---|---|
-| `id` | ID sequencial |
+| `id` | ID sequencial dentro da cidade |
 | `slug` | Identificador único (vem da URL do site) |
 | `nome` | Nome do buteco |
 | `endereco` | Endereço completo |
 | `bairro` | Bairro |
-| `cidade` | Cidade |
-| `cidade_slug` | Slug da cidade |
+| `cidade` | Nome da cidade |
+| `cidade_slug` | Slug da cidade (usado para carregar fotos e dados) |
 | `ano` | Ano do concurso |
 | `lat` / `lng` | Coordenadas geográficas |
 | `telefone` | Telefone de contato |
@@ -54,3 +65,7 @@ npm run push           # publica no GitHub
 | `fotos` | Nomes dos arquivos separados por `\|` (CSV) ou array (JSON) |
 | `pratos` | JSON com `nome`, `descricao` e `foto` |
 | `url` | URL da página no site oficial |
+
+## Política de privacidade
+
+Disponível em: `https://rubenscurvello.github.io/butecos-data/privacy-policy.html`
