@@ -12,116 +12,14 @@
     "lng": null,
     "telefone": "3135643061",
     "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 19h30",
-    "fotos": [
-      "222_buraquim-quente.jpg"
-    ],
+    "fotos": [],
     "pratos": [
       {
         "nome": "Buraquim Quente",
         "descricao": "Minipães de sal com gergelim, recheados com carne de panela e finalizados com queijo canastra e couve crispy.",
-        "foto": "222_buraquim-quente.jpg"
+        "foto": ""
       }
     ],
     "url": "https://comidadibuteco.com.br/buteco/3100-revision-v1/"
-  },
-  {
-    "id": 2,
-    "slug": "alexandres-bar",
-    "nome": "Alexandre’s Bar",
-    "endereco": "R. David Alves do Vale, 68",
-    "bairro": "Santa Rosa",
-    "cidade": "Belo Horizonte",
-    "cidade_slug": "belo-horizonte",
-    "ano": "2026",
-    "lat": null,
-    "lng": null,
-    "telefone": "31997753957",
-    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 12h – 22h",
-    "fotos": [
-      "alexandre-s-bar_porco-amostarda.jpg"
-    ],
-    "pratos": [
-      {
-        "nome": "Porco “AMOSTARDA”",
-        "descricao": "Costela suína no purê de moranga com tapenade de mostarda com azeitona preta.",
-        "foto": "alexandre-s-bar_porco-amostarda.jpg"
-      }
-    ],
-    "url": "https://comidadibuteco.com.br/buteco/alexandres-bar/"
-  },
-  {
-    "id": 3,
-    "slug": "andrades-beer",
-    "nome": "Andrade’s Beer",
-    "endereco": "R. Dona Geni, 32",
-    "bairro": "Maria Helena",
-    "cidade": "Belo Horizonte",
-    "cidade_slug": "belo-horizonte",
-    "ano": "2026",
-    "lat": null,
-    "lng": null,
-    "telefone": "31989145104",
-    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 16h – 23h | Domingo: 16h – 23h",
-    "fotos": [
-      "andrade-s-beer_ossadinha-atolada.jpg"
-    ],
-    "pratos": [
-      {
-        "nome": "Ossadinha Atolada",
-        "descricao": "Pescoço de boi com mandioca cozida e agrião, acompanhado de paçoca de carne de sol e torresmo.",
-        "foto": "andrade-s-beer_ossadinha-atolada.jpg"
-      }
-    ],
-    "url": "https://comidadibuteco.com.br/buteco/andrades-beer/"
-  },
-  {
-    "id": 4,
-    "slug": "armazem-santa-amelia",
-    "nome": "Armazém Santa Amélia",
-    "endereco": "Rua da Sinfonia, 253",
-    "bairro": "Santa Amélia",
-    "cidade": "Belo Horizonte",
-    "cidade_slug": "belo-horizonte",
-    "ano": "2026",
-    "lat": null,
-    "lng": null,
-    "telefone": "31972174192",
-    "horarios": "Terça-feira: 17h – 1h | Quarta-feira: 17h – 1h | Quinta-feira: 17h – 1h | Sexta-feira: 17h – 1h | Sábado: 13h – 1h | Domingo: 13h – 22h",
-    "fotos": [
-      "armazem-santa-amelia_chucrute-de-mineiro.jpg"
-    ],
-    "pratos": [
-      {
-        "nome": "Chucrute de Mineiro",
-        "descricao": "Vinagrete de repolho, costelão de boi ao molho do Armazém, acompanhado de batatas-bravas, farofa de bacon crocante e chutney de abacaxi com pimenta-dedo-de-moça.",
-        "foto": "armazem-santa-amelia_chucrute-de-mineiro.jpg"
-      }
-    ],
-    "url": "https://comidadibuteco.com.br/buteco/armazem-santa-amelia/"
-  },
-  {
-    "id": 5,
-    "slug": "avalanche-bar-e-restaurante",
-    "nome": "Avalanche Bar e Restaurante",
-    "endereco": "R. Doutor Álvaro Camargos, 1113",
-    "bairro": "São",
-    "cidade": "Belo Horizonte",
-    "cidade_slug": "belo-horizonte",
-    "ano": "2026",
-    "lat": null,
-    "lng": null,
-    "telefone": "31998990146",
-    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 15h – 0h",
-    "fotos": [
-      "avalanche-bar-e-restaurante_no-peito-e-na-raiz.jpg"
-    ],
-    "pratos": [
-      {
-        "nome": "No Peito e na Raiz",
-        "descricao": "Maçã de peito cozida com couve ao alho, acompanhada de purê cremoso de mandioca.",
-        "foto": "avalanche-bar-e-restaurante_no-peito-e-na-raiz.jpg"
-      }
-    ],
-    "url": "https://comidadibuteco.com.br/buteco/avalanche-bar-e-restaurante/"
   }
 ]
