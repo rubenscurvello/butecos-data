@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "slug": "armazem-simao-gastropub",
+    "nome": "Armazém Simão Gastropub",
+    "endereco": "Rua Joaquim Modesto, 357",
+    "bairro": "Centro",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34997971620",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "armazem-simao-gastropub_tapa-do-simao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tapa do Simão",
+        "descricao": "Fatias de ciabatta com creme de couve-flor assado na brasa, cobertas de fraldinha desfiada angus assada na parrilla e finalizadas com melaço de pimenta.",
+        "foto": "armazem-simao-gastropub_tapa-do-simao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-simao-gastropub/"
+  },
+  {
+    "id": 2,
+    "slug": "banca-do-peixe-do-jau",
+    "nome": "Banca do Peixe do Jaú",
+    "endereco": "Avenida Miguel Assad Debs, 1560",
+    "bairro": "Araguari - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3432460189",
+    "horarios": "Segunda-feira: 18h – 22h | Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 22h",
+    "fotos": [
+      "banca-do-peixe-do-jau_medalhao-de-tilapia-recheado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão de Tilápia Recheado",
+        "descricao": "Filé de tilápia envolto com bacon e recheado com provolone, empanado e frito, servido com molho de alho-poró.",
+        "foto": "banca-do-peixe-do-jau_medalhao-de-tilapia-recheado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/banca-do-peixe-do-jau/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-do-1berto",
+    "nome": "Bar do 1berto",
+    "endereco": "Rua do Dólar, 410",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34998821593",
+    "horarios": "Terça a Sexta: 17h às 23h\nSábado: 12h às 19h",
+    "fotos": [
+      "bar-do-1berto_maia-do-1berto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maia do 1berto",
+        "descricao": "Maias acompanhadas com molho de alho poró",
+        "foto": "bar-do-1berto_maia-do-1berto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-1berto/"
+  },
+  {
+    "id": 4,
+    "slug": "3195-revision-v1",
+    "nome": "Bar do Betão",
+    "endereco": "Av. João Pinheiro, 263",
+    "bairro": "Centro",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3432369130",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "bar-do-betao_trem-bao-uai.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trem Bão, Uai!",
+        "descricao": "Canudo de massa de pastel, recheado com mix de verduras, tomate seco, queijo minas meia cura e cream cheese. Acompanha: flores comestíveis e molhos da casa.",
+        "foto": "bar-do-betao_trem-bao-uai.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3195-revision-v1/"
+  },
+  {
+    "id": 5,
+    "slug": "3197-revision-v1",
+    "nome": "Bar do Carlinho",
+    "endereco": "Rua Costa Pereira, 159",
+    "bairro": "Bom Jesus",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34999005868",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "bar-do-carlinho_bolinho-de-chucrute.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de Chucrute",
+        "descricao": "Bolinho de mandioca com repolho, frango, queijo e arroz. Acompanhado de molho de maçã, cebola e canela.",
+        "foto": "bar-do-carlinho_bolinho-de-chucrute.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3197-revision-v1/"
+  },
+  {
+    "id": 6,
+    "slug": "3199-revision-v1",
+    "nome": "Bar do Dudu",
+    "endereco": "Rua Rafael Rinaldi, 1595",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34992640501",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-do-dudu_botequiche.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Botequiche",
+        "descricao": "Quiche de alho-poró com muçarela. Servido com molho arretado.",
+        "foto": "bar-do-dudu_botequiche.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3199-revision-v1/"
+  },
+  {
+    "id": 7,
+    "slug": "bar-do-ricardinho",
+    "nome": "Bar do Ricardinho",
+    "endereco": "Rua Tomé de Souza, 1338",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34999126879",
+    "horarios": "Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 10h – 18h30 | Domingo: 10h – 17h",
+    "fotos": [
+      "bar-do-ricardinho_charutinho-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinho do Sertão",
+        "descricao": "Charutos de folha de couve, recheados com pernil desfiado, purê de batatas, bacon e abacaxi.",
+        "foto": "bar-do-ricardinho_charutinho-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ricardinho/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-do-ze-gordo",
+    "nome": "Bar do Zé Gordo",
+    "endereco": "Av. Engenheiro Diniz, 1924",
+    "bairro": "Martins",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34996977028",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 11h30 – 16h30",
+    "fotos": [
+      "bar-do-ze-gordo_tilapia-tropical-do-ze-gordo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tilápia Tropical do Zé Gordo",
+        "descricao": "Salada de repolho, alface, cenoura, tomate, maçã cortada em cubos, azeitona sem caroço, palmito. Acompanha iscas de tilápia empanada. Molho tártaro à parte.",
+        "foto": "bar-do-ze-gordo_tilapia-tropical-do-ze-gordo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ze-gordo/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-morenos",
+    "nome": "Bar dos Morenos",
+    "endereco": "Rua Salvador, 555",
+    "bairro": "Nossa Sra. Aparecida",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34991144022",
+    "horarios": "Segunda-feira: 16h20 – 22h | Terça-feira: 16h20 – 22h | Quarta-feira: 16h20 – 22h | Quinta-feira: 16h20 – 22h | Sexta-feira: 16h20 – 22h | Sábado: 10h – 22h",
+    "fotos": [
+      "bar-dos-morenos_longanizas-de-chillan.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Longanizas de Chillán",
+        "descricao": "Linguiça suína recheada com jiló, couve e pimenta-de-cheiro. Acompanhada por mandioca cozida, tomate e cebola.",
+        "foto": "bar-dos-morenos_longanizas-de-chillan.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-morenos/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-sorvetao",
+    "nome": "Bar Sorvetão",
+    "endereco": "R. Uruguaiana, 208",
+    "bairro": "Centro",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34999263587",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-sorvetao_porocroc.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "PORÓCROC",
+        "descricao": "Croquete de pernil desfiado, com muçarela e mandioca, recheado com molho de alho-poró, agrião e requeijão.",
+        "foto": "bar-sorvetao_porocroc.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-sorvetao/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-xega-ki",
+    "nome": "Bar Xega Ki",
+    "endereco": "Avenida Amazonas, 920",
+    "bairro": "Brasil",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3432320618",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "bar-xega-ki_charuto-arabe.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charuto Árabe",
+        "descricao": "Charuto árabe feito com acelga e repolho, recheado com arroz, carne e temperos. Servido em molho de tomate.",
+        "foto": "bar-xega-ki_charuto-arabe.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-xega-ki/"
+  },
+  {
+    "id": 12,
+    "slug": "baroa-bar",
+    "nome": "Baroa Bar",
+    "endereco": "Alameda Uberaba, 200",
+    "bairro": "Santa Mônica",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34988578562",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "baroa-bar_bolovo-do-baroa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolovo do Baroa",
+        "descricao": "Bolovos acompanhados de creme de mandioquinha com espinafre.",
+        "foto": "baroa-bar_bolovo-do-baroa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/baroa-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "boteco-angara",
+    "nome": "Boteco Angara",
+    "endereco": "Av. Segismundo Pereira, 783",
+    "bairro": "Santa Mônica",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34999299777",
+    "horarios": "Terça-feira: 17h – 22h30 | Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 22h30 | Sábado: 17h – 22h30",
+    "fotos": [
+      "boteco-angara_porco-do-mato.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porco do mato",
+        "descricao": "Croquete de porco com espinafre e queijo. Servido com molho chimichurri de ervas finas com pimenta-calabresa.",
+        "foto": "boteco-angara_porco-do-mato.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-angara/"
+  },
+  {
+    "id": 14,
+    "slug": "dedo-de-prosa-bar",
+    "nome": "Dedo de Prosa Bar",
+    "endereco": "Avenida Seme Simão, 1894",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34999898222",
+    "horarios": "Terça-feira: 17h30 – 23h30 | Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 1h | Sábado: 15h30 – 1h | Domingo: 15h30 – 23h",
+    "fotos": [
+      "dedo-de-prosa-bar_charutinho-mineiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinho Mineiro",
+        "descricao": "Charuto empanado de folha de repolho, com recheio de carne bovina, arroz e muçarela. Servido com vinagrete de uva.",
+        "foto": "dedo-de-prosa-bar_charutinho-mineiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dedo-de-prosa-bar/"
+  },
+  {
+    "id": 15,
+    "slug": "don-steak",
+    "nome": "Don Steak",
+    "endereco": "Av. Doutor Vicente Salles Guimarães, 525",
+    "bairro": "Alto Umuarama",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3432316000",
+    "horarios": "Segunda-feira: 11h – 15h e 17h30 – 0h | Terça-feira: 11h – 15h e 17h30 – 0h | Quarta-feira: 11h – 15h e 17h30 – 0h | Quinta-feira: 11h – 15h e 17h30 – 0h | Sexta-feira: 11h – 15h e 17h30 – 0h | Sábado: 11h – 0h | Domingo: 11h – 16h e 18h – 23h",
+    "fotos": [
+      "don-steak_don-bacon.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Don Bacon",
+        "descricao": "Bolinho de cabotiá, recheado com couve, farofa de bacon e muçarela. Acompanha geleia de morango e molho de chimichurri.",
+        "foto": "don-steak_don-bacon.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/don-steak/"
+  },
+  {
+    "id": 16,
+    "slug": "dona-antonia-raiz",
+    "nome": "Dona Antônia Raiz",
+    "endereco": "Av. Segismundo Pereira, 2343",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34998676622",
+    "horarios": "Segunda-feira: 17h30 – 0h | Terça-feira: 17h30 – 0h | Quarta-feira: 17h30 – 0h | Quinta-feira: 17h30 – 0h | Sexta-feira: 17h30 – 0h | Sábado: 17h30 – 0h",
+    "fotos": [
+      "dona-antonia-raiz_medalhao-de-bananinha-com-alho-poro.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão de bananinha com alho-poró",
+        "descricao": "Medalhão de bananinha com creme de alho-poró e ricota.",
+        "foto": "dona-antonia-raiz_medalhao-de-bananinha-com-alho-poro.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dona-antonia-raiz/"
+  },
+  {
+    "id": 17,
+    "slug": "duque-bar",
+    "nome": "Duque Bar",
+    "endereco": "R. Duque de Caxias, 1836 – Casa",
+    "bairro": "Vila Saraiva",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34997997042",
+    "horarios": "Terça-feira: 17h – 21h30 | Quarta-feira: 17h – 21h30 | Quinta-feira: 17h – 21h30 | Sexta-feira: 17h – 21h30 | Sábado: 11h – 21h | Domingo: 11h – 19h",
+    "fotos": [
+      "duque-bar_file-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Filé do Buteco",
+        "descricao": "Tirinhas de fígado acebolado com alho-poró.",
+        "foto": "duque-bar_file-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/duque-bar/"
+  },
+  {
+    "id": 18,
+    "slug": "espetaria-copacabana",
+    "nome": "Espetaria Copacabana",
+    "endereco": "R. Vinte e Nove de Outubro, 430",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3434933812",
+    "horarios": "Segunda-feira: 17h30 – 23h30 | Terça-feira: 17h30 – 23h30 | Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 23h30",
+    "fotos": [
+      "espetaria-copacabana_repolho-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Repolho Crocante",
+        "descricao": "Bolinho de repolho com queijo e presunto.",
+        "foto": "espetaria-copacabana_repolho-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetaria-copacabana/"
+  },
+  {
+    "id": 19,
+    "slug": "esquina-do-espeto",
+    "nome": "Esquina do Espeto",
+    "endereco": "Av. Batalhão Mauá, 1958",
+    "bairro": "Araguari - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(34) 3246 0249",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "esquina-do-espeto_hot-roll-mineiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Hot Roll Mineiro",
+        "descricao": "Rolinhos de massa de arroz e mandioca fritos com recheio de frango e creme de alho-poró.",
+        "foto": "esquina-do-espeto_hot-roll-mineiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/esquina-do-espeto/"
+  },
+  {
+    "id": 20,
+    "slug": "gamela-bar-e-restaurante",
+    "nome": "Gamela Bar e Restaurante",
+    "endereco": "Av. João Pinheiro, 1284",
+    "bairro": "Aparecida",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "3432124110",
+    "horarios": "Segunda-feira: 18h – 22h40 | Terça-feira: 18h – 22h40 | Quarta-feira: 18h – 22h40 | Quinta-feira: 18h – 22h40 | Sexta-feira: 18h – 22h40",
+    "fotos": [
+      "gamela-bar-e-restaurante_couve-flor-gamella.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Couve-Flor Gamella",
+        "descricao": "Bolinhos de couve-flor recheados com carne moída, acompanhados de molhos.",
+        "foto": "gamela-bar-e-restaurante_couve-flor-gamella.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gamela-bar-e-restaurante/"
+  },
+  {
+    "id": 21,
+    "slug": "grandis-spetus",
+    "nome": "Grandis Spetus",
+    "endereco": "Praça Hélvio Cardoso, 513",
+    "bairro": "Uberlândia - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34997668931",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 17h30 – 23h | Domingo: 17h30 – 23h",
+    "fotos": [
+      "grandis-spetus_granchori.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "GranChori",
+        "descricao": "Choripan (pão artesanal selado na manteiga com chimichurri, com linguiça artesanal de pimenta-biquinho), acompanha molho parmesão, vinagrete e chucrute.",
+        "foto": "grandis-spetus_granchori.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/grandis-spetus/"
+  },
+  {
+    "id": 22,
+    "slug": "petiscaria-cantinho-nobre",
+    "nome": "Petiscaria Cantinho Nobre",
+    "endereco": "Avenida dos Eucaliptos, 849",
+    "bairro": "Jd. Patrícia",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34997701701",
+    "horarios": "Terça-feira: 17h30 – 23h20 | Quarta-feira: 17h30 – 23h20 | Quinta-feira: 17h30 – 23h20 | Sexta-feira: 17h30 – 23h20 | Sábado: 17h30 – 23h20 | Domingo: 17h30 – 23h20",
+    "fotos": [
+      "petiscaria-cantinho-nobre_salada-chicken-ao-molho-cantinho-nobre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Salada Chicken ao molho Cantinho Nobre",
+        "descricao": "Frango grelhado, salada de alface-americana com molho caesar, finalizado com parmesão ralado.",
+        "foto": "petiscaria-cantinho-nobre_salada-chicken-ao-molho-cantinho-nobre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/petiscaria-cantinho-nobre/"
+  },
+  {
+    "id": 23,
+    "slug": "point-do-mercado",
+    "nome": "Point do Mercado",
+    "endereco": "R. Olegário Maciel, 255",
+    "bairro": "Centro",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34996966592",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "point-do-mercado_tesouro-da-lata.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tesouro da Lata",
+        "descricao": "Trio de carnes de lata (pernil, linguiça e costelinha), acompanhado por broto de bambu, farofa de torresmo e creme de milho.",
+        "foto": "point-do-mercado_tesouro-da-lata.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/point-do-mercado/"
+  },
+  {
+    "id": 24,
+    "slug": "villa-di-suti",
+    "nome": "Villa di Suti",
+    "endereco": "Rua Tertuliano Goulart, 286",
+    "bairro": "Araguari - MG",
+    "cidade": "Triângulo Mineiro",
+    "cidade_slug": "triangulo-mineiro",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "34984424274",
+    "horarios": "Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30",
+    "fotos": [
+      "villa-di-suti_trio-ternura.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Ternura",
+        "descricao": "Bolinho de linguiça caipira com couve-flor e queijo minas, acompanhado de palito de queijo frito e geleia de abacaxi de pimenta.",
+        "foto": "villa-di-suti_trio-ternura.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/villa-di-suti/"
+  }
+]
