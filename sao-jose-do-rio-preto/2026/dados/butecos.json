@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "slug": "3371-revision-v1",
+    "nome": "7 Copas",
+    "endereco": "Rua Pedro Amaral, 1141",
+    "bairro": "São José do Rio Preto - SP",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8077906,
+    "lng": -49.3789854,
+    "telefone": "17991175725",
+    "horarios": "Seg 18h00 – 22h30 // Ter 18h00 – 22h30 // Quarta 18h00 – 22h30 // Quin 18h00 – 22h30 // Sex – 18h00 – 22h30",
+    "fotos": [
+      "7-copas_pasteis-do-jack.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastéis do Jack",
+        "descricao": "Minipastéis de costela com queijo, tomate seco e rúcula, acompanhados de geleia de pimenta e vinagrete.",
+        "foto": "7-copas_pasteis-do-jack.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3371-revision-v1/"
+  },
+  {
+    "id": 2,
+    "slug": "all-stars-sports-bar",
+    "nome": "All Stars Sports Bar",
+    "endereco": "R. Antônio de Godoy, 4151",
+    "bairro": "São José do Rio Preto - SP",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8263326,
+    "lng": -49.3927821,
+    "telefone": "17996139933",
+    "horarios": "Terça-feira: 18h30 – 23h | Quarta-feira: 18h30 – 23h | Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h | Sábado: 18h30 – 23h",
+    "fotos": [
+      "all-stars-sports-bar_buffalo-not-wings.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Buffalo Not-Wings",
+        "descricao": "Uma versão alternativa das tradicionais wings da casa, substituindo o frango por couve-flor empanada e frita, mantendo a proposta original do preparo em um formato vegetariano.”",
+        "foto": "all-stars-sports-bar_buffalo-not-wings.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/all-stars-sports-bar/"
+  },
+  {
+    "id": 3,
+    "slug": "baopadana",
+    "nome": "Bãopadaná",
+    "endereco": "R. Fiorindo Golghetto, 540",
+    "bairro": "Bairro Pôr do Sol",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "17992770041",
+    "horarios": "Quinta-feira: 17h30 – 0h | Sexta-feira: 17h30 – 0h | Sábado: 17h30 – 0h",
+    "fotos": [
+      "baopadana_pastelzinho-de-rucula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastelzinho de Rúcula",
+        "descricao": "Pastel recheado de rúcula, bacon e linguiça caipira. Acompanha vinagrete e molho de mostarda.",
+        "foto": "baopadana_pastelzinho-de-rucula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/baopadana/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-da-vilma-2",
+    "nome": "Bar da Vilma",
+    "endereco": "Av. México, 525",
+    "bairro": "Jardim América",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.7995839,
+    "lng": -49.3656539,
+    "telefone": "17991456657",
+    "horarios": "Terça-feira: 10h – 22h | Quarta-feira: 10h – 23h | Quinta-feira: 10h – 23h | Sexta-feira: 10h – 0h | Sábado: 10h – 22h",
+    "fotos": [
+      "bar-da-vilma_temp-pork.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Temp Pork",
+        "descricao": "Carne de porco na lata acompanhada de tempurá de verduras e legumes.",
+        "foto": "bar-da-vilma_temp-pork.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-vilma-2/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-do-cidinho",
+    "nome": "Bar do Cidinho",
+    "endereco": "R. Capitão José de Castro, 378",
+    "bairro": "Vila Anchieta",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.7955335,
+    "lng": -49.3728755,
+    "telefone": "1732349427",
+    "horarios": "Domingo: 15h – 22h | Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "bar-do-cidinho_escarolina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escarolina",
+        "descricao": "Bolinho de batata-doce, recheado com costela e escarola e queijo gratinado em cima. Acompanha molho de pimenta agridoce.",
+        "foto": "bar-do-cidinho_escarolina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-cidinho/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-do-pirata-antigo-bar-do-paulo",
+    "nome": "Bar do Pirata (Antigo Bar do Paulo)",
+    "endereco": "Rua Coronel Spínola de Castro, 4228",
+    "bairro": "Redentora",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8160825,
+    "lng": -49.3885121,
+    "telefone": "17991720100",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 16h – 22h",
+    "fotos": [
+      "bar-do-pirata-antigo-bar-do-paulo_lombo-do-paulo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lombo do Paulo",
+        "descricao": "Lombo suíno assado na brasa, servido com salada de acelga e acompanhamentos.",
+        "foto": "bar-do-pirata-antigo-bar-do-paulo_lombo-do-paulo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-pirata-antigo-bar-do-paulo/"
+  },
+  {
+    "id": 7,
+    "slug": "3205-autosave-v1",
+    "nome": "Bar do Rubinho",
+    "endereco": "Av. Fernando Costa, 2590",
+    "bairro": "Centro",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8149747,
+    "lng": -49.5137129,
+    "telefone": "1732535858",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "bar-do-rubinho_cupim-do-rubinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim do Rubinho",
+        "descricao": "Cupim preparado por 14 horas no bafo, servido com salada, mandioca cozida e finalizado com queijo gratinado.",
+        "foto": "bar-do-rubinho_cupim-do-rubinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3205-autosave-v1/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-e-mercearia-js",
+    "nome": "Bar e Mercearia JS",
+    "endereco": "R. Elizabeth, 392",
+    "bairro": "São José do Rio Preto - SP",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8176658,
+    "lng": -49.3529928,
+    "telefone": "17991592054",
+    "horarios": "Quinta-feira: 17h – 22h | Sexta-feira: 17h – 22h | Sábado: 17h – 22h",
+    "fotos": [
+      "bar-e-mercearia-js_croquetes-js.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquetes JS",
+        "descricao": "Croquete de couve-flor recheado com queijo muçarela.",
+        "foto": "bar-e-mercearia-js_croquetes-js.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-e-mercearia-js/"
+  },
+  {
+    "id": 9,
+    "slug": "bom-bar-bar-do-marquinho",
+    "nome": "Bom Bar – Bar do Marquinho",
+    "endereco": "R. Coronel Spínola Castro, 4350",
+    "bairro": "Centro",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8077933,
+    "lng": -49.379665,
+    "telefone": "17981010664",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "bom-bar-bar-do-marquinho_boquinha-de-anjo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boquinha de anjo",
+        "descricao": "Sanduíche no pão de baguete, com rúcula, molho vinagrete e pernil desfiado acebolado.",
+        "foto": "bom-bar-bar-do-marquinho_boquinha-de-anjo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bom-bar-bar-do-marquinho/"
+  },
+  {
+    "id": 10,
+    "slug": "boteco-do-marcinho",
+    "nome": "Boteco do Marcinho",
+    "endereco": "Av. Vinte e Cinco de Janeiro, 404",
+    "bairro": "Vila Anchieta",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.7705895,
+    "lng": -49.3718167,
+    "telefone": "17992378489",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "boteco-do-marcinho_vai-en-tender.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vai En“Tender”",
+        "descricao": "Croquete de tender desfiado, couve-flor, queijo provolone e muçarela. Acompanha creme de couve-flor e crispy de mostarda.",
+        "foto": "boteco-do-marcinho_vai-en-tender.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-marcinho/"
+  },
+  {
+    "id": 11,
+    "slug": "brasaria-emporio-e-grill",
+    "nome": "Brasaria Empório e Grill",
+    "endereco": "R. Abrão Thomé, 602",
+    "bairro": "Jardim Walkíria",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8378318,
+    "lng": -49.386036,
+    "telefone": "17992563197",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 17h – 23h30 | Domingo: 17h – 23h30",
+    "fotos": [
+      "brasaria-emporio-e-grill_trouxinha-de-legumes.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trouxinha de Legumes",
+        "descricao": "Trouxinha crocante na massa de couve com legumes cozidos al dente.",
+        "foto": "brasaria-emporio-e-grill_trouxinha-de-legumes.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/brasaria-emporio-e-grill/"
+  },
+  {
+    "id": 12,
+    "slug": "buteco-du-gaucho",
+    "nome": "Buteco Du Gaúcho",
+    "endereco": "R. Coronel Spínola Castro, 4496",
+    "bairro": "Centro",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8077933,
+    "lng": -49.379665,
+    "telefone": "17991953390",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "buteco-du-gaucho_carmen-miranda.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Carmen Miranda",
+        "descricao": "Coxinhas preparadas com massa de batata e recheio de brócolis, cenoura, bacon crocante, queijos e temperos frescos.",
+        "foto": "buteco-du-gaucho_carmen-miranda.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-du-gaucho/"
+  },
+  {
+    "id": 13,
+    "slug": "emporio-do-caboclo",
+    "nome": "Empório do Caboclo",
+    "endereco": "R. São Vicente de Paula, 2871",
+    "bairro": "Nossa Sra. Aparecida",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.1964326,
+    "lng": -50.9125601,
+    "telefone": "17997480944",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "emporio-do-caboclo_partiu-de-matula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Partiu de Matula",
+        "descricao": "Trouxinha de massa de farinha de rúcula e ovo, recheada com palmito, alho-poró, espinafre, tomate, azeitonas picadas, cebola-roxa, castanha-de-caju e catupiry. Temperada com azeite, sal, pimenta-do-reino e pimenta dedo-de-moça, finalizada com salsinha e cebolinha. Amarrada com fio de cebolinha e acompanhada de canudinho de chips.",
+        "foto": "emporio-do-caboclo_partiu-de-matula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-do-caboclo/"
+  },
+  {
+    "id": 14,
+    "slug": "espetaria-santa-felicidade",
+    "nome": "Espetaria Santa Felicidade",
+    "endereco": "Rua Atlântida, 115",
+    "bairro": "Vila Ideal",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8008445,
+    "lng": -49.3616762,
+    "telefone": "17997011806",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "espetaria-santa-felicidade_crostones.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crostones",
+        "descricao": "Base de mandioca assada, cobertura de ragu de costela com alho-poró, finalizada com crispys de alho-poró. Acompanha molho.",
+        "foto": "espetaria-santa-felicidade_crostones.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetaria-santa-felicidade/"
+  },
+  {
+    "id": 15,
+    "slug": "fidelis-bar-da-sombra",
+    "nome": "Fidelis Bar da Sombra",
+    "endereco": "Rua da Imprensa, 1039",
+    "bairro": "Parque Celeste",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8197145,
+    "lng": -49.36615,
+    "telefone": "17988288494",
+    "horarios": "Segunda-feira: 17h30 – 22h | Terça-feira: 17h30 – 22h | Quarta-feira: 17h30 – 22h | Quinta-feira: 17h30 – 22h | Sexta-feira: 17h30 – 22h30 | Sábado: 11h30 – 22h | Domingo: 11h30 – 20h",
+    "fotos": [
+      "fidelis-bar-da-sombra_poro-poro-do-fidelis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poró Poró do Fidelis",
+        "descricao": "Bolinho de mandioca com carne, alho-poró e especiarias do Fidélis e geleia de amora, empanado em farinha panko.",
+        "foto": "fidelis-bar-da-sombra_poro-poro-do-fidelis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fidelis-bar-da-sombra/"
+  },
+  {
+    "id": 16,
+    "slug": "fino-sabor",
+    "nome": "Fino Sabor",
+    "endereco": "Rua Pedro Martins, 90",
+    "bairro": "Distrito Adail Vetorazzo",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.7703395,
+    "lng": -49.3938565,
+    "telefone": "17992678687",
+    "horarios": "Quarta-feira: 18h – 23h45 | Quinta-feira: 18h – 23h45 | Sexta-feira: 18h – 23h45 | Sábado: 18h – 23h45",
+    "fotos": [
+      "fino-sabor_porketinha-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porketinha de Buteco",
+        "descricao": "Barquinha de massa artesanal, recheada com purê de mandioca, ragu de carne de porco, muçarela gratinada e pesto de rúcula.",
+        "foto": "fino-sabor_porketinha-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fino-sabor/"
+  },
+  {
+    "id": 17,
+    "slug": "gato-guerreiro-bar-e-jogos",
+    "nome": "Gato Guerreiro Bar e Jogos",
+    "endereco": "Rua General Glicério, 4152",
+    "bairro": "São José do Rio Preto - SP",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8126526,
+    "lng": -49.3834772,
+    "telefone": "17991454228",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 16h – 21h",
+    "fotos": [
+      "gato-guerreiro-bar-e-jogos_croquete-de-carne-seca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquete de carne-seca",
+        "descricao": "Petisco em formato de bolinho empanado, feito com carne-seca desfiada, couve-flor, alho, cebola, cheiro-verde, sal, pimenta-do-reino e farinha para dar o ponto. Depois de modelado, é passado no ovo, empanado na farinha e frito.",
+        "foto": "gato-guerreiro-bar-e-jogos_croquete-de-carne-seca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gato-guerreiro-bar-e-jogos/"
+  },
+  {
+    "id": 18,
+    "slug": "oiti-butiquim",
+    "nome": "Oiti Butiquim",
+    "endereco": "R. Benjamin Constant, 3807",
+    "bairro": "Vila Imperial",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.8148484,
+    "lng": -49.3886315,
+    "telefone": "17988265229",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h",
+    "fotos": [
+      "oiti-butiquim_canteiro-da-roca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Canteiro da Roça",
+        "descricao": "Trio de linguiças artesanais elaboradas a partir de blends de carnes com verduras e temperos variados. A primeira combina frango, chicória e pimenta biquinho; a segunda reúne pernil, brócolis, queijo coalho e pimenta biquinho; e a terceira traz frango, rúcula, tomate e especiarias. O prato é servido acompanhado de brócolis e mostarda da casa.”",
+        "foto": "oiti-butiquim_canteiro-da-roca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/oiti-butiquim/"
+  },
+  {
+    "id": 19,
+    "slug": "santo-espeto-garagem",
+    "nome": "Santo Espeto Garagem",
+    "endereco": "Rod Padre Mariano de lá Mata 150",
+    "bairro": "",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "17991119394",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h",
+    "fotos": [
+      "santo-espeto-garagem_santo-quiche.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Santo Quiche",
+        "descricao": "Quiche de ricota com brócolis.",
+        "foto": "santo-espeto-garagem_santo-quiche.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/santo-espeto-garagem/"
+  },
+  {
+    "id": 20,
+    "slug": "scotch-and-beer",
+    "nome": "Scotch and Beer",
+    "endereco": "Rua Fernando Colombo, 210",
+    "bairro": "São José do Rio Preto - SP",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.7706052,
+    "lng": -49.32402,
+    "telefone": "17981194909",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "scotch-and-beer_bolinho-boi-atolado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho boi atolado",
+        "descricao": "Bolinho de mandioca, costela, couve e muçarela.",
+        "foto": "scotch-and-beer_bolinho-boi-atolado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/scotch-and-beer/"
+  },
+  {
+    "id": 21,
+    "slug": "toca-do-peixe",
+    "nome": "Toca do Peixe",
+    "endereco": "Av. Izabel Martins Arroyo, 780",
+    "bairro": "Jardim Arroyo",
+    "cidade": "São José do Rio Preto",
+    "cidade_slug": "sao-jose-do-rio-preto",
+    "ano": "2026",
+    "lat": -20.765617,
+    "lng": -49.4046028,
+    "telefone": "17988290487",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30 | Domingo: 18h – 23h30",
+    "fotos": [
+      "toca-do-peixe_asinha-recheada-da-vovo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Asinha recheada da vovó",
+        "descricao": "Asa de frango desossada, recheada com vinagrete de alho-poró, acompanhada de molho.",
+        "foto": "toca-do-peixe_asinha-recheada-da-vovo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/toca-do-peixe/"
+  }
+]

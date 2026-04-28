@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "slug": "a-juriti",
+    "nome": "A Juriti",
+    "endereco": "R. Amarante, 31",
+    "bairro": "Cambuci",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5732337,
+    "lng": -46.6226126,
+    "telefone": "(11) 3207-3908",
+    "horarios": "Terça-feira: 13h – 22h | Quarta-feira: 13h – 22h30 | Quinta-feira: 13h – 23h30 | Sexta-feira: 13h – 23h30 | Sábado: 11h – 22h30 | Domingo: 11h – 18h",
+    "fotos": [
+      "a-juriti_o-classico-juriti-flamejante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O clássico: Juriti flamejante",
+        "descricao": "Linguiça assada fatiada, acompanhada de picles de brócolis, couve-flor, cenoura e pepino em conserva (vinagre, água e sal) e vinagrete de cebola e tomate temperado com azeite, vinagre, sal e salsinha.",
+        "foto": "a-juriti_o-classico-juriti-flamejante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/a-juriti/"
+  },
+  {
+    "id": 2,
+    "slug": "a-ribeira",
+    "nome": "A Ribeira",
+    "endereco": "Al. Ribeiro da Silva, 909",
+    "bairro": "Campos Elíseos",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -22.9466673,
+    "lng": -47.1207725,
+    "telefone": "11978059991",
+    "horarios": "Segunda-feira: 11h30 – 14h30 | Terça-feira: 11h30 – 14h30 | Quarta-feira: 11h30 – 14h30 | Quinta-feira: 11h30 – 14h30 | Sexta-feira: 11h30 – 14h30 a 18h – 23h30 | Sábado: 16h – 0h30",
+    "fotos": [
+      "a-ribeira_tartar-a-moda-ribeira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tartar à moda Ribeira",
+        "descricao": "Tartar de legumes ao molho de espinafre com chips de abóbora.",
+        "foto": "a-ribeira_tartar-a-moda-ribeira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/a-ribeira/"
+  },
+  {
+    "id": 3,
+    "slug": "acaraje-e-delicias-da-bahia",
+    "nome": "Acarajé e Delícias da Bahia",
+    "endereco": "R. Arcipreste Ezequias, 116",
+    "bairro": "Vila São José",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5871967,
+    "lng": -46.6159824,
+    "telefone": "1121551987",
+    "horarios": "Terça-feira: 12h – 16h e 18h – 22h45 | Quarta-feira: 12h – 16h e 18h – 22h45 | Quinta-feira: 12h – 16h e 18h – 22h45 | Sexta-feira: 12h – 16h e 18h – 22h45 | Sábado: 12h – 22h45 | Domingo: 12h – 17h45",
+    "fotos": [
+      "acaraje-e-delicias-da-bahia_pega-trouxa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pega Trouxa",
+        "descricao": "Trouxinhas de arroz basmati, carne moída e cogumelos, enrolados na folha de taioba, raspas de limão-siciliano, acompanhadas de Pão Delícia.",
+        "foto": "acaraje-e-delicias-da-bahia_pega-trouxa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/acaraje-e-delicias-da-bahia/"
+  },
+  {
+    "id": 4,
+    "slug": "almirante-bar-e-restaurante",
+    "nome": "Almirante Bar e Restaurante",
+    "endereco": "R. Agostinho Gomes, 2785",
+    "bairro": "Ipiranga",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5950864,
+    "lng": -46.6032944,
+    "telefone": "11984628573",
+    "horarios": "Segunda-feira: 15h – 0h | Terça-feira: 15h – 0h | Quarta-feira: 15h – 0h | Quinta-feira: 15h – 0h | Sexta-feira: 15h – 0h | Sábado: 12h – 0h",
+    "fotos": [
+      "almirante-bar-e-restaurante_queijo-no-mato.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Queijo no mato",
+        "descricao": "Bolinho feito com escarola, batata-inglesa, bacon e muçarela. Acompanhado de maionese temperada da casa.",
+        "foto": "almirante-bar-e-restaurante_queijo-no-mato.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/almirante-bar-e-restaurante/"
+  },
+  {
+    "id": 5,
+    "slug": "alquimia-restaurante",
+    "nome": "Alquimia Restaurante",
+    "endereco": "R. Bom Pastor, 1861",
+    "bairro": "Ipiranga",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5929317,
+    "lng": -46.6068075,
+    "telefone": "11986434387",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h",
+    "fotos": [
+      "alquimia-restaurante_explosao-de-sabores.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Explosão de sabores",
+        "descricao": "Bolinho elaborado com massa de abóbora cabotiá e alho-poró, recheio de rabada desfiada, servido com vinagrete de talos de agrião e geleia de pimenta.",
+        "foto": "alquimia-restaurante_explosao-de-sabores.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alquimia-restaurante/"
+  },
+  {
+    "id": 6,
+    "slug": "altino-deck-bar",
+    "nome": "Altino Deck Bar",
+    "endereco": "R. Doutor José Augusto de Oliveira, 1",
+    "bairro": "Presidente Altino",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5247943,
+    "lng": -46.7725736,
+    "telefone": "11966480198",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "altino-deck-bar_derrete-que-e-verde.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Derrete que é verde",
+        "descricao": "Fondue de espinafre, acompanhado de polenta, cubinhos de carne, frango empanado, pão e goiabada.",
+        "foto": "altino-deck-bar_derrete-que-e-verde.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/altino-deck-bar/"
+  },
+  {
+    "id": 7,
+    "slug": "armazem-mandacaru",
+    "nome": "Armazém Mandacaru",
+    "endereco": "R. Dona Antônia de Queiroz, 5",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5530904,
+    "lng": -46.6521575,
+    "telefone": "11992184019",
+    "horarios": "Segunda-feira: 6h30 – 19h30 | Terça-feira: 6h30 – 19h30 | Quarta-feira: 6h30 – 19h30 | Quinta-feira: 6h30 – 19h30 | Sexta-feira: 6h30 – 19h30 | Sábado: 6h30 – 19h30 | Domingo: 9h – 17h",
+    "fotos": [
+      "armazem-mandacaru_cumbuca-da-hora.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cumbuca da Hora",
+        "descricao": "Moela marinada com kimchi de acelga.",
+        "foto": "armazem-mandacaru_cumbuca-da-hora.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-mandacaru/"
+  },
+  {
+    "id": 8,
+    "slug": "balcao-304",
+    "nome": "Balcão 304",
+    "endereco": "R. Pitangueiras, 304",
+    "bairro": "Mirandópolis",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.6100427,
+    "lng": -46.6387463,
+    "telefone": "1143270017",
+    "horarios": "Segunda-feira: 12h – 16h | Terça-feira: 12h – 16h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 17h",
+    "fotos": [
+      "balcao-304_mariscos-de-floripa-com-alho-poro-ao-vinagrete-e-azeite-de-rucula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mariscos de Floripa com alho-poró ao vinagrete e azeite de rúcula",
+        "descricao": "Seis unidades de mexilhão ao bafo com vinagrete de alho-poró e azeite de rúcula.",
+        "foto": "balcao-304_mariscos-de-floripa-com-alho-poro-ao-vinagrete-e-azeite-de-rucula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/balcao-304/"
+  },
+  {
+    "id": 9,
+    "slug": "bambuteco",
+    "nome": "Bambuteco",
+    "endereco": "Av. Corifeu de Azevedo Marques, 1560",
+    "bairro": "Butantã",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5748121,
+    "lng": -46.7288435,
+    "telefone": "11968439697",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "bambuteco_bambuquiche.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bambuquiche",
+        "descricao": "Três miniquiches com uma salada servida com molho de alho e pimenta da casa.",
+        "foto": "bambuteco_bambuquiche.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bambuteco/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-espetaria-pai-berto",
+    "nome": "Bar & Espetaria Pai Berto",
+    "endereco": "R. Emília Marengo, 1374",
+    "bairro": "Vila Regente Feijó",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5534958,
+    "lng": -46.5615412,
+    "telefone": "11914956053",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 17h – 23h30 | Domingo: 17h – 23h30",
+    "fotos": [
+      "bar-espetaria-pai-berto_rissoles-do-pai-berto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rissoles do Pai Berto",
+        "descricao": "Seis unidades de rissoles com massa de espinafre, recheados com muçarela, bacon e um leve toque de orégano.",
+        "foto": "bar-espetaria-pai-berto_rissoles-do-pai-berto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-espetaria-pai-berto/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-altas-horas",
+    "nome": "Bar Altas Horas",
+    "endereco": "Rua do Oratório, 1632",
+    "bairro": "Mooca",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5615542,
+    "lng": -46.5925232,
+    "telefone": "11985441508",
+    "horarios": "Terça-feira: 17h – 1h | Quarta-feira: 17h – 1h | Quinta-feira: 17h – 1h | Sexta-feira: 17h – 1h | Sábado: 13h – 1h | Domingo: 13h – 22h",
+    "fotos": [
+      "bar-altas-horas_quiche-saboroso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quiché saboroso",
+        "descricao": "Quatro quiches recheados: dois recheados com brócolis, bacon e catupiry; dois com escarola, bacon e catupiry. Acompanhados de uma geleia de pimenta.",
+        "foto": "bar-altas-horas_quiche-saboroso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-altas-horas/"
+  },
+  {
+    "id": 12,
+    "slug": "3229-revision-v1",
+    "nome": "Bar Amigo Giannotti",
+    "endereco": "Rua Santo Antônio, 1106",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5541744,
+    "lng": -46.6476537,
+    "telefone": "11991618009",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "bar-amigo-giannotti_bracholas-giannotti.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bracholas Giannotti",
+        "descricao": "Bife enrolado, recheado com verdura, ovo e bacon, cozido no molho de tomate e servido com creme de mandioquinha.",
+        "foto": "bar-amigo-giannotti_bracholas-giannotti.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3229-revision-v1/"
+  },
+  {
+    "id": 13,
+    "slug": "bar-amigos-do-ze",
+    "nome": "Bar Amigos do Zé",
+    "endereco": "Pça. Franklin Roosevelt, 92",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "11951427373",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 15h – 0h | Domingo: 15h – 22h",
+    "fotos": [
+      "bar-amigos-do-ze_festa-na-horta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Festa na Horta",
+        "descricao": "Panqueca de couve e rúcula, recheada com um estrogonofe de carne de patinho refogado no alho e cebola, temperado com pimenta síria, páprica defumada com couve-flor e brócolis, acompanhada de uma farofa de amendoim torrado e cenoura frita.",
+        "foto": "bar-amigos-do-ze_festa-na-horta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-amigos-do-ze/"
+  },
+  {
+    "id": 14,
+    "slug": "3231-revision-v1",
+    "nome": "Bar Bambu",
+    "endereco": "R. Conselheiro Moreira de Barros, 1084",
+    "bairro": "Santana",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.4920566,
+    "lng": -46.6339734,
+    "telefone": "1122834350",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 11h – 0h | Domingo: 11h – 18h",
+    "fotos": [
+      "bar-bambu_55.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "55",
+        "descricao": "Bolinhos com massa de risoto de gorgonzola e erva-doce, recheado com moela de frango.",
+        "foto": "bar-bambu_55.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3231-revision-v1/"
+  },
+  {
+    "id": 15,
+    "slug": "bar-do-ale",
+    "nome": "Bar do Ale",
+    "endereco": "R. Eugênia de Carvalho, 871",
+    "bairro": "Vila Matilde",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5424763,
+    "lng": -46.525166,
+    "telefone": "11975882279",
+    "horarios": "Segunda-feira: 15h – 21h | Terça-feira: 15h – 21h | Quarta-feira: 15h – 21h | Quinta-feira: 15h – 21h | Sexta-feira: 15h – 21h | Sábado: 15h – 21h",
+    "fotos": [
+      "bar-do-ale_coroa-para-os-fortes.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coroa para os fortes",
+        "descricao": "Espinafre refogado no alho-poró e azeite de oliva, aromatizado com especiarias. Envolvido em um cremoso molho de queijos e gratinado. Finalizado com farofa de bacon e pimenta-biquinho. Acompanha chips de mix de muçarela e parmesão.",
+        "foto": "bar-do-ale_coroa-para-os-fortes.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ale/"
+  },
+  {
+    "id": 16,
+    "slug": "3235-revision-v1",
+    "nome": "Bar do Berinjela",
+    "endereco": "Pça. Vinte de Janeiro, 67",
+    "bairro": "Vila Regente Feijó",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "1126712992",
+    "horarios": "Quarta-feira: 16h – 22h30 | Quinta-feira: 16h – 22h30 | Sexta-feira: 16h – 22h30 | Sábado: 12h – 19h30 | Domingo: 11h30 – 16h",
+    "fotos": [
+      "bar-do-berinjela_rumo-ao-hexa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rumo ao Hexa",
+        "descricao": "Bolinho de batata-doce e batata asterix com escarola, muçarela e bacon.",
+        "foto": "bar-do-berinjela_rumo-ao-hexa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3235-revision-v1/"
+  },
+  {
+    "id": 17,
+    "slug": "bar-do-diogo",
+    "nome": "Bar do Diogo",
+    "endereco": "R. Serra de Japi, 1344",
+    "bairro": "Tatuapé",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5437525,
+    "lng": -46.5693988,
+    "telefone": "11991537520",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 12h – 20h",
+    "fotos": [
+      "bar-do-diogo_quem-nao-gosta-de-porco-bom-sujeito-nao-e.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quem não gosta de “Porco” bom sujeito não é",
+        "descricao": "Lascas de pernil, molho rústico de tomate com alho-poró. Caldinho de feijão preto e torresminho com ervas finas.",
+        "foto": "bar-do-diogo_quem-nao-gosta-de-porco-bom-sujeito-nao-e.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-diogo/"
+  },
+  {
+    "id": 18,
+    "slug": "bar-do-edu",
+    "nome": "Bar do Edu",
+    "endereco": "R. Doutor Andrade Pertence, 209",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.6042456,
+    "lng": -46.6761441,
+    "telefone": "1130452603",
+    "horarios": "Segunda-feira: 17h – 22h30 | Terça-feira: 12h30 – 22h30 | Quarta-feira: 12h30 – 22h30 | Quinta-feira: 12h30 – 22h30 | Sexta-feira: 12h30 – 22h30 | Sábado: 12h30 – 21h30",
+    "fotos": [
+      "bar-do-edu_empanadas-do-popeye-com-molho-olivia-ao-palito.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Empanadas do Popeye com Molho Olívia ao Palito",
+        "descricao": "Empanadas de espinafre e queijo branco acompanhadas de molho chimichurri.",
+        "foto": "bar-do-edu_empanadas-do-popeye-com-molho-olivia-ao-palito.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-edu/"
+  },
+  {
+    "id": 19,
+    "slug": "3259-autosave-v1",
+    "nome": "Bar do Jão",
+    "endereco": "R. Antônio Lobo, 33",
+    "bairro": "Penha de França",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.5248398,
+    "lng": -46.5449734,
+    "telefone": "1129418373",
+    "horarios": "Segunda-feira: 12h – 21h30 | Terça-feira: 12h – 21h30 | Quarta-feira: 12h – 21h30 | Quinta-feira: 12h – 21h30 | Sexta-feira: 12h – 21h30 | Sábado: 12h – 21h30",
+    "fotos": [
+      "bar-do-jao_bolinho-canela-do-boi-teimoso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho Canela do Boi Teimoso",
+        "descricao": "Bolinho de ossobuco acompanhado de molho pesto de rúcula, manjericão, amêndoa e ervas aromáticas.",
+        "foto": "bar-do-jao_bolinho-canela-do-boi-teimoso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3259-autosave-v1/"
+  },
+  {
+    "id": 20,
+    "slug": "bar-do-lopes",
+    "nome": "Bar do Lopes",
+    "endereco": "R. Francisco Dias, 635",
+    "bairro": "Bosque da Saúde",
+    "cidade": "São Paulo",
+    "cidade_slug": "sao-paulo",
+    "ano": "2026",
+    "lat": -23.614952,
+    "lng": -46.6223327,
+    "telefone": "11951179319",
+    "horarios": "Segunda-feira: 9h – 23h | Terça-feira: 9h – 23h | Quarta-feira: 9h – 23h | Quinta-feira: 9h – 23h | Sexta-feira: 9h – 23h | Sábado: 9h – 23h | Domingo: 9h – 23h",
+    "fotos": [
+      "bar-do-lopes_creme-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Creme do Sertão",
+        "descricao": "Mandioquinha dourada com creme de alho assado e alho-poró, finalizada com farofa de torresmo e banana-da-terra caramelizada salgada (acompanha cajuína alcoólica).",
+        "foto": "bar-do-lopes_creme-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-lopes/"
+  }
+]
