@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "slug": "armonico-bar",
+    "nome": "Armônico Bar",
+    "endereco": "R. Dr. Saulo Porto Virmond, 478 - A",
+    "bairro": "Chácara Paulista",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4412381,
+    "lng": -51.9285775,
+    "telefone": "44988317340",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "armonico-bar_pastel-armonico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel Armônico",
+        "descricao": "Porção com quatro pastéis empanados e recheados de carne-seca com alho-poró. Acompanha maionese de alho.",
+        "foto": "armonico-bar_pastel-armonico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armonico-bar/"
+  },
+  {
+    "id": 2,
+    "slug": "atari-bar",
+    "nome": "Atari bar",
+    "endereco": "Av. Prudente de Morais, 945",
+    "bairro": "Maringá - PR",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4158298,
+    "lng": -51.94142,
+    "telefone": "(44) 3040-4185 | (44) 99700-5767",
+    "horarios": "Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 17h – 23h",
+    "fotos": [
+      "atari-bar_coxinha-cremosa-de-frango-com-espinafre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha cremosa de frango com espinafre",
+        "descricao": "Coxinha de frango e espinafre em textura cremosa e com casquinha crocante. Acompanha maionese de rúcula com picles.",
+        "foto": "atari-bar_coxinha-cremosa-de-frango-com-espinafre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/atari-bar/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-do-clebinho",
+    "nome": "Bar do Clebinho",
+    "endereco": "Av. Paranavaí, 697",
+    "bairro": "Maringá - PR",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4247894,
+    "lng": -51.969447,
+    "telefone": "44991090661",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "bar-do-clebinho_medalhao-de-couve.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão de couve",
+        "descricao": "Folha de couve enrolada com uma fatia de queijo e bacon, empanada até ficar crocante. Acompanha dois molhos: uma pasta de pimenta com limão e uma maionese de rúcula cremosa.",
+        "foto": "bar-do-clebinho_medalhao-de-couve.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-clebinho/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-do-ponce",
+    "nome": "Bar do Ponce",
+    "endereco": "R. La Paz, 1055",
+    "bairro": "Vila Morangueira",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4127357,
+    "lng": -51.9079843,
+    "telefone": "4432683915",
+    "horarios": "Quarta-feira: 14h – 22h | Quinta-feira: 14h – 22h | Sexta-feira: 14h – 22h | Sábado: 10h30 – 19h30",
+    "fotos": [
+      "bar-do-ponce_arancini-de-carreteiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arancini de carreteiro",
+        "descricao": "Bolinho de arroz carreteiro da casa, acompanhado de maionese de rúcula e vinagrete de agrião.",
+        "foto": "bar-do-ponce_arancini-de-carreteiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ponce/"
+  },
+  {
+    "id": 5,
+    "slug": "boteco-do-binho",
+    "nome": "Boteco do Binho",
+    "endereco": "Avenida Tuiuti, 1427",
+    "bairro": "Vila Morangueira",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.41391,
+    "lng": -51.9032206,
+    "telefone": "44998538069",
+    "horarios": "Segunda-feira: 15h – 0h | Terça-feira: 15h – 0h | Quarta-feira: 15h – 0h | Quinta-feira: 15h – 0h | Sexta-feira: 15h – 0h | Sábado: 10h – 0h",
+    "fotos": [
+      "boteco-do-binho_rabada-com-agriao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabada com agrião",
+        "descricao": "Rabada com polenta e agrião.",
+        "foto": "boteco-do-binho_rabada-com-agriao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-binho/"
+  },
+  {
+    "id": 6,
+    "slug": "boteco-do-pinguim",
+    "nome": "Boteco do Pinguim",
+    "endereco": "Av. Cerro Azul, 2377",
+    "bairro": "Gleba Ribeirão Pinguim",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4589626,
+    "lng": -51.9220182,
+    "telefone": "4433544389",
+    "horarios": "Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h | Domingo: 16h – 0h",
+    "fotos": [
+      "boteco-do-pinguim_porquinho-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho Crocante",
+        "descricao": "Pernil suíno desossado, empanado e frito, servido com salada de repolho levemente picante.",
+        "foto": "boteco-do-pinguim_porquinho-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-pinguim/"
+  },
+  {
+    "id": 7,
+    "slug": "budega-do-vizinho",
+    "nome": "Budega do Vizinho",
+    "endereco": "Av. Alziro Zarur, 919",
+    "bairro": "Vila Vardelina",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4010945,
+    "lng": -51.9628074,
+    "telefone": "44999929469",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 17h30 – 23h",
+    "fotos": [
+      "budega-do-vizinho_tartine-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tartine tropical",
+        "descricao": "Torrada com guacamole, rúcula, tomate-cereja e queijo muçarela.",
+        "foto": "budega-do-vizinho_tartine-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/budega-do-vizinho/"
+  },
+  {
+    "id": 8,
+    "slug": "buteco-do-kaka",
+    "nome": "Buteco do Kaká",
+    "endereco": "Av. Colombo, 7282",
+    "bairro": "Maringá - PR",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4185665,
+    "lng": -51.9716611,
+    "telefone": "44999649732",
+    "horarios": "Segunda-feira: 9h – 13h e 15h – 22h30 | Terça-feira: 9h – 13h e 15h – 22h30 | Quarta-feira: 9h – 13h e 15h – 22h30 | Quinta-feira: 9h – 13h e 15h – 22h30 | Sexta-feira: 9h – 13h e 15h – 22h30",
+    "fotos": [
+      "buteco-do-kaka_bolinho-do-boi-bandido.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho do boi bandido",
+        "descricao": "Bolinho de carne bovina recheado com couve e bacon, acompanha geleia de pimenta.",
+        "foto": "buteco-do-kaka_bolinho-do-boi-bandido.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-kaka/"
+  },
+  {
+    "id": 9,
+    "slug": "buteco-do-ney",
+    "nome": "Buteco do Ney",
+    "endereco": "Av. Doutor Alexandre Rasgulaeff, 4175",
+    "bairro": "Jardim Imperial II",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.3965063,
+    "lng": -51.9348301,
+    "telefone": "(44) 99179-3333 | (44) 99964-8023",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 11h – 0h | Domingo de 15h à 00h",
+    "fotos": [
+      "buteco-do-ney_bolinho-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho do buteco",
+        "descricao": "Bolinho de carne recheado com brócolis, couve-flor e repolho, acompanha maionese verde e molho de pimenta.",
+        "foto": "buteco-do-ney_bolinho-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-ney/"
+  },
+  {
+    "id": 10,
+    "slug": "casa-do-guina-petiscaria",
+    "nome": "Casa do Guina Petiscaria",
+    "endereco": "Avenida Kakogawa, 919",
+    "bairro": "Parque das Bandeiras",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.3854192,
+    "lng": -51.9318961,
+    "telefone": "44999305561",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "casa-do-guina-petiscaria_caldo-verde-do-guina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caldo verde do Guina",
+        "descricao": "Caldo à base de batatas, com bacon, calabresa e couve, acompanha pão e torradas.",
+        "foto": "casa-do-guina-petiscaria_caldo-verde-do-guina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-do-guina-petiscaria/"
+  },
+  {
+    "id": 11,
+    "slug": "chapa-quente-grill",
+    "nome": "Chapa Quente Grill",
+    "endereco": "Av. Prudente de Morais, 925 - Loja frente",
+    "bairro": "Zona 07",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4156858,
+    "lng": -51.9413528,
+    "telefone": "4430302282",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 9h – 15h | Domingo: 9h – 15h",
+    "fotos": [
+      "chapa-quente-grill_file-mignon-suino-crocante-com-flor-de-acelga-e-abacaxi-refrescante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Filé-mignon suíno crocante com flor de acelga e abacaxi refrescante",
+        "descricao": "Filé-mignon suíno crocante com flor de acelga e abacaxi refrescante. Acompanha molho de pimenta e molho de mel com limão e gengibre.",
+        "foto": "chapa-quente-grill_file-mignon-suino-crocante-com-flor-de-acelga-e-abacaxi-refrescante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/chapa-quente-grill/"
+  },
+  {
+    "id": 12,
+    "slug": "doce-caos-bar",
+    "nome": "Doce Caos Bar",
+    "endereco": "R. Osvaldo Cruz, 394",
+    "bairro": "Maringá - PR",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.41134,
+    "lng": -51.9434837,
+    "telefone": "44920022909",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "doce-caos-bar_cestinha-do-doce.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cestinha do Doce",
+        "descricao": "Cestinha de mandioca com creme de queijo, espinafre e alho-poró.",
+        "foto": "doce-caos-bar_cestinha-do-doce.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/doce-caos-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "espetinho-do-gordo",
+    "nome": "Espetinho do Gordo",
+    "endereco": "Av. Senador Petrônio Portela, 378",
+    "bairro": "Jardim Aclimação",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4477021,
+    "lng": -51.9116647,
+    "telefone": "44984399257",
+    "horarios": "Segunda-feira: 9h – 13h30 e 17h – 22h | Terça-feira: 9h – 13h30 e 17h – 22h | Quarta-feira: 9h – 13h30 e 17h – 22h | Quinta-feira: 9h – 13h30 e 17h – 22h | Sexta-feira: 9h – 13h30 e 17h – 22h",
+    "fotos": [
+      "espetinho-do-gordo_combo-do-gordo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Combo do Gordo",
+        "descricao": "Cinco espetos de frango empanado à milanesa, acompanhados de miniporção de salada de rúcula, alface e repolho.",
+        "foto": "espetinho-do-gordo_combo-do-gordo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetinho-do-gordo/"
+  },
+  {
+    "id": 14,
+    "slug": "michelitos-bar",
+    "nome": "Michelitos Bar",
+    "endereco": "Av. Doutor Alexandre Rasgulaeff, 5570",
+    "bairro": "Jardim Paraíso",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.3936377,
+    "lng": -51.9475983,
+    "telefone": "4430290003",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 11h30 – 23h30",
+    "fotos": [
+      "michelitos-bar_deu-cesta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Deu Cesta!",
+        "descricao": "Cestinha crocante de arroz recheada com fraldinha desfiada e queijo, finalizada com repolho crispy. Acompanha geleia de pimentão.",
+        "foto": "michelitos-bar_deu-cesta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/michelitos-bar/"
+  },
+  {
+    "id": 15,
+    "slug": "mott-oficina-cafe",
+    "nome": "Mott Oficina Café",
+    "endereco": "Av. Arquiteto Nildo Ribeiro da Rocha, 4164",
+    "bairro": "Jardim Higienópolis",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4487786,
+    "lng": -51.9491918,
+    "telefone": "44998406293",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 9h – 23h",
+    "fotos": [
+      "mott-oficina-cafe_bolinho-de-carne-louca-espinafre-e-queijo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de carne louca, espinafre e queijo",
+        "descricao": "Bolinhos empanados de carne bovina desfiada, recheados de espinafre, alho-poró e queijo derretido. Acompanha molho de cebola caramelizada.",
+        "foto": "mott-oficina-cafe_bolinho-de-carne-louca-espinafre-e-queijo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mott-oficina-cafe/"
+  },
+  {
+    "id": 16,
+    "slug": "petiscaria-correa",
+    "nome": "Petiscaria Corrêa",
+    "endereco": "Av. Londrina, 917",
+    "bairro": "Maringá - PR",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4358375,
+    "lng": -51.9108052,
+    "telefone": "44999716711",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 17h – 23h30",
+    "fotos": [
+      "petiscaria-correa_bolinho-de-abobora-com-frango-espinafre-e-requeijao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de abóbora com frango, espinafre e requeijão",
+        "descricao": "Massa de abóbora cabotiá e flocos de aveia, temperada, recheada com frango desfiado, espinafre e requeijão cremoso. Empanado na farinha panko e frito. Servido com o molho agridoce Corrêa.",
+        "foto": "petiscaria-correa_bolinho-de-abobora-com-frango-espinafre-e-requeijao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/petiscaria-correa/"
+  },
+  {
+    "id": 17,
+    "slug": "pikeno-bar-e-restaurante",
+    "nome": "Pikeno Bar e Restaurante",
+    "endereco": "Avenida Paraná, 325",
+    "bairro": "Zona 01",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4193787,
+    "lng": -51.9431677,
+    "telefone": "44997599848",
+    "horarios": "Segunda-feira: 10h – 0h | Terça-feira: 10h – 0h | Quarta-feira: 10h – 0h | Quinta-feira: 10h – 0h | Sexta-feira: 10h – 0h",
+    "fotos": [
+      "pikeno-bar-e-restaurante_baguete-do-popeye-e-porquinho-parrudo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Baguete do Popeye e Porquinho Parrudo",
+        "descricao": "Pão de alho baguete recheado com espinafre e ovos, e farofa de alho-poró com bacon. Acompanha: molho de pimenta e maionese de alho com mandioca.",
+        "foto": "pikeno-bar-e-restaurante_baguete-do-popeye-e-porquinho-parrudo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pikeno-bar-e-restaurante/"
+  },
+  {
+    "id": 18,
+    "slug": "severina-sabor-do-nordeste",
+    "nome": "Severina Sabor do Nordeste",
+    "endereco": "R. La Paz, 1240",
+    "bairro": "Vila Morangueira",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4149828,
+    "lng": -51.9040256,
+    "telefone": "44997763639",
+    "horarios": "Terça-feira: 18h30 – 22h | Quarta-feira: 18h30 – 22h | Quinta-feira: 18h30 – 22h | Sexta-feira: 18h30 – 22h | Sábado: 18h30 – 22h",
+    "fotos": [
+      "severina-sabor-do-nordeste_poro-coco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poró Cocó",
+        "descricao": "Caldo de alho-poró com galinha. Acompanha rodela de pão.",
+        "foto": "severina-sabor-do-nordeste_poro-coco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/severina-sabor-do-nordeste/"
+  },
+  {
+    "id": 19,
+    "slug": "stop-bar",
+    "nome": "Stop Bar",
+    "endereco": "Av. Doutor Alexandre Rasgulaeff, 247",
+    "bairro": "Jardim Alvorada",
+    "cidade": "Maringá",
+    "cidade_slug": "maringa",
+    "ano": "2026",
+    "lat": -23.4024889,
+    "lng": -51.9170949,
+    "telefone": "44999560468",
+    "horarios": "Terça-feira: 17h30 – 23h30 | Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 23h30 | Sábado: 17h30 – 23h30 | Domingo: 17h30 – 23h30",
+    "fotos": [
+      "stop-bar_contrafile-do-chef.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Contrafilé do chef",
+        "descricao": "Tiras de contrafilé acebolado na chapa, com brócolis, mandioca frita, servidas com torrada, acompanhadas de maionese da casa, pimenta em conserva, farinha e chimichurri.",
+        "foto": "stop-bar_contrafile-do-chef.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/stop-bar/"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "slug": "armazem-du-chefe",
+    "nome": "Armazém Du Chefe",
+    "endereco": "Rua Rodolfo Chermont, 1493 - Marambaia",
+    "bairro": "Marambaia",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.3962057,
+    "lng": -48.4540177,
+    "telefone": "91984473586",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 2h | Sábado: 11h – 2h | Domingo: 11h – 0h",
+    "fotos": [
+      "armazem-du-chefe_bolinho-de-cupim-com-tuile-de-jambu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de cupim com tuile de jambu",
+        "descricao": "Bolinho de cupim com tuile de jambu, acompanha maionese de chicória e mostarda.",
+        "foto": "armazem-du-chefe_bolinho-de-cupim-com-tuile-de-jambu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-du-chefe/"
+  },
+  {
+    "id": 2,
+    "slug": "barao-bistro",
+    "nome": "Barão Bistro",
+    "endereco": "Av. Marquês de Herval, 1405",
+    "bairro": "Pedreira",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4285628,
+    "lng": -48.4689117,
+    "telefone": "91981171330",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30 | Domingo: 18h – 23h30",
+    "fotos": [
+      "barao-bistro_farofa-amazonica.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Farofa Amazônica",
+        "descricao": "Farofa de pirarucu com cheiro-verde e banana-da-terra frita, acompanhada de molho lambão à paraense, homus de feijão-branco e cebola caramelizada com missô.",
+        "foto": "barao-bistro_farofa-amazonica.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barao-bistro/"
+  },
+  {
+    "id": 3,
+    "slug": "boteco-do-bacu",
+    "nome": "Boteco do Bacú",
+    "endereco": "Rua Triunvirato, 303",
+    "bairro": "Cidade Velha",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4629003,
+    "lng": -48.5007188,
+    "telefone": "91988474887",
+    "horarios": "Segunda-feira: 11h – 15h e 18h – 0h | Terça-feira: 11h – 15h e 18h – 0h | Quarta-feira: 11h – 15h e 18h – 0h | Quinta-feira: 11h – 15h e 18h – 0h | Sexta-feira: 11h – 15h e 18h – 0h | Sábado: 11h – 0h | Domingo: 11h – 16h",
+    "fotos": [
+      "boteco-do-bacu_bolinho-da-tia-jo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho da tia Jô",
+        "descricao": "Bolinhos de pirarucu recheados de queijo muçarela, acompanhados de molho de redução de tucupi à moda da casa.",
+        "foto": "boteco-do-bacu_bolinho-da-tia-jo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-bacu/"
+  },
+  {
+    "id": 4,
+    "slug": "24713-revision-v1",
+    "nome": "Caldos & Cia Bar e Restaurante",
+    "endereco": "Avenida Marquês de Herval, 1364",
+    "bairro": "Pedreira",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4286147,
+    "lng": -48.4684215,
+    "telefone": "91986147765",
+    "horarios": "Segunda-feira: 11h30 – 15h e 18h – 0h | Terça-feira: 11h30 – 15h e 18h – 0h | Quarta-feira: 11h30 – 15h e 18h – 0h | Quinta-feira: 11h30 – 15h e 18h – 0h | Sexta-feira: 11h30 – 2h | Sábado: 11h30 – 2h | Domingo: 11h30 – 0h",
+    "fotos": [
+      "caldos-cia-bar-e-restaurante_egua-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Égua do sertão",
+        "descricao": "Carne de sol mergulhada num creme de nata temperado com alho, cebola e alho-poró e temperos da casa, acompanhada de uma torrada com manteiga e ervas.",
+        "foto": "caldos-cia-bar-e-restaurante_egua-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/24713-revision-v1/"
+  },
+  {
+    "id": 5,
+    "slug": "cervejaria-uriboca",
+    "nome": "Cervejaria Uriboca",
+    "endereco": "R. Bernal do Couto, 579",
+    "bairro": "Umarizal",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4412902,
+    "lng": -48.485163,
+    "telefone": "91984447796",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h",
+    "fotos": [
+      "cervejaria-uriboca_bao-to-no-tucupi.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bao-to no tucupi",
+        "descricao": "Pão de jambu cozido no vapor com recheio de pato desfiado e maionese de tucupi e chicória do Pará.",
+        "foto": "cervejaria-uriboca_bao-to-no-tucupi.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cervejaria-uriboca/"
+  },
+  {
+    "id": 6,
+    "slug": "clube-do-espeto-grill",
+    "nome": "Clube do Espeto Grill",
+    "endereco": "Av. Duque de Caxias, 987",
+    "bairro": "Marco",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4321009,
+    "lng": -48.4636183,
+    "telefone": "(91) 92002-9181 | (91) 3352-3970",
+    "horarios": "Segunda-feira: 18h30 – 23h | Terça-feira: 18h30 – 23h | Quarta-feira: 18h30 – 23h | Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h | Sábado: 11h30 – 15h e 18h30 – 23h | Domingo: 11h30 – 15h",
+    "fotos": [
+      "clube-do-espeto-grill_bendito-cupim.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bendito cupim",
+        "descricao": "Bolinhos de cupim com requeijão e alho-poró, servidos com geleia de cupuaçu e pimenta-rosa.",
+        "foto": "clube-do-espeto-grill_bendito-cupim.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/clube-do-espeto-grill/"
+  },
+  {
+    "id": 7,
+    "slug": "confraria-do-fraga",
+    "nome": "Confraria do Fraga",
+    "endereco": "R. Veiga Cabral, 439",
+    "bairro": "Cidade Velha",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4645389,
+    "lng": -48.5000684,
+    "telefone": "91986277871",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "confraria-do-fraga_carimbo-sirimbo-siria-no-tucupi-do-tacaca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Carimbó, sirimbó, siriá no tucupi do tacacá",
+        "descricao": "Bolinhos de maniçoba de pato e pernil de porco, refogados na cachaça de jambu e tucupi, com recheio de camarão regional, muçarela, cheiro-verde, jambu, alho, cebola, chicória e empanados na farinha bragantina com alfavaca e panko.",
+        "foto": "confraria-do-fraga_carimbo-sirimbo-siria-no-tucupi-do-tacaca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/confraria-do-fraga/"
+  },
+  {
+    "id": 8,
+    "slug": "eguatche",
+    "nome": "Eguatchê",
+    "endereco": "Avenida Santarém, 670",
+    "bairro": "Marambaia",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.3954958,
+    "lng": -48.4577349,
+    "telefone": "(91) 98151-4471 | (91) 98193-0211",
+    "horarios": "Segunda-feira: 19h – 23h | Terça-feira: 19h – 23h | Quarta-feira: 19h – 23h | Quinta-feira: 19h – 0h | Sexta-feira: 19h – 0h | Sábado: 19h – 0h | Domingo: 11h – 15h",
+    "fotos": [
+      "eguatche_amoela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Amoela",
+        "descricao": "Moela envolvida por lâminas de bacon intercaladas com cubos de queijo coalho coberto com uma camada crocante. Servida com molho de couve-flor e rúcula levemente picante, sobre uma camada de farofa de tapioca.",
+        "foto": "eguatche_amoela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/eguatche/"
+  },
+  {
+    "id": 9,
+    "slug": "espetinho-do-fabricio",
+    "nome": "Espetinho do Fabrício",
+    "endereco": "Trav. Cristóvão Colombo, 1439",
+    "bairro": "Cruzeiro (Icoaraci)",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.2985908,
+    "lng": -48.4886559,
+    "telefone": "91983866367",
+    "horarios": "Segunda-feira: 19h – 2h | Quarta-feira: 19h – 2h | Quinta-feira: 19h – 2h | Sexta-feira: 19h – 2h | Sábado: 19h – 2h | Domingo: 19h – 2h",
+    "fotos": [
+      "espetinho-do-fabricio_enroladinho-de-costela-bovina-no-bafo.png"
+    ],
+    "pratos": [
+      {
+        "nome": "Enroladinho de costela bovina no bafo",
+        "descricao": "Enroladinho com massa de pão recheada com purê de batata e costela bovina, ao molho de vinagrete picante.",
+        "foto": "espetinho-do-fabricio_enroladinho-de-costela-bovina-no-bafo.png"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetinho-do-fabricio/"
+  },
+  {
+    "id": 10,
+    "slug": "flor-do-grao-para",
+    "nome": "Flor do Grão Pará",
+    "endereco": "Travessa Nove de Janeiro, 2233",
+    "bairro": "Cremação",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4614797,
+    "lng": -48.4753118,
+    "telefone": "91988398989",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "flor-do-grao-para_cestinho-de-marinada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cestinho de marinada",
+        "descricao": "Marinada de legumes e verduras.",
+        "foto": "flor-do-grao-para_cestinho-de-marinada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/flor-do-grao-para/"
+  },
+  {
+    "id": 11,
+    "slug": "kassahara-boteco",
+    "nome": "Kassahara Boteco",
+    "endereco": "WE 9B, 231",
+    "bairro": "Coqueiro",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.3382549,
+    "lng": -48.4388784,
+    "telefone": "91982512023",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 2h | Sábado: 17h – 2h | Domingo: 17h – 0h",
+    "fotos": [
+      "kassahara-boteco_boca-de-jambu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boca de Jambu",
+        "descricao": "Rolinhos de filé-mignon, recheados com queijos condimentados e especiarias regionais, semicobertos com creme de queijo e farofa de castanha-do-pará. Servidos com geleia de bacon, maionese de jambu, molho de pimenta do Kassahara e palitos de macaxeira frita.",
+        "foto": "kassahara-boteco_boca-de-jambu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kassahara-boteco/"
+  },
+  {
+    "id": 12,
+    "slug": "manga-pub",
+    "nome": "Manga Pub",
+    "endereco": "Av. Cmte. Brás de Aguiar, 492",
+    "bairro": "Nazaré",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "91988396255",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "manga-pub_o-encontro-dos-titas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O encontro dos titãs",
+        "descricao": "Três pares de bolinhos com massa original de batata e cenoura, que envolvem recheios de camarão, filhote e charque. Acompanhados de duas opções de geleias: açaí agridoce e manga picante. Além disso, crocantes folhas de jambu crispy e porção de manga à moda do chefe.",
+        "foto": "manga-pub_o-encontro-dos-titas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/manga-pub/"
+  },
+  {
+    "id": 13,
+    "slug": "o-portuga-gastro-bar",
+    "nome": "O Portuga Gastro Bar",
+    "endereco": "Travessa WE 16, 172 -Cidade Nova",
+    "bairro": "Cidade Nova",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.3682457,
+    "lng": -48.4067117,
+    "telefone": "91980781010",
+    "horarios": "Terça-feira: 18h30 – 23h | Quarta-feira: 18h30 – 23h | Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h30 | Sábado: 18h30 – 23h30 | Domingo: 18h30 – 23h30",
+    "fotos": [
+      "o-portuga-gastro-bar_croque-do-portuga.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croque do Portuga",
+        "descricao": "Croquete de costela bovina bem temperadinha, massa com pimenta-biquinho e uma porção de queijo muçarela, acompanhado da maionese de jambu campeã.",
+        "foto": "o-portuga-gastro-bar_croque-do-portuga.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-portuga-gastro-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "paladar-gi",
+    "nome": "Paladar Gi",
+    "endereco": "Travessa WE-51, 221",
+    "bairro": "Coqueiro",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.3428334,
+    "lng": -48.448658,
+    "telefone": "91980308174",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "paladar-gi_empanadas-brasileiras.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Empanadas Brasileiras",
+        "descricao": "Empanadas de chouriço e carne-seca, com um toque de brócolis e a cremosidade do queijo de búfala. Acompanha crocantes chips de banana-da-terra, servidos com nossa exclusiva maionese de tucupi e um suave e tropical cremoso de pupunha.",
+        "foto": "paladar-gi_empanadas-brasileiras.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/paladar-gi/"
+  },
+  {
+    "id": 15,
+    "slug": "pileque-boteco",
+    "nome": "Pileque Boteco",
+    "endereco": "R. Diogo Móia, 947",
+    "bairro": "Umarizal",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4421512,
+    "lng": -48.4807636,
+    "telefone": "91981160505",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h | Domingo: 15h – 22h",
+    "fotos": [
+      "pileque-boteco_ragu-de-porco-com-pure-de-mandioquinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ragu de porco com purê de mandioquinha",
+        "descricao": "Purê de mandioquinha cremoso com um ragu de porco bem temperado.",
+        "foto": "pileque-boteco_ragu-de-porco-com-pure-de-mandioquinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pileque-boteco/"
+  },
+  {
+    "id": 16,
+    "slug": "pimenta-na-cuia",
+    "nome": "Pimenta na Cuia",
+    "endereco": "Av. Almirante Tamandaré, 123",
+    "bairro": "Cidade Velha",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4614194,
+    "lng": -48.5029843,
+    "telefone": "91982556367",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "pimenta-na-cuia_rolinho-paidegua-de-pirarucu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rolinho Paidegua de Pirarucu",
+        "descricao": "Rolinho de repolho recheado com pirarucu ao molho de tucupi reduzido com jambu e banana-da-terra.",
+        "foto": "pimenta-na-cuia_rolinho-paidegua-de-pirarucu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pimenta-na-cuia/"
+  },
+  {
+    "id": 17,
+    "slug": "potoca-breja-e-broca",
+    "nome": "Potoca Breja e Broca",
+    "endereco": "Avenida Marquês de Herval, 954",
+    "bairro": "Pedreira",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4318547,
+    "lng": -48.4705892,
+    "telefone": "(91) 9198946-2513",
+    "horarios": "Terça-feira: 17h30 – 2h | Quarta-feira: 17h30 – 2h | Quinta-feira: 17h30 – 2h | Sexta-feira: 17h30 – 2h | Sábado: 17h30 – 2h | Domingo: 17h30 – 2h",
+    "fotos": [
+      "potoca-breja-e-broca_cupim-de-miriti.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim de Miriti",
+        "descricao": "Charutos de cupim desfiado, recheados com queijo muçarela, cobertos com crispy de cebola-roxa e sobrepostos em emulsão de alho-poró, finalizados com couve desidratada. Acompanhado de geleia de bacuri picante.",
+        "foto": "potoca-breja-e-broca_cupim-de-miriti.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/potoca-breja-e-broca/"
+  },
+  {
+    "id": 18,
+    "slug": "quintal-meraki",
+    "nome": "Quintal Meraki",
+    "endereco": "Tv. Bom Jardim, 67",
+    "bairro": "Cidade Velha",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4611869,
+    "lng": -48.5012103,
+    "telefone": "91974009759",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 12h – 15h30",
+    "fotos": [
+      "quintal-meraki_mar-e-terra-filhote-maracuja-e-alho-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mar e terra: filhote, maracujá e alho-poró",
+        "descricao": "Filhote assado na brasa, com chutney de maracujá e farofa crocante de alho-poró.",
+        "foto": "quintal-meraki_mar-e-terra-filhote-maracuja-e-alho-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-meraki/"
+  },
+  {
+    "id": 19,
+    "slug": "skina-queen",
+    "nome": "Skina Queen",
+    "endereco": "Rua do Arsenal, 289",
+    "bairro": "Cidade Velha",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4659703,
+    "lng": -48.5023454,
+    "telefone": "91982585678",
+    "horarios": "Terça-feira: 18h – 1h | Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 2h | Sábado: 18h – 2h | Domingo: 18h – 1h",
+    "fotos": [
+      "skina-queen_viagem-amazonica.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Viagem Amazônica",
+        "descricao": "Bolinhos feitos com massa de macaxeira e jambu, empanados na farinha panko e fritos até dourar. Acompanhados por creme de pirarucu: lascas do pirarucu dessalgado, salteadas no azeite e finalizadas com creme de ervas regionais. Molho Arubé: redução intensa de tucupi e pesto paraense – mistura de jambu, castanha-do-pará, azeitonas verdes e azeite de oliva.",
+        "foto": "skina-queen_viagem-amazonica.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/skina-queen/"
+  },
+  {
+    "id": 20,
+    "slug": "so-porco-torresmo-e-cia",
+    "nome": "Só Porco Torresmo e Cia",
+    "endereco": "Avenida Marquês de Herval, 1201",
+    "bairro": "Pedreira",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": -1.4300966,
+    "lng": -48.4699509,
+    "telefone": "91985760337",
+    "horarios": "Terça-feira: 11h – 14h30 | Quarta-feira: 11h – 14h30 e 17h – 21h | Quinta-feira: 11h – 14h30 e 17h – 21h | Sexta-feira: 11h – 14h30 e 17h – 21h | Sábado: 10h30 – 15h | Domingo: 10h30 – 15h",
+    "fotos": [
+      "so-porco-torresmo-e-cia_um-porco-frito-pra-nos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Um porco frito pra nós",
+        "descricao": "Pedaços pequenos de porco bem fritinho com detalhes de molho agridoce e um chucrute bem brasileiro e um picles agridoce para acompanhar.",
+        "foto": "so-porco-torresmo-e-cia_um-porco-frito-pra-nos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/so-porco-torresmo-e-cia/"
+  },
+  {
+    "id": 21,
+    "slug": "29912-autosave-v1",
+    "nome": "Terramar Restô",
+    "endereco": "Tv. WE Vinte e Cinco, 161",
+    "bairro": "Coqueiro",
+    "cidade": "Belém",
+    "cidade_slug": "belem",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "91982241590",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 15h | Quarta-feira: 11h – 15h | Quinta-feira: 11h – 15h | Sexta-feira: 11h – 15h e 19h – 23h | Sábado: 11h – 15h e 19h – 23h | Domingo: 11h – 15h e 19h – 23h",
+    "fotos": [
+      "terramar-resto_marujada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Marujada",
+        "descricao": "Pastel de massa artesanal com recheio de pirarucu com jambu e queijo de búfala do Marajó, acompanhado de maionese de chicória e geleia de açaí.",
+        "foto": "terramar-resto_marujada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/29912-autosave-v1/"
+  }
+]

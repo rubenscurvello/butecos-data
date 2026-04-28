@@ -1,0 +1,1519 @@
+[
+  {
+    "id": 1,
+    "slug": "1-poco-loco",
+    "nome": "1 Poco Loco",
+    "endereco": "Rua Eduardo Tozzi, 115",
+    "bairro": "Jaguariuna",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "19994737373",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 23h | Sábado: 11h – 23h | Domingo: 11h – 18h",
+    "fotos": [
+      "1-poco-loco_burrito-loco-veg.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Burrito Loco Veg",
+        "descricao": "Burrito recheado com farofa de couve-flor & brócolis no azeite ao funghi, mix de cogumelos e uma salada oriental com cenoura, abobrinha e maçã-verde. Servidos com maionese de pequi e uma dose de cachaça de pequi.",
+        "foto": "1-poco-loco_burrito-loco-veg.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/1-poco-loco/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-da-loira",
+    "nome": "Bar da Loira",
+    "endereco": "R. Conselheiro Martim Francisco, 443",
+    "bairro": "Jardim Campos Elíseos",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9227295,
+    "lng": -47.102959,
+    "telefone": "19995514768",
+    "horarios": "Segunda-feira: 11h – 14h30 | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h",
+    "fotos": [
+      "bar-da-loira_croc-rib-bbq.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croc Rib BBQ",
+        "descricao": "Costelinha suína em ripa, assada ao molho de BBQ, empanada com farinha panko. Acompanha molho de rúcula.",
+        "foto": "bar-da-loira_croc-rib-bbq.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-loira/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-da-vila",
+    "nome": "Bar da Vila",
+    "endereco": "R. Madalena Barbosa Ferreira, 178",
+    "bairro": "Vila Lemos",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9221769,
+    "lng": -47.0343546,
+    "telefone": "19999779942",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 10h – 22h | Domingo: 8h – 15h",
+    "fotos": [
+      "bar-da-vila_porpeta-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porpeta do Popeye",
+        "descricao": "Porpeta de fraldinha com espinafre. Acompanha maionese de hortelã e vinagrete de maracujá.",
+        "foto": "bar-da-vila_porpeta-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-vila/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-do-bau-2",
+    "nome": "Bar do Bau",
+    "endereco": "Av. Francisco de Paula Oliveira Nazareth, 1193",
+    "bairro": "Parque Industrial",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9200994,
+    "lng": -47.0856176,
+    "telefone": "1932728062",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h",
+    "fotos": [
+      "bar-do-bau_petisco-da-chef.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Petisco da Chef",
+        "descricao": "Bolinhos de carne-seca recheados com alho-poró, cream cheese e um toque de mel. Acompanha maionese especial da casa.",
+        "foto": "bar-do-bau_petisco-da-chef.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-bau-2/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-do-braz",
+    "nome": "Bar do Braz",
+    "endereco": "Rua Itapecerica da Serra, 1445",
+    "bairro": "Cidade Jardim",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.918695,
+    "lng": -47.0966069,
+    "telefone": "1932691672",
+    "horarios": "Segunda-feira: 12h – 22h30 | Terça-feira: 12h – 22h30 | Quarta-feira: 12h – 22h30 | Quinta-feira: 12h – 22h30 | Sexta-feira: 12h – 22h30 | Sábado: 12h – 19h30",
+    "fotos": [
+      "bar-do-braz_olivia-palito.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Olívia Palito",
+        "descricao": "Palitos de massa de pastel recheados de espinafre, gorgonzola e muçarela. Acompanha vinagrete de espinafre.",
+        "foto": "bar-do-braz_olivia-palito.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-braz/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-do-cacao",
+    "nome": "Bar do Cação",
+    "endereco": "Av. Doutor Armando Sales de Oliveira, 55",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8807472,
+    "lng": -47.0513992,
+    "telefone": "1932557346",
+    "horarios": "Segunda-feira: 17h – 22h30 | Terça-feira: 17h – 22h30 | Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 22h30 | Sábado: 12h30 – 22h30",
+    "fotos": [
+      "bar-do-cacao_maresias.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maresias",
+        "descricao": "Empadas de camarão com alho-poró.",
+        "foto": "bar-do-cacao_maresias.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-cacao/"
+  },
+  {
+    "id": 7,
+    "slug": "3330-revision-v1",
+    "nome": "Bar do Carioca",
+    "endereco": "R. Erasmo Braga, 1067",
+    "bairro": "Jardim Chapadão",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8942899,
+    "lng": -47.077822,
+    "telefone": "1932120968",
+    "horarios": "Segunda-feira: 16h30 – 23h | Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "bar-do-carioca_moderacao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Moderação",
+        "descricao": "Coxinhas de arancini com camarão e cabotiá, recheadas de queijo e couve, empanadas com mix de farinhas crocantes.",
+        "foto": "bar-do-carioca_moderacao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3330-revision-v1/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-do-durante",
+    "nome": "Bar do Durante",
+    "endereco": "Praça Menegon, 93",
+    "bairro": "Vila São José",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "19998679633",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 13h – 20h | Domingo: 10h – 14h",
+    "fotos": [
+      "bar-do-durante_torresmo-de-rolo-defumado-a-pururuca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Torresmo de Rolo defumado à Pururuca.",
+        "descricao": "Torresmo defumado em lenha frutífera, temperado e enrolado artesanalmente. Acompanha geleia de pimenta caseira, limão, pimenta-biquinho e salada de rúcula com molho caseiro e alho-poró frito.",
+        "foto": "bar-do-durante_torresmo-de-rolo-defumado-a-pururuca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-durante/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-furlan",
+    "nome": "Bar do Furlan",
+    "endereco": "R. Dr. Delfino Cintra, 539",
+    "bairro": "Botafogo",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8998134,
+    "lng": -47.0680082,
+    "telefone": "1932342747",
+    "horarios": "Segunda-feira: 11h30 – 14h e 18h – 22h30 | Terça-feira: 11h30 – 14h e 18h – 22h30 | Quarta-feira: 11h30 – 14h e 18h – 22h30 | Quinta-feira: 11h30 – 14h e 18h – 22h30 | Sexta-feira: 11h30 – 14h e 18h – 22h30 | Sábado: 12h – 19h",
+    "fotos": [
+      "bar-do-furlan_mery-lu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mery Lu",
+        "descricao": "Porção de filé de frango em cubos com tempero especial do chef. Acompanha farofa de acelga, fatias de pão e pimenta da casa.",
+        "foto": "bar-do-furlan_mery-lu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-furlan/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-do-leo",
+    "nome": "Bar do Léo",
+    "endereco": "R. José dos Santos, 260",
+    "bairro": "Jardim Aurélia",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9098202,
+    "lng": -47.0996491,
+    "telefone": "19992182405",
+    "horarios": "Segunda-feira: 11h30 – 15h | Terça-feira: 11h30 – 15h | Quarta-feira: 11h30 – 15h e 17h30 – 22h | Quinta-feira: 11h30 – 15h e 17h30 – 22h | Sexta-feira: 11h30 – 15h e 17h30 – 22h | Sábado: 11h30 – 21h | Domingo: 11h30 – 17h",
+    "fotos": [
+      "bar-do-leo_lingua-da-perpetua.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Língua da Perpétua",
+        "descricao": "Cebola-roxa recheada com língua e um creme de queijo com brócolis e acelga.",
+        "foto": "bar-do-leo_lingua-da-perpetua.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-leo/"
+  },
+  {
+    "id": 11,
+    "slug": "3707-revision-v1",
+    "nome": "Bar do Luis",
+    "endereco": "R. Paraná, 216",
+    "bairro": "São Bernardo",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9216418,
+    "lng": -47.0742782,
+    "telefone": "19974151183",
+    "horarios": "Terça-feira: 10h – 22h | Quarta-feira: 10h – 22h | Quinta-feira: 10h – 22h | Sexta-feira: 10h – 22h | Sábado: 10h – 22h | Domingo: 10h – 21h",
+    "fotos": [
+      "bar-do-luis_musculo-maravilha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Músculo Maravilha",
+        "descricao": "Músculo com batata, cenoura e repolho na pressão. Servido com baguete e pimenta-biquinho.",
+        "foto": "bar-do-luis_musculo-maravilha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3707-revision-v1/"
+  },
+  {
+    "id": 12,
+    "slug": "bar-do-nicola",
+    "nome": "Bar do Nicola",
+    "endereco": "R. Dona Maria Umbelina Couto, 644",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8829057,
+    "lng": -47.0552876,
+    "telefone": "1932950940",
+    "horarios": "Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 22h | Sábado: 12h – 22h",
+    "fotos": [
+      "bar-do-nicola_mamma-arlete.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mamma Arlete",
+        "descricao": "Lanche servido na massa da pizza com sabor de alho-poró e recheio de carne desfiada cozida à exaustão, com queijo e agrião. Acompanha maionese da casa.",
+        "foto": "bar-do-nicola_mamma-arlete.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-nicola/"
+  },
+  {
+    "id": 13,
+    "slug": "bar-do-portugues",
+    "nome": "Bar do Português",
+    "endereco": "R. Antônio Cezarino, 497",
+    "bairro": "Centro",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9015772,
+    "lng": -47.0549643,
+    "telefone": "19974052606",
+    "horarios": "Segunda-feira: 15h – 22h30 | Terça-feira: 15h – 22h30 | Quarta-feira: 15h – 22h30 | Quinta-feira: 15h – 22h30 | Sexta-feira: 15h – 22h30 | Sábado: 12h – 22h30",
+    "fotos": [
+      "bar-do-portugues_don-lagarto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Don Lagarto",
+        "descricao": "Lanche de carpaccio de lagarto com antepasto de azeitona verde e preta, tomate seco e cream cheese, antepasto de berinjela, provolone e rúcula. Acompanha roletes de batata crocante e geleia de pimenta.",
+        "foto": "bar-do-portugues_don-lagarto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-portugues/"
+  },
+  {
+    "id": 14,
+    "slug": "23011-revision-v1",
+    "nome": "Bar do Rafa",
+    "endereco": "Av. Benjamin Constant, 0",
+    "bairro": "Mercado Municipal",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.906478,
+    "lng": -47.0690452,
+    "telefone": "19983164328",
+    "horarios": "Segunda-feira: 7h – 17h30 | Terça-feira: 7h – 17h30 | Quarta-feira: 7h – 17h30 | Quinta-feira: 7h – 17h30 | Sexta-feira: 7h – 17h30 | Sábado: 7h – 16h",
+    "fotos": [
+      "bar-do-rafa_mafufo-do-mercadao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mafufo do Mercadão",
+        "descricao": "Charuto de repolho e carne moída com molho de tomate.",
+        "foto": "bar-do-rafa_mafufo-do-mercadao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/23011-revision-v1/"
+  },
+  {
+    "id": 15,
+    "slug": "bar-do-saulo-2",
+    "nome": "Bar do Saulo",
+    "endereco": "Avenida Guarani, 341",
+    "bairro": "Jardim Guarani",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9167091,
+    "lng": -47.0413159,
+    "telefone": "1933255860",
+    "horarios": "Segunda-feira: 17h – 22h | Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "bar-do-saulo_67-anos-do-bar-do-saulo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "67 anos do Bar do Saulo",
+        "descricao": "Salgadinho com massa de batata, recheado com fraldinha, presunto, muçarela, cream cheese e alho-poró enrolado no bacon.",
+        "foto": "bar-do-saulo_67-anos-do-bar-do-saulo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-saulo-2/"
+  },
+  {
+    "id": 16,
+    "slug": "bar-dom-dama",
+    "nome": "Bar Dom Dama",
+    "endereco": "Av. Barão de Itapura, 3404",
+    "bairro": "Jardim Campinas",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8959939,
+    "lng": -47.0672317,
+    "telefone": "(19) 99890-4822 | (19) 97152-9115",
+    "horarios": "Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 23h30 | Sábado: 12h30 – 23h30 | Domingo: 12h30 – 19h30",
+    "fotos": [
+      "bar-dom-dama_uai-grilo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Uai, Grilo",
+        "descricao": "Risole com massa de milho com recheio de galinhada cremosa, com brócolis, alho-poró, quiabo e milho. Acompanha molho caipira de frango 100% natural, sem conservantes.",
+        "foto": "bar-dom-dama_uai-grilo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-dom-dama/"
+  },
+  {
+    "id": 17,
+    "slug": "bar-dona-flor",
+    "nome": "Bar Dona Flor",
+    "endereco": "R. Doutor Rafael Sales, 828",
+    "bairro": "Bonfim",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.898159,
+    "lng": -47.082008,
+    "telefone": "1933424117",
+    "horarios": "Segunda-feira: 11h – 22h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-dona-flor_rustico-sistematico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rústico & Sistemático",
+        "descricao": "Baguete com linguiça caipira, bacon, muçarela, catupiry, pimentão, vinagrete e rúcula. Acompanha fritas e molho de pimenta.",
+        "foto": "bar-dona-flor_rustico-sistematico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-dona-flor/"
+  },
+  {
+    "id": 18,
+    "slug": "bar-du-6",
+    "nome": "Bar Du 6",
+    "endereco": "R. Dr. Buarque de Macedo, 695",
+    "bairro": "Jardim Brasil",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "19981211315",
+    "horarios": "Terça-feira: 17h30 – 22h30 | Quarta-feira: 17h30 – 22h30 | Quinta-feira: 17h30 – 22h30 | Sexta-feira: 17h30 – 22h30 | Sábado: 17h30 – 22h30",
+    "fotos": [
+      "bar-du-6_cupimzika-com-bolinhos-de-arroz-do-hexa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "CUPIMZIKA com bolinhos de arroz do hexa",
+        "descricao": "Lanchinho boca de anjo tradicional no pão francês, recheado com cupim marinado em especiarias, queijo prato, rúcula e vinagrete de tomates, cebolas e palmito. Acompanha bolinhos de arroz com espinafre e dois queijos.",
+        "foto": "bar-du-6_cupimzika-com-bolinhos-de-arroz-do-hexa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-du-6/"
+  },
+  {
+    "id": 19,
+    "slug": "bar-lumen",
+    "nome": "Bar Lumen",
+    "endereco": "R. Dr. Gustavo Rodrigues Pereira Dutra, 21",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8957273,
+    "lng": -47.0380162,
+    "telefone": "1932512637",
+    "horarios": "Segunda-feira: 12h – 23h | Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "bar-lumen_casadinho-lumen.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Casadinho Lumen",
+        "descricao": "Coxinha recheada de frango com alho-poró e catupiry e croquete de carne da casa. Acompanha molho e pimenta da casa.",
+        "foto": "bar-lumen_casadinho-lumen.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-lumen/"
+  },
+  {
+    "id": 20,
+    "slug": "bar-seo-fabinho",
+    "nome": "Bar Seo Fabinho",
+    "endereco": "Av. Eng. Augusto Figueiredo, 2799",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9358032,
+    "lng": -47.0271336,
+    "telefone": "19989849514",
+    "horarios": "Segunda-feira: 7h – 22h | Terça-feira: 7h – 22h | Quarta-feira: 7h – 22h | Quinta-feira: 7h – 22h | Sexta-feira: 7h – 22h | Sábado: 7h – 22h",
+    "fotos": [
+      "bar-seo-fabinho_porpeta-de-espinaca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porpeta de Espinaca",
+        "descricao": "Porpeta de espinafre com queijo, servida com maionese de azeitona preta.",
+        "foto": "bar-seo-fabinho_porpeta-de-espinaca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-seo-fabinho/"
+  },
+  {
+    "id": 21,
+    "slug": "bardellas",
+    "nome": "Bardellas",
+    "endereco": "R. Rodolpho Liner, 10",
+    "bairro": "Jardim Londres",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9183403,
+    "lng": -47.1117178,
+    "telefone": "19987338487",
+    "horarios": "Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 16h – 23h | Domingo: 13h – 18h",
+    "fotos": [
+      "bardellas_mais-recheado-que-historia-da-vo-gessy.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mais recheado que história da Vó Gessy",
+        "descricao": "Lanche boquinha de anjo de linguiça com alho-poró e queijo coalho. No lanche, requeijão, escarola, bacon, vinagrete, queijo crispy e maionese defumada. Acompanha geleia de goiaba picante.",
+        "foto": "bardellas_mais-recheado-que-historia-da-vo-gessy.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bardellas/"
+  },
+  {
+    "id": 22,
+    "slug": "boro-botequim",
+    "nome": "Boró Botequim",
+    "endereco": "Avenida Palmital, 129",
+    "bairro": "campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8781092,
+    "lng": -47.0358449,
+    "telefone": "19983305573",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 18h",
+    "fotos": [
+      "boro-botequim_pacotinho-do-boro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pacotinho do Boró",
+        "descricao": "Trouxinhas de couve com cupim cremoso, castanhas e molho de ervas – adicionar a palavra castanhas",
+        "foto": "boro-botequim_pacotinho-do-boro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boro-botequim/"
+  },
+  {
+    "id": 23,
+    "slug": "18305-2",
+    "nome": "Boteco do Pezão",
+    "endereco": "R. Evaristo da Veiga, 111",
+    "bairro": "Jardim Santa Genebra",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8486948,
+    "lng": -47.0709028,
+    "telefone": "(19) 32084070 | (19) 992209127",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 12h – 22h",
+    "fotos": [
+      "boteco-do-pezao_panqueca-a-saborosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panqueca A Saborosa",
+        "descricao": "Panqueca de repolho recheada com carne desfiada, catupiry e queijo",
+        "foto": "boteco-do-pezao_panqueca-a-saborosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/18305-2/"
+  },
+  {
+    "id": 24,
+    "slug": "boteco-do-wilma",
+    "nome": "Boteco do Wilma",
+    "endereco": "Avenida Tancredo Neves, 149",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9526791,
+    "lng": -47.1004788,
+    "telefone": "(19) 98900-2799 | (19) 98900-2799",
+    "horarios": "Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 1h | Sábado: 17h – 1h",
+    "fotos": [
+      "boteco-do-wilma_verdinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Verdinha",
+        "descricao": "Abobrinha em conserva com acelga. Acompanha pão sírio.",
+        "foto": "boteco-do-wilma_verdinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-wilma/"
+  },
+  {
+    "id": 25,
+    "slug": "boteco-sem-frescura",
+    "nome": "Boteco Sem Frescura",
+    "endereco": "R. Doutor Betim, 594",
+    "bairro": "Vila Marieta",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9228759,
+    "lng": -47.0507468,
+    "telefone": "19983261865",
+    "horarios": "Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 11h30 – 22h | Sábado: 11h30 – 22h | Domingo: 11h30 – 17h",
+    "fotos": [
+      "boteco-sem-frescura_ta-dando-onda.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tá Dando Onda",
+        "descricao": "Pernil desfiado com catupiry, rúcula, queijo parmesão em uma barquinha crocante. Acompanha maionese de alho.",
+        "foto": "boteco-sem-frescura_ta-dando-onda.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-sem-frescura/"
+  },
+  {
+    "id": 26,
+    "slug": "botelhos-bar",
+    "nome": "Botelho’s Bar",
+    "endereco": "Rua Arlindo Catusso, 66",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9400434,
+    "lng": -47.0836178,
+    "telefone": "(19) 99197-4128",
+    "horarios": "Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 16h – 23h | Domingo: 16h – 23h | Segunda-feira: 16h – 23h",
+    "fotos": [
+      "botelho-s-bar_coracao-da-horta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coração da Horta",
+        "descricao": "Bolinhos dourados feitos com couve e bacon crocante, recheados com queijo cremoso. Acompanha molho de alho com orégano e molho verde.",
+        "foto": "botelho-s-bar_coracao-da-horta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botelhos-bar/"
+  },
+  {
+    "id": 27,
+    "slug": "botequim-de-barao",
+    "nome": "Botequim de Barão",
+    "endereco": "Avenida Santa Isabel, 513",
+    "bairro": "Barão Geraldo",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8243317,
+    "lng": -47.0829809,
+    "telefone": "19996999585",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "botequim-de-barao_1960.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "1960",
+        "descricao": "Boquinha de anjo gratinada com queijo, com coxa/sobrecoxa de frango grelhado como churrasco, pasta de tomate assada e creme de alho-poró.",
+        "foto": "botequim-de-barao_1960.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botequim-de-barao/"
+  },
+  {
+    "id": 28,
+    "slug": "botequim-pedro-ii",
+    "nome": "Botiquim Pedro II",
+    "endereco": "Av. Doutor Moraes Sales, 929",
+    "bairro": "Centro",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9053521,
+    "lng": -47.0504024,
+    "telefone": "1933429079",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "botiquim-pedro-ii_capitao-da-mae-joaninha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Capitão da Mãe Joaninha",
+        "descricao": "Bolinho de baião de dois com espinafre, recheado com carne-seca, queijo coalho, bacon e calabresa. Acompanham: pimenta-dedo-de-moça e maionese do chef.",
+        "foto": "botiquim-pedro-ii_capitao-da-mae-joaninha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botequim-pedro-ii/"
+  },
+  {
+    "id": 29,
+    "slug": "buteco-do-chicao",
+    "nome": "Buteco do Chicão",
+    "endereco": "Av. Barão de Itapura, 2159",
+    "bairro": "Jardim Guanabara",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8959939,
+    "lng": -47.0672317,
+    "telefone": "1932427586",
+    "horarios": "Terça-feira: 14h – 22h30 | Quarta-feira: 14h – 22h30 | Quinta-feira: 14h – 22h30 | Sexta-feira: 14h – 22h30 | Sábado: 14h – 22h30 | Domingo: 14h – 22h30",
+    "fotos": [
+      "buteco-do-chicao_popaye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popaye",
+        "descricao": "Boquinha de anjo de pernil, recheada com espinafre, provolone, bacon e azeitona, queijo prato, tomate e espinafre. Acompanha maionese especial da casa.",
+        "foto": "buteco-do-chicao_popaye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-chicao/"
+  },
+  {
+    "id": 30,
+    "slug": "buteco-vida-dura",
+    "nome": "Buteco Vida Dura",
+    "endereco": "R. Pico do Itatiaia, 98",
+    "bairro": "Jardim Everest",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "19991285267",
+    "horarios": "Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 11h30 – 23h",
+    "fotos": [
+      "buteco-vida-dura_maminha-do-nordeste.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maminha do Nordeste",
+        "descricao": "Carne de sol, purê de mandioca com queijo parmesão e alho-poró e banana-da-terra grelhada.",
+        "foto": "buteco-vida-dura_maminha-do-nordeste.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-vida-dura/"
+  },
+  {
+    "id": 31,
+    "slug": "cantina-85",
+    "nome": "Cantina 85",
+    "endereco": "R. Nazaré Paulista, 858",
+    "bairro": "Chácara da Barra",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8919484,
+    "lng": -47.0374258,
+    "telefone": "19983659664",
+    "horarios": "Terça-feira: 9h – 22h | Quarta-feira: 9h – 22h | Quinta-feira: 9h – 22h | Sexta-feira: 9h – 22h | Sábado: 9h – 22h | Domingo: 9h – 19h",
+    "fotos": [
+      "cantina-85_pancedilha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pancedilha",
+        "descricao": "Quesadilha com massa de rúcula e recheio de panceta defumada, cream cheese, rúcula, alho-poró e cheiro-verde. Servido em uma cama de repolho roxo no tempero de gengibre e pimenta-dedo-de-moça. Acompanha sour cream de abacaxi com jalapeño.",
+        "foto": "cantina-85_pancedilha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantina-85/"
+  },
+  {
+    "id": 32,
+    "slug": "casquinha-bar",
+    "nome": "Casquinha Bar",
+    "endereco": "R. Doutor Sampaio Ferraz, 496",
+    "bairro": "Cambuí",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8919745,
+    "lng": -47.0502282,
+    "telefone": "19974140534",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "casquinha-bar_panelinha-de-bacalhau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panelinha de Bacalhau",
+        "descricao": "Refogadinho de bacalhau com creme de espinafre e couve crocante. Acompanha torradinha.",
+        "foto": "casquinha-bar_panelinha-de-bacalhau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casquinha-bar/"
+  },
+  {
+    "id": 33,
+    "slug": "cesarios-bar",
+    "nome": "Cesario’s Bar",
+    "endereco": "Avenida Francisco Glicério, 511",
+    "bairro": "Centro",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8962937,
+    "lng": -47.0662928,
+    "telefone": "19992394005",
+    "horarios": "Segunda-feira 15h–22h | Terça-feira 15h–22h | Quarta-feira 15h-22h | Quinta-feira 15h-22h | Sexta-feira 15h-22h | Sábado 12h–22h | Domingo 12h–20h",
+    "fotos": [
+      "cesario-s-bar_diferenciado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Diferenciado!",
+        "descricao": "Porção de seis bolinhos de jiló recheados com couve-flor, gorgonzola e bacon. Acompanha molho de pimenta.",
+        "foto": "cesario-s-bar_diferenciado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cesarios-bar/"
+  },
+  {
+    "id": 34,
+    "slug": "collab-bar",
+    "nome": "Collab Bar",
+    "endereco": "Avenida Doutor Arlindo Joaquim de Lemos, 1033",
+    "bairro": "Vila Lemos",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9132712,
+    "lng": -47.0436495,
+    "telefone": "19989349800",
+    "horarios": "Quarta-feira: 18h – 22h30 | Quinta-feira: 18h – 22h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30",
+    "fotos": [
+      "collab-bar_baba-baby.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Baba Baby",
+        "descricao": "Boquinha de anjo de fraldinha, rúcula, cebola-roxa, queijo muçarela e maionese da casa, com queijo derretido por cima. Acompanhando: molho de mostarda e mel",
+        "foto": "collab-bar_baba-baby.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/collab-bar/"
+  },
+  {
+    "id": 35,
+    "slug": "deck-269",
+    "nome": "Deck 269",
+    "endereco": "Rua Pirajui, 44",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.3554531,
+    "lng": -46.9422296,
+    "telefone": "19 99907-5609",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 15h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 22h",
+    "fotos": [
+      "deck-269_pasteizinhos-pororo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pasteizinhos Pororó",
+        "descricao": "Minipastel de alho-poró cremoso. Acompanha vinagrete de abobrinha.",
+        "foto": "deck-269_pasteizinhos-pororo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/deck-269/"
+  },
+  {
+    "id": 36,
+    "slug": "edu-bar-de-minas",
+    "nome": "Edu Bar de Minas",
+    "endereco": "R. Doutor Osvaldo Cruz, 808",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8834642,
+    "lng": -47.0626644,
+    "telefone": "(19) 3241-5018 | (19) 3241-5018",
+    "horarios": "Segunda-feira: 12h – 14h e 17h – 23h | Terça-feira: 12h – 14h e 17h – 23h | Quarta-feira: 12h – 14h e 17h – 23h | Quinta-feira: 12h – 14h e 17h – 23h | Sexta-feira: 12h – 14h e 17h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "edu-bar-de-minas_bolim-da-saudade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolim da Saudade",
+        "descricao": "Porção de bolinho de arroz, recheado com muçarela e pernil desfiado e refogado na manteiga com tempero da roça. Acompanha repolho curtido com gengibre e molho de pimenta da casa.",
+        "foto": "edu-bar-de-minas_bolim-da-saudade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/edu-bar-de-minas/"
+  },
+  {
+    "id": 37,
+    "slug": "emporio-d-primeira",
+    "nome": "Empório D’ Primeira",
+    "endereco": "R. São Bento, 140",
+    "bairro": "Jardim Nossa Senhora Auxiliadora",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8831572,
+    "lng": -47.0644474,
+    "telefone": "19997133853",
+    "horarios": "Segunda-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 17h",
+    "fotos": [
+      "emporio-d-primeira_cupim-verde-da-mamma.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim Verde da Mamma",
+        "descricao": "Cupim assado, servido com pesto de agrião e pão de cebola artesanal.",
+        "foto": "emporio-d-primeira_cupim-verde-da-mamma.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-d-primeira/"
+  },
+  {
+    "id": 38,
+    "slug": "3336-autosave-v1",
+    "nome": "Eskina Bar",
+    "endereco": "R. Horácio Leonardi, 12",
+    "bairro": "Barão Geraldo",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8279832,
+    "lng": -47.0798719,
+    "telefone": "1937225237",
+    "horarios": "Segunda-feira: 17h – 23h20 | Terça-feira: 17h – 23h20 | Quarta-feira: 17h – 23h20 | Quinta-feira: 17h – 23h50 | Sexta-feira: 17h – 0h50 | Sábado: 17h – 0h50 | Domingo: 17h – 23h20",
+    "fotos": [
+      "eskina-bar_queridinhos-da-vovo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Queridinhos da Vovó",
+        "descricao": "Bolinhos de mandioca recheados com rabada e agrião refogados no alho-poró e provolone. Acompanha batidinha do Eskina e saladinha de agrião.",
+        "foto": "eskina-bar_queridinhos-da-vovo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3336-autosave-v1/"
+  },
+  {
+    "id": 39,
+    "slug": "espaco-in-bar",
+    "nome": "Espaço In Bar",
+    "endereco": "Av. São José dos Campos, 1016",
+    "bairro": "Jd. Nova Europa",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9352186,
+    "lng": -47.0545337,
+    "telefone": "(19) 98996-8767 | (19) 98996-8767",
+    "horarios": "Segunda-feira: 17h – 22h | Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 22h | Sábado: 15h – 22h | Domingo: 15h – 20h",
+    "fotos": [
+      "espaco-in-bar_porco-espinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porco Espinho",
+        "descricao": "Bolinho de linguiças (suína e curada) recheado com couve, bacon e queijo prato. Acompanha geleia de pimenta e molho de ervas finas com limão-siciliano.",
+        "foto": "espaco-in-bar_porco-espinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espaco-in-bar/"
+  },
+  {
+    "id": 40,
+    "slug": "esquinao",
+    "nome": "Esquinão",
+    "endereco": "R. Coronel Alfredo Augusto do Nascimento, 62",
+    "bairro": "Sousas",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8790321,
+    "lng": -46.9608891,
+    "telefone": "(19) 99536-6188 | (19) 33243883",
+    "horarios": "Terça-feira: 11h – 21h30 | Quarta-feira: 11h – 21h30 | Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 19h",
+    "fotos": [
+      "esquinao_bolinho-de-pancs.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de PANCs",
+        "descricao": "Bolinho de taioba recheado com pernil. Acompanha maionese de ora-pro-nóbis e vinagrete com taioba.",
+        "foto": "esquinao_bolinho-de-pancs.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/esquinao/"
+  },
+  {
+    "id": 41,
+    "slug": "estacao-aquidaba",
+    "nome": "Estação Aquidabã",
+    "endereco": "Av. Francisco Glicério, 325",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8986053,
+    "lng": -47.0630391,
+    "telefone": "1933050805",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "estacao-aquidaba_bacalhau-do-aquidaba.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bacalhau do Aquidabã",
+        "descricao": "Bolinho de bacalhau com brócolis, batata e parmesão. Acompanha azeite de pimenta e alho.",
+        "foto": "estacao-aquidaba_bacalhau-do-aquidaba.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/estacao-aquidaba/"
+  },
+  {
+    "id": 42,
+    "slug": "estacao-nova-europa",
+    "nome": "Estação Nova Europa",
+    "endereco": "R. Maestro Jaime Lopes Diniz, 175",
+    "bairro": "Nova Europa",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9410783,
+    "lng": -47.0567379,
+    "telefone": "19999957332",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 12h – 22h30 | Sábado: 12h – 22h30 | Domingo: 11h30 – 17h",
+    "fotos": [
+      "estacao-nova-europa_pastel-da-roca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel da Roça",
+        "descricao": "Pastel de brócolis, bacon, requeijão e queijo. Empanado com queijo parmesão ralado. Acompanha vinagrete tropical.",
+        "foto": "estacao-nova-europa_pastel-da-roca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/estacao-nova-europa/"
+  },
+  {
+    "id": 43,
+    "slug": "f-b-i",
+    "nome": "F.B.I.",
+    "endereco": "Av. Paulo de Almeida Nogueira, 75",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8795845,
+    "lng": -47.0499049,
+    "telefone": "19991432261",
+    "horarios": "Terça-feira: 13h – 22h | Quarta-feira: 13h – 22h | Quinta-feira: 13h – 22h | Sexta-feira: 13h – 22h | Sábado: 11h – 19h",
+    "fotos": [
+      "f-b-i_x-bira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "X-Bira",
+        "descricao": "Boquinha de anjo de sardinha frita, queijo prato, tomate e rúcula. Acompanha vinagrete.",
+        "foto": "f-b-i_x-bira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/f-b-i/"
+  },
+  {
+    "id": 44,
+    "slug": "garten-bar",
+    "nome": "Garten Bar",
+    "endereco": "R. Carolina Florence, 1339",
+    "bairro": "Jardim Guanabara",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.88516,
+    "lng": -47.0621595,
+    "telefone": "19984283839",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 15h – 0h | Domingo: 15h – 22h",
+    "fotos": [
+      "garten-bar_raizes.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Raízes",
+        "descricao": "Virado à paulista reinventado em lanche boquinha de anjo: copa lombo desfiada, queijo derretido, vinagrete e couve kale crocante no pão artesanal. Acompanham: molho cremoso de feijão, chips de banana e pururuca assada.",
+        "foto": "garten-bar_raizes.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/garten-bar/"
+  },
+  {
+    "id": 45,
+    "slug": "loshibar",
+    "nome": "Loschibar",
+    "endereco": "Rua das Cravinas, 5",
+    "bairro": "Vila Mimosa",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9374356,
+    "lng": -47.0923902,
+    "telefone": "19996141617",
+    "horarios": "Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira: 18h – 22h | Sexta-feira: 18h – 0h | Sábado: 17h – 0h | Domingo: 17h – 22h",
+    "fotos": [
+      "loschibar_cestinha-da-nona.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cestinha da Nona",
+        "descricao": "Cestinhas de massa folhada, recheadas com cupim desfiado e pesto rústico de rúcula.",
+        "foto": "loschibar_cestinha-da-nona.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/loshibar/"
+  },
+  {
+    "id": 46,
+    "slug": "maley-bistro-bar",
+    "nome": "Maley Bistrô Bar",
+    "endereco": "Av. General Carneiro, 300",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9159686,
+    "lng": -47.0582848,
+    "telefone": "(19) 98746-2061",
+    "horarios": "Segunda-feira: 11h – 14h30 | Terça-feira: 11h – 14h30 | Quarta-feira: 11h – 14h30 e 17h – 22h30 | Quinta-feira: 11h – 14h30 e 17h – 22h30 | Sexta-feira: 11h – 14h30 e 17h – 22h30 | Sábado: 14h – 23h",
+    "fotos": [
+      "maley-bistro-bar_cremosa-portuguesa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cremosa Portuguesa",
+        "descricao": "Casquinha de bacalhau: com bacalhau desfiado com alho-poró, tomate  fresco, azeitona, pimentão vermelho, gratinada com queijo  muçarela e parmesão. Acompanha: pimenta da casa.",
+        "foto": "maley-bistro-bar_cremosa-portuguesa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/maley-bistro-bar/"
+  },
+  {
+    "id": 47,
+    "slug": "maria-maria",
+    "nome": "Maria Maria",
+    "endereco": "Av. Washington Luiz, 725",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9228157,
+    "lng": -47.0570383,
+    "telefone": "(19) 98336-2834 | (19) 98336-2834",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 15h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h30 – 17h",
+    "fotos": [
+      "maria-maria_pelo-amor-de-brocolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pelo amor de Brócolis!",
+        "descricao": "Dadinhos preparados com brócolis, mandioca e cream cheese, empanados na farinha panko e acompanhados de maionese de alho da casa e geleia artesanal de tomate com bacon.",
+        "foto": "maria-maria_pelo-amor-de-brocolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/maria-maria/"
+  },
+  {
+    "id": 48,
+    "slug": "miudo",
+    "nome": "Miúdo",
+    "endereco": "R. Agostinho Pattaro, 211",
+    "bairro": "Vila Santa Isabel",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8237684,
+    "lng": -47.0833353,
+    "telefone": "19981863439",
+    "horarios": "Segunda-feira: 11h – 22h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "miudo_na-miuda.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Na Miúda",
+        "descricao": "Linguiça caipira moída envolta na folha de repolho, cozida no vapor, servida com molho de tomate caseiro.",
+        "foto": "miudo_na-miuda.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/miudo/"
+  },
+  {
+    "id": 49,
+    "slug": "pastel-da-isabel",
+    "nome": "Pastel da Isabel",
+    "endereco": "R. São Bartolomeu, 498",
+    "bairro": "Jardim Santa Terezinha (Nova Veneza)",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8641815,
+    "lng": -47.1505714,
+    "telefone": "19995854552",
+    "horarios": "Segunda-feira: 16h – 22h30 | Terça-feira: 16h – 22h30 | Quarta-feira: 16h – 22h30 | Quinta-feira: 16h – 22h30 | Sexta-feira: 16h – 22h30 | Sábado: 11h30 – 22h30",
+    "fotos": [
+      "pastel-da-isabel_fogao-de-sabores.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fogão de Sabores",
+        "descricao": "Refogado cremoso de lascas de tilápia com brócolis, mandioquinha, cenoura, alho-poró e catupiry. Servido com discos de massa de pastel.",
+        "foto": "pastel-da-isabel_fogao-de-sabores.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pastel-da-isabel/"
+  },
+  {
+    "id": 50,
+    "slug": "piraju-botequim",
+    "nome": "Pirajú Botequim",
+    "endereco": "Rua Piraju, 43",
+    "bairro": "Campinas - SP",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9240857,
+    "lng": -47.0574943,
+    "telefone": "1930201413",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "piraju-botequim_pira-no-pastel.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pira no Pastel!!",
+        "descricao": "Porção de seis pastéis, recheados com alho-poró, catupiry original, espinafre e parmesão. Acompanham: vinagrete de jiló, com repolho roxo crocante, cebola e um toque de hortelã.",
+        "foto": "piraju-botequim_pira-no-pastel.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/piraju-botequim/"
+  },
+  {
+    "id": 51,
+    "slug": "poeta-grill",
+    "nome": "Poeta Grill",
+    "endereco": "Av. Adão Focesi, 1062",
+    "bairro": "Jardim do Lago",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9324011,
+    "lng": -47.0814151,
+    "telefone": "19974144232",
+    "horarios": "Segunda-feira: 16h – 22h | Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 16h – 22h | Domingo: 16h – 22h",
+    "fotos": [
+      "poeta-grill_e-hoje.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "É Hoje",
+        "descricao": "Costela recheada com bacon e calabresa, ao molho madeira e coberta com catupiry. Servida com escarola, farofa e batata pirulito.",
+        "foto": "poeta-grill_e-hoje.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/poeta-grill/"
+  },
+  {
+    "id": 52,
+    "slug": "quintal-do-lindomar",
+    "nome": "Quintal do Lindomar",
+    "endereco": "R. Antônio Francisco de Andrade, 271",
+    "bairro": "Jardim Proença",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9122013,
+    "lng": -47.0459323,
+    "telefone": "19988115521",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30",
+    "fotos": [
+      "quintal-do-lindomar_parmegiana-crispy-do-quintal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Parmegiana Crispy do Quintal",
+        "descricao": "Lanche com frango empanado na farinha panko, coberto com molho marinara de tomate caseiro, manjericão fresco e queijo derretido. Acompanha 3 Rolinho primavera (acelga, repolho e cenoura) e molho agridoce.",
+        "foto": "quintal-do-lindomar_parmegiana-crispy-do-quintal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-do-lindomar/"
+  },
+  {
+    "id": 53,
+    "slug": "3361-revision-v1",
+    "nome": "Quiosque da Horta",
+    "endereco": "R. Dr. José Ferreira de Camargo, 1221",
+    "bairro": "Nova Campinas",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9053347,
+    "lng": -47.0415835,
+    "telefone": "19996867450",
+    "horarios": "Segunda-feira: 12h – 16h30 | Terça-feira: 12h – 16h30 | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 19h",
+    "fotos": [
+      "quiosque-da-horta_friday.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Friday",
+        "descricao": "Carne de ossobuco desfiada, cenoura, rúcula, abacate, pepino japonês, enrolado em papel de arroz. Acompanha molho de iogurte com bacon.",
+        "foto": "quiosque-da-horta_friday.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3361-revision-v1/"
+  },
+  {
+    "id": 54,
+    "slug": "3365-revision-v1",
+    "nome": "Rei do Joelho",
+    "endereco": "R. Doutor Osvaldo Cruz, 151",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8857658,
+    "lng": -47.057987,
+    "telefone": "(19) 98765-0923 | (19) 3255-8989",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 16h | Segunda-feira: 11h – 15h",
+    "fotos": [
+      "rei-do-joelho_galetinho-do-rei.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Galetinho do Rei",
+        "descricao": "Galeto marinado no tempero especial do Rei e assado. Servido com farofa e acelga.",
+        "foto": "rei-do-joelho_galetinho-do-rei.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3365-revision-v1/"
+  },
+  {
+    "id": 55,
+    "slug": "resenha-dos-barbozas",
+    "nome": "Resenha dos Barbozas",
+    "endereco": "Av. Santa Bárbara do Rio Pardo",
+    "bairro": "Jd. Nova Europa",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9435911,
+    "lng": -47.0615165,
+    "telefone": "(19) 2210-5477 | (19) 2210-5477",
+    "horarios": "Segunda-feira: 16h – 22h | Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 11h – 22h",
+    "fotos": [
+      "resenha-dos-barbozas_resenha-da-chicoria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Resenha da Chicória",
+        "descricao": "Chips de massa empanada com cobertura de chicória, frango desfiado e catupiry sobre uma cama de purê cremoso. Finalizado com farofa crocante de alho.",
+        "foto": "resenha-dos-barbozas_resenha-da-chicoria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/resenha-dos-barbozas/"
+  },
+  {
+    "id": 56,
+    "slug": "santa-esquina",
+    "nome": "Santa Esquina",
+    "endereco": "Avenida Estados Unidos 393 - Jardim Nova Europa",
+    "bairro": "",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9341057,
+    "lng": -47.0653294,
+    "telefone": "19995860156",
+    "horarios": "Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h | Sábado: 13h- 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "santa-esquina_escondidinho-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escondidinho do Popeye",
+        "descricao": "Escondidinho de espinafre com ricota. Acompanha molho da casa.",
+        "foto": "santa-esquina_escondidinho-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/santa-esquina/"
+  },
+  {
+    "id": 57,
+    "slug": "santo-espeto",
+    "nome": "Santo Espeto",
+    "endereco": "R. Baden Powell, 1035",
+    "bairro": "Jardim Nova Europa",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9461141,
+    "lng": -47.0520078,
+    "telefone": "19971389519",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "santo-espeto_santa-maria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Santa Maria",
+        "descricao": "Bruschetta de pernil desfiado na cerveja preta, coberta com couve crispy. Acompanha vinagrete de abacaxi.",
+        "foto": "santo-espeto_santa-maria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/santo-espeto/"
+  },
+  {
+    "id": 58,
+    "slug": "seo-bar",
+    "nome": "Seo Bar",
+    "endereco": "Av. Doutor Carlos de Campos, 584",
+    "bairro": "Vila Industrial",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9086802,
+    "lng": -47.0781265,
+    "telefone": "19991826933",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 16h – 22h | Domingo: 17h – 22h",
+    "fotos": [
+      "seo-bar_o-lagarto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O Lagarto",
+        "descricao": "Lagarto desfiado, assado e defumado no bafo, flambado na cachaça com champignon fatiado, cebola-roxa, azeitona verde, couve ralada, alho frito e pimenta-biquinho. Acompanha baguete de 20 cm temperada com azeite e orégano e o molho de pimenta agridoce caseiro.",
+        "foto": "seo-bar_o-lagarto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seo-bar/"
+  },
+  {
+    "id": 59,
+    "slug": "seo-roma-bar-e-restaurante",
+    "nome": "Seo Roma Bar e Restaurante",
+    "endereco": "R. Rio Grande do Sul, 496",
+    "bairro": "Vila Santana",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.9217259,
+    "lng": -47.0727854,
+    "telefone": "19996441537",
+    "horarios": "Quarta-feira: 17h – 21h30 | Quinta-feira: 17h – 21h30 | Sexta-feira: 17h – 21h30 | Sábado: 12h – 20h | Domingo: 12h – 20h",
+    "fotos": [
+      "seo-roma-bar-e-restaurante_cuscuzeiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cuscuzeiro",
+        "descricao": "Cuscuz frito recheado com costela, espinafre e queijo. Acompanha molho de alho-poró e geleia de abacaxi com pimenta.",
+        "foto": "seo-roma-bar-e-restaurante_cuscuzeiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seo-roma-bar-e-restaurante/"
+  },
+  {
+    "id": 60,
+    "slug": "stadium-bar",
+    "nome": "Stadium Bar",
+    "endereco": "Av. Doutor Armando Sales de Oliveira, 279",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8807472,
+    "lng": -47.0513992,
+    "telefone": "19996755570",
+    "horarios": "Terça-feira: 13h – 21h | Quarta-feira: 13h – 21h | Quinta-feira: 13h – 21h | Sexta-feira: 13h – 22h | Sábado: 11h – 18h | Domingo: 11h – 15h30",
+    "fotos": [],
+    "pratos": [],
+    "url": "https://comidadibuteco.com.br/buteco/stadium-bar/"
+  },
+  {
+    "id": 61,
+    "slug": "vilas-bar",
+    "nome": "Vila’s Bar",
+    "endereco": "Av. Paulo de Almeida Nogueira, 41",
+    "bairro": "Taquaral",
+    "cidade": "Campinas",
+    "cidade_slug": "campinas",
+    "ano": "2026",
+    "lat": -22.8795845,
+    "lng": -47.0499049,
+    "telefone": "1933073237",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h",
+    "fotos": [
+      "vila-s-bar_bolinho-do-villas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho do Villas",
+        "descricao": "Bolinho de pernil servido com molho de espinafre e pimenta da casa.",
+        "foto": "vila-s-bar_bolinho-do-villas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vilas-bar/"
+  }
+]

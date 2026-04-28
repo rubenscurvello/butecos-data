@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "slug": "balanca-vento",
+    "nome": "Balança Vento",
+    "endereco": "Av. Castelar Prates, 382",
+    "bairro": "Major Prates",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7490314,
+    "lng": -43.8814891,
+    "telefone": "(38) 99244-6508 | (38) 99115-6977",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 12h – 16h",
+    "fotos": [
+      "balanca-vento_sertaozinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sertãozinho",
+        "descricao": "Bolinhos de carne de sol (cozida e desfiada) com queijo, mandioca e couve, temperados com especiarias defumadas, acompanhados de molho especial da casa.",
+        "foto": "balanca-vento_sertaozinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/balanca-vento/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-do-kal",
+    "nome": "Bar do Kal",
+    "endereco": "R. Antônio Martins, 50",
+    "bairro": "Santos Reis",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7012758,
+    "lng": -43.8705204,
+    "telefone": "38999528588",
+    "horarios": "Segunda-feira: 9h – 13h e 17h – 0h | Terça-feira: 9h – 13h e 17h – 0h | Quarta-feira: 9h – 13h e 17h – 0h | Quinta-feira: 9h – 13h e 17h – 0h | Sexta-feira: 9h – 13h e 17h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "bar-do-kal_ela-so-quer-verdura.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ela só Quer Verdura",
+        "descricao": "Sanduíche que une os sabores do pernil suíno, do queijo e da nossa salada de cenoura e repolho. Acompanha: nosso molho do chef.",
+        "foto": "bar-do-kal_ela-so-quer-verdura.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-kal/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-soro",
+    "nome": "Bar do Soró",
+    "endereco": "Rua Padre Eustáquio, 135",
+    "bairro": "São José, Montes Claros",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7212616,
+    "lng": -43.855986,
+    "telefone": "38999792294",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 10h – 0h | Domingo: 15h – 0h",
+    "fotos": [
+      "bar-do-soro_surpresinha-do-soro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Surpresinha do Soró",
+        "descricao": "Rocambole de carne moída recheado, acompanhado de purê de batata e farofa de couve.",
+        "foto": "bar-do-soro_surpresinha-do-soro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-soro/"
+  },
+  {
+    "id": 4,
+    "slug": "botequim",
+    "nome": "Botequim",
+    "endereco": "Av. Doutor Sidney Chaves, 895",
+    "bairro": "Edgar Pereira",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.6977482,
+    "lng": -43.856521,
+    "telefone": "38998367077",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 17h30 – 0h | Sábado: 11h – 1h30",
+    "fotos": [
+      "botequim_la-casa-de-boteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "La Casa de Boteco",
+        "descricao": "Releitura da bruschetta italiana: base de pão amanteigado, esfregado no alho com cream cheese e crispy de bacon, com um mix agridoce de rúcula, tomate-cereja, cebola caramelizada e manjericão.",
+        "foto": "botequim_la-casa-de-boteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botequim/"
+  },
+  {
+    "id": 5,
+    "slug": "cantina-da-paty",
+    "nome": "Cantina da Paty",
+    "endereco": "Rua J, 480",
+    "bairro": "Acácias",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.724667,
+    "lng": -43.8192583,
+    "telefone": "38999511460",
+    "horarios": "Segunda-feira: 19h – 23h | Terça-feira: 19h – 23h | Quarta-feira: 19h – 23h | Quinta-feira: 19h – 23h | Sexta-feira: 19h – 23h | Sábado: 11h – 14h e 19h – 23h | Domingo: 11h – 14h e 19h – 23h",
+    "fotos": [
+      "cantina-da-paty_mineirinha-turbinada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mineirinha Turbinada",
+        "descricao": "Dobradinha com pé de porco, calabresa e couve. Acompanha farofa de alho e cebola.",
+        "foto": "cantina-da-paty_mineirinha-turbinada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantina-da-paty/"
+  },
+  {
+    "id": 6,
+    "slug": "carrancas-grill",
+    "nome": "Carrancas Grill",
+    "endereco": "BR-365, 267",
+    "bairro": "Major Prates",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7614373,
+    "lng": -43.8842269,
+    "telefone": "3822111661",
+    "horarios": "Segunda-feira: 7h – 21h30 | Terça-feira: 7h – 21h30 | Quarta-feira: 7h – 21h30 | Quinta-feira: 7h – 21h30 | Sexta-feira: 7h – 21h30 | Sábado: 7h – 21h30 | Domingo: 7h – 21h30",
+    "fotos": [
+      "carrancas-grill_pronobis-e-proces.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pronobis e proces",
+        "descricao": "Rolinho de costela suína com ora-pro-nóbis, castanha de pequi e molho de umbu.",
+        "foto": "carrancas-grill_pronobis-e-proces.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/carrancas-grill/"
+  },
+  {
+    "id": 7,
+    "slug": "diferencial-bar",
+    "nome": "Diferencial Bar",
+    "endereco": "Av. Pedro Mendonça, 93",
+    "bairro": "Santos Reis",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7033673,
+    "lng": -43.8706375,
+    "telefone": "38984310916",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "diferencial-bar_costelinha-diferenciada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costelinha Diferenciada",
+        "descricao": "Costelinha suína derretendo ao molho barbecue da casa e farofinha de alho-poró.",
+        "foto": "diferencial-bar_costelinha-diferenciada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/diferencial-bar/"
+  },
+  {
+    "id": 8,
+    "slug": "divinos-bar-2",
+    "nome": "Divino’s Bar",
+    "endereco": "R. Luís Ruas, 62",
+    "bairro": "Santos Reis",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7006913,
+    "lng": -43.8703029,
+    "telefone": "38992141496",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30 | Domingo: 18h – 23h30",
+    "fotos": [
+      "divino-s-bar_repole-butecado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Repolê Butecado",
+        "descricao": "Canudos de repolho recheados com carne moída e bacon, finalizados com molho de tomate. Acompanha couve-flor gratinada ao molho branco e farofa de banana-da-terra com espinafre.",
+        "foto": "divino-s-bar_repole-butecado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/divinos-bar-2/"
+  },
+  {
+    "id": 9,
+    "slug": "dog-mania",
+    "nome": "Dog Mania",
+    "endereco": "Alameda Beija-Flor, 390",
+    "bairro": "Jardim Primavera",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.695216,
+    "lng": -43.8104047,
+    "telefone": "(38) 98831-5230",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "dog-mania_sem-refrear.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sem Refrear",
+        "descricao": "Mandioca derretida na manteiga de garrafa, coberta com carne serenada cozida e desfiada na panela com um toque de catupiry e queijo. Acompanha: farofinha de bacon com couve e molhos de pimenta e queijo.",
+        "foto": "dog-mania_sem-refrear.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dog-mania/"
+  },
+  {
+    "id": 10,
+    "slug": "gordos-bar",
+    "nome": "Gordo’s Bar",
+    "endereco": "Rua Raul Corrêa, 226",
+    "bairro": "Funcionários",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.736599,
+    "lng": -43.8773777,
+    "telefone": "38998647127",
+    "horarios": "Domingo: 18h – 1h | Segunda-feira: 18h – 1h | Terça-feira: 18h – 1h | Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h",
+    "fotos": [
+      "gordo-s-bar_trem-bao-de-mais.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trem Bão de Mais",
+        "descricao": "Bolinhos de alho-poró com recheio de carne de sol e muçarela ao molho Vixe Maria.",
+        "foto": "gordo-s-bar_trem-bao-de-mais.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gordos-bar/"
+  },
+  {
+    "id": 11,
+    "slug": "imperial-bar",
+    "nome": "Imperial Bar",
+    "endereco": "Rua Campo Belo, 1455",
+    "bairro": "Montes Claros - MG",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7410051,
+    "lng": -43.8543033,
+    "telefone": "(38)92000-5284",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "imperial-bar_torresmo-imperador.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Torresmo Imperador",
+        "descricao": "Torresmo de barriga e mandioca derretida com alface picada.",
+        "foto": "imperial-bar_torresmo-imperador.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/imperial-bar/"
+  },
+  {
+    "id": 12,
+    "slug": "kentura-2",
+    "nome": "Kentura 2",
+    "endereco": "Rua Santa Maria, 662",
+    "bairro": "Todos os Santos",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7192714,
+    "lng": -43.8708557,
+    "telefone": "3832225758",
+    "horarios": "Segunda-feira: 11h – 14h e 18h – 23h | Terça-feira: 11h – 14h e 18h – 23h | Quarta-feira: 11h – 14h e 18h – 23h | Quinta-feira: 11h – 14h e 18h – 23h | Sexta-feira: 11h – 14h e 18h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "kentura-2_ora-porco-nobis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ora, Porco-Nóbis!",
+        "descricao": "Pastel de carne de porco com ora-pro-nóbis crocante caramelizado ao molho de tamarindo.",
+        "foto": "kentura-2_ora-porco-nobis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kentura-2/"
+  },
+  {
+    "id": 13,
+    "slug": "liu-casa-bar",
+    "nome": "Liu Casa Bar",
+    "endereco": "R. Espírito Santo, 246",
+    "bairro": "Esplanada",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7099642,
+    "lng": -43.8408844,
+    "telefone": "38991281912",
+    "horarios": "Terça-feira: 17h30 – 1h | Quarta-feira: 17h30 – 1h | Quinta-feira: 17h30 – 1h | Sexta-feira: 17h30 – 1h | Sábado: 11h – 18h30",
+    "fotos": [
+      "liu-casa-bar_dobradinha-com-toque-de-alho-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dobradinha com toque de alho-poró",
+        "descricao": "Dobradinha tradicional, preparada com caldo aromático e textura macia.",
+        "foto": "liu-casa-bar_dobradinha-com-toque-de-alho-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/liu-casa-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "moc-sabor",
+    "nome": "Moc Sabor",
+    "endereco": "Av. São Judas, 1458",
+    "bairro": "São Judas Tadeu I",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7496427,
+    "lng": -43.8542817,
+    "telefone": "38984106708",
+    "horarios": "Segunda-feira: 11h – 14h | Terça-feira: 11h – 14h e 18h30 – 23h30 | Quarta-feira: 11h – 14h e 18h30 – 23h30 | Quinta-feira: 11h – 14h e 18h30 – 23h30 | Sexta-feira: 11h – 14h e 18h30 – 23h30 | Sábado: 11h – 14h e 18h30 – 23h30",
+    "fotos": [
+      "moc-sabor_porobuteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poróbuteco",
+        "descricao": "Porpetone de picanha suína, empanado no Panko, recheado com muçarela e molho de alho-poró. Acompanha vinagrete e chips de banana!",
+        "foto": "moc-sabor_porobuteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/moc-sabor/"
+  },
+  {
+    "id": 15,
+    "slug": "nobres-bar-2",
+    "nome": "Nobre’s Bar",
+    "endereco": "Avenida A, 981",
+    "bairro": "Jardim Primavera",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.6969805,
+    "lng": -43.8113603,
+    "telefone": "38998271883",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h",
+    "fotos": [
+      "nobre-s-bar_costelinha-suina-com-farofa-de-folhas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costelinha suína com farofa de folhas",
+        "descricao": "Costelinha suína frita, servida com molho barbecue ao lado de farofa com folhas de couve, repolho, bacon e cenoura ralada.",
+        "foto": "nobre-s-bar_costelinha-suina-com-farofa-de-folhas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nobres-bar-2/"
+  },
+  {
+    "id": 16,
+    "slug": "pe-de-cana",
+    "nome": "Pé de Cana",
+    "endereco": "Av. Ampére, 462",
+    "bairro": "Lourdes",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7244266,
+    "lng": -43.8506895,
+    "telefone": "(38) 99859-4994",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "pe-de-cana_descubra-me-se-for-capaz.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Descubra-me se for capaz",
+        "descricao": "Escondidinho de carne com purê de abóbora e couve, finalizado com crispy de bacon.",
+        "foto": "pe-de-cana_descubra-me-se-for-capaz.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pe-de-cana/"
+  },
+  {
+    "id": 17,
+    "slug": "petisco-de-ouro",
+    "nome": "Petisco de Ouro",
+    "endereco": "R. Júlio Takaki, 221",
+    "bairro": "São Judas Tadeu",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "38988391193",
+    "horarios": "Segunda-feira: 18h – 23h15 | Terça-feira: 18h – 23h15 | Quarta-feira: 18h – 23h15 | Quinta-feira: 18h – 23h15 | Sexta-feira: 18h – 23h15 | Sábado: 10h30 – 15h",
+    "fotos": [
+      "petisco-de-ouro_panelada-de-ouro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panelada de ouro",
+        "descricao": "Galinhada com alho-poró e milho, acompanhada de farofa de couve com óleo de pequi e bacon.",
+        "foto": "petisco-de-ouro_panelada-de-ouro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/petisco-de-ouro/"
+  },
+  {
+    "id": 18,
+    "slug": "sao-bento-espetaria",
+    "nome": "São Bento Espetaria",
+    "endereco": "R. Barão do Rio Branco, 253",
+    "bairro": "Centro",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7268106,
+    "lng": -43.8678665,
+    "telefone": "38998063998",
+    "horarios": "Segunda-feira: 11h – 14h30 e 18h – 0h | Terça-feira: 11h – 14h30 e 18h – 0h | Quarta-feira: 11h – 14h30 e 18h – 0h | Quinta-feira: 11h – 14h30 e 18h – 0h | Sexta-feira: 11h – 14h30 e 18h – 1h | Sábado: 18h – 1h",
+    "fotos": [
+      "sao-bento-espetaria_polpetone-ao-molho-pomodoro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Polpetone ao molho pomodoro",
+        "descricao": "Bolinho de carne bovina moída recheado com espinafre e muçarela, empanado, servido com molho pomodoro.",
+        "foto": "sao-bento-espetaria_polpetone-ao-molho-pomodoro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sao-bento-espetaria/"
+  },
+  {
+    "id": 19,
+    "slug": "uai-fai-bar-moc",
+    "nome": "Uai Fai Bar MOC",
+    "endereco": "Av. Nossa Senhora de Fátima, 1232",
+    "bairro": "Maracanã",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7569037,
+    "lng": -43.8696329,
+    "telefone": "(38) 991981110 | (38) 99731-4021",
+    "horarios": "Segunda-feira: 18h – 1h | Terça-feira: 18h – 1h | Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h",
+    "fotos": [
+      "uai-fai-bar-moc_bem-casado-do-uai.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bem-casado do UAI",
+        "descricao": "Duo de filé de peixe e filé de peito de frango grelhado ao molho de verduras, salsão e vinho branco.",
+        "foto": "uai-fai-bar-moc_bem-casado-do-uai.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/uai-fai-bar-moc/"
+  },
+  {
+    "id": 20,
+    "slug": "villa-espetaria",
+    "nome": "Villa Espetaria",
+    "endereco": "R. Genésio Tolentino, 15",
+    "bairro": "Cidade Nova",
+    "cidade": "Montes Claros",
+    "cidade_slug": "montes-claros",
+    "ano": "2026",
+    "lat": -16.7387482,
+    "lng": -43.8660289,
+    "telefone": "38998819096",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "villa-espetaria_panqueca-verde-cremosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panqueca verde cremosa",
+        "descricao": "Panqueca com massa de brócolis, recheada com carne bovina desfiada cremosa, cream cheese e molho de tomate caseiro.",
+        "foto": "villa-espetaria_panqueca-verde-cremosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/villa-espetaria/"
+  }
+]

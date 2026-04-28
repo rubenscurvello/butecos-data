@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "slug": "404-brasas-bar-e-espetaria",
+    "nome": "404 Brasas Bar e Espetaria",
+    "endereco": "QR 404 - Samambaia Norte",
+    "bairro": "Samambaia Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8644551,
+    "lng": -48.0864188,
+    "telefone": "61981531841",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 10h – 0h",
+    "fotos": [
+      "404-brasas-bar-e-espetaria_3-meninas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "3 Meninas",
+        "descricao": "Massa de pastel aberta feita com alho-poró, recheada com funghi, finalizada com crispy de alho-poró. Acompanhada de pesto de salsa.",
+        "foto": "404-brasas-bar-e-espetaria_3-meninas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/404-brasas-bar-e-espetaria/"
+  },
+  {
+    "id": 2,
+    "slug": "adega-da-cachaca",
+    "nome": "Adega da Cachaça",
+    "endereco": "QD C 01, 4 - Lote 11",
+    "bairro": "Taguatinga Centro",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8451274,
+    "lng": -48.0588231,
+    "telefone": "6132572470",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "adega-da-cachaca_porquinho-no-espeto.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho no Espeto",
+        "descricao": "Bolinhas de suã de porco fritas. Servidas em formato de miniespetinho, são acompanhadas de farofa de baru, finalizadas com geleia agridoce de pequi e ora-pro-nóbis frito.",
+        "foto": "adega-da-cachaca_porquinho-no-espeto.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/adega-da-cachaca/"
+  },
+  {
+    "id": 3,
+    "slug": "aflora-bar",
+    "nome": "Aflora Bar",
+    "endereco": "CLN 107  Asa Norte",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7633484,
+    "lng": -47.8809147,
+    "telefone": "61998608898",
+    "horarios": "Quarta-feira: 17h – 23h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 23h",
+    "fotos": [
+      "aflora-bar_voa-periquita.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Voa, Periquita",
+        "descricao": "Disco de falafel com ora-pro-nóbis, recheado com coalhada da casa, acompanhado de creme de cajupiry, tomate confitado e molho de pimenta.",
+        "foto": "aflora-bar_voa-periquita.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/aflora-bar/"
+  },
+  {
+    "id": 4,
+    "slug": "arere-gourmet",
+    "nome": "Arerê Gourmet",
+    "endereco": "SRIA QE 40 Brasília - DF",
+    "bairro": "Guará II",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8138701,
+    "lng": -47.9864684,
+    "telefone": "61995237673",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h | Domingo: 16h – 0h",
+    "fotos": [
+      "arere-gourmet_arere-do-dimas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arerê do Dimas",
+        "descricao": "Corte de Prime Rib de porco, grelhado na brasa, servido com couve na manteiga refogada com bacon e batatas.",
+        "foto": "arere-gourmet_arere-do-dimas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/arere-gourmet/"
+  },
+  {
+    "id": 5,
+    "slug": "bahea-cozinha-baiana",
+    "nome": "Bahea Cozinha Baiana",
+    "endereco": "QSB 08, 40 – Loja 02",
+    "bairro": "Taguatinga Sul",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8420121,
+    "lng": -48.051755,
+    "telefone": "61998538297",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 15h",
+    "fotos": [
+      "bahea-cozinha-baiana_quiabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quiabada",
+        "descricao": "Um cozido com peito bovino, camarão seco, bacon, calabresa e quiabo, finalizado com dendê, leite de coco e coentro. Acompanha farofa d’água e couve refogada.",
+        "foto": "bahea-cozinha-baiana_quiabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bahea-cozinha-baiana/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-e-restaurante-nordestino",
+    "nome": "Bar e Restaurante Nordestino",
+    "endereco": "Terceira Avenida - Área Especial, 0 – Mercado do Núcleo Bandeirante, Box 13, 15 e 17",
+    "bairro": "Núcleo Bandeirante - DF",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61982888589",
+    "horarios": "Segunda-feira: 8h – 18h30 | Terça-feira: 8h – 18h30 | Quarta-feira: 8h – 18h30 | Quinta-feira: 8h – 18h30 | Sexta-feira: 8h – 18h30 | Sábado: 8h – 18h30",
+    "fotos": [
+      "bar-e-restaurante-nordestino_desbravador-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Desbravador do Sertão",
+        "descricao": "Almôndegas de bode ao molho.",
+        "foto": "bar-e-restaurante-nordestino_desbravador-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-e-restaurante-nordestino/"
+  },
+  {
+    "id": 7,
+    "slug": "boteco-do-cantinho",
+    "nome": "Boteco do Cantinho",
+    "endereco": "Avenida das Castanheiras, 1060 - Edifício Vila Mall",
+    "bairro": "Águas Claras",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8349571,
+    "lng": -48.0069286,
+    "telefone": "6134350973",
+    "horarios": "Domingo: 11h – 22h30 | Segunda-feira: 11h – 22h30 | Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 22h30 | Sábado: 11h – 22h30",
+    "fotos": [
+      "boteco-do-cantinho_cama-de-kenga.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cama de Kenga",
+        "descricao": "Frango cremoso com couve-flor gratinada, acompanhado de torradas temperadas.",
+        "foto": "boteco-do-cantinho_cama-de-kenga.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-cantinho/"
+  },
+  {
+    "id": 8,
+    "slug": "boteco-veio-chico",
+    "nome": "Boteco Véio Chico",
+    "endereco": "Av. Alameda Gravatá, 301",
+    "bairro": "Águas Claras",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8293697,
+    "lng": -48.0148003,
+    "telefone": "61983055972",
+    "horarios": "Segunda-feira: 16h – 23h30 | Terça-feira: 16h – 23h30 | Quarta-feira: 16h – 23h30 | Quinta-feira: 16h – 23h30 | Sexta-feira: 16h – 23h30 | Sábado: 12h – 23h30",
+    "fotos": [
+      "boteco-veio-chico_medalhao-sertanejo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão Sertanejo",
+        "descricao": "Bistecas de porco marinadas em temperos típicos, recheadas com bacon e linguiça calabresa, acompanhadas de uma farofa de couve na manteiga de garrafa e finalizadas com um molho cremoso de ervas.",
+        "foto": "boteco-veio-chico_medalhao-sertanejo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-veio-chico/"
+  },
+  {
+    "id": 9,
+    "slug": "buteco-avenida-cozinha-e-bar",
+    "nome": "Buteco Avenida Cozinha e Bar",
+    "endereco": "Segunda Avenida, 4",
+    "bairro": "Núcleo Bandeirante - DF",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8699617,
+    "lng": -47.9698941,
+    "telefone": "6191345271",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 16h",
+    "fotos": [
+      "buteco-avenida-cozinha-e-bar_gandaia-suina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Gandaia Suína",
+        "descricao": "Espetinho de lombo suíno, recheado com presunto, queijo provolone, rúcula e tomate seco.",
+        "foto": "buteco-avenida-cozinha-e-bar_gandaia-suina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-avenida-cozinha-e-bar/"
+  },
+  {
+    "id": 10,
+    "slug": "ceara-carne-de-sol",
+    "nome": "Ceará Carne de Sol",
+    "endereco": "QE 04 - Área Especial C, 0",
+    "bairro": "GUARÁ I",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "6132575672",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 01h | Sábado: 11h – 01h | Domingo: 11h – 0h",
+    "fotos": [
+      "ceara-carne-de-sol_coxinha-verde.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha Verde",
+        "descricao": "Uma releitura da coxinha clássica, feita com massa verde de couve com batata inglesa e recheio de carne de sol.",
+        "foto": "ceara-carne-de-sol_coxinha-verde.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ceara-carne-de-sol/"
+  },
+  {
+    "id": 11,
+    "slug": "churrasquinho-do-dimi",
+    "nome": "Churrasquinho do Dimi",
+    "endereco": "Quadra 2, Conjunto A-06, 2 – Quiosque",
+    "bairro": "Sobradinho",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61981209049",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 15h | Domingo: 18h – 23h",
+    "fotos": [
+      "churrasquinho-do-dimi_lamb-bbq-com-sabor-de-erva-doce.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lamb BBQ com sabor de erva-doce",
+        "descricao": "Espeto de cordeiro assado na brasa com molho de ervas doce, acompanhado de uma farofa recheada com bacon, calabresa e damasco.",
+        "foto": "churrasquinho-do-dimi_lamb-bbq-com-sabor-de-erva-doce.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/churrasquinho-do-dimi/"
+  },
+  {
+    "id": 12,
+    "slug": "constelacao-5-cozinha-e-bar",
+    "nome": "Constelação 5 Cozinha e Bar",
+    "endereco": "Rua 7, 330 – Lote 14",
+    "bairro": "Vicente Pires",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8155294,
+    "lng": -48.0216451,
+    "telefone": "61999996700",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 11h – 15h",
+    "fotos": [
+      "constelacao-5-cozinha-e-bar_como-se-fosse-flor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Como se fosse Flor",
+        "descricao": "Blend de carne moída com talos de brócolis e queijo muçarela em formato de flor, acompanhado de creme de batata.",
+        "foto": "constelacao-5-cozinha-e-bar_como-se-fosse-flor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/constelacao-5-cozinha-e-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "cuscuz-restaurante",
+    "nome": "Cuscuz Restaurante",
+    "endereco": "ST SHTQ EPIA Norte DF 003, 3 – BL. B1",
+    "bairro": "Setor Habitacional Taquari (Lago Norte)",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "6132037802",
+    "horarios": "Terça-feira: 11h30 – 22h30 | Quarta-feira: 11h30 – 22h30 | Quinta-feira: 11h30 – 22h30 | Sexta-feira: 11h30 – 22h30 | Sábado: 11h30 – 22h30 | Domingo: 11h30 – 21h",
+    "fotos": [
+      "cuscuz-restaurante_chambaril-doce.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chambaril doce",
+        "descricao": "Disco de massa de batata-doce, recheado com queijo cheddar, catupiry, agrião e chambaril desfiado, servido com molho especial de casa e geleia de morango e abacaxi.",
+        "foto": "cuscuz-restaurante_chambaril-doce.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cuscuz-restaurante/"
+  },
+  {
+    "id": 14,
+    "slug": "dikantu-bar",
+    "nome": "Dikantu Bar",
+    "endereco": "CLN 204 -",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7766381,
+    "lng": -47.8778911,
+    "telefone": "61998167242",
+    "horarios": "Segunda-feira: 12h – 16h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "dikantu-bar_encantado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Encantado",
+        "descricao": "Bolinho de feijoada recheado com couve, bacon empanado na farinha de torresmo, “xuxado” numa geleia de abacaxi com pimenta.",
+        "foto": "dikantu-bar_encantado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dikantu-bar/"
+  },
+  {
+    "id": 15,
+    "slug": "dom-caricas-bbq-2",
+    "nome": "Dom Caricas BBQ",
+    "endereco": "CLN 216,",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7590041,
+    "lng": -47.8870825,
+    "telefone": "61983729678",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 11h – 22h | Domingo: 14h – 22h",
+    "fotos": [
+      "dom-caricas-bbq_carimaki.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "CariMaki",
+        "descricao": "Harumaki de pulled pork com salada de repolho, acompanhado de molho da casa.",
+        "foto": "dom-caricas-bbq_carimaki.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dom-caricas-bbq-2/"
+  },
+  {
+    "id": 16,
+    "slug": "embaixada-do-piaui",
+    "nome": "Embaixada do Piauí",
+    "endereco": "CLS 313, Bloco B, 37 - Loja",
+    "bairro": "Asa Sul",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61992801136",
+    "horarios": "Terça-feira: 10h – 21h | Quarta-feira: 10h – 22h | Quinta-feira: 10h – 22h | Sexta-feira: 10h – 0h | Sábado: 10h – 22h",
+    "fotos": [
+      "embaixada-do-piaui_passaporte-piauiense.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Passaporte Piauiense",
+        "descricao": "Pequenos pastéis de boteco recheados com diferentes partes do frango: coração, moela e peito desfiado com alho-poró e muçarela. Acompanhados de conserva de maxixe, pimenta-biquinho e maionese verde feita com agrião.",
+        "foto": "embaixada-do-piaui_passaporte-piauiense.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/embaixada-do-piaui/"
+  },
+  {
+    "id": 17,
+    "slug": "encontro-a-mineira-bar-e-mercearia",
+    "nome": "Encontro à Mineira Bar e Mercearia",
+    "endereco": "SCRN 714, 715 - Bl. F",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7695131,
+    "lng": -47.8907787,
+    "telefone": "61993118049",
+    "horarios": "Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "encontro-a-mineira-bar-e-mercearia_trem-de-doido.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trem de Doido",
+        "descricao": "Angu de mandioca, com carne de panela ao molho, finalizado com crispy de alho-poró.",
+        "foto": "encontro-a-mineira-bar-e-mercearia_trem-de-doido.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/encontro-a-mineira-bar-e-mercearia/"
+  },
+  {
+    "id": 18,
+    "slug": "espetaria-en-la-braza",
+    "nome": "Espetaria En la Braza",
+    "endereco": "Avenida Boulevard -",
+    "bairro": "Águas Claras",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8359826,
+    "lng": -48.0174183,
+    "telefone": "61995923232",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 17h – 23h30",
+    "fotos": [
+      "espetaria-en-la-braza_espepao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espepão",
+        "descricao": "Pão de alho com recheio de quatro queijos, tomate seco, espeto de filé de frango e rúcula.",
+        "foto": "espetaria-en-la-braza_espepao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetaria-en-la-braza/"
+  },
+  {
+    "id": 19,
+    "slug": "esquema-do-peixe",
+    "nome": "Esquema do Peixe",
+    "endereco": "SMPW Trecho 3, 36 – Shopping Bandeirante",
+    "bairro": "Núcleo Bandeirante",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8750641,
+    "lng": -47.9955108,
+    "telefone": "61993755784",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 21h",
+    "fotos": [
+      "esquema-do-peixe_onda-verde.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Onda verde",
+        "descricao": "Pastel recheado com filé de tilápia, cebola roxa, requeijão cremoso, rúcula e cheiro-verde aromático. Acompanhado de molho verde.",
+        "foto": "esquema-do-peixe_onda-verde.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/esquema-do-peixe/"
+  },
+  {
+    "id": 20,
+    "slug": "etnias-resto-e-bar",
+    "nome": "Etnias Restô e Bar",
+    "endereco": "CLN 109 Asa Norte",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7633484,
+    "lng": -47.8809147,
+    "telefone": "61991335640",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 17h",
+    "fotos": [
+      "etnias-resto-e-bar_aracini-de-cuxa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Aracini de Cuxá",
+        "descricao": "Bolinho de risoto de cuxá com folha de vinagreira recheado com camarão.",
+        "foto": "etnias-resto-e-bar_aracini-de-cuxa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/etnias-resto-e-bar/"
+  },
+  {
+    "id": 21,
+    "slug": "federal-bar-e-cozinha",
+    "nome": "Federal Bar e Cozinha",
+    "endereco": "Rua 35 Norte – Av. Boulevard - Quiosque",
+    "bairro": "Águas Claras",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61984204545",
+    "horarios": "Terça-feira: 10h – 22h | Quarta-feira: 10h – 22h | Quinta-feira: 10h – 22h | Sexta-feira: 10h – 22h | Sábado: 10h – 22h | Domingo: 10h – 20h",
+    "fotos": [
+      "federal-bar-e-cozinha_moquequinha-do-federal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Moquequinha do Federal",
+        "descricao": "Minimoquecas de tilápias, acompanhadas de um molho de alho-poró e salsa.",
+        "foto": "federal-bar-e-cozinha_moquequinha-do-federal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/federal-bar-e-cozinha/"
+  },
+  {
+    "id": 22,
+    "slug": "gambar",
+    "nome": "GamBAR",
+    "endereco": "SCRN 708/709, Bloco E, 708",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7640189,
+    "lng": -47.8936443,
+    "telefone": "6130454643",
+    "horarios": "Segunda-feira: 9h – 22h | Terça-feira: 9h – 22h | Quarta-feira: 9h – 22h | Quinta-feira: 9h – 22h | Sexta-feira: 9h – 22h | Sábado: 9h – 17h",
+    "fotos": [
+      "gambar_terra-prometida.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Terra Prometida",
+        "descricao": "Fatias de picanha de sol grelhadas com omelete de repolho e mandioca, acompanha torradas de pães de queijo e vinagrete balsâmico.",
+        "foto": "gambar_terra-prometida.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gambar/"
+  },
+  {
+    "id": 23,
+    "slug": "goianeiro-churrasco",
+    "nome": "Goianeiro Churrasco",
+    "endereco": "Quadra CCSW, 5",
+    "bairro": "Brasília - DF",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61982779661",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 16h",
+    "fotos": [
+      "goianeiro-churrasco_goias-de-minas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Goiás de Minas",
+        "descricao": "Discos de carne com salada de repolho e pastéis de angu, recheados de frango e ora-pro-nóbis, acompanhados de dose de cachaça de jambu.",
+        "foto": "goianeiro-churrasco_goias-de-minas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/goianeiro-churrasco/"
+  },
+  {
+    "id": 24,
+    "slug": "lampiao-gastrobar",
+    "nome": "Lampião Gastrobar",
+    "endereco": "Rua 15 - QE 40 Brasília - DF",
+    "bairro": "Guará II",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7980497,
+    "lng": -47.9690706,
+    "telefone": "61982140033",
+    "horarios": "Quarta-feira: 16h – 23h30 | Quinta-feira: 16h – 0h30 | Sexta-feira: 16h – 1h30 | Sábado: 12h – 1h30 | Domingo: 12h – 23h30",
+    "fotos": [
+      "lampiao-gastrobar_verde-encantado-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Verde Encantado do Sertão",
+        "descricao": "Dadinho de polenta de espinafre com parmesão empanado no amido, acompanhado de creme de espinafre finalizado com brotos da estação.",
+        "foto": "lampiao-gastrobar_verde-encantado-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/lampiao-gastrobar/"
+  },
+  {
+    "id": 25,
+    "slug": "mesquimar-cozinha-e-bar",
+    "nome": "Mesquimar Cozinha e Bar",
+    "endereco": "QN 320, Conjunto 01, 3",
+    "bairro": "Samambaia Sul",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61985485196",
+    "horarios": "Terça-feira: 15h – 0h | Quarta-feira: 15h – 0h | Quinta-feira: 15h – 0h | Sexta-feira: 15h – 1h | Sábado: 11h – 1h | Domingo: 11h – 0h",
+    "fotos": [
+      "mesquimar-cozinha-e-bar_butequinho-cremoso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Butequinho Cremoso",
+        "descricao": "Disco de catupiry, empanado com fraldinha ao molho de cerveja preta, couve e maionese de alho assado.",
+        "foto": "mesquimar-cozinha-e-bar_butequinho-cremoso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mesquimar-cozinha-e-bar/"
+  },
+  {
+    "id": 26,
+    "slug": "na-seis-comida-de-bar",
+    "nome": "Na Seis Comida de Bar",
+    "endereco": "SCLRN 706, Bloco B, 3",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.770998,
+    "lng": -47.8892636,
+    "telefone": "61982951021",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "na-seis-comida-de-bar_a-raba-do-agriao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A Raba do Agrião",
+        "descricao": "Trouxinhas recheadas de rabada com agrião e queijo. Acompanha: chutney de agrião.",
+        "foto": "na-seis-comida-de-bar_a-raba-do-agriao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/na-seis-comida-de-bar/"
+  },
+  {
+    "id": 27,
+    "slug": "palorama-2",
+    "nome": "Palorama",
+    "endereco": "Av. Central",
+    "bairro": "Sobradinho II",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.6461985,
+    "lng": -47.8243061,
+    "telefone": "61998368980",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "palorama_males-que-vem-para-o-bem.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Males que vêm para o bem",
+        "descricao": "Bolinho de rabada, legumes e verdura. Empanado com farinha crocante.",
+        "foto": "palorama_males-que-vem-para-o-bem.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/palorama-2/"
+  },
+  {
+    "id": 28,
+    "slug": "panca-cheia",
+    "nome": "Pança Cheia",
+    "endereco": "Quadra 13 CL, 8",
+    "bairro": "Sobradinho",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.6461376,
+    "lng": -47.7987078,
+    "telefone": "61996693282",
+    "horarios": "Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 18h",
+    "fotos": [
+      "panca-cheia_cabuloso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cabuloso",
+        "descricao": "Croquete cremoso de chambaril, recheado com muçarela e cream cheese, acompanhado de um delicioso patê de alho-poró e geleia de maçã com maracujá levemente apimentada.",
+        "foto": "panca-cheia_cabuloso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/panca-cheia/"
+  },
+  {
+    "id": 29,
+    "slug": "quintal-da-vila",
+    "nome": "Quintal da Vila",
+    "endereco": "Rua B",
+    "bairro": "Vila Planalto",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.8881012,
+    "lng": -47.8154998,
+    "telefone": "(61) 99154-9802 | (61) 3306-2677",
+    "horarios": "Segunda-feira: 11h30 – 15h | Terça-feira: 11h30 – 15h | Quarta-feira: 11h30 – 15h | Quinta-feira: 11h30 – 15h | Sexta-feira: 11h30 – 16h | Sábado: 11h30 – 16h",
+    "fotos": [
+      "quintal-da-vila_flor-do-quintal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Flor do Quintal",
+        "descricao": "Cestinha de couve-flor recheada com carne de lata e alho-poró. Acompanha vinagrete de cajazinho do cerrado e maionese de hortelã.",
+        "foto": "quintal-da-vila_flor-do-quintal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-da-vila/"
+  },
+  {
+    "id": 30,
+    "slug": "quiosque-do-cabeca",
+    "nome": "Quiosque do Cabeça",
+    "endereco": "Rua 5 - Av. Boulevard",
+    "bairro": "Águas Claras",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61983294485",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 15h",
+    "fotos": [
+      "quiosque-do-cabeca_espetao-do-cabeca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetão do Cabeça",
+        "descricao": "Espeto de carne temperado com erva, recheado com bacon, intercalando com queijo muçarela, folhas de rúcula e cebola caramelizada. Acompanhada de chips da casa com molho de cenoura.",
+        "foto": "quiosque-do-cabeca_espetao-do-cabeca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quiosque-do-cabeca/"
+  },
+  {
+    "id": 31,
+    "slug": "quiosque-do-galego",
+    "nome": "Quiosque do Galego",
+    "endereco": "QE 19, Bloco B, 19 – Pça. Central",
+    "bairro": "Guará II",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7742663,
+    "lng": -47.888838,
+    "telefone": "61993902741",
+    "horarios": "Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 22h | Domingo: 11h – 20h",
+    "fotos": [
+      "quiosque-do-galego_mistura-boa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mistura Boa",
+        "descricao": "Pastel recheado com queijo, couve-flor, brócolis, bacon, calabresa e cream cheese.",
+        "foto": "quiosque-do-galego_mistura-boa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quiosque-do-galego/"
+  },
+  {
+    "id": 32,
+    "slug": "quiosque-tardezinha",
+    "nome": "Quiosque Tardezinha",
+    "endereco": "QNL 10, Bloco H, 2 – Lote 2",
+    "bairro": "Taguatinga Norte",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61981687965",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 11h – 0h | Domingo: 11h – 23h",
+    "fotos": [
+      "quiosque-tardezinha_meu-porquin-virou-croqueta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Meu porquin virou croqueta",
+        "descricao": "Croqueta de porco recheada de alho-poró e queijo. Acompanhada de geleia de goiabada com pimenta.",
+        "foto": "quiosque-tardezinha_meu-porquin-virou-croqueta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quiosque-tardezinha/"
+  },
+  {
+    "id": 33,
+    "slug": "tata-kombinado-cozinha-e-bar",
+    "nome": "Tatá Kombinado Cozinha e Bar",
+    "endereco": "Rua 3, Chácara 92, Lotes 66/67, 92",
+    "bairro": "Vicente Pires",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "61984127795",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "tata-kombinado-cozinha-e-bar_cai-com-a-kombi-no-buraco.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cai com a kombi no Buraco",
+        "descricao": "Minipão francês cortado ao meio, recheado com molho mostarda e mel, rúcula e carne de lagarto de sal desfiada com catupiry, decorado com vinagrete, servido com molho picante. Uma releitura do Buraco Quente.",
+        "foto": "tata-kombinado-cozinha-e-bar_cai-com-a-kombi-no-buraco.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tata-kombinado-cozinha-e-bar/"
+  },
+  {
+    "id": 34,
+    "slug": "wagner-vieira-bbq",
+    "nome": "Wagner Vieira BBQ",
+    "endereco": "Rua 5, Lote 1,  - 101",
+    "bairro": "Brasília - DF",
+    "cidade": "Brasília",
+    "cidade_slug": "brasilia-butecos",
+    "ano": "2026",
+    "lat": -15.7009912,
+    "lng": -47.9109084,
+    "telefone": "61982643630",
+    "horarios": "Terça-feira: 17h30 – 22h | Quarta-feira: 17h30 – 22h | Quinta-feira: 17h30 – 22h | Sexta-feira: 11h30 – 22h | Sábado: 11h30 – 22h | Domingo: 11h30 – 22h",
+    "fotos": [
+      "wagner-vieira-bbq_costelinha-da-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costelinha da casa",
+        "descricao": "Costelinha suína defumada com couve refogada no alho, com geleia de abacaxi e chimichurri.",
+        "foto": "wagner-vieira-bbq_costelinha-da-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/wagner-vieira-bbq/"
+  }
+]

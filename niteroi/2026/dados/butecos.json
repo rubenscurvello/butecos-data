@@ -1,0 +1,627 @@
+[
+  {
+    "id": 1,
+    "slug": "alhos-e-bugalhos",
+    "nome": "Alhos e Bugalhos",
+    "endereco": "R. Desembargador Lima Castro, 66",
+    "bairro": "Fonseca",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8820354,
+    "lng": -43.0858595,
+    "telefone": "21999284160",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "alhos-e-bugalhos_na-ponta-da-lingua.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Na Ponta da Língua",
+        "descricao": "Cestinha de brócolis recheada com língua bovina desfiada com bacon, flambados na cachaça artesanal. Para equilibrar, um vinagrete de maxixe, laranja e mel.",
+        "foto": "alhos-e-bugalhos_na-ponta-da-lingua.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alhos-e-bugalhos/"
+  },
+  {
+    "id": 2,
+    "slug": "alto-da-ilha-bar",
+    "nome": "Alto da Ilha Bar",
+    "endereco": "Rua Cruzeiro, 317",
+    "bairro": "Ilha da Conceição",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8703057,
+    "lng": -43.1147864,
+    "telefone": "21983677730",
+    "horarios": "Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 14h – 23h | Domingo: 14h – 23h",
+    "fotos": [
+      "alto-da-ilha-bar_do-mar-ao-bar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Do mar ao bar",
+        "descricao": "Caldinho cremoso de frutos do mar com camarões, lula e polvo, que se unem ao sabor do frescor do agrião.",
+        "foto": "alto-da-ilha-bar_do-mar-ao-bar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alto-da-ilha-bar/"
+  },
+  {
+    "id": 3,
+    "slug": "ancoras-itaipu",
+    "nome": "Âncoras Itaipu",
+    "endereco": "Praia de Itaipu, 24",
+    "bairro": "Itaipu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9719974,
+    "lng": -43.0450575,
+    "telefone": "21977304506",
+    "horarios": "Segunda-feira: 10h30 – 16h30 | Terça-feira: 10h30 – 16h30 | Quinta-feira: 10h30 – 16h30 | Sexta-feira: 10h30 – 16h30 | Sábado: 10h30 – 16h30 | Domingo: 10h30 – 16h30",
+    "fotos": [
+      "ancoras-itaipu_a-magia-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A Magia do Buteco",
+        "descricao": "Dois donuts salgados que lembram sobremesa, mas escondem um recheio cremoso de camarão com catupiry ou salmão com cream cheese. Para acompanhar, maionese rústica de couve com bacon e duas geleias artesanais, abacaxi e maracujá com pimenta.",
+        "foto": "ancoras-itaipu_a-magia-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ancoras-itaipu/"
+  },
+  {
+    "id": 4,
+    "slug": "armazem-7-bar-e-pub",
+    "nome": "Armazém 7 Bar e Pub",
+    "endereco": "R. Visconde de Morais, 270",
+    "bairro": "Ingá",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9013949,
+    "lng": -43.1254618,
+    "telefone": "21999703590",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 16h – 0h",
+    "fotos": [
+      "armazem-7-bar-e-pub_torresmona.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Torresmona",
+        "descricao": "Trouxinhas de repolho recheadas com pimentões coloridos e abobrinha refogada, servidas com torresminhos crocantes de berinjela e acompanhadas de um molho cremoso de alho assado.",
+        "foto": "armazem-7-bar-e-pub_torresmona.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-7-bar-e-pub/"
+  },
+  {
+    "id": 5,
+    "slug": "armazem-caranguejo",
+    "nome": "Armazém do Caranguejo",
+    "endereco": "R. Visconde de Itaboraí, 196",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8860735,
+    "lng": -43.1223499,
+    "telefone": "(21) 99571-4234 | (21) 99632-6241",
+    "horarios": "Segunda-feira: 11h – 20h | Terça-feira: 11h – 20h | Quarta-feira: 11h – 20h | Quinta-feira: 11h – 20h | Sexta-feira: 11h – 20h | Sábado: 11h – 20h | Domingo: 11h – 17h",
+    "fotos": [
+      "armazem-do-caranguejo_trio-parada-dura.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Parada Dura",
+        "descricao": "Bolinho de caranguejo, acompanhado por um molho de cebolas frescas com azeite.",
+        "foto": "armazem-do-caranguejo_trio-parada-dura.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-caranguejo/"
+  },
+  {
+    "id": 6,
+    "slug": "armazem-granel",
+    "nome": "Armazém Granel",
+    "endereco": "R. Vereador Duque Estrada, 50",
+    "bairro": "Santa Rosa",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8970069,
+    "lng": -43.0985232,
+    "telefone": "2136299629",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "armazem-granel_canape-de-porco-doido-de-lata.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Canapé de Porco Doído de Lata",
+        "descricao": "Canapé de pernil de porco da lata desfiado, montado em fatia de pão de fubá com requeijão com salpicão agridoce de acelga.",
+        "foto": "armazem-granel_canape-de-porco-doido-de-lata.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-granel/"
+  },
+  {
+    "id": 7,
+    "slug": "bar-da-laura-2",
+    "nome": "Bar da Laura",
+    "endereco": "R. Visconde do Uruguai, 183",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21999814199",
+    "horarios": "Terça-feira: 13h – 22h | Quarta-feira: 13h – 22h | Quinta-feira: 13h – 22h | Sexta-feira: 13h – 22h | Sábado: 12h – 20h | Domingo: 12h – 18h",
+    "fotos": [
+      "bar-da-laura_encanto-de-camarao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Encanto de Camarão",
+        "descricao": "Uma empadinha artesanal com massa amanteigada com espinafre, recheada com camarões refogados e creme de catupiry.",
+        "foto": "bar-da-laura_encanto-de-camarao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-laura-2/"
+  },
+  {
+    "id": 8,
+    "slug": "4054-revision-v1",
+    "nome": "Bar do Peixe",
+    "endereco": "Estrada Caetano Monteiro, 1994 - Loja 106",
+    "bairro": "Badu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9048877,
+    "lng": -43.0517816,
+    "telefone": "21965086264",
+    "horarios": "Terça-feira: 8h – 16h | Quarta-feira: 8h – 16h | Quinta-feira: 8h – 16h | Sexta-feira: 8h – 16h | Sábado: 8h – 16h | Domingo: 8h – 16h",
+    "fotos": [
+      "bar-do-peixe_cubinhos-do-mar-martins.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cubinhos do Mar Martins",
+        "descricao": "Cubinhos de sardinha temperados com alho-poró, cebola e um toque de batata para dar textura leve, empanados e dourados no azeite. Acompanhados de um cremoso molho de espinafre.",
+        "foto": "bar-do-peixe_cubinhos-do-mar-martins.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4054-revision-v1/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-tiao",
+    "nome": "Bar do Tião",
+    "endereco": "Praia de Itaipu, 23 - Loja",
+    "bairro": "Itaipu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9719974,
+    "lng": -43.0450575,
+    "telefone": "(21) 97509-7999",
+    "horarios": "Segunda-feira: 11h – 17h | Terça-feira: 11h – 17h | Quarta-feira: 11h – 17h | Quinta-feira: 11h – 17h | Sexta-feira: 11h – 17h | Sábado: 11h – 17h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-do-tiao_mexilhoba.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mexilhoba",
+        "descricao": "Mexilhão ao molho de tomate, cebola, pimentão, coentro e taioba. Acompanhado de torrada temperada com orégano e azeite.",
+        "foto": "bar-do-tiao_mexilhoba.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-tiao/"
+  },
+  {
+    "id": 10,
+    "slug": "beco-jt",
+    "nome": "Beco JT",
+    "endereco": "Rua Joaquim Távora, 101",
+    "bairro": "Icaraí",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9109594,
+    "lng": -43.1039171,
+    "telefone": "2127048694",
+    "horarios": "Segunda-feira: 11h – 17h | Terça-feira: 11h – 17h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 17h",
+    "fotos": [
+      "beco-jt_porquinho-enrolado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho enrolado",
+        "descricao": "Costelinhas enroladas em couve.",
+        "foto": "beco-jt_porquinho-enrolado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/beco-jt/"
+  },
+  {
+    "id": 11,
+    "slug": "cantinho-da-tia-joana",
+    "nome": "Cantinho da Tia Joana",
+    "endereco": "Praia de Itaipu, 16 - Vila dos Pescadores",
+    "bairro": "Itaipu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9707549,
+    "lng": -43.0458288,
+    "telefone": "2126080932",
+    "horarios": "Segunda-feira: 11h – 17h | Quarta-feira: 10h – 17h | Quinta-feira: 10h – 17h | Sexta-feira: 10h – 17h | Sábado: 10h – 17h | Domingo: 10h – 17h",
+    "fotos": [
+      "cantinho-da-tia-joana_ficaaee-na-tia-joana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ficaaêê na Tia Joana",
+        "descricao": "Fricassê de peixe com alho-poró acompanhado de cebola crispy.",
+        "foto": "cantinho-da-tia-joana_ficaaee-na-tia-joana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantinho-da-tia-joana/"
+  },
+  {
+    "id": 12,
+    "slug": "casa-da-sogra",
+    "nome": "Casa da Sogra",
+    "endereco": "Praia de Itaipu, 22 - Travessa Tereza",
+    "bairro": "Itaipu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9707549,
+    "lng": -43.0458288,
+    "telefone": "21964488071",
+    "horarios": "Segunda-feira: 11h – 17h | Terça-feira: 11h – 17h | Quinta-feira: 11h – 17h | Sexta-feira: 11h – 17h | Sábado: 11h – 17h | Domingo: 11h – 17h",
+    "fotos": [
+      "casa-da-sogra_mar-na-cara-do-feijao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mar na cara do feijão",
+        "descricao": "Três bolinhos de feijão branco recheados com camarão, polvo, lula, mexilhão e couve, acompanhados de geleia de manga com maracujá e pimenta, chimichurri, creme de agrião com castanha e crispy de couve.",
+        "foto": "casa-da-sogra_mar-na-cara-do-feijao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-da-sogra/"
+  },
+  {
+    "id": 13,
+    "slug": "duas-de-cada-bar-e-petisqueria",
+    "nome": "Duas de Cada Bar e Petisqueria",
+    "endereco": "Pça. Doutor Azevedo Cruz, 2",
+    "bairro": "Ponta D’Areia",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2121043172",
+    "horarios": "Terça-feira: 14h – 22h | Quarta-feira: 14h – 22h | Quinta-feira: 14h – 22h | Sexta-feira: 14h – 23h | Sábado: 14h – 23h | Domingo: 12h – 19h",
+    "fotos": [
+      "duas-de-cada-bar-e-petisqueria_chopp-de-feijoada-com-crispy-de-couve.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chopp de feijoada com crispy de couve",
+        "descricao": "Feijoada à brasileirinha, servida numa caneca de chopp com crispy de couve-manteiga. Acompanhando: torresmos e um shot de caipirinha.",
+        "foto": "duas-de-cada-bar-e-petisqueria_chopp-de-feijoada-com-crispy-de-couve.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/duas-de-cada-bar-e-petisqueria/"
+  },
+  {
+    "id": 14,
+    "slug": "elenita-bar-e-cocina",
+    "nome": "Elenita Bar e Cocina",
+    "endereco": "Av. Almirante Tamandaré, 360",
+    "bairro": "Piratininga",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9551886,
+    "lng": -43.0690242,
+    "telefone": "21968201043",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 02h | Sábado: 17h – 02h | Domingo: 17h – 0h",
+    "fotos": [
+      "elenita-bar-e-cocina_lengua-a-la-vinagreta-da-elenita.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lengua a la Vinagreta da Elenita",
+        "descricao": "Vinagrete de língua com rúcula.",
+        "foto": "elenita-bar-e-cocina_lengua-a-la-vinagreta-da-elenita.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/elenita-bar-e-cocina/"
+  },
+  {
+    "id": 15,
+    "slug": "encanto-bistro",
+    "nome": "EnCanto Bistrô",
+    "endereco": "Rua Milton da Rocha Soares, 2",
+    "bairro": "Piratininga",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9514289,
+    "lng": -43.0894542,
+    "telefone": "21993322445",
+    "horarios": "Sexta-feira: 12h – 19h | Sábado: 12h – 19h | Domingo: 12h – 19h",
+    "fotos": [
+      "encanto-bistro_mineres-carioca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Minerés carioca.",
+        "descricao": "Tiras de angu frito com frutos do mar grelhados e salteados por cima. Finalizado com taioba.",
+        "foto": "encanto-bistro_mineres-carioca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/encanto-bistro/"
+  },
+  {
+    "id": 16,
+    "slug": "endorfina-bar",
+    "nome": "Endorfina Bar",
+    "endereco": "R. Presidente João Pessoa, 307",
+    "bairro": "Icaraí",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9000549,
+    "lng": -43.1049768,
+    "telefone": "2135872193",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 11h30 – 23h30 | Sábado: 11h30 – 23h30 | Domingo: 11h30 – 20h30",
+    "fotos": [
+      "endorfina-bar_dadinho-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dadinho do Popeye",
+        "descricao": "Cubos de lasanha empanados e fritos, acompanhados de um molho 4 queijos.",
+        "foto": "endorfina-bar_dadinho-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/endorfina-bar/"
+  },
+  {
+    "id": 17,
+    "slug": "espaco-five-stars",
+    "nome": "Espaço Five Stars",
+    "endereco": "Rui Barbosa, 403",
+    "bairro": "São Francisco",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9206208,
+    "lng": -43.0927799,
+    "telefone": "21988401621",
+    "horarios": "Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h | Sábado: 10h – 23h | Domingo: 10h – 22h",
+    "fotos": [
+      "espaco-five-stars_veneno-da-lata.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Veneno da Lata",
+        "descricao": "Costela Angus selecionada, temperada com dry rub de especiarias, defumada lentamente em lenha de macieira e finalizada em cocção lenta. Servida desfiada e prensada na lata, com agrião e tortilhas.",
+        "foto": "espaco-five-stars_veneno-da-lata.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espaco-five-stars/"
+  },
+  {
+    "id": 18,
+    "slug": "friends-pub",
+    "nome": "Friends Pub",
+    "endereco": "R. Presidente Backer, 9 - Loja 004",
+    "bairro": "Icaraí",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9002042,
+    "lng": -43.1065497,
+    "telefone": "2127053227",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "friends-pub_moela-ao-glamour.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Moela ao Glamour",
+        "descricao": "Moela no chopp artesanal, recheando pão da casa, finalizado com tempurá de agrião e farofa panko.",
+        "foto": "friends-pub_moela-ao-glamour.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/friends-pub/"
+  },
+  {
+    "id": 19,
+    "slug": "guela-seca",
+    "nome": "Guela Seca",
+    "endereco": "Estrada Francisco da Cruz Nunes, 11077",
+    "bairro": "Itaipu",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9598934,
+    "lng": -43.0297586,
+    "telefone": "24999769248",
+    "horarios": "Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 11h – 23h | Domingo: 11h – 19h",
+    "fotos": [
+      "guela-seca_rondelli-de-costela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rondelli de costela",
+        "descricao": "Rondelli de costela com agrião ao molho sugo.",
+        "foto": "guela-seca_rondelli-de-costela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/guela-seca/"
+  },
+  {
+    "id": 20,
+    "slug": "nossas-raizes-bistro",
+    "nome": "Nossas Raízes Bistrô",
+    "endereco": "R. Visconde de Sepetiba, 66",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8893437,
+    "lng": -43.1191881,
+    "telefone": "21988735260",
+    "horarios": "Segunda-feira: 11h30 – 15h | Terça-feira: 11h30 – 15h | Quarta-feira: 11h30 – 15h | Quinta-feira: 11h30 – 22h | Sexta-feira: 11h30 – 22h | Sábado: 11h30 – 22h | Domingo: 11h30 – 16h",
+    "fotos": [
+      "nossas-raizes-bistro_bolinho-do-guerreiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho do Guerreiro",
+        "descricao": "Bolinho com massa de inhame e recheio de espinafre, servido com maionese de espinafre.",
+        "foto": "nossas-raizes-bistro_bolinho-do-guerreiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nossas-raizes-bistro/"
+  },
+  {
+    "id": 21,
+    "slug": "nosso-boteco",
+    "nome": "Nosso Boteco",
+    "endereco": "Rua Comendador Queiroz, 91",
+    "bairro": "Icaraí",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9109112,
+    "lng": -43.1082213,
+    "telefone": "2135875556",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "nosso-boteco_tapas-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tapas do Popeye",
+        "descricao": "Pão de espinafre com carne desfiada, antepasto de talo de espinafre e 2 molhos: um agridoce de mostarda escura e outro aioli de espinafre com cream cheese.",
+        "foto": "nosso-boteco_tapas-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nosso-boteco/"
+  },
+  {
+    "id": 22,
+    "slug": "novo-micassas",
+    "nome": "Novo Miçassas",
+    "endereco": "Rua Geraldo Martins, 131",
+    "bairro": "Santa Rosa",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8993483,
+    "lng": -43.1040056,
+    "telefone": "2126100991",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 20h",
+    "fotos": [
+      "novo-micassas_quitutes-das-arabias.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Quitutes das Arábias",
+        "descricao": "Quatro bolinhos de costela assada no forno com ervas finas, refogada, com alho-poró, queijo coalho, e empanada na farinha panko.",
+        "foto": "novo-micassas_quitutes-das-arabias.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/novo-micassas/"
+  },
+  {
+    "id": 23,
+    "slug": "palitus-bar",
+    "nome": "Palitus Bar",
+    "endereco": "Av. Carlos Ermelindo Marins, 501",
+    "bairro": "Jurujuba",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.9316583,
+    "lng": -43.1157939,
+    "telefone": "21968226618",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 0h | Domingo: 12h – 22h",
+    "fotos": [
+      "palitus-bar_camarao-entre-paginas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão entre páginas",
+        "descricao": "Escondidinho de purê de batata puxado na manteiga, com um creme de camarão com alho-poró ao molho branco e pedaços de bacon, finalizado com queijo maçaricado. Acompanhado de chips de batata.",
+        "foto": "palitus-bar_camarao-entre-paginas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/palitus-bar/"
+  },
+  {
+    "id": 24,
+    "slug": "skina-pub",
+    "nome": "Skina Pub",
+    "endereco": "Rua Airton Dantas, 4",
+    "bairro": "Ponta D’Areia",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "",
+    "horarios": "Terça-feira: 14h – 22h | Quarta-feira: 14h – 22h | Quinta-feira: 14h – 22h | Sexta-feira: 14h – 22h | Sábado: 14h – 22h | Domingo: 13h – 21h",
+    "fotos": [
+      "skina-pub_to-assada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tô Assada!",
+        "descricao": "Duas batatas assadas com recheio de muçarela, costela bovina e agrião, finalizadas com mais muçarela gratinada e um mix de bacon com cebolinha.",
+        "foto": "skina-pub_to-assada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/skina-pub/"
+  },
+  {
+    "id": 25,
+    "slug": "tempero-da-baiana",
+    "nome": "Tempero da Baiana",
+    "endereco": "Rua Visconde de Sepetiba, 77",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Niterói",
+    "cidade_slug": "niteroi",
+    "ano": "2026",
+    "lat": -22.8893437,
+    "lng": -43.1191881,
+    "telefone": "21970476592",
+    "horarios": "De terça a quinta – Das 14:00 as 20:00\nSextas e sábados  – Das 14:00 as 22:00",
+    "fotos": [
+      "tempero-da-baiana_acaraje-gourmet.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Acarajé Gourmet",
+        "descricao": "Bolinho de feijão-fradinho, frito no azeite de dendê com camarão defumado e caruru, vatapá. Acompanhado de salada de tomate verde, rúcula, cheiro-verde e coentro.",
+        "foto": "tempero-da-baiana_acaraje-gourmet.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tempero-da-baiana/"
+  }
+]

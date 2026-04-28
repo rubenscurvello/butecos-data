@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "slug": "10256-revision-v1",
+    "nome": "Abará da Vovó",
+    "endereco": "R. Direita de Santo Antônio, 16",
+    "bairro": "Santo Antônio",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.964897,
+    "lng": -38.5048152,
+    "telefone": "(71) 98835-4769 | (71) 98749-3320",
+    "horarios": "Terça-feira: 15h – 22h | Quarta-feira: 15h – 22h | Quinta-feira: 15h – 22h | Sexta-feira: 15h – 22h | Sábado: 15h – 22h",
+    "fotos": [
+      "abara-da-vovo_efo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Efó",
+        "descricao": "Fritadas de efó e mariscos, servidas com bobó de frutos do mar.",
+        "foto": "abara-da-vovo_efo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10256-revision-v1/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-dgente",
+    "nome": "Bar D’Gente",
+    "endereco": "Rua Thomaz Gonzaga, 144",
+    "bairro": "Pernambués",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9755736,
+    "lng": -38.454258,
+    "telefone": "(71) 98502-9229",
+    "horarios": "Quarta-feira: 14h – 21h | Quinta-feira: 14h – 21h | Sexta-feira: 14h – 21h | Sábado: 14h – 21h | Domingo: 13h – 18h",
+    "fotos": [
+      "bar-d-gente_flor-rabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Flor & Rabada",
+        "descricao": "Rabada cortada em rodelas com couve-flor.",
+        "foto": "bar-d-gente_flor-rabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-dgente/"
+  },
+  {
+    "id": 3,
+    "slug": "3416-revision-v1",
+    "nome": "Bar das Meninas",
+    "endereco": "Avenida Iemanjá, 211",
+    "bairro": "Boca do Rio",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9810953,
+    "lng": -38.431613,
+    "telefone": "7121376156",
+    "horarios": "Quarta-feira: 11h – 21h | Quinta-feira: 11h – 21h | Sexta-feira: 11h – 21h | Sábado: 10h – 21h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-das-meninas_vou-deitar-e-rolar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vou deitar e rolar",
+        "descricao": "Pernil suíno com barbecue enrolado em folha de couve refogada, acompanhado de tulipa de frango e creme de brócolis com queijo.",
+        "foto": "bar-das-meninas_vou-deitar-e-rolar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3416-revision-v1/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-do-bonito",
+    "nome": "Bar do Bonito",
+    "endereco": "R. Palame, 9",
+    "bairro": "Itapuã",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9502464,
+    "lng": -38.3685096,
+    "telefone": "71992824925",
+    "horarios": "Segunda-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 10h – 16h",
+    "fotos": [
+      "bar-do-bonito_bolitos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolitos",
+        "descricao": "Bolinhos de chuva salgados, recheados com alho-poró, toscana, acompanha molho.",
+        "foto": "bar-do-bonito_bolitos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-bonito/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-do-chico",
+    "nome": "Bar do Chico",
+    "endereco": "Rua Artur de Azevedo Machado, 65",
+    "bairro": "STIEP",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9852945,
+    "lng": -38.4485402,
+    "telefone": "7135069163",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 23h | Sábado: 12h – 22h | Domingo: 12h – 17h",
+    "fotos": [
+      "bar-do-chico_jangada-do-chico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Jangada do Chico",
+        "descricao": "Camarões, polvo e minilula refogados com azeite de oliva e leite de coco, com os repolhos frescos, acompanhados de torradas.",
+        "foto": "bar-do-chico_jangada-do-chico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-chico/"
+  },
+  {
+    "id": 6,
+    "slug": "xique-xique",
+    "nome": "Bar Xique Xique",
+    "endereco": "R. Rockefeller, 39",
+    "bairro": "Barris",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(71) 99179-0541 | (71) 3343-6098",
+    "horarios": "Terça-feira: 14h – 22h | Quarta-feira: 14h – 22h | Quinta-feira: 14h – 22h | Sexta-feira: 14h – 22h | Sábado: 13h – 22h | Domingo: 13h – 21h",
+    "fotos": [
+      "bar-xique-xique_q-bao-do-tabareu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Q, bão do tabaréu",
+        "descricao": "Bolinho em formato de quibe, feito com massa de couve-flor, recheado com charque e banana-da-terra. Servido com geleia de maçã e pimenta-biquinho.",
+        "foto": "bar-xique-xique_q-bao-do-tabareu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/xique-xique/"
+  },
+  {
+    "id": 7,
+    "slug": "biritodromo-bar-de-praia",
+    "nome": "Biritódromo Bar de Praia",
+    "endereco": "R. Souza Uzel, 4",
+    "bairro": "Federação",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9954193,
+    "lng": -38.5100109,
+    "telefone": "71993862601",
+    "horarios": "Quarta-feira: 17h – 21h | Quinta-feira: 11h30 – 21h | Sexta-feira: 11h30 – 21h | Sábado: 11h30 – 21h | Domingo: 11h30 – 18h",
+    "fotos": [
+      "biritodromo-bar-de-praia_delicias-do-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Delícias do Mar",
+        "descricao": "Refogado de polvo, camarão e salsão. Acompanhado de um purê de batata, farofa crocante e um vinagrete tropical de ora-pro-nóbis.",
+        "foto": "biritodromo-bar-de-praia_delicias-do-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/biritodromo-bar-de-praia/"
+  },
+  {
+    "id": 8,
+    "slug": "bistro-negreiros",
+    "nome": "Bistrô Negreiros",
+    "endereco": "Rua do Alvo, 10",
+    "bairro": "Saúde",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9710914,
+    "lng": -38.5063407,
+    "telefone": "71987941257",
+    "horarios": "Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 21h30 | Sábado: 11h – 21h30 | Domingo: 11h – 15h",
+    "fotos": [
+      "bistro-negreiros_tempura-baiana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tempurá Baiana",
+        "descricao": "Tempurá de legumes, camarão e brócolis crocantes com molho de pimenta rubra gelado à moda baiana.",
+        "foto": "bistro-negreiros_tempura-baiana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bistro-negreiros/"
+  },
+  {
+    "id": 9,
+    "slug": "bistro9",
+    "nome": "Bistrô9",
+    "endereco": "Av. José Joaquim Seabra, 151",
+    "bairro": "Baixa dos Sapateiros",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9752266,
+    "lng": -38.5077728,
+    "telefone": "71988067490",
+    "horarios": "Terça-feira: 10h – 16h | Quarta-feira: 10h – 16h | Quinta-feira: 10h – 16h | Sexta-feira: 10h – 16h | Sábado: 10h – 16h | Domingo: 10h – 15h",
+    "fotos": [
+      "bistro9_bocado-de-rabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bocado de rabada",
+        "descricao": "Rabada com agrião acompanhada de chips de batata-doce e torradas.",
+        "foto": "bistro9_bocado-de-rabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bistro9/"
+  },
+  {
+    "id": 10,
+    "slug": "botecar-bar-e-petiscaria",
+    "nome": "Botecar Bar e Petiscaria",
+    "endereco": "Rua Andaraí, 723",
+    "bairro": "Resgate",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9618242,
+    "lng": -38.4616299,
+    "telefone": "71992864302",
+    "horarios": "Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 23h | Sábado: 16h – 23h | Domingo: 16h – 22h",
+    "fotos": [
+      "botecar-bar-e-petiscaria_ate-banguelo-comi.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Até banguelo comi",
+        "descricao": "Tulipas chili goiabada com alho-poró à milanesa.",
+        "foto": "botecar-bar-e-petiscaria_ate-banguelo-comi.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botecar-bar-e-petiscaria/"
+  },
+  {
+    "id": 11,
+    "slug": "boteco-casquinha-de-siri",
+    "nome": "Boteco Casquinha de Siri",
+    "endereco": "Rua Eduardo Dotto, 337",
+    "bairro": "Paripe",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.8391434,
+    "lng": -38.4723123,
+    "telefone": "71986723036",
+    "horarios": "Segunda-feira: 16h30 – 23h30 | Quarta-feira: 16h30 – 23h30 | Quinta-feira: 16h30 – 23h30 | Sexta-feira: 16h30 – 23h30 | Sábado: 16h30 – 23h30 | Domingo: 15h – 23h30",
+    "fotos": [
+      "boteco-casquinha-de-siri_made-in-bahia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Made in Bahia",
+        "descricao": "Casquinha de siri com camarões e couve, servida com farofa de cebola e vinagrete.",
+        "foto": "boteco-casquinha-de-siri_made-in-bahia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-casquinha-de-siri/"
+  },
+  {
+    "id": 12,
+    "slug": "boteco-da-sereia",
+    "nome": "Boteco da Sereia",
+    "endereco": "Beco da Sereia, 7",
+    "bairro": "Saúde",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9737277,
+    "lng": -38.5047236,
+    "telefone": "71982747092",
+    "horarios": "Quarta-feira: 17h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 17h",
+    "fotos": [
+      "boteco-da-sereia_rabo-da-sereia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabo da Sereia",
+        "descricao": "Cone com recheio de siri, camarão, catupiry e brócolis, acompanhado de molho.",
+        "foto": "boteco-da-sereia_rabo-da-sereia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-da-sereia/"
+  },
+  {
+    "id": 13,
+    "slug": "boteco-delicia-de-pirao",
+    "nome": "Boteco Delícia de Pirão",
+    "endereco": "Estr. Ilha do Mocambo, 8",
+    "bairro": "Trobogy",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9323108,
+    "lng": -38.4093258,
+    "telefone": "71988910647",
+    "horarios": "Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 22h",
+    "fotos": [
+      "boteco-delicia-de-pirao_camarao-imperial.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão imperial",
+        "descricao": "Camarão à rúcula no creme de aipim ao queijo.",
+        "foto": "boteco-delicia-de-pirao_camarao-imperial.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-delicia-de-pirao/"
+  },
+  {
+    "id": 14,
+    "slug": "boteco-do-araujo",
+    "nome": "Boteco do Araújo",
+    "endereco": "Rua José Mariz Pinto, 60",
+    "bairro": "Baixa de Quintas",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9601161,
+    "lng": -38.4967258,
+    "telefone": "71988542412",
+    "horarios": "Terça-feira: 8h – 17h | Quarta-feira: 8h – 17h | Quinta-feira: 8h – 17h | Sexta-feira: 7h – 21h | Sábado: 7h – 21h | Domingo: 7h – 18h",
+    "fotos": [
+      "boteco-do-araujo_feijuca-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Feijuca Crocante",
+        "descricao": "Bolinho de feijoada recheado com calabresa, bacon, carne defumada e couve refogada. Acompanha molho de limão-siciliano.",
+        "foto": "boteco-do-araujo_feijuca-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-araujo/"
+  },
+  {
+    "id": 15,
+    "slug": "boteco-do-cheff",
+    "nome": "Boteco do Cheff",
+    "endereco": "Rua Haeckel José de Almeida, 177",
+    "bairro": "Salvador - BA",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9581599,
+    "lng": -38.3933398,
+    "telefone": "(71) 99975-4218 | (71) 3037-2284",
+    "horarios": "Terça-feira: 16h – 21h30 | Quarta-feira: 16h – 21h30 | Quinta-feira: 16h – 21h30 | Sexta-feira: 16h – 0h | Sábado: 12h – 0h | Domingo: 12h – 21h30",
+    "fotos": [
+      "boteco-do-cheff_tartar-baiano-do-cheff.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tartar Baiano do Cheff",
+        "descricao": "Camarão com alho-poró e cream cheese, servido com pastéis de vento.",
+        "foto": "boteco-do-cheff_tartar-baiano-do-cheff.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-cheff/"
+  },
+  {
+    "id": 16,
+    "slug": "boteco-do-gavazza",
+    "nome": "Boteco do Gavazza",
+    "endereco": "Rua Greenfield, 174",
+    "bairro": "Barra",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "71988887074",
+    "horarios": "Quarta-feira: 11h30 – 18h | Quinta-feira: 11h30 – 19h | Sexta-feira: 11h30 – 21h | Sábado: 11h30 – 20h | Domingo: 11h30 – 18h",
+    "fotos": [
+      "boteco-do-gavazza_polvo-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Polvo & Poro",
+        "descricao": "Polvo com alho-poró, acompanhado de torradas.",
+        "foto": "boteco-do-gavazza_polvo-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-gavazza/"
+  },
+  {
+    "id": 17,
+    "slug": "boteco-do-vale",
+    "nome": "Boteco do Vale",
+    "endereco": "Vila São Roque, 413",
+    "bairro": "Campinas de Brotas",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9840185,
+    "lng": -38.4809157,
+    "telefone": "71993176429",
+    "horarios": "Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 18h",
+    "fotos": [
+      "boteco-do-vale_abraco-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Abraço Tropical",
+        "descricao": "Trouxinha de acelga, recheada com guioza de lombo suíno, gengibre e cebolinha. Servida com molho de manga, mostarda e vinagre balsâmico, finalizada com gergelim e crispy de couve.",
+        "foto": "boteco-do-vale_abraco-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-vale/"
+  },
+  {
+    "id": 18,
+    "slug": "cabana-da-sonia",
+    "nome": "Cabana da Sônia",
+    "endereco": "Ladeira do Abaeté, 18",
+    "bairro": "Itapuã",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9477451,
+    "lng": -38.361531,
+    "telefone": "71981216454",
+    "horarios": "Segunda-feira: 12h – 19h | Terça-feira: 12h – 19h | Quarta-feira: 12h – 19h | Quinta-feira: 12h – 19h | Sexta-feira: 12h – 21h | Sábado: 12h – 21h | Domingo: 12h – 19h",
+    "fotos": [
+      "cabana-da-sonia_sonia-boca-nervosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sônia Boca Nervosa",
+        "descricao": "Frigideira de siri com camarão, couve e repolho, servida com vinagrete de biriri e creme da casa.",
+        "foto": "cabana-da-sonia_sonia-boca-nervosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cabana-da-sonia/"
+  },
+  {
+    "id": 19,
+    "slug": "cantina-dos-artistas",
+    "nome": "Cantina dos Artistas",
+    "endereco": "Av. Oceano Pacífico, 4",
+    "bairro": "São Marcos",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.9299309,
+    "lng": -38.4300964,
+    "telefone": "71999334842",
+    "horarios": "Segunda-feira: 11h30 – 21h | Terça-feira: 11h30 – 18h | Quarta-feira: 11h30 – 21h | Quinta-feira: 11h30 – 21h | Sexta-feira: 11h30 – 21h | Sábado: 11h30 – 21h | Domingo: 11h30 – 21h",
+    "fotos": [
+      "cantina-dos-artistas_tesouro-maia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tesouro Maia",
+        "descricao": "Bacalhau e camarão, acompanhados de acelga e nachos.",
+        "foto": "cantina-dos-artistas_tesouro-maia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantina-dos-artistas/"
+  },
+  {
+    "id": 20,
+    "slug": "casa-amarela-bar",
+    "nome": "Casa Amarela Bar",
+    "endereco": "Rua do Carmo, 14, Santo Antônio",
+    "bairro": "",
+    "cidade": "Salvador",
+    "cidade_slug": "salvador",
+    "ano": "2026",
+    "lat": -12.968201,
+    "lng": -38.5073596,
+    "telefone": "71999046020",
+    "horarios": "Quarta-feira: 11h – 20h | Quinta-feira: 11h – 20h | Sexta-feira: 11h – 20h | Sábado: 11h – 20h | Domingo: 11h – 17h",
+    "fotos": [
+      "casa-amarela-bar_escondiflor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escondiflor",
+        "descricao": "Escondidinho de couve-flor com carne-seca.",
+        "foto": "casa-amarela-bar_escondiflor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-amarela-bar/"
+  }
+]

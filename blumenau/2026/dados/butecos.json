@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "slug": "alek-bar",
+    "nome": "Alek Bar",
+    "endereco": "R. Henrique Dias, 32",
+    "bairro": "Velha",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9146956,
+    "lng": -49.0910191,
+    "telefone": "47992057895",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 11h – 23h",
+    "fotos": [
+      "alek-bar_pate-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Patê do Popeye",
+        "descricao": "Patê de bacon defumado com espinafre, finalizado com tomates confitados. Acompanha pães rústicos de cerveja regados no azeite de oliva.",
+        "foto": "alek-bar_pate-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alek-bar/"
+  },
+  {
+    "id": 2,
+    "slug": "bistro-pai-degua",
+    "nome": "Bistrô Pai D’Égua",
+    "endereco": "R. General Osório, 3730",
+    "bairro": "Água Verde",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9070617,
+    "lng": -49.1295085,
+    "telefone": "47992821965",
+    "horarios": "Quarta-feira: 18h30 – 23h | Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h | Sábado: 12h – 0h | Domingo: 12h – 0h",
+    "fotos": [
+      "bistro-pai-d-egua_bolinho-de-tacaca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de Tacacá",
+        "descricao": "Bolinhos de tacacá feitos com massa de macaxeira. Acompanha: maionese de jambu e molho de pimenta de tucupi.",
+        "foto": "bistro-pai-d-egua_bolinho-de-tacaca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bistro-pai-degua/"
+  },
+  {
+    "id": 3,
+    "slug": "boteco-do-jonathan-ferrari",
+    "nome": "Boteco do Jonathan Ferrari",
+    "endereco": "R. São Bernardo, 75",
+    "bairro": "Itoupava Norte",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8936695,
+    "lng": -49.0674787,
+    "telefone": "47997048923",
+    "horarios": "Segunda-feira: 6h30 – 20h | Terça-feira: 6h30 – 20h | Quarta-feira: 6h30 – 20h | Quinta-feira: 6h30 – 22h | Sexta-feira: 6h30 – 22h",
+    "fotos": [
+      "boteco-do-jonathan-ferrari_vaca-louca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vaca Louca",
+        "descricao": "Carne chapeada com cebola. Acompanha: legumes salteados e batatas rústicas.",
+        "foto": "boteco-do-jonathan-ferrari_vaca-louca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-jonathan-ferrari/"
+  },
+  {
+    "id": 4,
+    "slug": "campeiraco-assados-e-espetinhos",
+    "nome": "Campeiraço Assados e Espetinhos",
+    "endereco": "R. Werner Duwe, 667",
+    "bairro": "Badenfurt",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8713812,
+    "lng": -49.1421023,
+    "telefone": "47992079562",
+    "horarios": "Segunda-feira: 18h – 2h | Terça-feira: 18h – 2h | Quarta-feira: 18h – 2h | Quinta-feira: 18h – 2h | Sexta-feira: 18h – 2h | Sábado: 18h – 2h | Domingo: 18:00 às 02:00",
+    "fotos": [
+      "campeiraco-assados-e-espetinhos_popeye-campeiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popeye Campeiro",
+        "descricao": "Massa de crepioca com um toque de rúcula, recheada com costela assada na brasa e coberta com queijo. Acompanha polenta frita e molho da casa.",
+        "foto": "campeiraco-assados-e-espetinhos_popeye-campeiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/campeiraco-assados-e-espetinhos/"
+  },
+  {
+    "id": 5,
+    "slug": "casa-portella",
+    "nome": "Casa Portella",
+    "endereco": "R. Frederico Jensen, 1360 - Casa",
+    "bairro": "Itoupavazinha",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8539316,
+    "lng": -49.1302194,
+    "telefone": "47992406667",
+    "horarios": "Terça-feira: 10h – 13h30 e 18h – 0h | Quarta-feira: 10h – 13h30 e 18h – 0h | Quinta-feira: 10h – 13h30 e 18h – 0h | Sexta-feira: 10h – 13h e 18h – 0h | Sábado: 10h – 14h e 18h – 0h | Domingo: 18h – 23h45",
+    "fotos": [
+      "casa-portella_alcatra-do-portella.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Alcatra do Portella",
+        "descricao": "Alcatra ao molho de chopp. Acompanha pão caseiro, brócolis refogado e",
+        "foto": "casa-portella_alcatra-do-portella.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-portella/"
+  },
+  {
+    "id": 6,
+    "slug": "dark-sport-bar",
+    "nome": "Dark Sport Bar",
+    "endereco": "R. Fritz Spernau, 511",
+    "bairro": "Fortaleza",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.885872,
+    "lng": -49.0628642,
+    "telefone": "4797864931",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h",
+    "fotos": [
+      "dark-sport-bar_entrevarios.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Entrevários",
+        "descricao": "",
+        "foto": "dark-sport-bar_entrevarios.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dark-sport-bar/"
+  },
+  {
+    "id": 7,
+    "slug": "duvidoso-bar",
+    "nome": "Duvidoso Bar",
+    "endereco": "Rua Almirante Tamandaré, 488",
+    "bairro": "Vila Nova",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9114138,
+    "lng": -49.0858864,
+    "telefone": "47999184762",
+    "horarios": "Terça-feira: 20h – 1h | Quarta-feira: 20h – 1h | Quinta-feira: 20h – 1h | Sexta-feira: 20h – 2h | Sábado: 20h – 2h",
+    "fotos": [
+      "duvidoso-bar_kafta-duvidosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kafta duvidosa",
+        "descricao": "Kafta de espinafre com aioli de espinafre com hortelã.",
+        "foto": "duvidoso-bar_kafta-duvidosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/duvidoso-bar/"
+  },
+  {
+    "id": 8,
+    "slug": "emporio-do-pastel",
+    "nome": "Empório do Pastel",
+    "endereco": "R. Progresso, 2178",
+    "bairro": "Progresso",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9691888,
+    "lng": -49.0728159,
+    "telefone": "47988130860",
+    "horarios": "Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 16h – 23h",
+    "fotos": [
+      "emporio-do-pastel_entre-brocolis-e-goiabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Entre brócolis e goiabada.",
+        "descricao": "3 pastéis: carne de panela, alho-poró e queijo; frango, erva-doce e palmito; queijo com goiabada. 3 bolinhos de brócolis recheados com: linguiça, queijo e bacon. Acompanham: vinagrete, molho verde e molho de mostarda e mel.",
+        "foto": "emporio-do-pastel_entre-brocolis-e-goiabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-do-pastel/"
+  },
+  {
+    "id": 9,
+    "slug": "espetinho-ce-ta-doido",
+    "nome": "Espetinho Cê Tá Doido",
+    "endereco": "R. José Reuter, 914",
+    "bairro": "Velha Central",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9334164,
+    "lng": -49.1339687,
+    "telefone": "47 997805298",
+    "horarios": "Segunda-feira: 15h – 22h30 | Terça-feira: 15h – 22h30 | Quarta-feira: 15h – 22h30 | Quinta-feira: 15h – 22h30 | Sexta-feira: 15h – 22h30 | Sábado: 15h – 22h30",
+    "fotos": [
+      "espetinho-ce-ta-doido_combo-da-alegria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Combo da Alegria",
+        "descricao": "Farofa recheada de couve. Acompanham espetinhos: bovinos com bacon, bovino com queijo e misto (bovino, frango e calabresa).",
+        "foto": "espetinho-ce-ta-doido_combo-da-alegria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetinho-ce-ta-doido/"
+  },
+  {
+    "id": 10,
+    "slug": "jacos-bar",
+    "nome": "Jacó’s Bar",
+    "endereco": "R. Lucie Herkenhoff, 48",
+    "bairro": "Velha Central",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "47991632129",
+    "horarios": "Quarta-feira: 11h – 14h e 16h – 23h30 | Quinta-feira: 11h – 14h e 16h – 23h30 | Sexta-feira: 11h – 14h e 16h – 23h30 | Sábado: 11h – 14h e 16h – 23h30 | Domingo: 11h – 14h",
+    "fotos": [
+      "jaco-s-bar_a-vaca-foi-pro-queijo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A Vaca foi pro Queijo",
+        "descricao": "Pedaços de alcatra refogados com alho-poró, acompanhados de cubos de queijo coalho grelhados, batatas fritas crocantes e molho de espinafre cremoso.",
+        "foto": "jaco-s-bar_a-vaca-foi-pro-queijo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jacos-bar/"
+  },
+  {
+    "id": 11,
+    "slug": "lanches-ponto-certo",
+    "nome": "Lanches Ponto Certo",
+    "endereco": "R. Júlio Michel, 136",
+    "bairro": "Fortaleza",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8796911,
+    "lng": -49.0662803,
+    "telefone": "4732884339",
+    "horarios": "Terça-feira: 11h – 13h30 e 18h – 0h | Quarta-feira: 11h – 13h30 e 18h – 0h | Quinta-feira: 11h – 13h30 e 18h – 0h | Sexta-feira: 11h – 13h30 e 18h – 0h | Sábado: 11h – 13h30 e 18h – 0h | Domingo: 18h – 23h30",
+    "fotos": [
+      "lanches-ponto-certo_trio-da-resenha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio da Resenha",
+        "descricao": "3 minibúrgueres: carne de panela e alho-poró crispy; hambúrguer tradicional com rúcula e tomate confit; hambúrguer de acém à milanesa com cebola caramelizada. Acompanham: molhos agridoce e molho verde com couve-flor.",
+        "foto": "lanches-ponto-certo_trio-da-resenha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/lanches-ponto-certo/"
+  },
+  {
+    "id": 12,
+    "slug": "mega-lanches-na-brasa",
+    "nome": "Mega Lanches na Brasa",
+    "endereco": "R. Heinz Scheidemantel, 268",
+    "bairro": "Testo Salto",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8563773,
+    "lng": -49.1570411,
+    "telefone": "47991094567",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "mega-lanches-na-brasa_mini-combo-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mini Combo Buteco",
+        "descricao": "3 mini-hambúrgueres: hambúrguer, geleia de abacaxi com bacon e alho-poró, muçarela e rúcula; lascas de costela, alface, muçarela e farofa de repolho refogado; hambúrguer, espinafre, muçarela e molho da casa (mostarda, barbecue, maionese e hortelã). Acompanham batatas fritas e maionese.",
+        "foto": "mega-lanches-na-brasa_mini-combo-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mega-lanches-na-brasa/"
+  },
+  {
+    "id": 13,
+    "slug": "pastelle-pastelaria",
+    "nome": "Pastelle Pastelaria",
+    "endereco": "R. Progresso, 1919",
+    "bairro": "Progresso",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9650502,
+    "lng": -49.0717578,
+    "telefone": "4733064383",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "pastelle-pastelaria_vou-de-trintao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vou de Trintão",
+        "descricao": "Massa de pastel de 30 cm, recheada com carne em cubos, couve mineira, alho-poró, cebola e bacon. Acompanha geleia de pimenta, maionese caseira com pimenta defumada e tirinhas de massinha com ganache de chocolate sabor pistache.",
+        "foto": "pastelle-pastelaria_vou-de-trintao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pastelle-pastelaria/"
+  },
+  {
+    "id": 14,
+    "slug": "portilho-lanches",
+    "nome": "Portilho Lanches",
+    "endereco": "R. Johann Sachse, 3155",
+    "bairro": "Badenfurt",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8683252,
+    "lng": -49.1304327,
+    "telefone": "47991431249",
+    "horarios": "Terça-feira: 18h30 – 23h | Quarta-feira: 18h30 – 23h | Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h | Sábado: 18h30 – 23h",
+    "fotos": [
+      "portilho-lanches_petisco-portilho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Petisco Portilho",
+        "descricao": "Petisco de x-salada: pão, hambúrguer, queijo, maionese, ketchup, mostarda, alface, tomate, milho, ervilha. Acompanha batata frita, cheddar e bacon.",
+        "foto": "portilho-lanches_petisco-portilho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/portilho-lanches/"
+  },
+  {
+    "id": 15,
+    "slug": "rota-377",
+    "nome": "Rota 377",
+    "endereco": "Rua Sete de Maio, 377",
+    "bairro": "Itoupava Norte",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.8885367,
+    "lng": -49.067755,
+    "telefone": "47997473059",
+    "horarios": "Terça-feira: 11h – 14h | Quarta-feira: 11h – 14h e 18h – 23h | Quinta-feira: 11h – 14h e 18h – 23h | Sexta-feira: 11h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "rota-377_costelation.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "COSTELATION",
+        "descricao": "Rolinho crocante, feito com massa de lasanha empanada na farinha panko, recheado com costela desfiada, queijo derretido e um toque de alho-poró. Servido com maionese caseira.",
+        "foto": "rota-377_costelation.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/rota-377/"
+  },
+  {
+    "id": 16,
+    "slug": "sanduba-lanches",
+    "nome": "Sanduba Lanches",
+    "endereco": "R. Amazonas, 2107",
+    "bairro": "Garcia",
+    "cidade": "Blumenau",
+    "cidade_slug": "blumenau",
+    "ano": "2026",
+    "lat": -26.9263987,
+    "lng": -49.0567559,
+    "telefone": "47999941713",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 23h",
+    "fotos": [
+      "sanduba-lanches_flor-da-montanha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Flor da Montanha",
+        "descricao": "Croqueta estilo espanhola, de couve-flor e legumes. Acompanha maionese de gengibre e queijo montanhês.",
+        "foto": "sanduba-lanches_flor-da-montanha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sanduba-lanches/"
+  }
+]

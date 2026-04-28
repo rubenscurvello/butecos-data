@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "slug": "assada-shangri-la",
+    "nome": "Assada Shangri-lá",
+    "endereco": "Rua Visconde de Mauá, 168",
+    "bairro": "Londrina - PR",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3007172,
+    "lng": -51.1754701,
+    "telefone": "4333270805",
+    "horarios": "Segunda-feira: 08h30 – 17h30 | Terça-feira: 07h30 – 18h30 | Quarta-feira: 07h30 – 18h30 | Quinta-feira: 07h30 – 18h30 | Sexta-feira: 07h30 – 18h30 | Sábado: 07h30 – 18h30 | Domingo: 07h30 – 12h30",
+    "fotos": [
+      "assada-shangri-la_tempura-de-camarao-e-legumes.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tempurá de camarão e legumes",
+        "descricao": "Camarões com legumes frescos, empanados na tradicional massa japonesa e fritos até dourar.",
+        "foto": "assada-shangri-la_tempura-de-camarao-e-legumes.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/assada-shangri-la/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-do-paulista",
+    "nome": "Bar do Paulista",
+    "endereco": "Rua Jorge Velho, 221",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3219436,
+    "lng": -51.1580432,
+    "telefone": "43996386585",
+    "horarios": "Segunda-feira: 10h – 22h30 | Terça-feira: 10h – 22h30 | Quarta-feira: 10h – 22h30 | Quinta-feira: 10h – 22h30 | Sexta-feira: 10h – 22h30 | Sábado: 10h – 19h",
+    "fotos": [
+      "bar-do-paulista_file-mignon-suino-com-brocolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Filé-mignon suíno com brócolis",
+        "descricao": "Filé-mignon suíno ao molho shoyu com brócolis.",
+        "foto": "bar-do-paulista_file-mignon-suino-com-brocolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-paulista/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-do-valter",
+    "nome": "Bar do Valter",
+    "endereco": "Rua Belém, 245",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3044224,
+    "lng": -51.1580084,
+    "telefone": "43984489137",
+    "horarios": "Segunda-feira: 9h – 21h | Terça-feira: 9h – 21h | Quarta-feira: 9h – 21h | Quinta-feira: 9h – 21h | Sexta-feira: 9h – 21h | Sábado: 9h – 21h | Domingo: 10h – 15h",
+    "fotos": [
+      "bar-do-valter_petisco-comida-di-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Petisco Comida di Buteco",
+        "descricao": "Porção de linguiça acebolada flambada na cachaça, torresmo de pancetta, tulipinha de frango à milanesa, torresmo de toucinho à pururuca. Acompanhada de salada de repolho agridoce, molho rosé à moda da casa, molho de pimenta, farinha e limão.",
+        "foto": "bar-do-valter_petisco-comida-di-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-valter/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-sao-vicente-2",
+    "nome": "Bar São Vicente",
+    "endereco": "Rua São Vicente, 1173",
+    "bairro": "Jardim Palmares",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3003701,
+    "lng": -51.1602627,
+    "telefone": "43996078426",
+    "horarios": "Segunda-feira: 17h – 22h30 | Terça-feira: 17h – 22h30 | Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 22h30 | Sábado: 12h – 21h",
+    "fotos": [
+      "bar-sao-vicente_trio-blumenau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Blumenau",
+        "descricao": "Bolinho de linguiça tipo Blumenau com provolone, pera e agrião. Acompanha geleia de pera com pimenta e maionese de alecrim e limão-rosa.",
+        "foto": "bar-sao-vicente_trio-blumenau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-sao-vicente-2/"
+  },
+  {
+    "id": 5,
+    "slug": "barile-bar",
+    "nome": "Barile Bar",
+    "endereco": "Rua Paranaguá, 1146",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3194654,
+    "lng": -51.1692424,
+    "telefone": "4333231800",
+    "horarios": "Terça-feira: 16h30 – 0h | Quarta-feira: 16h30 – 0h | Quinta-feira: 16h30 – 0h | Sexta-feira: 16h30 – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "barile-bar_barquinha-de-espinafre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Barquinha de espinafre",
+        "descricao": "Porção de seis barquinhas de carne suína moída, feita com espinafre, temperos e especiarias, moldadas em forma de barquinho, fritas e cobertas com creme de queijo. Acompanha molho de pimenta da casa e vinagrete de abacaxi.",
+        "foto": "barile-bar_barquinha-de-espinafre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barile-bar/"
+  },
+  {
+    "id": 6,
+    "slug": "bem-dito-bar",
+    "nome": "Bem Dito Bar",
+    "endereco": "Rua Araguaia, 43",
+    "bairro": "Vila Nova",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.2990548,
+    "lng": -51.1680761,
+    "telefone": "43991557999",
+    "horarios": "Terça-feira: 17h30 – 22h | Quarta-feira: 17h30 – 22h | Quinta-feira: 17h30 – 22h | Sexta-feira: 17h30 – 22h | Sábado: 17h30 – 22h | Domingo: 17h30 – 22h",
+    "fotos": [
+      "bem-dito-bar_carne-de-onca-com-creme-de-espinafre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Carne de onça com creme de espinafre",
+        "descricao": "Carne bovina magra moída, temperada com especiarias, servida em fatias de pão baguete, com uma camada de creme especial de espinafre, salpicada com farofinha de folhas de espinafre desidratado e fios de cebola-roxa.",
+        "foto": "bem-dito-bar_carne-de-onca-com-creme-de-espinafre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bem-dito-bar/"
+  },
+  {
+    "id": 7,
+    "slug": "chik-grill-petiscaria",
+    "nome": "Chik Grill Petiscaria",
+    "endereco": "Avenida Saul Elkind, 2244",
+    "bairro": "Londrina - PR",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.2609229,
+    "lng": -51.1870258,
+    "telefone": "4330377637",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h |",
+    "fotos": [
+      "chik-grill-petiscaria_palitinho-de-espinafre-a-quatro-queijos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Palitinho de espinafre a quatro queijos",
+        "descricao": "Palitinho de espinafre a quatro queijos: muçarela, parmesão, ricota e provolone. Acompanhado de purê de batata-doce e geleia de pimenta e maçã.",
+        "foto": "chik-grill-petiscaria_palitinho-de-espinafre-a-quatro-queijos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/chik-grill-petiscaria/"
+  },
+  {
+    "id": 8,
+    "slug": "churraskin-espetaria-e-choperia",
+    "nome": "Churraskin Espetaria e Choperia",
+    "endereco": "Avenida Celso Garcia Cid, 330",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.313932,
+    "lng": -51.1514536,
+    "telefone": "43988078291",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "churraskin-espetaria-e-choperia_bolinho-de-feijoada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de feijoada",
+        "descricao": "Bolinho de feijoada com geleia de laranja com pimenta.",
+        "foto": "churraskin-espetaria-e-choperia_bolinho-de-feijoada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/churraskin-espetaria-e-choperia/"
+  },
+  {
+    "id": 9,
+    "slug": "cicero-grill",
+    "nome": "Cícero Grill",
+    "endereco": "Rua Figueira, 822",
+    "bairro": "Jd. Santa Rita",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.2829983,
+    "lng": -51.1963275,
+    "telefone": "(43) 3348-6938 | (43) 99159-8262",
+    "horarios": "Segunda-feira: 14h – 23h30 | Terça-feira: 14h – 23h30 | Quarta-feira: 14h – 23h30 | Quinta-feira: 14h – 23h30 | Sexta-feira: 14h – 23h30 | Sábado: 14h – 23h30",
+    "fotos": [
+      "cicero-grill_panceta-a-pururuca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panceta à pururuca",
+        "descricao": "Panceta à pururuca, acompanha molhos de alho-poró e cenoura.",
+        "foto": "cicero-grill_panceta-a-pururuca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cicero-grill/"
+  },
+  {
+    "id": 10,
+    "slug": "distrito-43-gastrobar-2",
+    "nome": "Distrito 43 Gastrobar",
+    "endereco": "Avenida Garibaldi Deliberador, 800",
+    "bairro": "Parque Residencial Alcântara",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.340801,
+    "lng": -51.1694323,
+    "telefone": "4333613343",
+    "horarios": "Terça-feira: 17h30 – 22h30 | Quarta-feira: 17h30 – 22h30 | Quinta-feira: 17h30 – 22h30 | Sexta-feira: 17h30 – 22h30 | Sábado: 17h30 – 22h30",
+    "fotos": [
+      "distrito-43-gastrobar_bolinho-cremoso-de-calabresa-e-alho-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho cremoso de calabresa e alho-poró",
+        "descricao": "Bolinho cremoso de calabresa e alho-poró.",
+        "foto": "distrito-43-gastrobar_bolinho-cremoso-de-calabresa-e-alho-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/distrito-43-gastrobar-2/"
+  },
+  {
+    "id": 11,
+    "slug": "duda-bar-espetaria",
+    "nome": "Duda Bar & Espetaria",
+    "endereco": "Rua Rio Paraná, 198",
+    "bairro": "Jardim do Café",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.2948028,
+    "lng": -51.2490596,
+    "telefone": "43996479074",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h",
+    "fotos": [
+      "duda-bar-espetaria_trio-porkpan.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Porkpan",
+        "descricao": "Releitura do clássico choripán, feito na brasa com pão francês crocante recheado com muçarela, um blend suíno artesanal e chimichurri de alho-poró, acompanha abacaxi em pedaços com sal, mel e raspas de limão.",
+        "foto": "duda-bar-espetaria_trio-porkpan.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/duda-bar-espetaria/"
+  },
+  {
+    "id": 12,
+    "slug": "espetaria-mossoro-2",
+    "nome": "Espetaria Mossoró",
+    "endereco": "Rua Mossoró, 483",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3065968,
+    "lng": -51.167147,
+    "telefone": "4333247243",
+    "horarios": "Segunda-feira: 17h30 – 23h30 |\n Terça-feira: 17h30 – 23h30 |\nQuarta-feira: 17h30 – 23h30 |\n Quinta-feira: 17h30 – 23h30 |\n Sexta-feira: 17h30 – 23h30 |\nSábado: 17h30 – 23h30",
+    "fotos": [
+      "espetaria-mossoro_caldo-sabor-e-amor.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caldo sabor e amor",
+        "descricao": "Caldo de frango com alho-poró, acompanha torradas.",
+        "foto": "espetaria-mossoro_caldo-sabor-e-amor.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetaria-mossoro-2/"
+  },
+  {
+    "id": 13,
+    "slug": "goiano-bar-e-grill",
+    "nome": "Goiano Bar e Grill",
+    "endereco": "Rua Chile, 687",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3174768,
+    "lng": -51.151341,
+    "telefone": "62985667815",
+    "horarios": "Segunda-feira: 11h – 22h30 | Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 22h30 | Sábado: 11h – 22h30",
+    "fotos": [
+      "goiano-bar-e-grill_disco-de-feijao-tropeiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Disco de feijão tropeiro",
+        "descricao": "Disco de feijão-tropeiro, acompanha molho de pimenta, molho verde e geleia de abacaxi com pimenta.",
+        "foto": "goiano-bar-e-grill_disco-de-feijao-tropeiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/goiano-bar-e-grill/"
+  },
+  {
+    "id": 14,
+    "slug": "lanchonete-carolli",
+    "nome": "Lanchonete Carolli",
+    "endereco": "Rua Arcindo Sardo, 197",
+    "bairro": "Jardim das Américas",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.285874,
+    "lng": -51.1805093,
+    "telefone": "4330264086",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 12h – 23h30",
+    "fotos": [
+      "lanchonete-carolli_palito-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Palito Tropical",
+        "descricao": "Petisco de massa de frango com cenoura, recheado com brócolis, bacon, alho-poró e requeijão, empanado na farinha Panko e frito. Acompanha molho especial.",
+        "foto": "lanchonete-carolli_palito-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/lanchonete-carolli/"
+  },
+  {
+    "id": 15,
+    "slug": "magnolia-bar-e-restaurante-2",
+    "nome": "Magnólia Bar e Restaurante",
+    "endereco": "Rua Humaitá, 198",
+    "bairro": "Kennedy",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3218102,
+    "lng": -51.1751429,
+    "telefone": "(43) 99135-0762 | (43) 3322-9771",
+    "horarios": "Terça-feira: 18h30 – 23h30 | Quarta-feira: 18h30 – 23h30 | Quinta-feira: 18h30 – 23h30 | Sexta-feira: 18h30 – 23h30 | Sábado: 18h30 – 23h30 | Domingo: 12h – 15h",
+    "fotos": [
+      "magnolia-bar-e-restaurante_to-chegando-ai.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tô chegando aí",
+        "descricao": "São quatro miniporções: cupim assado com uma farofinha crocante de couve com bacon e soja texturizada; kikaf grelhada, kafta com trigo de kibe recheada com rúcula e tomate seco; charutinhos de legumes refogados passados na massa de tempurá e fritos; porco-espinho frito, massa de peito de frango com milho-verde, recheada com espinafre e empanada com macarrão cabelo de anjo.",
+        "foto": "magnolia-bar-e-restaurante_to-chegando-ai.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/magnolia-bar-e-restaurante-2/"
+  },
+  {
+    "id": 16,
+    "slug": "nacao-bretta",
+    "nome": "Nação Bretta",
+    "endereco": "Rua Anita Garibaldi, 25",
+    "bairro": "Londrina - PR",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3187574,
+    "lng": -51.1648559,
+    "telefone": "43991543504",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 17h – 23h30",
+    "fotos": [
+      "nacao-bretta_ceviche-de-maxixe-com-manga-e-leite-de-castanhas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ceviche de maxixe com manga e leite de castanhas",
+        "descricao": "Ceviche vegano, com maxixe marinado, manga, rúcula e creme de castanhas-de-caju.",
+        "foto": "nacao-bretta_ceviche-de-maxixe-com-manga-e-leite-de-castanhas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nacao-bretta/"
+  },
+  {
+    "id": 17,
+    "slug": "nova-grill-espetaria",
+    "nome": "Nova Grill Espetaria",
+    "endereco": "Avenida Harry Prochet, 725",
+    "bairro": "Londrina - PR",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3492485,
+    "lng": -51.1670624,
+    "telefone": "4330379839",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 17h30 – 23h",
+    "fotos": [
+      "nova-grill-espetaria_bolinho-cdb.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho CDB",
+        "descricao": "Bolinho de pernil com couve, recheado com provolone, acompanha couve crispy e geleia de abacaxi com pimenta.",
+        "foto": "nova-grill-espetaria_bolinho-cdb.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nova-grill-espetaria/"
+  },
+  {
+    "id": 18,
+    "slug": "poscai-bier-2",
+    "nome": "Poscai Bier",
+    "endereco": "Rua Pernambuco, 1039",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3137522,
+    "lng": -51.1627583,
+    "telefone": "43991184289",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "poscai-bier_frango-com-molho-de-rucula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Frango com molho de rúcula",
+        "descricao": "Cortes temperados de frango frito acompanhado de molho verde de rúcula.",
+        "foto": "poscai-bier_frango-com-molho-de-rucula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/poscai-bier-2/"
+  },
+  {
+    "id": 19,
+    "slug": "quiosque-dona-onca-2",
+    "nome": "Quiosque Dona Onça",
+    "endereco": "Rua Senador Souza Naves, 1221",
+    "bairro": "Centro",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.3230845,
+    "lng": -51.1576294,
+    "telefone": "(43) 99933-5506 | (43) 99189-9091 | (43) 3304-1527",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h",
+    "fotos": [
+      "quiosque-dona-onca_pastel-fracolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel Fracolis",
+        "descricao": "Porção de pastel com recheio cremoso de frango, brócolis e alho-poró, acompanha molhos de pimenta e verde.",
+        "foto": "quiosque-dona-onca_pastel-fracolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quiosque-dona-onca-2/"
+  },
+  {
+    "id": 20,
+    "slug": "ze-benedito-comes-e-bebes",
+    "nome": "Zé Benedito Comes e Bebes",
+    "endereco": "Rua Professor Samuel Moura, 555",
+    "bairro": "Judith",
+    "cidade": "Londrina",
+    "cidade_slug": "londrina",
+    "ano": "2026",
+    "lat": -23.308758,
+    "lng": -51.1792017,
+    "telefone": "43991148444",
+    "horarios": "Segunda-feira: 17h – 21h50 | Terça-feira: 17h – 21h50 | Quarta-feira: 17h – 21h50 | Quinta-feira: 17h – 21h50 | Sexta-feira: 17h – 21h50 | Sábado: 17h – 21h50",
+    "fotos": [
+      "ze-benedito-comes-e-bebes_coxinha-de-carne-louca-com-alho-poro-e-catupiry.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha de carne louca com alho-poró e Catupiry",
+        "descricao": "Coxinha com massa mista de milho, blend de carne bovina refogada no alho-poró e catupiry. Acompanha maionese verde e pimenta da casa.",
+        "foto": "ze-benedito-comes-e-bebes_coxinha-de-carne-louca-com-alho-poro-e-catupiry.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ze-benedito-comes-e-bebes/"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "slug": "a-bodega-cachacaria",
+    "nome": "A Bodega Cachaçaria",
+    "endereco": "Av. Gov. Carlos de Lima Cavalcante, 4035 - Casa",
+    "bairro": "Casa Caiada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "81987356015",
+    "horarios": "Segunda-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "a-bodega-cachacaria_raizes-da-bodega.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Raízes da Bodega",
+        "descricao": "Purê de couve na manteiga com batatas e alho frito. Acompanhado de cupim cozido grelhado na chapa, vinagrete e farofa de cupim.",
+        "foto": "a-bodega-cachacaria_raizes-da-bodega.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/a-bodega-cachacaria/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-da-guarita",
+    "nome": "Bar da Guarita",
+    "endereco": "Rua Lígia Gomes, 40",
+    "bairro": "",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -7.9777599,
+    "lng": -34.8900963,
+    "telefone": "81998652075",
+    "horarios": "Segunda-feira: 10h – 18h | Terça-feira: 10h – 18h | Quarta-feira: 10h – 18h | Quinta-feira: 10h – 18h | Sexta-feira: 10h – 18h | Sábado: 10h – 19h | Domingo: 10h – 19h",
+    "fotos": [
+      "bar-da-guarita_cabidela-da-vovo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cabidela da vovó",
+        "descricao": "Galinhada ao molho à cabidela, acompanhada de farofa de cuscuz com couve e pão na serra.",
+        "foto": "bar-da-guarita_cabidela-da-vovo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-guarita/"
+  },
+  {
+    "id": 3,
+    "slug": "4051-revision-v1",
+    "nome": "Bar do Cabo",
+    "endereco": "R. Nanuque, 37",
+    "bairro": "Brasília Teimosa",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "81996768396",
+    "horarios": "Terça-feira: 11h – 17h | Quarta-feira: 11h – 17h | Quinta-feira: 11h – 17h | Sexta-feira: 11h – 17h | Sábado: 11h – 17h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-do-cabo_do-mar-ao-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Do mar ao sertão",
+        "descricao": "Marisco refogado com azeite manteiga da terra, alho-poró, tomate, coentro e cebola. Acompanhado de torradas.",
+        "foto": "bar-do-cabo_do-mar-ao-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4051-revision-v1/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-do-lula",
+    "nome": "Bar do Lula",
+    "endereco": "R. Eng. Otávio Arantes, 0",
+    "bairro": "Imbiribeira",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0861376,
+    "lng": -34.9089028,
+    "telefone": "81999210840",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 16h | Quarta-feira: 11h – 18h | Quinta-feira: 11h – 18h | Sexta-feira: 11h – 18h | Sábado: 11h – 18h | Domingo: 11h – 16h",
+    "fotos": [
+      "bar-do-lula_rabada-da-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabada da Casa",
+        "descricao": "Rabada com legume, acompanhada de farofa de bacon com brócolis.",
+        "foto": "bar-do-lula_rabada-da-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-lula/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-do-peixe-5",
+    "nome": "Bar do Peixe",
+    "endereco": "Rua Albacora, 26",
+    "bairro": "Brasília Teimosa",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0856578,
+    "lng": -34.879957,
+    "telefone": "(81) 98689-0625 | (81) 99201-1927",
+    "horarios": "",
+    "fotos": [
+      "bar-do-peixe_camarao-teimoso.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão Teimoso",
+        "descricao": "Camarão ao alho e óleo frito na manteiga, servido com repolho, pimentão verde e cebolas.",
+        "foto": "bar-do-peixe_camarao-teimoso.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-peixe-5/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-do-ro",
+    "nome": "Bar do Ró",
+    "endereco": "R. São João, 345",
+    "bairro": "Guadalupe",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0693606,
+    "lng": -34.8835495,
+    "telefone": "81988170833",
+    "horarios": "Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-do-ro_rabada-pernambucana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabada Pernambucana",
+        "descricao": "Rabada acompanhada de cuscuz colorido nordestino.",
+        "foto": "bar-do-ro_rabada-pernambucana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-ro/"
+  },
+  {
+    "id": 7,
+    "slug": "10360-revision-v1",
+    "nome": "Bar do Vizinho",
+    "endereco": "Rua da Santa Cruz, 0",
+    "bairro": "Boa Vista",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0641085,
+    "lng": -34.8892417,
+    "telefone": "81998905851",
+    "horarios": "Quarta-feira: 10h – 16h | Quinta-feira: 10h – 16h | Sexta-feira: 10h – 17h | Sábado: 10h – 17h | Domingo: 10h – 16h",
+    "fotos": [
+      "bar-do-vizinho_kumamda-da-terra.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kumamda da Terra",
+        "descricao": "Bolinhos com massa de feijão vermelho, recheados com pernil de porco temperado com ervas da terra, couve, bacon, queijo e calabresa. Servido com vinagrete de feijão vermelho pouco apimentado e pimenta-de-cheiro e acompanhado por mel de engenho, anis estrelado e canela.",
+        "foto": "bar-do-vizinho_kumamda-da-terra.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10360-revision-v1/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-rancho-fundo",
+    "nome": "Bar Rancho Fundo",
+    "endereco": "Rua Parary, 58",
+    "bairro": "Areias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0890988,
+    "lng": -34.936607,
+    "telefone": "(81) 98378-9320 | (81) 99991-8254",
+    "horarios": "Segunda-feira: 11h – 18h | Terça-feira: 11h – 18h | Quarta-feira: 11h – 18h | Quinta-feira: 11h – 18h | Sexta-feira: 11h – 18h | Sábado: 11h – 18h | Domingo: 11h – 18h",
+    "fotos": [
+      "bar-rancho-fundo_arrumadinho-do-rancho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arrumadinho do Rancho",
+        "descricao": "Arrumadinho de charque refogado na manteiga de garrafa acompanhada de feijão-verde, farofa, vinagrete, ovos de codorna, azeitonas, pimenta-biquinho e salada.",
+        "foto": "bar-rancho-fundo_arrumadinho-do-rancho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-rancho-fundo/"
+  },
+  {
+    "id": 9,
+    "slug": "barraca-beer",
+    "nome": "Barraca Beer",
+    "endereco": "R. Padre Lemos, 785",
+    "bairro": "Casa Amarela",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0214161,
+    "lng": -34.9214026,
+    "telefone": "81979137865",
+    "horarios": "Segunda-feira: 18h – 1h | Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 2h | Sábado: 18h – 2h | Domingo: 17h – 0h",
+    "fotos": [
+      "barraca-beer_rabada-raiz.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabada raiz",
+        "descricao": "Rabada guisada ao molho encorpado, acompanhada de duas porções de conservas e farofa crocante de torresmo com couve.",
+        "foto": "barraca-beer_rabada-raiz.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barraca-beer/"
+  },
+  {
+    "id": 10,
+    "slug": "barteco",
+    "nome": "Barteco",
+    "endereco": "Rua Bom Pastor, 366",
+    "bairro": "Iputinga",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0439108,
+    "lng": -34.9396973,
+    "telefone": "81991554605",
+    "horarios": "Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 22h30 | Sábado: 11h – 22h30 | Domingo: 11h – 22h30",
+    "fotos": [
+      "barteco_frangorama.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Frangorama",
+        "descricao": "Sobrecoxa crocante glaceada em sweet kimchi (agridoce e umami), batatas canoa e geleia artesanal de kimchi.",
+        "foto": "barteco_frangorama.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barteco/"
+  },
+  {
+    "id": 11,
+    "slug": "belem-2",
+    "nome": "Belém",
+    "endereco": "R. Pedro Alves, 79",
+    "bairro": "Encruzilhada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0362434,
+    "lng": -34.892072,
+    "telefone": "81996962641",
+    "horarios": "Segunda-feira: 19h – 0h | Quinta-feira: 19h – 0h | Sexta-feira: 19h – 1h | Sábado: 16h – 1h | Domingo: 16h – 22h",
+    "fotos": [
+      "belem_nossa-terra.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Nossa Terra",
+        "descricao": "Chips de macaxeira, ragu de charque na nata com manteiga de garrafa, creme de jerimum com alho-poró e conservas crocantes.",
+        "foto": "belem_nossa-terra.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/belem-2/"
+  },
+  {
+    "id": 12,
+    "slug": "bistro-do-alto",
+    "nome": "Bistrô do Alto",
+    "endereco": "R. Altino, 76",
+    "bairro": "Casa Amarela",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.026611,
+    "lng": -34.9244008,
+    "telefone": "81984382132",
+    "horarios": "Sexta-feira: 11h30 – 19h | Sábado: 11h30 – 19h | Domingo: 11h30 – 19h",
+    "fotos": [
+      "bistro-do-alto_coxinha-de-moqueca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha de Moqueca",
+        "descricao": "Coxinha sem massa de moqueca de peixe, camarão e alho-poró, acompanhada de maionese caseira de cenoura e hortelã.",
+        "foto": "bistro-do-alto_coxinha-de-moqueca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bistro-do-alto/"
+  },
+  {
+    "id": 13,
+    "slug": "bodega-bento-muniz",
+    "nome": "Bodega Bento Muniz",
+    "endereco": "R. Manoel Salvador, 140 - Casa",
+    "bairro": "Barro",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(81) 99814-7882 | (81) 98700-1441",
+    "horarios": "Terça-feira: 11h – 19h | Quarta-feira: 11h – 19h | Quinta-feira: 11h – 19h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 19h",
+    "fotos": [
+      "bodega-bento-muniz_rabada-do-chef.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabada do Chef",
+        "descricao": "Rabada guisada, acompanhada de refogado de couve-flor e pão serrilhado.",
+        "foto": "bodega-bento-muniz_rabada-do-chef.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bodega-bento-muniz/"
+  },
+  {
+    "id": 14,
+    "slug": "4069-revision-v1",
+    "nome": "Boteco da Pequena",
+    "endereco": "R. Agrestina, 5318",
+    "bairro": "Candeias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0386901,
+    "lng": -34.9145346,
+    "telefone": "81998245245",
+    "horarios": "Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 11h – 19h | Domingo: 11h – 19h",
+    "fotos": [
+      "boteco-da-pequena_maxixada-praiana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maxixada Praiana",
+        "descricao": "Ensopado de maxixe com sururu, farofa de couve e coco queimado.",
+        "foto": "boteco-da-pequena_maxixada-praiana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4069-revision-v1/"
+  },
+  {
+    "id": 15,
+    "slug": "boteco-do-sivirino",
+    "nome": "Boteco do Sivirino",
+    "endereco": "Rua Larga do Feitosa, 138",
+    "bairro": "Encruzilhada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0355126,
+    "lng": -34.8860735,
+    "telefone": "81982714421",
+    "horarios": "Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 22h",
+    "fotos": [
+      "boteco-do-sivirino_rabicho-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabicho Crocante",
+        "descricao": "Croquete de couve com rabada desfiada e queijo coalho, acompanhado de aioli de coentro.",
+        "foto": "boteco-do-sivirino_rabicho-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-sivirino/"
+  },
+  {
+    "id": 16,
+    "slug": "boteco-nem-a-pau-juvenal-2",
+    "nome": "Boteco Nem a Pau, Juvenal",
+    "endereco": "Rua da Regeneração, 640",
+    "bairro": "Arruda",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.021423,
+    "lng": -34.8864953,
+    "telefone": "81987840857",
+    "horarios": "Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 1h30 | Sábado: 17h – 1h30 | Domingo: 15h – 23h30",
+    "fotos": [
+      "boteco-nem-a-pau-juvenal_porquinho-do-sol.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho do Sol",
+        "descricao": "Carne de sol suína puxada na manteiga e alecrim, preparada com feijão-verde, vinagrete, farofa de linguiça matuta com toque de dendê e crispy de couve.",
+        "foto": "boteco-nem-a-pau-juvenal_porquinho-do-sol.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-nem-a-pau-juvenal-2/"
+  },
+  {
+    "id": 17,
+    "slug": "caldinho-da-sosso",
+    "nome": "Caldinho da Sossó",
+    "endereco": "Rua Professor Otávio de Freitas, 400",
+    "bairro": "Encruzilhada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0335222,
+    "lng": -34.8924598,
+    "telefone": "81998122319",
+    "horarios": "Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "caldinho-da-sosso_tilapia-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tilápia Tropical",
+        "descricao": "Filé de tilápia empanado, acompanhado de fritas, salada tropical de repolho com abacaxi ao molho mostarda e mel.",
+        "foto": "caldinho-da-sosso_tilapia-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/caldinho-da-sosso/"
+  },
+  {
+    "id": 18,
+    "slug": "10364-revision-v1",
+    "nome": "Caldinho do Phellipe",
+    "endereco": "Av. Poeta Vinicius de Moraes, 140",
+    "bairro": "Ouro Preto",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "81984335502",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 23h | Domingo: 12h – 20h",
+    "fotos": [
+      "caldinho-do-phellipe_lagrimas-de-alegria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lágrimas de Alegria",
+        "descricao": "Cebola recheada com charque desfiado e alho-poró, queijo parmesão, catupiry, acompanhada de anéis de cebola frita e molho.",
+        "foto": "caldinho-do-phellipe_lagrimas-de-alegria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10364-revision-v1/"
+  },
+  {
+    "id": 19,
+    "slug": "cangaco-petiscaria",
+    "nome": "Cangaço Petiscaria",
+    "endereco": "R. Pianista Isnar Mariano, 12",
+    "bairro": "Imbiribeira",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0957499,
+    "lng": -34.9167937,
+    "telefone": "81987038149",
+    "horarios": "Terça-feira: 11h – 14h30 e 17h – 23h | Quarta-feira: 11h – 14h30 e 17h – 23h | Quinta-feira: 11h – 14h30 e 17h – 23h | Sexta-feira: 11h – 14h30 e 17h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "cangaco-petiscaria_mistura-fina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mistura fina",
+        "descricao": "Cupim em iscas refogado com couve-flor e brócolis. Acompanhamentos: farofa de banana-da-terra com bacon e molho de cebola agridoce.",
+        "foto": "cangaco-petiscaria_mistura-fina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cangaco-petiscaria/"
+  },
+  {
+    "id": 20,
+    "slug": "cantinho-sertanejo",
+    "nome": "Cantinho Sertanejo",
+    "endereco": "R. André de Albuquerque, 171",
+    "bairro": "Barro",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0946081,
+    "lng": -34.9429474,
+    "telefone": "81998308009",
+    "horarios": "Segunda-feira: 17h – 21h | Terça-feira: 17h – 21h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 12h – 19h",
+    "fotos": [
+      "cantinho-sertanejo_cupim-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim do Sertão",
+        "descricao": "Cupim de charque em cubos refogado na manteiga e cebola, servido com pão na chapa amanteigado e creme de alho-poró e geleia de abacaxi com pimenta.",
+        "foto": "cantinho-sertanejo_cupim-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cantinho-sertanejo/"
+  },
+  {
+    "id": 21,
+    "slug": "casa-de-deia-petiscos",
+    "nome": "Casa de Déia Petiscos",
+    "endereco": "R. José Nunes da Cunha, 4853",
+    "bairro": "Candeias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.1961266,
+    "lng": -34.9197324,
+    "telefone": "81991441811",
+    "horarios": "Sexta-feira: 11h – 18h | Sábado: 11h – 18h | Domingo: 11h – 18h",
+    "fotos": [
+      "casa-de-deia-petiscos_porquinho-danado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porquinho Danado",
+        "descricao": "Pernil suíno refogado com alho-poró e pimentões coloridos, servido com geleia de abacaxi com pimenta-dedo-de-moça e pães variados.",
+        "foto": "casa-de-deia-petiscos_porquinho-danado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-de-deia-petiscos/"
+  },
+  {
+    "id": 22,
+    "slug": "casa-de-mainha-comedoria",
+    "nome": "Casa de Mainha Comedoria",
+    "endereco": "R. Aurora Diniz Carneiro Leão, 5462",
+    "bairro": "Candeias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "81994766839",
+    "horarios": "Quarta-feira: 11h30 – 21h30 | Quinta-feira: 11h30 – 21h30 | Sexta-feira: 11h30 – 22h30 | Sábado: 11h30 – 22h30 | Domingo: 11h30 – 17h",
+    "fotos": [
+      "casa-de-mainha-comedoria_dadinho-de-mainha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dadinho de Mainha",
+        "descricao": "Dadinho de queijo com linguiça e alho-poró, servido com calda cítrica levemente picante e aioli de alho-poró, finalizado com crispy de alho-poró.",
+        "foto": "casa-de-mainha-comedoria_dadinho-de-mainha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-de-mainha-comedoria/"
+  },
+  {
+    "id": 23,
+    "slug": "casa-do-chico",
+    "nome": "Casa do Chico",
+    "endereco": "R. Aníbal Falcão, 9",
+    "bairro": "Graças",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.048025,
+    "lng": -34.902135,
+    "telefone": "81982422040",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 18h",
+    "fotos": [
+      "casa-do-chico_costela-arretada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Costela Arretada",
+        "descricao": "Costela bovina ao forno, acompanhada de molho agridoce, batata chips e salada de acelga.",
+        "foto": "casa-do-chico_costela-arretada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-do-chico/"
+  },
+  {
+    "id": 24,
+    "slug": "comida-da-matuta",
+    "nome": "Comida da Matuta",
+    "endereco": "Rua Amador Araújo, 207",
+    "bairro": "Barro",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0912616,
+    "lng": -34.9436817,
+    "telefone": "81997207526",
+    "horarios": "Terça-feira: 11h – 15h | Quarta-feira: 11h – 15h | Quinta-feira: 11h – 15h | Sexta-feira: 11h – 15h | Sábado: 11h – 18h | Domingo: 11h – 18h",
+    "fotos": [
+      "comida-da-matuta_bacalhau-arrumado-da-matuta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bacalhau arrumado da Matuta",
+        "descricao": "Bacalhau refogado com repolho e cebola, feijão-de-corda acompanhado de vinagrete, fritas, farofa e molho de azeitona com pimenta-calabresa.",
+        "foto": "comida-da-matuta_bacalhau-arrumado-da-matuta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/comida-da-matuta/"
+  },
+  {
+    "id": 25,
+    "slug": "confraria-do-jean",
+    "nome": "Confraria do Jean",
+    "endereco": "Rua Sueli Luna Menelau, 628",
+    "bairro": "Imbiribeira",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0907881,
+    "lng": -34.9177671,
+    "telefone": "81987228587",
+    "horarios": "Quarta-feira: 11h – 20h | Quinta-feira: 11h – 20h | Sexta-feira: 11h – 20h | Sábado: 11h – 20h | Domingo: 11h – 20h",
+    "fotos": [
+      "confraria-do-jean_meca-arretado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Meca arretado",
+        "descricao": "Peixe meca em posta, com cuscuz, misturado com queijo coalho, tomate-cereja e folhas de rúcula.",
+        "foto": "confraria-do-jean_meca-arretado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/confraria-do-jean/"
+  },
+  {
+    "id": 26,
+    "slug": "costelas-e-galetos",
+    "nome": "Costelas e Galetos",
+    "endereco": "R. Odorico Mendes, 188",
+    "bairro": "Campo Grande",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0339429,
+    "lng": -34.881257,
+    "telefone": "8131807920",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 22h",
+    "fotos": [
+      "costelas-e-galetos_buteco-26.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Buteco 26",
+        "descricao": "Cubos de bife ao molho madeira com saladinha e torradas.",
+        "foto": "costelas-e-galetos_buteco-26.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/costelas-e-galetos/"
+  },
+  {
+    "id": 27,
+    "slug": "dirmantelo-bar",
+    "nome": "Dirmantelo Bar",
+    "endereco": "Estrada das Ubaias, 241",
+    "bairro": "Casa Forte",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0305039,
+    "lng": -34.9188103,
+    "telefone": "(81) 99112-1319 | (81) 99850-1029",
+    "horarios": "Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 16h – 0h30 | Sábado: 12h – 0h30 | Domingo: 12h – 21h30",
+    "fotos": [
+      "dirmantelo-bar_trio-de-jah.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio de Jah",
+        "descricao": "Trio de pimentões (vermelho, verde e amarelo) recheados com camarão cremoso, queijo coalho e charque e creme de cebola com alho-poró.",
+        "foto": "dirmantelo-bar_trio-de-jah.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dirmantelo-bar/"
+  },
+  {
+    "id": 28,
+    "slug": "dobradinha-do-regis",
+    "nome": "Dobradinha do Regis",
+    "endereco": "R. Doutor Dirceu Velloso Toscano de Brito, 281",
+    "bairro": "Pina",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(81) 98115-6267 | (81) 3222-9511",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "dobradinha-do-regis_vem-ni-mim-toscana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vem ni mim, Toscana!",
+        "descricao": "Toscana de cupim e de camarão com cream cheese e alho-poró. Acompanhado de geleia de pimenta.",
+        "foto": "dobradinha-do-regis_vem-ni-mim-toscana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dobradinha-do-regis/"
+  },
+  {
+    "id": 29,
+    "slug": "dona-andrea",
+    "nome": "Dona Andrea",
+    "endereco": "Rua Aliança, 1083",
+    "bairro": "Apipucos",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0211959,
+    "lng": -34.934546,
+    "telefone": "81997275712",
+    "horarios": "Terça-feira: 10h – 16h30 | Quarta-feira: 10h – 16h30 | Quinta-feira: 10h – 16h30 | Sexta-feira: 10h – 16h30 | Sábado: 10h – 16h30 | Domingo: 10h – 16h30",
+    "fotos": [
+      "dona-andrea_caldeirada-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caldeirada do buteco",
+        "descricao": "Caldeirada de marisco, mexilhão, camarão, polvo, peixe e sururu com alho-poró.",
+        "foto": "dona-andrea_caldeirada-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dona-andrea/"
+  },
+  {
+    "id": 30,
+    "slug": "eddys-bar-charcutaria-e-defumados",
+    "nome": "Eddy’s Bar, Charcutaria e Defumados",
+    "endereco": "Rua da Santa Cruz, 0",
+    "bairro": "Boa Vista",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0641085,
+    "lng": -34.8892417,
+    "telefone": "81995415827",
+    "horarios": "Quarta-feira: 10h – 17h | Quinta-feira: 10h – 17h | Sexta-feira: 10h – 17h | Sábado: 10h – 17h | Domingo: 10h – 17h",
+    "fotos": [
+      "eddy-s-bar-charcutaria-e-defumados_par-de-trouxas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Par de trouxas",
+        "descricao": "Duas trouxas recheadas: uma com carne bovina e outra suína, com tutano e couve crispy, envoltas em pele de frango crocante e nori.",
+        "foto": "eddy-s-bar-charcutaria-e-defumados_par-de-trouxas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/eddys-bar-charcutaria-e-defumados/"
+  },
+  {
+    "id": 31,
+    "slug": "emporio-coroa",
+    "nome": "Empório Coroa",
+    "endereco": "R. Severina Maria da Conceição, 400",
+    "bairro": "Bultrins",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -7.9989121,
+    "lng": -34.915237,
+    "telefone": "81998701554",
+    "horarios": "Segunda-feira: 11h – 18h | Quinta-feira: 11h – 18h | Sexta-feira: 11h – 18h | Sábado: 11h – 20h | Domingo: 11h – 20h",
+    "fotos": [
+      "emporio-coroa_crocamarao-mel-e-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crocamarão Mel e Mar",
+        "descricao": "Camarão crocante ao alho-poró, acompanhado de molho de laranja, mel, mostarda, azeite e com o frescor do hortelã.",
+        "foto": "emporio-coroa_crocamarao-mel-e-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/emporio-coroa/"
+  },
+  {
+    "id": 32,
+    "slug": "eskina-do-caldinho",
+    "nome": "Eskina do Caldinho",
+    "endereco": "Rua Lauro de Souza, 381",
+    "bairro": "Campo Grande",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0252329,
+    "lng": -34.875917,
+    "telefone": "81996062021",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "eskina-do-caldinho_do-sertao-para-cidade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Do Sertão para Cidade",
+        "descricao": "Carne de sol cremosa ao molho gorgonzola com couve-flor e batata inglesa. Acompanha torrada caseira.",
+        "foto": "eskina-do-caldinho_do-sertao-para-cidade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/eskina-do-caldinho/"
+  },
+  {
+    "id": 33,
+    "slug": "espetinho-da-ceca",
+    "nome": "Espetinho da Ceça",
+    "endereco": "Rua Chã de Alegria, 235",
+    "bairro": "Bomba do Hemetério",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0200806,
+    "lng": -34.9032692,
+    "telefone": "8134490700",
+    "horarios": "Terça-feira: 18h – 1h | Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h | Domingo: 18h – 1h",
+    "fotos": [
+      "espetinho-da-ceca_espetinho-gourmet-da-ceca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetinho Gourmet da Ceça",
+        "descricao": "Caldinho de feijão-preto com couve e charque, espetinho de carne bovina com legumes e filé de frango envolto em bacon, acompanhado de vinagrete, farofa, creme de alho e molho de mostarda com hortelã.",
+        "foto": "espetinho-da-ceca_espetinho-gourmet-da-ceca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetinho-da-ceca/"
+  },
+  {
+    "id": 34,
+    "slug": "4090-revision-v1",
+    "nome": "Espetinho no Prato",
+    "endereco": "R. Cruzeiro do Forte, 574",
+    "bairro": "Boa Viagem",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.1371818,
+    "lng": -34.9130173,
+    "telefone": "81998728758",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 2h | Sábado: 18h – 2h | Domingo: 18h – 0h",
+    "fotos": [
+      "espetinho-no-prato_frango-de-respeito.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Frango de Respeito",
+        "descricao": "Arrumadinho de filé de peito de frango ao molho cremoso com brócolis.",
+        "foto": "espetinho-no-prato_frango-de-respeito.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4090-revision-v1/"
+  },
+  {
+    "id": 35,
+    "slug": "esquina-85",
+    "nome": "Esquina 85",
+    "endereco": "Rua do Machado, 85",
+    "bairro": "Arruda",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0234232,
+    "lng": -34.889882,
+    "telefone": "(81) 98839-3058",
+    "horarios": "Segunda-feira: 12h – 15h30 e 17h – 22h30 | Quarta-feira: 12h – 15h30 e 17h – 22h30 | Quinta-feira: 12h – 15h30 e 17h – 22h30 | Sexta-feira: 12h – 0h | Sábado: 12h – 0h | Domingo: 12h – 21h30",
+    "fotos": [
+      "esquina-85_benzadeus.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Benzadeus",
+        "descricao": "Camarão envolvido em massa crocante, recheado com mix de queijos, servido com purê de mandioquinha com cream cheese, fios de cenoura e repolho roxo. Finalizado com geleia de tangerina com pimenta-dedo-de-moça.",
+        "foto": "esquina-85_benzadeus.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/esquina-85/"
+  },
+  {
+    "id": 36,
+    "slug": "10369-revision-v1",
+    "nome": "Esquina do Malte",
+    "endereco": "Av. Tenente Felipe Bandeira de Melo, 97 C",
+    "bairro": "Areias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0941558,
+    "lng": -34.9307997,
+    "telefone": "81998395355",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "esquina-do-malte_o-sertao-vai-virar-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O Sertão vai virar Mar!",
+        "descricao": "Charque desfiado e filé de camarões refogados em azeite e manteiga de garrafa com legumes, pimentões, cebola-roxa, alho-poró, tomate, pimenta-biquinho e especiarias. Acompanha: torradas especiais na manteiga de alho com parmesão.",
+        "foto": "esquina-do-malte_o-sertao-vai-virar-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10369-revision-v1/"
+  },
+  {
+    "id": 37,
+    "slug": "fulo-comedoria",
+    "nome": "Fulô Comedoria",
+    "endereco": "Estrada de Belém, 164",
+    "bairro": "Encruzilhada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0364566,
+    "lng": -34.8895067,
+    "telefone": "81996790442",
+    "horarios": "Segunda-feira: 11h – 18h30 | Terça-feira: 11h – 18h30 | Quarta-feira: 11h – 18h30 | Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 18h30 | Sábado: 11h – 16h30",
+    "fotos": [
+      "fulo-comedoria_rua-da-coragem.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rua da Coragem",
+        "descricao": "Pão baguete com carne desfiada cozida no ragu, fonduta gratinada, tomates e rúcula confit, acompanhada de molho mostarda e chips de macaxeira.",
+        "foto": "fulo-comedoria_rua-da-coragem.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fulo-comedoria/"
+  },
+  {
+    "id": 38,
+    "slug": "kitanda-manganga",
+    "nome": "Kitanda Mangangá",
+    "endereco": "R. São Fidélis, 9 - UR 02",
+    "bairro": "Cohab",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.1207351,
+    "lng": -34.9544877,
+    "telefone": "81988268037",
+    "horarios": "Quinta-feira: 18h30 – 23h | Sexta-feira: 18h30 – 23h | Sábado: 18h30 – 23h | Domingo: 12h – 17h",
+    "fotos": [
+      "kitanda-manganga_minha-praia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Minha praia",
+        "descricao": "Baião de dois cremoso ao alho-poró com filé de camarão, charque, queijo coalho. Acompanha: casquinha de caranguejo, dadinho de tapioca com coco, queijo e mel de engenho.",
+        "foto": "kitanda-manganga_minha-praia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kitanda-manganga/"
+  },
+  {
+    "id": 39,
+    "slug": "lambarice-cozinha-bar",
+    "nome": "Lambarice Cozinha Bar",
+    "endereco": "Rua Larga do Feitosa, 143",
+    "bairro": "Encruzilhada",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0355686,
+    "lng": -34.8857946,
+    "telefone": "8198101074",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 17h – 1h | Sábado: 16h – 1h",
+    "fotos": [
+      "lambarice-cozinha-bar_rolim-de-couve-croc.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rolim de Couve Croc",
+        "descricao": "Rolinho de couve-manteiga empanada e frita, recheada com purê de jerimum, paçoca de carne de sol e sour cream. Servido com molho tarê.",
+        "foto": "lambarice-cozinha-bar_rolim-de-couve-croc.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/lambarice-cozinha-bar/"
+  },
+  {
+    "id": 40,
+    "slug": "llamita-empanadas-y-bar",
+    "nome": "Llamita Empanadas y Bar",
+    "endereco": "Rua das Pernambucanas, 30",
+    "bairro": "Graças",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.050649,
+    "lng": -34.9032196,
+    "telefone": "81986271552",
+    "horarios": "Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 16h – 22h",
+    "fotos": [
+      "llamita-empanadas-y-bar_empanaditas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Empanaditas",
+        "descricao": "Porção com seis empanaditas, sendo três de muçarela com queijo brie e três de carne de porco, acompanhadas de geleia de laranja-Bahia, gengibre e alho-poró.",
+        "foto": "llamita-empanadas-y-bar_empanaditas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/llamita-empanadas-y-bar/"
+  },
+  {
+    "id": 41,
+    "slug": "maria-marias",
+    "nome": "Maria Maria’s",
+    "endereco": "Rua Coronel Mário Libório, 322",
+    "bairro": "Campina do Barreto",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0150597,
+    "lng": -34.8809031,
+    "telefone": "81996532570",
+    "horarios": "Terça-feira: 11h – 15h30 | Quarta-feira: 11h – 15h30 | Quinta-feira: 11h – 15h30 | Sexta-feira: 11h – 15h30 | Sábado: 11h – 16h | Domingo: 11h – 17h",
+    "fotos": [
+      "maria-maria-s_encanto-da-maria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Encanto da Maria",
+        "descricao": "Bacalhau desfiado, acompanhado de batatas-inglesas e pimentões. Finalizado com cheiro-verde, salada de acelga, couve, ovo de codorna, azeitona preta, tomate-cereja, cenoura e abacaxi.",
+        "foto": "maria-maria-s_encanto-da-maria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/maria-marias/"
+  },
+  {
+    "id": 42,
+    "slug": "mb-cantina-de-fogo",
+    "nome": "MB Cantina de Fogo",
+    "endereco": "R. Bezerra da Palma, 213",
+    "bairro": "Aldeia",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -7.9884747,
+    "lng": -34.9744366,
+    "telefone": "81996532516",
+    "horarios": "Quinta-feira: 11h – 18h | Sexta-feira: 11h – 18h | Sábado: 11h – 18h | Domingo: 11h – 18h",
+    "fotos": [
+      "mb-cantina-de-fogo_sanduchao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sanduchão",
+        "descricao": "Sanduíche de pão baguete com recheio de costela de boi feita no fogo de chão, rúcula, maionese caseira, cebola caramelizada, queijo muçarela e tomate defumado.",
+        "foto": "mb-cantina-de-fogo_sanduchao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mb-cantina-de-fogo/"
+  },
+  {
+    "id": 43,
+    "slug": "muamba-comida-y-goros",
+    "nome": "Muamba Comida y Gorós",
+    "endereco": "Rua Leopoldino Silva, 100",
+    "bairro": "Recife - PE",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0409871,
+    "lng": -34.9147115,
+    "telefone": "81971067054",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 17h – 0h30 | Sábado: 17h – 0h30 | Domingo: 17h – 23h",
+    "fotos": [
+      "muamba-comida-y-goros_puerco-loco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Puerco Loco",
+        "descricao": "Bolinho de risoto de pernil com alho-poró e bacon, acompanhado de molho de tamarindo, molho de mostarda e mel e crispy de alho-poró.",
+        "foto": "muamba-comida-y-goros_puerco-loco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/muamba-comida-y-goros/"
+  },
+  {
+    "id": 44,
+    "slug": "na-casa-dmae",
+    "nome": "Na Casa D’Mãe",
+    "endereco": "Avenida Fagundes Varela, 617",
+    "bairro": "Jardim Atlântico",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -7.9766665,
+    "lng": -34.8432209,
+    "telefone": "81981658346",
+    "horarios": "Segunda-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 22h",
+    "fotos": [
+      "na-casa-d-mae_vou-contar-ate-tres.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vou contar até três",
+        "descricao": "Charuto de couve-folha recheado com rabada e alho-poró, acompanhado de purê de mandioquinha, alho-poró empanado e couve crispy.",
+        "foto": "na-casa-d-mae_vou-contar-ate-tres.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/na-casa-dmae/"
+  },
+  {
+    "id": 45,
+    "slug": "no-meu-quintal-comida-boa",
+    "nome": "No Meu Quintal Comida Boa",
+    "endereco": "R. Miguel Romã de Abreu e Lima, 59 - Jaboatão dos Guararapes - PE",
+    "bairro": "Piedade",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "81995390902",
+    "horarios": "Quinta-feira: 11h30 – 16h | Sexta-feira: 11h30 – 16h | Sábado: 12h – 16h | Domingo: 12h – 16h",
+    "fotos": [
+      "no-meu-quintal-comida-boa_poro-com-borogodo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Poró com Borogodó",
+        "descricao": "Pastéis com recheio de alho-poró com queijo do reino, acompanhados de geleia de pimenta e abacaxi.",
+        "foto": "no-meu-quintal-comida-boa_poro-com-borogodo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/no-meu-quintal-comida-boa/"
+  },
+  {
+    "id": 46,
+    "slug": "quina-da-linguica",
+    "nome": "Quina da Linguiça",
+    "endereco": "Rua Bulandy, 620",
+    "bairro": "Várzea",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0496218,
+    "lng": -34.9578899,
+    "telefone": "81998846140",
+    "horarios": "Segunda-feira: 11h30 – 14h30 | Terça-feira: 11h30 – 14h30 | Quarta-feira: 11h30 – 14h30 e 17h – 22h | Quinta-feira: 11h30 – 14h30 e 17h – 22h | Sexta-feira: 11h30 – 14h30 e 17h – 23h | Sábado: 11h30 – 15h30 e 17h – 23h | Domingo: 17h – 22h",
+    "fotos": [
+      "quina-da-linguica_pe-de-linguica.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pé de Linguiça",
+        "descricao": "Linguiça matuta defumada artesanal, recheada com alho-poró e queijo coalho, acompanhada de pão de alho com creme de espinafre gratinado e mostarda com mel de engenho.",
+        "foto": "quina-da-linguica_pe-de-linguica.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quina-da-linguica/"
+  },
+  {
+    "id": 47,
+    "slug": "quintal-do-maninho",
+    "nome": "Quintal do Maninho",
+    "endereco": "R. Cônego Romeu, 142",
+    "bairro": "Boa Viagem",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.138268,
+    "lng": -34.9062881,
+    "telefone": "81995601037",
+    "horarios": "Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 18h",
+    "fotos": [
+      "quintal-do-maninho_desfiado-arretado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Desfiado arretado",
+        "descricao": "Carne de sol desfiada, refogada com cebola-roxa, alho-poró, tomate e abobrinha, finalizada com broto de alfafa e molho vinagrete artesanal. Acompanha: chips de macaxeira.",
+        "foto": "quintal-do-maninho_desfiado-arretado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-do-maninho/"
+  },
+  {
+    "id": 48,
+    "slug": "quintal-gaucho-comedoria",
+    "nome": "Quintal Gaúcho Comedoria",
+    "endereco": "R. José Nunes da Cunha, 4592",
+    "bairro": "Candeias",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.1801677,
+    "lng": -34.9185604,
+    "telefone": "81994761878",
+    "horarios": "Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 23h | Sábado: 11h – 23h | Domingo: 11h – 22h",
+    "fotos": [
+      "quintal-gaucho-comedoria_role-arretado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rolê Arretado",
+        "descricao": "Iscas de carne de sol selada na manteiga de garrafa. Acompanhadas de creme de queijo coalho, couve crispy com granulado de bacon e farofa de bacon.",
+        "foto": "quintal-gaucho-comedoria_role-arretado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/quintal-gaucho-comedoria/"
+  },
+  {
+    "id": 49,
+    "slug": "raffa-beer",
+    "nome": "Raffa Beer",
+    "endereco": "Av. Hélio Falcão, 577",
+    "bairro": "Boa Viagem",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.1254728,
+    "lng": -34.9030562,
+    "telefone": "81985384707",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h | Domingo: 16h – 21h",
+    "fotos": [
+      "raffa-beer_se-avexe-nao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Se avexe não",
+        "descricao": "Charque desfiado acebolado, com queijo coalho e repolho refogado com alho.",
+        "foto": "raffa-beer_se-avexe-nao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/raffa-beer/"
+  },
+  {
+    "id": 50,
+    "slug": "seu-peu-gastropub",
+    "nome": "Seu Peu Gastropub",
+    "endereco": "R. Carneiro Vilela, 665",
+    "bairro": "Aflitos",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0381331,
+    "lng": -34.8979291,
+    "telefone": "81992313935",
+    "horarios": "Terça-feira: 16h – 23h30 | Quarta-feira: 16h – 23h30 | Quinta-feira: 16h – 23h30 | Sexta-feira: 16h – 23h30 | Sábado: 12h – 23h30 | Domingo: 12h – 17h30",
+    "fotos": [
+      "seu-peu-gastropub_trio-botequero.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Botequero",
+        "descricao": "Charque desfiado, com linguiça matuta debruada com filé de camarão, acompanhada de crispy de alho-poró e chips de batata-doce.",
+        "foto": "seu-peu-gastropub_trio-botequero.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seu-peu-gastropub/"
+  },
+  {
+    "id": 51,
+    "slug": "vieira-bar-e-restaurante",
+    "nome": "Vieira Bar e Restaurante",
+    "endereco": "R. Araguari, 47",
+    "bairro": "Brasília Teimosa",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0895745,
+    "lng": -34.8809174,
+    "telefone": "8130785484",
+    "horarios": "Terça-feira: 11h30 – 16h30 | Quarta-feira: 11h30 – 16h30 | Quinta-feira: 11h30 – 16h30 | Sexta-feira: 11h30 – 17h30 | Sábado: 11h30 – 17h30 | Domingo: 11h30 – 17h30",
+    "fotos": [
+      "vieira-bar-e-restaurante_camarao-mar-e-terra.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão Mar e Terra",
+        "descricao": "Camarões salteados no azeite e alho, em cama de creme de espinafre, lascas de parmesão e mix de chips diversos.",
+        "foto": "vieira-bar-e-restaurante_camarao-mar-e-terra.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vieira-bar-e-restaurante/"
+  },
+  {
+    "id": 52,
+    "slug": "vila-bodega",
+    "nome": "Vila Bodega",
+    "endereco": "R. Treinador Cláudio Coutinho, 104",
+    "bairro": "Tamarineira",
+    "cidade": "Recife",
+    "cidade_slug": "recife",
+    "ano": "2026",
+    "lat": -8.0284112,
+    "lng": -34.9050404,
+    "telefone": "81996631802",
+    "horarios": "Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h",
+    "fotos": [
+      "vila-bodega_arrumadinho-do-budega.png"
+    ],
+    "pratos": [
+      {
+        "nome": "Arrumadinho do Budega",
+        "descricao": "Miniarrumadinho com cupim, queijo coalho, linguiça matuta, feijão-verde, finalizado com coentro e couve-folha.",
+        "foto": "vila-bodega_arrumadinho-do-budega.png"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vila-bodega/"
+  }
+]

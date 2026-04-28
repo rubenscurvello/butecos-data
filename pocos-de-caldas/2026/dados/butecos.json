@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1,
+    "slug": "bar-compadres",
+    "nome": "Bar Compadres",
+    "endereco": "Av. Hércules Frison, 1433 - Jardim Paraiso, Poços de Caldas - MG",
+    "bairro": "Parque Esperança",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8305375,
+    "lng": -46.5610947,
+    "telefone": "35987065403",
+    "horarios": "Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 22h",
+    "fotos": [
+      "bar-compadres_que-mancada-dos-compadres.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Que mancada dos Compadres!",
+        "descricao": "Joelho refogado com cebola e cozido com cerveja, agrião com alho e salsinha. Acompanha farofa da casa e pão francês.",
+        "foto": "bar-compadres_que-mancada-dos-compadres.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-compadres/"
+  },
+  {
+    "id": 2,
+    "slug": "3727-revision-v1",
+    "nome": "Bar da Elaine",
+    "endereco": "R. Caetés, 64",
+    "bairro": "Vila Togni",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7833141,
+    "lng": -46.6051768,
+    "telefone": "(35) 99116-7584 | (35) 99135-7525",
+    "horarios": "Quarta-feira: 14h – 23h | Quinta-feira: 14h – 23h | Sexta-feira: 14h – 23h | Sábado: 11h – 0h | Domingo: 12h – 16h",
+    "fotos": [
+      "bar-da-elaine_contra-na-folha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Contra na Folha",
+        "descricao": "Contrafilé na alface-americana, servido com pão.",
+        "foto": "bar-da-elaine_contra-na-folha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3727-revision-v1/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-da-kombi",
+    "nome": "Bar da Kombi",
+    "endereco": "R. Aníbal José dos Reis, 89",
+    "bairro": "Jardim Philadelphia",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(35) 3301-3011/ (35) 98702-8410",
+    "horarios": "Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 11h – 23h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-da-kombi_kombitalia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kombitalia",
+        "descricao": "Pão italiano recheado com paleta suína desfiada e agrião no molho da casa. Finalizado com queijo gratinado e pesto de agrião.",
+        "foto": "bar-da-kombi_kombitalia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-kombi/"
+  },
+  {
+    "id": 4,
+    "slug": "3518-revision-v1",
+    "nome": "Bar do David",
+    "endereco": "Av. Leonor Furlaneto Delgado, 140",
+    "bairro": "Jardim Philadelphia",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8019431,
+    "lng": -46.5150707,
+    "telefone": "(35) 99858-5585",
+    "horarios": "Domingo: 15h – 23h | Segunda-feira: 15h – 23h | Terça-feira: 15h – 23h | Quarta-feira: 15h – 23h | Quinta-feira: 15h – 23h | Sexta-feira: 15h – 23h | Sábado: 15h – 23h",
+    "fotos": [
+      "bar-do-david_tropeirao-safado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tropeirão Safado",
+        "descricao": "Feijão-tropeiro especial com o tempero da Vó Maria.",
+        "foto": "bar-do-david_tropeirao-safado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3518-revision-v1/"
+  },
+  {
+    "id": 5,
+    "slug": "3612-autosave-v1",
+    "nome": "Bar Original",
+    "endereco": "Avenida Francisco Salles, 36",
+    "bairro": "Centro",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7852584,
+    "lng": -46.5672171,
+    "telefone": "3537218572",
+    "horarios": "Terça-feira: 10h – 22h30 | Quarta-feira: 10h – 22h30 | Quinta-feira: 10h – 22h30 | Sexta-feira: 10h – 22h30 | Sábado: 10h – 22h30 | Domingo: 10h – 22h30",
+    "fotos": [
+      "bar-original_sabor-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabor de Buteco",
+        "descricao": "Copa lombo em cubos com cebola, alho-poró e brócolis. Acompanha: pão francês.",
+        "foto": "bar-original_sabor-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3612-autosave-v1/"
+  },
+  {
+    "id": 6,
+    "slug": "birra-choperia",
+    "nome": "Birra Choperia",
+    "endereco": "R. Samuel Frazão, 5",
+    "bairro": "Jardim Amaryllis",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8066945,
+    "lng": -46.5429906,
+    "telefone": "35998059889",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h | Domingo: 12h – 15h",
+    "fotos": [
+      "birra-choperia_cestini-do-birra.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cestini do Birra",
+        "descricao": "Cestinhas gratinadas recheadas com brócolis, bacon, catupiry e parmesão. Acompanha chips de batata caseira.",
+        "foto": "birra-choperia_cestini-do-birra.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/birra-choperia/"
+  },
+  {
+    "id": 7,
+    "slug": "black-jack-taphouse",
+    "nome": "Black Jack Taphouse",
+    "endereco": "R. Mato Grosso, 393",
+    "bairro": "Centro",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7846448,
+    "lng": -46.5697748,
+    "telefone": "35999372391",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h30 | Sábado: 16h – 23h30",
+    "fotos": [
+      "black-jack-taphouse_ora-que-taco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ora, que taco!",
+        "descricao": "Frango com ora-pro-nóbis servido com salada de folhas na massa de pastel. Acompanhado de molho de mel e mostarda.",
+        "foto": "black-jack-taphouse_ora-que-taco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/black-jack-taphouse/"
+  },
+  {
+    "id": 8,
+    "slug": "boteco-breja",
+    "nome": "Boteco Breja",
+    "endereco": "Av. João Avelino de Melo, 285",
+    "bairro": "Conjunto Habitacional",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8481335,
+    "lng": -46.5688511,
+    "telefone": "35998557848",
+    "horarios": "Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h | Sábado: 16h30 – 23h | Domingo: 15h – 22h",
+    "fotos": [
+      "boteco-breja_breja-brocroc.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Breja Brocroc",
+        "descricao": "Cestinha de brócolis com ricota. Acompanha: geleia de pimenta.",
+        "foto": "boteco-breja_breja-brocroc.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-breja/"
+  },
+  {
+    "id": 9,
+    "slug": "10210-revision-v1",
+    "nome": "Boteco Cana Benta",
+    "endereco": "R. Camerino Nogueira da Silva, 15",
+    "bairro": "Parque Primavera",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7882576,
+    "lng": -46.5341072,
+    "telefone": "35999501774",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "boteco-cana-benta_charuto-de-repolho-com-carne-e-bacon.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charuto de repolho com carne e bacon",
+        "descricao": "Charuto de repolho, recheado com carne moída e bacon, molho de tomate e gratinado com queijo.",
+        "foto": "boteco-cana-benta_charuto-de-repolho-com-carne-e-bacon.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10210-revision-v1/"
+  },
+  {
+    "id": 10,
+    "slug": "boteco-do-tio",
+    "nome": "Boteco do Tio",
+    "endereco": "R. Nicarágua, 109",
+    "bairro": "Jardim Bela Vista",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7957002,
+    "lng": -46.5660738,
+    "telefone": "(35) 99986-8998 / (35) 99755-0351",
+    "horarios": "Segunda-feira: 16h – 23h | Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "boteco-do-tio_boi-com-queijo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boi com Queijo",
+        "descricao": "Pão de queijo com provolone, recheado com costela desfiada, refogada com rúcula, tomate, cebola e queijo. Finalizado com rúcula fresca e pimenta-biquinho. Acompanha maionese da casa e geleia de maçã com pimenta.",
+        "foto": "boteco-do-tio_boi-com-queijo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-tio/"
+  },
+  {
+    "id": 11,
+    "slug": "budega-da-esquina",
+    "nome": "Budega da Esquina",
+    "endereco": "R. Justina Vieira de Oliveira, 320",
+    "bairro": "Santa Ângela",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7988297,
+    "lng": -46.5775611,
+    "telefone": "35992588989",
+    "horarios": "Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira: 18h – 22h | Sexta-feira: 18h – 22h | Sábado: 16h – 22h | Domingo: 12h – 17h",
+    "fotos": [
+      "budega-da-esquina_trio-bao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Bão",
+        "descricao": "Coxinha mineira recheada com costelinha de porco e couve. Acompanha: patê de alho.",
+        "foto": "budega-da-esquina_trio-bao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/budega-da-esquina/"
+  },
+  {
+    "id": 12,
+    "slug": "buteco-do-lucao",
+    "nome": "Buteco do Lucão",
+    "endereco": "Av. Jadir Vieira, 30",
+    "bairro": "Região Urbana Homogênea",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8325238,
+    "lng": -46.5698047,
+    "telefone": "35992419510",
+    "horarios": "Segunda-feira: 10h – 14h e 16h – 0h | Terça-feira: 10h – 14h e 16h – 0h | Quarta-feira: 10h – 14h e 16h – 0h | Quinta-feira: 10h – 14h e 16h – 0h | Sexta-feira: 10h – 14h e 16h – 0h | Sábado: 10h – 0h | Domingo: 10h – 0h",
+    "fotos": [
+      "buteco-do-lucao_loucura-na-baguete.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Loucura na Baguete",
+        "descricao": "Lanche na baguete de parmesão com carne louca, queijo, vinagrete, molho de alho e rúcula.",
+        "foto": "buteco-do-lucao_loucura-na-baguete.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-lucao/"
+  },
+  {
+    "id": 13,
+    "slug": "buthekytha-bar",
+    "nome": "Buthekytha Bar",
+    "endereco": "R. Israel, 200",
+    "bairro": "Parque das Nações",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8484108,
+    "lng": -46.5635864,
+    "telefone": "35998316643",
+    "horarios": "Terça-feira: 14h – 21h | Quarta-feira: 14h – 21h | Quinta-feira: 14h – 21h | Sexta-feira: 14h – 21h | Sábado: 14h – 21h | Domingo: 14h – 20h",
+    "fotos": [
+      "buthekytha-bar_barkita.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Barkita",
+        "descricao": "Barquetes recheadas com creme de frango, alho-poró, rúcula e cream cheese. Acompanha geleia de abacaxi com pimenta.",
+        "foto": "buthekytha-bar_barkita.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buthekytha-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "de-frente-para-o-futuro",
+    "nome": "De Frente pro Futuro",
+    "endereco": "Rua da Saudade, 270",
+    "bairro": "Poços de Caldas - MG",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7877793,
+    "lng": -46.5835453,
+    "telefone": "35988345013",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 22h | Sábado: 12h – 22h | Domingo: 12h – 22h",
+    "fotos": [
+      "de-frente-pro-futuro_vulcaozinho-do-finado-cumpade-joao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Vulcãozinho do Finado Cumpade João",
+        "descricao": "Ragu de paleta com queijo gratinado, rúcula e minipão.",
+        "foto": "de-frente-pro-futuro_vulcaozinho-do-finado-cumpade-joao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/de-frente-para-o-futuro/"
+  },
+  {
+    "id": 15,
+    "slug": "fabianos-bar",
+    "nome": "Fabiano’s Bar",
+    "endereco": "R. Fanny de Carvalho Prata, 547",
+    "bairro": "Jardim São Paulo",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7966538,
+    "lng": -46.5502778,
+    "telefone": "3537141374",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 12h – 0h | Domingo: 12h – 23h",
+    "fotos": [
+      "fabiano-s-bar_batata-recheada-mineira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Batata Recheada Mineira",
+        "descricao": "Batatas recheadas de frango cremoso e pernil desfiado. Com requeijão, cheddar, bacon, muçarela e rúcula.",
+        "foto": "fabiano-s-bar_batata-recheada-mineira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fabianos-bar/"
+  },
+  {
+    "id": 16,
+    "slug": "faisqueira",
+    "nome": "Faisqueira",
+    "endereco": "R. Guaicurus, 532",
+    "bairro": "Vila Togni",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7842121,
+    "lng": -46.602658,
+    "telefone": "35992386218",
+    "horarios": "Terça-feira: 11h – 17h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 23h | Domingo: 11h – 17h",
+    "fotos": [
+      "faisqueira_catuporco-com-couve.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "CatuPorco com Couve",
+        "descricao": "Torresmo de rolo com catupiry e muçarela, maçaricado, coberto com couve crispy. Acompanha: vinagrete e farofa.",
+        "foto": "faisqueira_catuporco-com-couve.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/faisqueira/"
+  },
+  {
+    "id": 17,
+    "slug": "piratas-snooker-bar-2",
+    "nome": "Pirata’s Snooker Bar",
+    "endereco": "Av. Magda Pinto Amarante, 132",
+    "bairro": "Jardim das Hortênsias",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8123617,
+    "lng": -46.5484786,
+    "telefone": "35998356114",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 16h – 0h | Domingo: 16h – 23h",
+    "fotos": [
+      "pirata-s-snooker-bar_segredo-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Segredo do Popeye",
+        "descricao": "Canapé com base de espinafre cremosa, sendo 3 unidades de queijo muçarela derretido e 5 unidades de ponta de agulha desfiada e demi glace.",
+        "foto": "pirata-s-snooker-bar_segredo-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/piratas-snooker-bar-2/"
+  },
+  {
+    "id": 18,
+    "slug": "rota-do-petisco",
+    "nome": "Rota do Petisco",
+    "endereco": "R. Vereador João de Siqueira Loyola, 423",
+    "bairro": "Jardim Campos Elísios",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.8000823,
+    "lng": -46.509094,
+    "telefone": "35998350099",
+    "horarios": "Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 23h | Sábado: 12h – 23h | Domingo: 12h – 20h",
+    "fotos": [
+      "rota-do-petisco_rota-mineira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rota Mineira",
+        "descricao": "Couve recheada com feijão-tropeiro à mineira, torresmo e ovos de codorna.",
+        "foto": "rota-do-petisco_rota-mineira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/rota-do-petisco/"
+  },
+  {
+    "id": 19,
+    "slug": "seu-bar",
+    "nome": "Seu Bar",
+    "endereco": "R. José Marcondes da Fonseca, 105",
+    "bairro": "Santa Maria",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7968067,
+    "lng": -46.5760254,
+    "telefone": "35992444532",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 10h – 22h",
+    "fotos": [
+      "seu-bar_la-de-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lá de casa",
+        "descricao": "Costela temperada e cozida na cebola, cerveja preta e pedacinhos de brócolis. Acompanha: creme de brócolis com pãozinho.",
+        "foto": "seu-bar_la-de-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seu-bar/"
+  },
+  {
+    "id": 20,
+    "slug": "seu-minero",
+    "nome": "Seu Minero",
+    "endereco": "Rua Assis Figueiredo, 1945",
+    "bairro": "Centro",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7856824,
+    "lng": -46.5658061,
+    "telefone": "3537210122",
+    "horarios": "Segunda-feira: 11h – 14h e 17h30 – 23h | Terça-feira: 11h – 14h e 17h30 – 23h | Quarta-feira: 11h – 14h e 17h30 – 23h | Quinta-feira: 11h – 14h e 17h30 – 23h | Sexta-feira: 11h – 14h e 17h30 – 23h | Sábado: 11h – 14h e 17h30 – 23h",
+    "fotos": [
+      "seu-minero_moela-do-vagnao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Moela do Vagnão",
+        "descricao": "Moela refogada com chicória ao molho de tomate da casa. Acompanha: pão em fatias.",
+        "foto": "seu-minero_moela-do-vagnao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seu-minero/"
+  },
+  {
+    "id": 21,
+    "slug": "to-em-casa-bar",
+    "nome": "Tô em Casa Bar",
+    "endereco": "Av. João Pinheiro, 618",
+    "bairro": "Centro",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.786005,
+    "lng": -46.5719158,
+    "telefone": "(35) 99943-4117 / (35) 99845-2616",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "to-em-casa-bar_tcc-burger.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "TCC Burger",
+        "descricao": "Minipão de hambúrguer com mini-hambúrguer, agrião e maionese com cheddar. Acompanham: batatas fritas palito e molho de espinafre com maçã.",
+        "foto": "to-em-casa-bar_tcc-burger.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/to-em-casa-bar/"
+  },
+  {
+    "id": 22,
+    "slug": "3625-revision-v1",
+    "nome": "Toa Toa Bar",
+    "endereco": "Av. Santo Antônio, 16",
+    "bairro": "Jardim Cascatinha",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7925092,
+    "lng": -46.5617498,
+    "telefone": "3537222774",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "toa-toa-bar_croquete-do-hulk.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquete do Hulk",
+        "descricao": "Croquete de costela cremosa recheado com couve puxada no bacon. Acompanha molho secreto do Hulk.",
+        "foto": "toa-toa-bar_croquete-do-hulk.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3625-revision-v1/"
+  },
+  {
+    "id": 23,
+    "slug": "tufas-bier",
+    "nome": "Tufas Bier",
+    "endereco": "R. Professora Nicolina Bernardo, 495",
+    "bairro": "Jardim Santa Augusta",
+    "cidade": "Poços de Caldas",
+    "cidade_slug": "pocos-de-caldas",
+    "ano": "2026",
+    "lat": -21.7929217,
+    "lng": -46.5743112,
+    "telefone": "35999406749",
+    "horarios": "Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 12h – 23h | Domingo: 12h – 18h",
+    "fotos": [
+      "tufas-bier_tchurras.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tchurras",
+        "descricao": "Bolinho de pão de alho com carne, espinafre e muçarela.",
+        "foto": "tufas-bier_tchurras.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tufas-bier/"
+  }
+]

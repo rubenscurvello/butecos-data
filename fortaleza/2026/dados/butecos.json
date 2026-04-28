@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "slug": "10094-revision-v1",
+    "nome": "Bar do Nem",
+    "endereco": "R. General Clarindo de Queiroz",
+    "bairro": "Centro",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "85988943469",
+    "horarios": "Terça-feira: 7h – 15h | Quarta-feira: 7h – 15h | Quinta-feira: 7h – 15h | Sexta-feira: 7h – 15h | Sábado: 7h – 15h | Domingo: 7h – 12h",
+    "fotos": [
+      "bar-do-nem_sertao-verde-no-chao-coracao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sertão Verde no chão, coração",
+        "descricao": "Bolinho de feijão-verde recheado com carne de sol suína e queijo coalho, acompanhado de vinagrete, muffin vegano, linguiça artesanal de língua com farofa de abacaxi e molhos da casa.",
+        "foto": "bar-do-nem_sertao-verde-no-chao-coracao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/10094-revision-v1/"
+  },
+  {
+    "id": 2,
+    "slug": "3801-revision-v1",
+    "nome": "Bar O Camocim",
+    "endereco": "R. Padre Mororó, 1012",
+    "bairro": "Centro",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7255516,
+    "lng": -38.5376141,
+    "telefone": "85992110959",
+    "horarios": "Terça-feira: 11h – 15h e 17h – 23h | Quarta-feira: 11h – 15h e 17h – 23h | Quinta-feira: 11h – 15h e 17h – 23h | Sexta-feira: 11h – 15h e 17h – 23h | Sábado: 11h – 20h | Domingo: 11h – 20h",
+    "fotos": [
+      "bar-o-camocim_tropeirao-da-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tropeirão da Casa",
+        "descricao": "Carne de charque com couve, feijão, farinha de mandioca, finalizada com queijo coalho.",
+        "foto": "bar-o-camocim_tropeirao-da-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3801-revision-v1/"
+  },
+  {
+    "id": 3,
+    "slug": "boteco-di-garagem",
+    "nome": "Boteco Di Garagem",
+    "endereco": "Rua Bento Gonçalves, 703 - Loja 07",
+    "bairro": "Novo Mondubim",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.8103432,
+    "lng": -38.5863405,
+    "telefone": "85988337594",
+    "horarios": "Quarta-feira: 18h – 22h45 | Quinta-feira: 18h – 22h45 | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 22h45",
+    "fotos": [
+      "boteco-di-garagem_ninho-caipira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ninho Caipira",
+        "descricao": "Feijão-verde cremoso, preparado com couve-manteiga, queijo coalho, requeijão, leite e creme de leite, com adição de frango desfiado, carne de sol refogada na manteiga, bacon em cubos, ovo de codorna e finalizado com salsinha e pimenta-biquinho!",
+        "foto": "boteco-di-garagem_ninho-caipira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-di-garagem/"
+  },
+  {
+    "id": 4,
+    "slug": "buteco-afonso-pescados",
+    "nome": "Buteco Afonso Pescados",
+    "endereco": "Alameda das Begônias, 202 - Casa",
+    "bairro": "Cidade 2000",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7487024,
+    "lng": -38.4731698,
+    "telefone": "85988732303",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 18h30",
+    "fotos": [
+      "buteco-afonso-pescados_camarao-croc-croc.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão Croc Croc",
+        "descricao": "Tempurá de camarões e legumes crocantes com maionese cítrica de coentro.",
+        "foto": "buteco-afonso-pescados_camarao-croc-croc.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-afonso-pescados/"
+  },
+  {
+    "id": 5,
+    "slug": "estaleiro-do-gaucho",
+    "nome": "Estaleiro do Gaúcho",
+    "endereco": "Av. Beira Mar, 4436 - Lojas 7/8",
+    "bairro": "Meireles",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7250152,
+    "lng": -38.4988118,
+    "telefone": "85999978761",
+    "horarios": "Segunda-feira: 11h – 23h30 | Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 23h30",
+    "fotos": [
+      "estaleiro-do-gaucho_flor-de-fogo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Flor de  FOGO",
+        "descricao": "Croquete com recheio de costela bovina e queijo cremoso, envolto em base de couve-flor e espinafre. Empanado em farinha panko  e servido com molhos especiais.",
+        "foto": "estaleiro-do-gaucho_flor-de-fogo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/estaleiro-do-gaucho/"
+  },
+  {
+    "id": 6,
+    "slug": "gpetiscos",
+    "nome": "GPetiscos",
+    "endereco": "Rua Sousa Girão, 133",
+    "bairro": "José Bonifácio",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.741446,
+    "lng": -38.5250376,
+    "telefone": "85996111660",
+    "horarios": "Terça-feira: 17h30 – 23h30 | Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 23h30 | Sábado: 17h30 – 23h30",
+    "fotos": [
+      "gpetiscos_sabores-da-terra.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabores da Terra",
+        "descricao": "Quiche de espinafre com queijo parmesão, acompanhado de couve-flor à milanesa e couve crocante (crispy).",
+        "foto": "gpetiscos_sabores-da-terra.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gpetiscos/"
+  },
+  {
+    "id": 7,
+    "slug": "juju-boa-ideia",
+    "nome": "Juju Boa Ideia",
+    "endereco": "Rua Pescador João Santana, 49",
+    "bairro": "Mucuripe",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7268959,
+    "lng": -38.4742606,
+    "telefone": "85986249975",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "juju-boa-ideia_arraia-tropicana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arraia Tropicana",
+        "descricao": "Pimentão recheado de arraia e alho-poró, acompanhado de farofa de banana.",
+        "foto": "juju-boa-ideia_arraia-tropicana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/juju-boa-ideia/"
+  },
+  {
+    "id": 8,
+    "slug": "long-beer",
+    "nome": "Long Beer",
+    "endereco": "R. Bélgica, 1050 - A",
+    "bairro": "Maraponga",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7901247,
+    "lng": -38.566023,
+    "telefone": "85998519788",
+    "horarios": "Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 1h | Sexta-feira: 16h – 1h | Sábado: 16h – 1h",
+    "fotos": [
+      "long-beer_jeitinho-nordestino.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Jeitinho nordestino",
+        "descricao": "Purê de abobrinha com carne de costela ao molho, acompanhado de brócolis ao requeijão empanado com Doritos e salada de repolho, abacaxi e manga.",
+        "foto": "long-beer_jeitinho-nordestino.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/long-beer/"
+  },
+  {
+    "id": 9,
+    "slug": "mar-de-rosas",
+    "nome": "Mar de Rosas",
+    "endereco": "Rua dos Tabajaras, 542",
+    "bairro": "Praia de Iracema",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7197786,
+    "lng": -38.5150068,
+    "telefone": "85986063389",
+    "horarios": "Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h | Domingo: 11h – 16h",
+    "fotos": [
+      "mar-de-rosas_charutinho-do-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinho do Mar",
+        "descricao": "Charuto de repolho recheado com beijupirá, pimenta-de-cheiro e especiarias. Acompanhado por molho de tucupi e pimentão vermelho.",
+        "foto": "mar-de-rosas_charutinho-do-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mar-de-rosas/"
+  },
+  {
+    "id": 10,
+    "slug": "morerinha-grill",
+    "nome": "Moreirinha Grill",
+    "endereco": "Rua Recanto Tranquilo, 310",
+    "bairro": "Itaperi",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7916955,
+    "lng": -38.5456745,
+    "telefone": "85981392663",
+    "horarios": "Quarta-feira: 10h – 19h | Quinta-feira: 10h – 19h | Sexta-feira: 10h – 20h | Sábado: 10h – 20h | Domingo: 10h – 20h",
+    "fotos": [
+      "moreirinha-grill_do-pato-ao-prato.png"
+    ],
+    "pratos": [
+      {
+        "nome": "Do Pato ao Prato",
+        "descricao": "Pato ao molho com cuscuz e alho-poró.",
+        "foto": "moreirinha-grill_do-pato-ao-prato.png"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/morerinha-grill/"
+  },
+  {
+    "id": 11,
+    "slug": "mr-grego-espetiscaria",
+    "nome": "Mr. Grego – Espetiscaria",
+    "endereco": "Rua Carlos Juaçaba, 0",
+    "bairro": "Maraponga",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7943189,
+    "lng": -38.563036,
+    "telefone": "85996889943",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h | Domingo: 18h – 0h",
+    "fotos": [
+      "mr-grego-espetiscaria_cupim-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim de Buteco",
+        "descricao": "Cupim de bafo na manteiga da terra e alho-poró, acompanhado de macaxeira e cachaça de canela.",
+        "foto": "mr-grego-espetiscaria_cupim-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mr-grego-espetiscaria/"
+  },
+  {
+    "id": 12,
+    "slug": "o-cabeludo",
+    "nome": "O Cabeludo",
+    "endereco": "Rua Isaie Boris, 383",
+    "bairro": "Montese",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7672938,
+    "lng": -38.548697,
+    "telefone": "85996174995",
+    "horarios": "Segunda-feira: 11h – 14h | Terça-feira: 11h – 14h | Quarta-feira: 11h – 14h | Quinta-feira: 11h – 14h e 17h – 23h30 | Sexta-feira: 11h – 14h e 17h – 23h30 | Sábado: 11h – 19h",
+    "fotos": [
+      "o-cabeludo_brasa-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brasa do Sertão",
+        "descricao": "Costela na brasa de parrilha, temperada com manteiga da terra e salada fresca.",
+        "foto": "o-cabeludo_brasa-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-cabeludo/"
+  },
+  {
+    "id": 13,
+    "slug": "panelada-da-rita",
+    "nome": "Panelada da Rita",
+    "endereco": "Rua Monsenhor Agostinho, 823",
+    "bairro": "Vila Peri",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7903302,
+    "lng": -38.5854568,
+    "telefone": "",
+    "horarios": "Quinta-feira: 8h – 16h | Sexta-feira: 8h – 16h | Sábado: 8h – 16h | Domingo: 8h – 16h",
+    "fotos": [
+      "panelada-da-rita_panelada-matuta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Panelada Matuta",
+        "descricao": "Panelada bovina com cuscuz e salada fresca.",
+        "foto": "panelada-da-rita_panelada-matuta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/panelada-da-rita/"
+  },
+  {
+    "id": 14,
+    "slug": "premium-petiscaria",
+    "nome": "Premium Petiscaria",
+    "endereco": "Av. Monsenhor Tabosa, 1039",
+    "bairro": "Meireles",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7245602,
+    "lng": -38.5043117,
+    "telefone": "(85) 99136-1972",
+    "horarios": "Segunda-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "premium-petiscaria_a-experiencia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A Experiência",
+        "descricao": "Canapés crocantes com queijo, alho-poró e especiarias: dois recheados com couve-flor e camarões regados ao molho da chefe e brócolis; e dois com recheio cremoso de brócolis e camarões no alho e óleo. Finalizados com brotos de couve.",
+        "foto": "premium-petiscaria_a-experiencia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/premium-petiscaria/"
+  },
+  {
+    "id": 15,
+    "slug": "sambura",
+    "nome": "Samburá",
+    "endereco": "Av. Deputado Federal Januário Feitosa, 430 - C1",
+    "bairro": "Sabiaguaba",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "85999323303",
+    "horarios": "Segunda-feira: 10h – 20h30 | Quarta-feira: 10h – 20h30 | Quinta-feira: 10h – 20h30 | Sexta-feira: 10h – 20h30 | Sábado: 10h – 20h30 | Domingo: 10h – 20h30",
+    "fotos": [
+      "sambura_mar-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mar tropical",
+        "descricao": "Rolinho de repolho japonês com recheio de caranguejo, servido com vinagrete de abacaxi e farofa.",
+        "foto": "sambura_mar-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sambura/"
+  },
+  {
+    "id": 16,
+    "slug": "spettus-muu",
+    "nome": "Spettus Muu",
+    "endereco": "Rua Padre Ambrósio Machado, 357",
+    "bairro": "Vila União",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "85991957069",
+    "horarios": "Terça-feira: 17h30 – 1h | Quarta-feira: 17h30 – 1h | Quinta-feira: 17h30 – 1h | Sexta-feira: 17h30 – 3h | Sábado: 17h30 – 3h",
+    "fotos": [
+      "spettus-muu_muu-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "MUU Tropical",
+        "descricao": "Salada Tropical com filé de camarão e raspa de rapadura.",
+        "foto": "spettus-muu_muu-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/spettus-muu/"
+  },
+  {
+    "id": 17,
+    "slug": "tasquinha-portuguesa",
+    "nome": "Tasquinha Portuguesa",
+    "endereco": "R. Olavo Bilac, 1032",
+    "bairro": "Álvaro Weyne",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7595721,
+    "lng": -38.6134827,
+    "telefone": "(85) 2130-1019 / (85) 99853-5297",
+    "horarios": "Terça-feira: 10h – 21h30 | Quarta-feira: 10h – 21h30 | Quinta-feira: 10h – 21h30 | Sexta-feira: 10h – 22h30 | Sábado: 10h – 22h30 | Domingo: 10h – 21h30",
+    "fotos": [
+      "tasquinha-portuguesa_bacalhau-verdes-mares.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bacalhau Verdes Mares",
+        "descricao": "Jarrinhos de massa folhada de couve, recheados com bacalhau cremoso, coroados com couve crispy e flor comestível.",
+        "foto": "tasquinha-portuguesa_bacalhau-verdes-mares.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tasquinha-portuguesa/"
+  },
+  {
+    "id": 18,
+    "slug": "toca-do-peba",
+    "nome": "Toca do Peba",
+    "endereco": "R. Professor Costa Mendes, 266",
+    "bairro": "Bom Futuro",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.757185,
+    "lng": -38.5438084,
+    "telefone": "(85) 99642-2753",
+    "horarios": "Terça-feira: 18h – 22h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "toca-do-peba_mucuripe.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mucuripe",
+        "descricao": "Filé de tilápia marinado com alho e pimenta-do-reino, empanado e frito, acompanhado de purê de couve-flor com espinafre clareado, salpicado com manteiga de manjericão fresco e molho vinagrete de morango.",
+        "foto": "toca-do-peba_mucuripe.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/toca-do-peba/"
+  },
+  {
+    "id": 19,
+    "slug": "varandao-da-vila-bar-e-resto",
+    "nome": "Varandão da Vila – Bar e Resto",
+    "endereco": "Av. General Osório de Paiva, 1612",
+    "bairro": "Parangaba",
+    "cidade": "Fortaleza",
+    "cidade_slug": "fortaleza",
+    "ano": "2026",
+    "lat": -3.7815842,
+    "lng": -38.5761836,
+    "telefone": "(85) 98844-2361 / (85) 3483-2680",
+    "horarios": "Quinta-feira: 17h – 22h | Sexta-feira: 17h – 22h | Sábado: 17h – 22h",
+    "fotos": [
+      "varandao-da-vila-bar-e-resto_beleza-rara.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Beleza Rara",
+        "descricao": "Combinação de arroz com repolho roxo, carne de charque e linguiça coberta com creme de queijo.",
+        "foto": "varandao-da-vila-bar-e-resto_beleza-rara.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/varandao-da-vila-bar-e-resto/"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "slug": "allelos-bar",
+    "nome": "Allelos Bar",
+    "endereco": "R. Dr. Saraiba, 32",
+    "bairro": "Bonfim Paulista",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.2669244,
+    "lng": -47.8185745,
+    "telefone": "16992501017",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "allelos-bar_bolinho-tania-mara.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho Tânia Mara",
+        "descricao": "Bolinho de mandioca recheado com frango, brócolis e requeijão cremoso.",
+        "foto": "allelos-bar_bolinho-tania-mara.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/allelos-bar/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-a-toca",
+    "nome": "Bar A Toca",
+    "endereco": "R. Domingos Padovan, 1540",
+    "bairro": "Jardim Anhanguera",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1801045,
+    "lng": -47.7736286,
+    "telefone": "16981053538",
+    "horarios": "Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "bar-a-toca_tombei-no-bolinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tombei no Bolinho",
+        "descricao": "Bolinho de linguiça com couve.",
+        "foto": "bar-a-toca_tombei-no-bolinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-a-toca/"
+  },
+  {
+    "id": 3,
+    "slug": "3565-revision-v1",
+    "nome": "Bar da Dona Celina",
+    "endereco": "R. José Aissum, 125",
+    "bairro": "Parque dos Bandeirantes",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1838227,
+    "lng": -47.7779668,
+    "telefone": "(16) 3618-1393 | (16) 99119-5511",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "bar-da-dona-celina_berinjela-suprema.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Berinjela Suprema",
+        "descricao": "Berinjela assada com carne moída temperada, molho bechamel, queijo gratinado e finalizada com crisps de couve e salsa.",
+        "foto": "bar-da-dona-celina_berinjela-suprema.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3565-revision-v1/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-da-duque",
+    "nome": "Bar da Duque",
+    "endereco": "R. Duque de Caxias, 1211",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1781671,
+    "lng": -47.8039117,
+    "telefone": "16988042634",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-da-duque_tesouro-da-duquesa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tesouro da Duquesa",
+        "descricao": "Salgado de fraldinha com alho-poró e aioli de rúcula com limão.",
+        "foto": "bar-da-duque_tesouro-da-duquesa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-duque/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-da-patroa",
+    "nome": "Bar da Patroa",
+    "endereco": "R. Professor Pedreira de Freitas, 564",
+    "bairro": "Parque Ribeirão Preto",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1656037,
+    "lng": -47.8506223,
+    "telefone": "16 997624685",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "bar-da-patroa_coxinha-de-feijuka.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha de Feijuka",
+        "descricao": "Coxinha de feijoada recheada com couve.",
+        "foto": "bar-da-patroa_coxinha-de-feijuka.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-da-patroa/"
+  },
+  {
+    "id": 6,
+    "slug": "3123-revision-v1",
+    "nome": "Bar do Gil",
+    "endereco": "Rua Franca, 432",
+    "bairro": "Jardim Paulista",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1755214,
+    "lng": -47.7949132,
+    "telefone": "1632366243",
+    "horarios": "Segunda-feira: 16h30 – 0h | Terça-feira: 16h30 – 0h | Quarta-feira: 16h30 – 0h | Quinta-feira: 16h30 – 0h | Sexta-feira: 16h30 – 0h | Sábado: 10h – 0h | Domingo: 10h – 0h",
+    "fotos": [
+      "bar-do-gil_tira-de-lombo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tira de Lombo",
+        "descricao": "Tiras de tapioca granulada com copa lombo, brócolis e bacon, com geleia picante de abacaxi.",
+        "foto": "bar-do-gil_tira-de-lombo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3123-revision-v1/"
+  },
+  {
+    "id": 7,
+    "slug": "bar-do-jefferson",
+    "nome": "Bar do Jefferson",
+    "endereco": "R. Edgard Patrick, 20",
+    "bairro": "Jardim São José",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.225718,
+    "lng": -47.7666666,
+    "telefone": "(16) 3237-2463 | (16) 99394-8585",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-do-jefferson_mamma-mia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mamma Mia",
+        "descricao": "Polpettines de linguiça toscana com rúcula, tomate seco, cebola, azeitonas pretas, queijo e especiarias. Poppers de calabresa recheados com creme de queijo, escarola e especiarias. Acompanham maionese de pesto e passata de tomate com vinho e aliche.",
+        "foto": "bar-do-jefferson_mamma-mia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-jefferson/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-do-le",
+    "nome": "Bar do Lê",
+    "endereco": "Rua Capitão Salomão, 1439 - Campos Elísios",
+    "bairro": "",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1685509,
+    "lng": -47.8031984,
+    "telefone": "16993155725",
+    "horarios": "Segunda-feira: 16h30 – 0h30 | Terça-feira: 16h30 – 0h30 | Quarta-feira: 16h30 – 0h30 | Quinta-feira: 16h30 – 0h30 | Sexta-feira: 16h30 – 0h30",
+    "fotos": [
+      "bar-do-le_tulipinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tulipinha",
+        "descricao": "Porção de tulipa com molho de alho e alho-poró.",
+        "foto": "bar-do-le_tulipinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-le/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-renato",
+    "nome": "Bar do Renato",
+    "endereco": "R. Contabilista Marcos Mendonça Coelho, 830",
+    "bairro": "Ribeirão Preto - SP",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1055433,
+    "lng": -47.8268487,
+    "telefone": "(16) 98806-4167",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "bar-do-renato_macacos-me-mordam.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Macacos me mordam",
+        "descricao": "Croquete de costela recheado com agrião e meia cura com creme de espinafre picante e chutney de manga.",
+        "foto": "bar-do-renato_macacos-me-mordam.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-renato/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-dona-helena",
+    "nome": "Bar Dona Helena",
+    "endereco": "R. Guido Borsaro, 625",
+    "bairro": "Parque dos Bandeirantes",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1827498,
+    "lng": -47.7828288,
+    "telefone": "16991677059",
+    "horarios": "Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 20h",
+    "fotos": [
+      "bar-dona-helena_alta-tensao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Alta Tensão",
+        "descricao": "Panquecas recheadas com ragu de rabada e couve, salpicadas de salsinha e cebolinha, com um toque de parmesão ralado em grosso modo e azeite.",
+        "foto": "bar-dona-helena_alta-tensao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-dona-helena/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-emporio-paulistano",
+    "nome": "Bar Empório Paulistano",
+    "endereco": "Rua Cesário Motta, 1469",
+    "bairro": "Jardim Paulistano",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1711844,
+    "lng": -47.7892881,
+    "telefone": "16997323393",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 12h – 23h",
+    "fotos": [
+      "bar-emporio-paulistano_espetin-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetin do Popeye",
+        "descricao": "Espeto com carne de porco recheado com espinafre, alho-poró e queijo.",
+        "foto": "bar-emporio-paulistano_espetin-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-emporio-paulistano/"
+  },
+  {
+    "id": 12,
+    "slug": "barbaridade-espeto-bar-2",
+    "nome": "BarBaridade Espeto & Bar",
+    "endereco": "R. João Bim, 712",
+    "bairro": "Campos Elíseos",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1696241,
+    "lng": -47.793055,
+    "telefone": "1632360613",
+    "horarios": "Segunda-feira: 17h30 – 0h | Terça-feira: 17h30 – 0h | Quarta-feira: 17h30 – 0h | Quinta-feira: 17h30 – 0h | Sexta-feira: 17h30 – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "barbaridade-espeto-bar_palitos-do-barbaridade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Palitos do Barbaridade",
+        "descricao": "Palitos de massa caseira recheada com palmito de açaí, tomate seco, rúcula e queijo muçarela.",
+        "foto": "barbaridade-espeto-bar_palitos-do-barbaridade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barbaridade-espeto-bar-2/"
+  },
+  {
+    "id": 13,
+    "slug": "benrico-emporio-bar",
+    "nome": "Benrico Empório Bar",
+    "endereco": "R. Aníbal Vercesi, 246",
+    "bairro": "Bonfim Paulista",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.25974,
+    "lng": -47.8139345,
+    "telefone": "11978568579",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 15h – 21h",
+    "fotos": [
+      "benrico-emporio-bar_opiniao-da-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Opinião da Casa",
+        "descricao": "Linguiça artesanal, coberta por um mix de folhas (rúcula e agrião), coberta por um mix de queijos (meia cura, provolone e gorgonzola), finalizada com pimentas-biquinhos e cercada de torradas.",
+        "foto": "benrico-emporio-bar_opiniao-da-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/benrico-emporio-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "botekus-bar",
+    "nome": "Botekus Bar",
+    "endereco": "Av. do Café, 166",
+    "bairro": "Vila Tibério",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1724145,
+    "lng": -47.8447878,
+    "telefone": "16993113454",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "botekus-bar_trio-botekus-bar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Botekus Bar",
+        "descricao": "Isca de peixe, torresmo e tulipa, acompanhados com fritas, molho de brócolis e molho de mostarda.",
+        "foto": "botekus-bar_trio-botekus-bar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botekus-bar/"
+  },
+  {
+    "id": 15,
+    "slug": "buteco-do-maranhao-e-cia-2",
+    "nome": "Buteco do Maranhão e Cia.",
+    "endereco": "R. Antônio Aché, 769",
+    "bairro": "Jardim Irajá",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.2070709,
+    "lng": -47.801604,
+    "telefone": "(16) 98853-4916 | (16) 98157-1068",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 11h – 14h30 e 17h – 23h | Quarta-feira: 11h – 14h30 e 17h – 23h | Quinta-feira: 11h – 14h30 e 17h – 23h | Sexta-feira: 11h – 14h30 e 17h – 23h | Sábado: 11h – 23h | Domingo: 11h – 15h30",
+    "fotos": [
+      "buteco-do-maranhao-e-cia_rabico-no-maranhao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabicó no Maranhão",
+        "descricao": "Filé-mignon suíno empanado com molho cremoso de brócolis, requeijão e bacon.",
+        "foto": "buteco-do-maranhao-e-cia_rabico-no-maranhao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-maranhao-e-cia-2/"
+  },
+  {
+    "id": 16,
+    "slug": "butiquim-do-ziriguidum",
+    "nome": "Butiquim do Ziriguidum",
+    "endereco": "R. Onze de Agosto, 1978 - , Campos Elísios",
+    "bairro": "",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1655508,
+    "lng": -47.8014307,
+    "telefone": "16991053535",
+    "horarios": "Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 11h – 20h | Domingo: 11h – 20h",
+    "fotos": [
+      "butiquim-do-ziriguidum_trio-caipira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trio Caipira",
+        "descricao": "Linguiça caipira, enrolada com rúcula e tomate seco.",
+        "foto": "butiquim-do-ziriguidum_trio-caipira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/butiquim-do-ziriguidum/"
+  },
+  {
+    "id": 17,
+    "slug": "choperia-dus-mineiros",
+    "nome": "Choperia Dus Mineiros",
+    "endereco": "Av. Doutor Plínio de Castro Prado, 1000",
+    "bairro": "Jardim Palma Travassos",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1876967,
+    "lng": -47.7935316,
+    "telefone": "1639676740",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 16h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 19h",
+    "fotos": [
+      "choperia-dus-mineiros_popeye-du-mineiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popeye du Mineiro",
+        "descricao": "Cubinhos de ponta de peito refogados com espinafre e cerveja preta, servidos com brócolis e couve-flor gratinada com queijo meia cura.",
+        "foto": "choperia-dus-mineiros_popeye-du-mineiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/choperia-dus-mineiros/"
+  },
+  {
+    "id": 18,
+    "slug": "covil-do-lobo",
+    "nome": "Covil do Lobo",
+    "endereco": "R. Piracicaba, 1825",
+    "bairro": "Ribeirão Preto - SP",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1858781,
+    "lng": -47.7845371,
+    "telefone": "16992690097",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "covil-do-lobo_falafel-de-tremoco-e-ora-pro-nobis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Falafel de tremoço e ora-pro-nóbis",
+        "descricao": "Porção de falafel de tremoço e ora-pro-nóbis, acompanhada de maionese de alho assado.",
+        "foto": "covil-do-lobo_falafel-de-tremoco-e-ora-pro-nobis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/covil-do-lobo/"
+  },
+  {
+    "id": 19,
+    "slug": "da-villa-torresmos",
+    "nome": "Da Villa Torresmos",
+    "endereco": "R. Ipanema, 746",
+    "bairro": "Ribeirão Preto - SP",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1886031,
+    "lng": -47.8234506,
+    "telefone": "16981497777",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "da-villa-torresmos_tt-torresmo-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "TT – Torresmo Tropical",
+        "descricao": "Brócolis, cenoura e couve-flor preparados no vapor, confit de tomate-cereja, temperados com vinagre balsâmico, azeite, sal e ervas, e cobertos com cubos de abacaxi e torresmo defumado da Villa, sob cama de alface-crespa. Acompanhados de geleia de goiaba apimentada.",
+        "foto": "da-villa-torresmos_tt-torresmo-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/da-villa-torresmos/"
+  },
+  {
+    "id": 20,
+    "slug": "dimais-espetos-bar",
+    "nome": "Dimais Espetos Bar",
+    "endereco": "R. Antônio Fregonesi, 676",
+    "bairro": "Jardim Manoel Penna",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.214678,
+    "lng": -47.7651609,
+    "telefone": "1634215798",
+    "horarios": "Segunda-feira: 11h – 14h e 18h – 23h30 | Terça-feira: 11h – 14h e 18h – 23h30 | Quarta-feira: 11h – 14h e 18h – 23h30 | Quinta-feira: 11h – 14h e 18h – 23h30 | Sexta-feira: 11h – 14h e 18h – 23h30 | Sábado: 18h – 23h30",
+    "fotos": [
+      "dimais-espetos-bar_potinho-caipira-gourmet.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Potinho Caipira Gourmet",
+        "descricao": "Barquinhas recheadas com purê de couve-flor e carne-seca, acompanhadas de uma geleia de pimenta.",
+        "foto": "dimais-espetos-bar_potinho-caipira-gourmet.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dimais-espetos-bar/"
+  },
+  {
+    "id": 21,
+    "slug": "9634-revision-v1",
+    "nome": "Empório Mobiglia",
+    "endereco": "R. Saldanha Marinho, 1136",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1783035,
+    "lng": -47.81512,
+    "telefone": "1636257294",
+    "horarios": "Segunda-feira: 17h – 22h30 | Terça-feira: 17h – 22h30 | Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 22h30 | Sábado: 12h – 22h30",
+    "fotos": [
+      "emporio-mobiglia_classicos-do-marcelino.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Clássicos do Marcelino",
+        "descricao": "Pastelzinho de escarola, bacon e queijo. Coxinha de escarola e carne-seca. Acompanhamentos: vinagrete de alho-poró picante, molho verde e pimenta da casa.",
+        "foto": "emporio-mobiglia_classicos-do-marcelino.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/9634-revision-v1/"
+  },
+  {
+    "id": 22,
+    "slug": "esquina-do-ze",
+    "nome": "Esquina do Zé",
+    "endereco": "R. Lafaiete, 1045",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1816991,
+    "lng": -47.806903,
+    "telefone": "16992056565",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "esquina-do-ze_pastel-de-alho-poro-com-cream-cheese.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel de alho-poró com cream cheese",
+        "descricao": "Minipastéis recheados com alho-poró salteado no azeite e cream cheese.",
+        "foto": "esquina-do-ze_pastel-de-alho-poro-com-cream-cheese.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/esquina-do-ze/"
+  },
+  {
+    "id": 23,
+    "slug": "fazendeiro-grill",
+    "nome": "Fazendeiro Grill",
+    "endereco": "R. Henrique Dumont, 1265",
+    "bairro": "Jardim Paulista",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1854202,
+    "lng": -47.7885207,
+    "telefone": "1639670777",
+    "horarios": "Segunda-feira: 18h – 23h | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 0h30 | Sábado: 11h – 23h30 | Domingo: 11h – 16h",
+    "fotos": [
+      "fazendeiro-grill_ourico-do-mato.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ouriço do Mato",
+        "descricao": "Cuscuz mole empanado.",
+        "foto": "fazendeiro-grill_ourico-do-mato.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/fazendeiro-grill/"
+  },
+  {
+    "id": 24,
+    "slug": "federal-bar",
+    "nome": "Federal Bar",
+    "endereco": "R. Daniel Kujawski, 930",
+    "bairro": "Jardim Macedo",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1805322,
+    "lng": -47.7994653,
+    "telefone": "16991581390",
+    "horarios": "Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "federal-bar_incrivel-rulcula.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Incrível Rúlcula",
+        "descricao": "Filé de frango marinado no vinho branco, empanado e coberto com pesto de rúcula.",
+        "foto": "federal-bar_incrivel-rulcula.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/federal-bar/"
+  },
+  {
+    "id": 25,
+    "slug": "guadalupe-cafe",
+    "nome": "Guadalupe Café",
+    "endereco": "Rua Visconde do Rio Branco, 710",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1742333,
+    "lng": -47.8063482,
+    "telefone": "16991823539",
+    "horarios": "Terça, das 18h às 1h | Quarta, das 18h às 1h | Quinta, das 18h às 1h | Sexta, das 18h às 1h | Sábado, das 18h às 1h |",
+    "fotos": [
+      "guadalupe-cafe_charutinho-de-taioba-com-ragu-de-rabada.png"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinho de taioba com ragú de rabada",
+        "descricao": "Rolinho de taioba, recheado com ragú de rabada",
+        "foto": "guadalupe-cafe_charutinho-de-taioba-com-ragu-de-rabada.png"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/guadalupe-cafe/"
+  },
+  {
+    "id": 26,
+    "slug": "mares-peixe-bar",
+    "nome": "Mares Peixe Bar",
+    "endereco": "R. Luiz Barreto, 273",
+    "bairro": "Campos Elíseos",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1606289,
+    "lng": -47.806566,
+    "telefone": "16992330319",
+    "horarios": "Segunda-feira: 16h30 – 23h | Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h | Sábado: 16h30 – 23h",
+    "fotos": [
+      "mares-peixe-bar_medalhao-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão de Buteco",
+        "descricao": "Abobrinha italiana recheada com tilápia e salsão, empanada e frita. Acompanhada de geleia de abacaxi com pimenta.",
+        "foto": "mares-peixe-bar_medalhao-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mares-peixe-bar/"
+  },
+  {
+    "id": 27,
+    "slug": "mixturinha-bar",
+    "nome": "Mixturinha Bar",
+    "endereco": "R. Sérgio Aché, 71",
+    "bairro": "Planalto Verde",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "16982514064",
+    "horarios": "Terça-feira: 17h – 23h45 | Quarta-feira: 17h – 23h45 | Quinta-feira: 17h – 23h45 | Sexta-feira: 17h – 23h45 | Sábado: 17h – 23h45 | Domingo: 17h – 23h30",
+    "fotos": [
+      "mixturinha-bar_ceviche-com-crispy-de-alho-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ceviche com crispy de alho-poró",
+        "descricao": "Ceviche de tilápia com crispy de alho-poró.",
+        "foto": "mixturinha-bar_ceviche-com-crispy-de-alho-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mixturinha-bar/"
+  },
+  {
+    "id": 28,
+    "slug": "primo-o-rei-da-berinjela",
+    "nome": "Primo (O rei da berinjela)",
+    "endereco": "R. São José, 610",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1798916,
+    "lng": -47.8066348,
+    "telefone": "1636359988",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 14h – 0h",
+    "fotos": [
+      "primo-o-rei-da-berinjela_escarball-fit.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escarball(FIT)",
+        "descricao": "Bolinhos de escarola refogada com alho e bacon no azeite de oliva, com queijo provolone e especiarias. É envolvido por uma massa única de batata-doce com calabresa. Acompanha o molho de pimenta artesanal.",
+        "foto": "primo-o-rei-da-berinjela_escarball-fit.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/primo-o-rei-da-berinjela/"
+  },
+  {
+    "id": 29,
+    "slug": "renatos-bar",
+    "nome": "Renato’s Bar",
+    "endereco": "R. Piracicaba, 760",
+    "bairro": "Jardim Paulista",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1851919,
+    "lng": -47.7855884,
+    "telefone": "16997596468",
+    "horarios": "Segunda-feira: 10h – 22h | Terça-feira: 10h – 22h | Quarta-feira: 10h – 22h | Quinta-feira: 10h – 22h | Sexta-feira: 10h – 22h | Sábado: 10h – 20h | Domingo: 10h – 14h",
+    "fotos": [
+      "renato-s-bar_brusqueta-bota-pra-moer.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brusqueta Bota pra Moer",
+        "descricao": "Brusqueta de carne-seca com catupiry e queijo com molho de espinafre.",
+        "foto": "renato-s-bar_brusqueta-bota-pra-moer.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/renatos-bar/"
+  },
+  {
+    "id": 30,
+    "slug": "sem-fronteiras",
+    "nome": "Sem Fronteiras",
+    "endereco": "R. Américo Brasiliense, 1193",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1808946,
+    "lng": -47.804734,
+    "telefone": "(11) 97043-1929 | (16) 99243-3535",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "sem-fronteiras_despachito.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Despachito",
+        "descricao": "Falafel de espinafre e batata-doce.",
+        "foto": "sem-fronteiras_despachito.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sem-fronteiras/"
+  },
+  {
+    "id": 31,
+    "slug": "toca-da-pantera",
+    "nome": "Toca da Pantera",
+    "endereco": "Rua Santos Dumont, 980",
+    "bairro": "Vila Tibério",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1651709,
+    "lng": -47.8245646,
+    "telefone": "1631030221",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 10h – 0h | Domingo: 10h – 22h",
+    "fotos": [
+      "toca-da-pantera_bolotinha-toca-da-pantera.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolotinha Toca da Pantera",
+        "descricao": "Bolotinhas de carne com escarola e queijo.",
+        "foto": "toca-da-pantera_bolotinha-toca-da-pantera.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/toca-da-pantera/"
+  },
+  {
+    "id": 32,
+    "slug": "vat-rock-bar-e-restaurante",
+    "nome": "VAT Rock Bar e Restaurante",
+    "endereco": "R. Américo Brasiliense, 968",
+    "bairro": "Centro",
+    "cidade": "Ribeirão Preto",
+    "cidade_slug": "ribeirao-preto",
+    "ano": "2026",
+    "lat": -21.1797837,
+    "lng": -47.8066957,
+    "telefone": "16997575889",
+    "horarios": "Segunda-feira: 16h – 21h30 | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 16h – 0h | Domingo: 16h – 22h",
+    "fotos": [
+      "vat-rock-bar-e-restaurante_inimigos-do-rei.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Inimigos do Rei",
+        "descricao": "Bolinha de salpicão envolvida em folha de acelga, acompanhada de maionese de manjericão e chips de batata.",
+        "foto": "vat-rock-bar-e-restaurante_inimigos-do-rei.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/vat-rock-bar-e-restaurante/"
+  }
+]

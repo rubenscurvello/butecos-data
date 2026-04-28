@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "slug": "alices-happy-rock",
+    "nome": "Alice’s Happy Rock",
+    "endereco": "Rua Abel Botelho, 277",
+    "bairro": "Flores",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.061851,
+    "lng": -59.9931245,
+    "telefone": "92992492178",
+    "horarios": "Quarta-feira: 18h30 – 2h | Quinta-feira: 18h30 – 2h | Sexta-feira: 18h30 – 2h | Sábado: 18h30 – 3h",
+    "fotos": [
+      "alice-s-happy-rock_fofoquinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fofoquinha",
+        "descricao": "Almôndegas de acelga, cenoura, manjericão e linguiça de frango, envolvidas na massa de harumaki e macarrão cabelo de anjo. Acompanha molho de cupuaçu apimentado e molho de alho da casa.",
+        "foto": "alice-s-happy-rock_fofoquinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alices-happy-rock/"
+  },
+  {
+    "id": 2,
+    "slug": "arete-delicias-regionais",
+    "nome": "Aretê Delícias Regionais",
+    "endereco": "Rua Síria, 521",
+    "bairro": "Cidade Nova",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.012665,
+    "lng": -59.976977,
+    "telefone": "92992829194",
+    "horarios": "Quinta-feira: 18h – 22h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 17h – 22h",
+    "fotos": [
+      "arete-delicias-regionais_empanada-a-cabocla-com-molho-floresta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Empanada à cabocla com molho floresta",
+        "descricao": "Empanada recheada com pirarucu desfiado, banana-pacovã e verduras (salsão, alho-poró).",
+        "foto": "arete-delicias-regionais_empanada-a-cabocla-com-molho-floresta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/arete-delicias-regionais/"
+  },
+  {
+    "id": 3,
+    "slug": "3659-revision-v1",
+    "nome": "Bambu Bar",
+    "endereco": "Rua Carlos Lecor, 1015",
+    "bairro": "Parque 10 de Novembro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.080949,
+    "lng": -60.012472,
+    "telefone": "92981250851",
+    "horarios": "Terça-feira: 15h – 23h | Quarta-feira: 15h – 23h | Quinta-feira: 15h – 23h | Sexta-feira: 15h – 23h | Sábado: 15h – 23h | Domingo: 15h – 22h",
+    "fotos": [
+      "bambu-bar_camaroes-ao-creme-com-verduras.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarões ao creme com verduras",
+        "descricao": "Iscas de camarão ao creme de macaxeira com tucupi, acompanhadas de cheiro-verde, folhas de jambu e couve refogada.",
+        "foto": "bambu-bar_camaroes-ao-creme-com-verduras.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3659-revision-v1/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-calcada-alta",
+    "nome": "Bar Calçada Alta",
+    "endereco": "Rua Costa Azevedo, 96",
+    "bairro": "Centro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1321852,
+    "lng": -60.0222525,
+    "telefone": "92994173269",
+    "horarios": "Segunda-feira: 11h – 16h | Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "bar-calcada-alta_banzeiro-amazonico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Banzeiro Amazônico",
+        "descricao": "Petisco amazônico de pirarucu seco frito com tucupi, camarão, jambu e farinha Uarini crocante.",
+        "foto": "bar-calcada-alta_banzeiro-amazonico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-calcada-alta/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-rigudos",
+    "nome": "BAR RIGUDOS",
+    "endereco": "R. Abdon Made",
+    "bairro": "",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0893115,
+    "lng": -60.0182686,
+    "telefone": "92991104042",
+    "horarios": "Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 12h – 19h",
+    "fotos": [
+      "bar-rigudos_escarolinho-primavera.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escarolinho Primavera",
+        "descricao": "Porção com harumakis recheados com escarola, ricota, anchovas e queijo meia cura.",
+        "foto": "bar-rigudos_escarolinho-primavera.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-rigudos/"
+  },
+  {
+    "id": 6,
+    "slug": "biatuwi",
+    "nome": "Biatüwi",
+    "endereco": "R. Bernardo Ramos, 97",
+    "bairro": "Centro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1339692,
+    "lng": -60.0291746,
+    "telefone": "92988328408",
+    "horarios": "Quarta-feira: 11h – 20h30 | Quinta-feira: 11h – 20h30 | Sexta-feira: 11h – 20h30 | Sábado: 11h – 20h30",
+    "fotos": [
+      "biatuwi_puta-significa-petisco-na-lingua-satere.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Putã (significa petisco na língua Sateré)",
+        "descricao": "Dadinho de cará com tapioca, assado, redução de buriti, folhas de cariru com tucupi preto e vinagrete de manga, finalizado com melaço de cana, pimenta em pó e chicória.",
+        "foto": "biatuwi_puta-significa-petisco-na-lingua-satere.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/biatuwi/"
+  },
+  {
+    "id": 7,
+    "slug": "confraria-do-aranha",
+    "nome": "Confraria do Aranha",
+    "endereco": "Av. Visc. de Porto Alegre, 385",
+    "bairro": "Centro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1309651,
+    "lng": -60.0134218,
+    "telefone": "92982531363",
+    "horarios": "Terça-feira: 17h – 0h30 | Quarta-feira: 17h – 0h30 | Quinta-feira: 17h – 0h30 | Sexta-feira: 17h – 2h | Sábado: 17h – 2h",
+    "fotos": [
+      "confraria-do-aranha_rolete-roxo-do-aranha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rolete roxo do Aranha",
+        "descricao": "Rolinho de repolho roxo recheado com linguiça toscana e cream cheese, acompanhado de um molho mostarda com tempero do chef.",
+        "foto": "confraria-do-aranha_rolete-roxo-do-aranha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/confraria-do-aranha/"
+  },
+  {
+    "id": 8,
+    "slug": "dom-chiquito-bar-e-petiscaria",
+    "nome": "Dom Chiquito Bar e Petiscaria",
+    "endereco": "Rua Professor Ernani Simão, 1242",
+    "bairro": "Cachoeirinha",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1318051,
+    "lng": -60.0010873,
+    "telefone": "92996040506",
+    "horarios": "Quarta-feira: 15h – 22h30 | Quinta-feira: 15h – 22h30 | Sexta-feira: 15h – 22h30 | Sábado: 11h – 22h30 | Domingo: 14h – 21h30",
+    "fotos": [
+      "dom-chiquito-bar-e-petiscaria_jardineira-de-charque.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Jardineira de charque",
+        "descricao": "Charque cozida no tempero da casa com macaxeira, repolho, acelga, batata, cenoura, abobrinha, maxixe, couve-flor e um toque de coentro. Servida com farofa.",
+        "foto": "dom-chiquito-bar-e-petiscaria_jardineira-de-charque.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dom-chiquito-bar-e-petiscaria/"
+  },
+  {
+    "id": 9,
+    "slug": "espetto-grill-burguers",
+    "nome": "Espetto Grill & Burguers",
+    "endereco": "Av. Penetração, 21",
+    "bairro": "Nova Cidade",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0172909,
+    "lng": -59.9877287,
+    "telefone": "92986131196",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "espetto-grill-burguers_pirarucu-caboclo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pirarucu caboclo",
+        "descricao": "Um espeto de pirarucu à milanesa crocante, acompanha um molho de jambu.",
+        "foto": "espetto-grill-burguers_pirarucu-caboclo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetto-grill-burguers/"
+  },
+  {
+    "id": 10,
+    "slug": "farrapo-cozinha",
+    "nome": "Farrapo Cozinha",
+    "endereco": "Rua Costa Azevedo, 147",
+    "bairro": "Centro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1321853,
+    "lng": -60.0222525,
+    "telefone": "92985033279",
+    "horarios": "Segunda-feira: 17h – 22h45 | Quarta-feira: 17h – 22h45 | Quinta-feira: 17h – 22h45 | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 22h45",
+    "fotos": [
+      "farrapo-cozinha_nao-sai-da-5-serie-me-controlar-pra-nao-fazer-piada-foi-dificil.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Não saí da 5ª. série, me controlar pra não fazer piada foi difícil",
+        "descricao": "Grits fritos de salsão e milho, tahine de gergelim preto, kimchi com jambu produzido na casa. Finalizado com pó de camarão, mel de alho fermentado e flores comestíveis da temporada. Acompanha: coalhada seca com funcho produzido na casa.",
+        "foto": "farrapo-cozinha_nao-sai-da-5-serie-me-controlar-pra-nao-fazer-piada-foi-dificil.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/farrapo-cozinha/"
+  },
+  {
+    "id": 11,
+    "slug": "flutuante-bar-e-restaurante-solar-de-tupa",
+    "nome": "Flutuante Bar e Restaurante Solar de Tupã",
+    "endereco": "Acesso pela Marina do Davi",
+    "bairro": "Zona Rural",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "92994071007",
+    "horarios": "Quarta-feira: 7h – 17h | Quinta-feira: 7h – 17h | Sexta-feira: 7h – 17h | Sábado: 7h – 17h | Domingo: 7h – 17h",
+    "fotos": [
+      "flutuante-bar-e-restaurante-solar-de-tupa_canjiquinha-com-costelinha-suina-a-mineira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Canjiquinha com costelinha suína à mineira",
+        "descricao": "Milho triturado cozido com costelinha suína e couve refogada.",
+        "foto": "flutuante-bar-e-restaurante-solar-de-tupa_canjiquinha-com-costelinha-suina-a-mineira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/flutuante-bar-e-restaurante-solar-de-tupa/"
+  },
+  {
+    "id": 12,
+    "slug": "goiaba-bar",
+    "nome": "Goiaba Bar",
+    "endereco": "R. René de Nápolis, 488",
+    "bairro": "Adrianópolis",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0948725,
+    "lng": -60.0074552,
+    "telefone": "21997820809",
+    "horarios": "Terça-feira: 18h – 23h15 | Quarta-feira: 18h – 23h15 | Quinta-feira: 18h – 23h15 | Sexta-feira: 18h – 0h30 | Sábado: 18h – 0h30 | Domingo: 18h – 21h30",
+    "fotos": [
+      "goiaba-bar_trinca-de-ouro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trinca de ouro",
+        "descricao": "Trio de croquetes: croquete de rabada defumada com gremolata de agrião; croquete de toscana (a de churrasco) com queijo e crispy de couve; e bolinho de feijoada com couve. Servidos com gomos de limão e molho de pimenta feito na casa.",
+        "foto": "goiaba-bar_trinca-de-ouro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/goiaba-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "gringos-bar",
+    "nome": "Gringo’s Bar",
+    "endereco": "Av. Eduardo Ribeiro, 926 - A",
+    "bairro": "Centro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1358967,
+    "lng": -60.0249174,
+    "telefone": "92981358632",
+    "horarios": "Segunda-feira: 16h30 – 23h | Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h30 | Sábado: 16h30 – 23h30",
+    "fotos": [
+      "gringo-s-bar_falafel-amazonico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Falafel amazônico",
+        "descricao": "Bolinho de grão-de-bico com jambu, crocante por fora e macio por dentro. Servido com molho taratur (molho clássico de tahine, limão e alho), geleia de abacaxi com hortelã e pão árabe.",
+        "foto": "gringo-s-bar_falafel-amazonico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gringos-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "o-irlandes",
+    "nome": "O Irlandês",
+    "endereco": "R. Barão de Jaceguai, 695",
+    "bairro": "Flores",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0492338,
+    "lng": -59.9913284,
+    "telefone": "92988468322",
+    "horarios": "Quarta-feira: 19h – 2h | Quinta-feira: 19h – 2h | Sexta-feira: 19h – 2h | Sábado: 19h – 2h",
+    "fotos": [
+      "o-irlandes_pernil-a-luiz-geraldo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pernil à Luiz Geraldo",
+        "descricao": "Minissanduíches de pernil com 2 montagens diferentes. O clássico, servido no pão francês, pernil, alface, tomate e maionese caseira; e o outro, servido na ciabatta com rúcula, pernil, queijo prato, tomate confit e maionese de alho confit e especiarias.",
+        "foto": "o-irlandes_pernil-a-luiz-geraldo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-irlandes/"
+  },
+  {
+    "id": 15,
+    "slug": "o-porreta-amazonico",
+    "nome": "O Porreta Amazônico",
+    "endereco": "Av. Margarita, 1984",
+    "bairro": "Nova Cidade",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0056065,
+    "lng": -59.9753383,
+    "telefone": "92984695349",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "o-porreta-amazonico_na-onda-da-pororoca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Na onda da pororoca",
+        "descricao": "Rolinho de pirarucu fresco com camarão, recheado com molho cremoso de chicória e empanado na farinha panko. Acompanha creme de chicória e molho de tucupi com pimenta-dedo-de-moça.",
+        "foto": "o-porreta-amazonico_na-onda-da-pororoca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-porreta-amazonico/"
+  },
+  {
+    "id": 16,
+    "slug": "point-do-acaraje",
+    "nome": "Point do Acarajé",
+    "endereco": "Rua do Comércio, 115",
+    "bairro": "Parque 10 de Novembro",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.0291668,
+    "lng": -59.9397053,
+    "telefone": "92981375651",
+    "horarios": "Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira: 18h – 22h | Sexta-feira: 18h – 22h | Sábado: 18h – 22h | Domingo: 18h – 22h",
+    "fotos": [
+      "point-do-acaraje_cestinha-de-camarao.png"
+    ],
+    "pratos": [
+      {
+        "nome": "Cestinha de camarão",
+        "descricao": "Cestinha de camarão com alho-poró.",
+        "foto": "point-do-acaraje_cestinha-de-camarao.png"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/point-do-acaraje/"
+  },
+  {
+    "id": 17,
+    "slug": "varandas-rio-negro-2",
+    "nome": "Varanda’s Rio Negro",
+    "endereco": "Av. Pe. Agostinho Caballero Martin, 955",
+    "bairro": "São Raimundo",
+    "cidade": "Manaus",
+    "cidade_slug": "manaus-butecos",
+    "ano": "2026",
+    "lat": -3.1150023,
+    "lng": -60.0515077,
+    "telefone": "92984159733",
+    "horarios": "Terça-feira: 11h30 – 15h30 | Quarta-feira: 11h30 – 21h | Quinta-feira: 11h30 – 21h | Sexta-feira: 11h30 – 21h | Sábado: 11h30 – 21h | Domingo: 11h30 – 15h30",
+    "fotos": [
+      "varanda-s-rio-negro_petisco-quase-fitness.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Petisco quase fitness",
+        "descricao": "Mini-hambúrguer preparado com pão de hambúrguer com couve-flor, queijo coalho, cebola, carne artesanal e maionese de jambu. Acompanha bananinha chips.",
+        "foto": "varanda-s-rio-negro_petisco-quase-fitness.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/varandas-rio-negro-2/"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "slug": "1960-bar",
+    "nome": "1960 Bar",
+    "endereco": "Rua 237, 307",
+    "bairro": "Setor Coimbra",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6833935,
+    "lng": -49.2805141,
+    "telefone": "62992362753",
+    "horarios": "Segunda-feira: 18h – 22h | Terça-feira: 18h – 22h | Quarta-feira: 18h – 22h | Quinta-feira 18h – 22h _ Sexta-feira: 18h – 22h | Sábado: 12h – 16h",
+    "fotos": [
+      "1960-bar_rabo-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabo do Popeye",
+        "descricao": "Croqueta de rabada com alho-poró recheada com cream cheese de espinafre.",
+        "foto": "1960-bar_rabo-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/1960-bar/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-do-rochinha",
+    "nome": "Bar do Rochinha",
+    "endereco": "Avenida R 11, 240",
+    "bairro": "Setor Oeste",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6876406,
+    "lng": -49.2739679,
+    "telefone": "6236385296",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30",
+    "fotos": [
+      "bar-do-rochinha_charutinho-tropical.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinho tropical",
+        "descricao": "Costelinha suína envolvida no repolho com couve crispy, acompanhada de geleia picante de abacaxi.",
+        "foto": "bar-do-rochinha_charutinho-tropical.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-rochinha/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-dodo",
+    "nome": "Bar Dodô",
+    "endereco": "Rua Horizonte, 160",
+    "bairro": "Setor Aeroviário",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6632238,
+    "lng": -49.307872,
+    "telefone": "6236120605",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 23h30",
+    "fotos": [
+      "bar-dodo_lampiao-e-maria-bonita.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lampião e Maria Bonita",
+        "descricao": "Croquete de cabotiá e taioba com maionese de manteiga do sertão e dadinho de tapioca com geleia de abacaxi e rapadura.",
+        "foto": "bar-dodo_lampiao-e-maria-bonita.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-dodo/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-frango-gaucho",
+    "nome": "Bar Frango Gaúcho",
+    "endereco": "Av. C 104, 1644",
+    "bairro": "Jardim América",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7049557,
+    "lng": -49.289967,
+    "telefone": "6232863626",
+    "horarios": "Segunda-feira: 11h30 – 23h | Terça-feira: 11h30 – 23h | Quarta-feira: 11h30 – 23h | Quinta-feira: 11h30 – 23h | Sexta-feira: 11h30 – 23h | Sábado: 11h30 – 23h | Domingo: 11h30 – 23h",
+    "fotos": [
+      "bar-frango-gaucho_croquete-do-popeye.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquete do Popeye",
+        "descricao": "Croquete com massa de mandioca, recheado com carne, espinafre e queijo parmesão.",
+        "foto": "bar-frango-gaucho_croquete-do-popeye.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-frango-gaucho/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-ponto-18",
+    "nome": "Bar Ponto 18",
+    "endereco": "Rua 21, 133",
+    "bairro": "Setor Central",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6751559,
+    "lng": -49.249871,
+    "telefone": "6232252673",
+    "horarios": "Segunda-feira: 16h – 23h30 | Terça-feira: 16h – 23h30 | Quarta-feira: 16h – 23h30 | Quinta-feira: 16h – 23h30 | Sexta-feira: 16h – 23h30 | Sábado: 11h – 23h30",
+    "fotos": [
+      "bar-ponto-18_verdosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Verdosa",
+        "descricao": "Coxinhas recheadas com lagarto desfiado e queijo muçarela. Acompanham: molho verde de hortelã e sobremesa de doce de mamão com hortelã.",
+        "foto": "bar-ponto-18_verdosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-ponto-18/"
+  },
+  {
+    "id": 6,
+    "slug": "barbosa-estufa-brasa",
+    "nome": "Barbosa Estufa & Brasa",
+    "endereco": "Avenida dos Flamboyants",
+    "bairro": "Parque das Laranjeiras",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7269724,
+    "lng": -49.2296562,
+    "telefone": "62992395056",
+    "horarios": "Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 0h | Domingo: 12h – 0h",
+    "fotos": [
+      "barbosa-estufa-brasa_barbositos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Barbositos",
+        "descricao": "Croqueta de linguiça desconstruída, com requeijão moreno. Acompanha geleia de pimenta.",
+        "foto": "barbosa-estufa-brasa_barbositos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/barbosa-estufa-brasa/"
+  },
+  {
+    "id": 7,
+    "slug": "bendito-bar-e-restaurante",
+    "nome": "Bendito Bar e Restaurante",
+    "endereco": "Av. Barão do Rio Branco, 27",
+    "bairro": "Jardim Luz",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7485089,
+    "lng": -49.2782022,
+    "telefone": "62991000449",
+    "horarios": "Segunda-feira: 10h – 15h | Terça-feira: 10h – 0h | Quarta-feira: 10h – 0h | Quinta-feira: 10h – 0h | Sexta-feira: 10h – 0h | Sábado: 10h – 0h | Domingo: 10h – 0h",
+    "fotos": [
+      "bendito-bar-e-restaurante_bendita-tapas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bendita Tapas",
+        "descricao": "Pastel aberto recheado com carne temperada e pimentões, coberta com alho-poró crocante.",
+        "foto": "bendito-bar-e-restaurante_bendita-tapas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bendito-bar-e-restaurante/"
+  },
+  {
+    "id": 8,
+    "slug": "5495-revision-v1",
+    "nome": "Bistrô Chica Doida",
+    "endereco": "Av. Virgílio Joaquim Ferreira, 23",
+    "bairro": "Parque Flamboyant",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7359795,
+    "lng": -49.2172998,
+    "telefone": "6230853508",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 11h30 – 0h | Domingo: 11h30 – 16h",
+    "fotos": [
+      "bistro-chica-doida_tira-teima.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tira-Teima",
+        "descricao": "Picanha assada na brasa com batatas rústicas com ervas. Acompanhada de molho verde finalizado com folhas de rúcula.",
+        "foto": "bistro-chica-doida_tira-teima.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/5495-revision-v1/"
+  },
+  {
+    "id": 9,
+    "slug": "boteco-corro-e-gigi",
+    "nome": "Boteco Corró e Gigi",
+    "endereco": "Rua dos Eucaliptos",
+    "bairro": "Loteamento Alphaville Residencial",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7294183,
+    "lng": -49.3754865,
+    "telefone": "62982708334",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 8h – 22h | Sexta-feira: 8h – 22h | Sábado: 8h – 22h | Domingo: 8h – 22h",
+    "fotos": [
+      "boteco-corro-e-gigi_almondegas-sertanejas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Almôndegas sertanejas",
+        "descricao": "Almôndega de carne e bacon, recheada com muçarela ao molho de tomate e creme de batata.",
+        "foto": "boteco-corro-e-gigi_almondegas-sertanejas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-corro-e-gigi/"
+  },
+  {
+    "id": 10,
+    "slug": "boteco-do-mala",
+    "nome": "Boteco do Mala",
+    "endereco": "Av. Niemeyer, 162",
+    "bairro": "Jardim Buriti Sereno",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6850159,
+    "lng": -49.2986253,
+    "telefone": "62994889853",
+    "horarios": "Terça-feira: 17h30 – 0h | Quarta-feira: 17h30 – 0h | Quinta-feira: 17h30 – 0h | Sexta-feira: 17h30 – 0h | Sábado: 17h30 – 0h | Domingo: 17h30 – 0h",
+    "fotos": [
+      "boteco-do-mala_hoje-eu-to-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Hoje Eu Tô Crocante",
+        "descricao": "Cestinha crocante, recheada com costela, brócolis e molho siciliano finalizado com couve Crisp, pimenta-biquinho e azeitona.",
+        "foto": "boteco-do-mala_hoje-eu-to-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-mala/"
+  },
+  {
+    "id": 11,
+    "slug": "boteco-do-ti-cleyton",
+    "nome": "Boteco do ti Cleyton",
+    "endereco": "Rua Formosa",
+    "bairro": "Nossa Senhora de Fátima",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6591801,
+    "lng": -49.2911604,
+    "telefone": "62993478747",
+    "horarios": "Segunda-feira: 17h – 23h | Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h",
+    "fotos": [
+      "boteco-do-ti-cleyton_crocbroc-do-ti.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "CrocBroc do Ti",
+        "descricao": "Casquinha de trigo crocante recheada com carne bovina desfiada, coberta com um molho cremoso de brócolis e muçarela gratinada.",
+        "foto": "boteco-do-ti-cleyton_crocbroc-do-ti.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-ti-cleyton/"
+  },
+  {
+    "id": 12,
+    "slug": "brewtopia-tap-bar",
+    "nome": "Brewtopia Tap Bar",
+    "endereco": "Sexta Avenida, 466",
+    "bairro": "Setor Leste Universitário",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6879086,
+    "lng": -49.2373081,
+    "telefone": "6231212924",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 0h | Sábado: 17h30 – 0h",
+    "fotos": [
+      "brewtopia-tap-bar_bolinho-tal-e-coisa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho Tal e Coisa",
+        "descricao": "Bolinho de feijão-vermelho com queijo, almeirão-roxo e salsão, empanado na farinha panko. Acompanhado de um molho cremoso de limão com alho e pimenta-de-cheiro e geleia de cebola caramelizada.",
+        "foto": "brewtopia-tap-bar_bolinho-tal-e-coisa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/brewtopia-tap-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "buteco-do-bento",
+    "nome": "Buteco do Bento",
+    "endereco": "Rua 12",
+    "bairro": "Santos Dumont",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6509382,
+    "lng": -49.3465632,
+    "telefone": "62993276645",
+    "horarios": "Segunda-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h30 | Sábado: 11h – 0h30 | Domingo: 11h – 23h",
+    "fotos": [
+      "buteco-do-bento_boi-atolado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boi Atolado",
+        "descricao": "Costela cozida e finalizada na panela de ferro com molho de tomate com rúcula. Acompanhada de vinagrete, pãozinho francês e uma farofa de cebola da casa.",
+        "foto": "buteco-do-bento_boi-atolado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-bento/"
+  },
+  {
+    "id": 14,
+    "slug": "6046-revision-v1",
+    "nome": "Buteco do Zé Abílio",
+    "endereco": "Av. T 4, 1370",
+    "bairro": "Serrinha",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7247525,
+    "lng": -49.2670308,
+    "telefone": "62991276790",
+    "horarios": "Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 23h30",
+    "fotos": [
+      "buteco-do-ze-abilio_almondega-no-palito.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Almôndega no palito",
+        "descricao": "Espetinho de almôndega enrolada no bacon, acompanhado de couve e mandioca cozida.",
+        "foto": "buteco-do-ze-abilio_almondega-no-palito.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/6046-revision-v1/"
+  },
+  {
+    "id": 15,
+    "slug": "buteko-do-peixe",
+    "nome": "Buteko do Peixe",
+    "endereco": "Av. Araxá, 821",
+    "bairro": "Jardim Ana Lúcia",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6965041,
+    "lng": -49.3090203,
+    "telefone": "6232566953",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "buteko-do-peixe_bolinha-imperial.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinha Imperial",
+        "descricao": "Bolinho de blend de tilápia assada na brasa com cream cheese, servida com uma geleia artesanal de tomate, pimenta-dedo-de-moça e gengibre.",
+        "foto": "buteko-do-peixe_bolinha-imperial.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteko-do-peixe/"
+  },
+  {
+    "id": 16,
+    "slug": "calcadinha-espetos",
+    "nome": "Calçadinha Espetos",
+    "endereco": "R. C 181, 38",
+    "bairro": "Nova Suíça",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7217519,
+    "lng": -49.2736857,
+    "telefone": "62999036118",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "calcadinha-espetos_calcadinha-no-dangu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Calçadinha no Dangu",
+        "descricao": "Pastel de angu recheado com rabada e agrião, servido com geleia de agrião e pimenta-calabresa.",
+        "foto": "calcadinha-espetos_calcadinha-no-dangu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/calcadinha-espetos/"
+  },
+  {
+    "id": 17,
+    "slug": "caldos-imola",
+    "nome": "Caldos Imola",
+    "endereco": "R. São Jorge, 29",
+    "bairro": "Jardim Nova Era",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.746282,
+    "lng": -49.2790868,
+    "telefone": "62994592319",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 01h | Sábado: 17h – 01h",
+    "fotos": [
+      "caldos-imola_ruela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ruela",
+        "descricao": "Moela temperada com o toque picante da rúcula, servida dentro de um pão.",
+        "foto": "caldos-imola_ruela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/caldos-imola/"
+  },
+  {
+    "id": 18,
+    "slug": "casarao-do-pastel",
+    "nome": "Casarão do Pastel",
+    "endereco": "Rua C, 34",
+    "bairro": "Jardim América",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7059189,
+    "lng": -49.2878445,
+    "telefone": "62984020256",
+    "horarios": "Terça-feira: 19h – 1h30 | Quarta-feira: 19h – 1h30 | Quinta-feira: 19h – 1h30 | Sexta-feira: 19h – 1h30 | Sábado: 19h – 1h30 | Domingo: 19h – 1h30",
+    "fotos": [
+      "casarao-do-pastel_do-brasil-a-portugal.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Do Brasil a Portugal",
+        "descricao": "Flor de pastel recheada de costela temperada e de bacalhau com azeitona, acompanhada de vinagrete de acelga e com creme de milho.",
+        "foto": "casarao-do-pastel_do-brasil-a-portugal.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casarao-do-pastel/"
+  },
+  {
+    "id": 19,
+    "slug": "casebre-bar-e-restaurante",
+    "nome": "Casebre Bar e Restaurante",
+    "endereco": "R. 258, 19",
+    "bairro": "Vila Viana",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6600362,
+    "lng": -49.2412828,
+    "telefone": "6236366493",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "casebre-bar-e-restaurante_coxinha-do-pescador.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha do pescador",
+        "descricao": "Coxinha de pescado com salsão. Acompanhada de molho de limão.",
+        "foto": "casebre-bar-e-restaurante_coxinha-do-pescador.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casebre-bar-e-restaurante/"
+  },
+  {
+    "id": 20,
+    "slug": "3752-revision-v1",
+    "nome": "Churrasquinho do Dedé",
+    "endereco": "R. Dona Maria Joana, 171",
+    "bairro": "Setor Sul",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6811532,
+    "lng": -49.2505964,
+    "telefone": "62999532772",
+    "horarios": "Segunda-feira: 16h30 – 23h | Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h | Sexta-feira: 16h30 – 23h | Sábado: 12h – 22h",
+    "fotos": [
+      "churrasquinho-do-dede_lingua-no-rabo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Língua no rabo",
+        "descricao": "Língua e rabada ensopadas, servidas em cama de purê de batata.",
+        "foto": "churrasquinho-do-dede_lingua-no-rabo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3752-revision-v1/"
+  },
+  {
+    "id": 21,
+    "slug": "3760-revision-v1",
+    "nome": "Costela e Cia",
+    "endereco": "Av. C 208, 319",
+    "bairro": "Jardim América",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7060504,
+    "lng": -49.2855393,
+    "telefone": "6230928370",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h30",
+    "fotos": [
+      "costela-e-cia_escabeche-de-costela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escabeche de costela",
+        "descricao": "Costela desfiada temperada, acompanha pães de alho assado.",
+        "foto": "costela-e-cia_escabeche-de-costela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3760-revision-v1/"
+  },
+  {
+    "id": 22,
+    "slug": "custodio-gastrobar",
+    "nome": "Custodio Gastrobar",
+    "endereco": "Av. Serrinha, 436",
+    "bairro": "Setor Serrinha",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -17.7531671,
+    "lng": -48.6036657,
+    "telefone": "62994135075",
+    "horarios": "Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 10h – 0h",
+    "fotos": [
+      "custodio-gastrobar_sol-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sol do Sertão",
+        "descricao": "Carne de sol grelhada, servida sobre um purê de abóbora cabotiá com requeijão. Acompanhada de um refogado aromático de calabresa fina com cachaça nacional e chimichurri.",
+        "foto": "custodio-gastrobar_sol-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/custodio-gastrobar/"
+  },
+  {
+    "id": 23,
+    "slug": "delicias-do-milho",
+    "nome": "Delícias do Milho",
+    "endereco": "Avenida C, 104",
+    "bairro": "Jardim América",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7069968,
+    "lng": -49.2778101,
+    "telefone": "62985941952",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "delicias-do-milho_camamilho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camamilho",
+        "descricao": "Empada aberta de massa de milho com camarão e repolho. Acompanha molho agridoce.",
+        "foto": "delicias-do-milho_camamilho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/delicias-do-milho/"
+  },
+  {
+    "id": 24,
+    "slug": "5507-revision-v1",
+    "nome": "Dom Cirus",
+    "endereco": "R. 229, 128",
+    "bairro": "Setor Coimbra",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6789457,
+    "lng": -49.2814726,
+    "telefone": "62999625120",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 10h – 20h | Domingo: 10h – 20h",
+    "fotos": [
+      "dom-cirus_sabor-di-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabor di Buteco",
+        "descricao": "Kaftas no molho de tomate com manjericão com toque de lentilha e acelga, acompanhadas de pão especial.",
+        "foto": "dom-cirus_sabor-di-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/5507-revision-v1/"
+  },
+  {
+    "id": 25,
+    "slug": "dom-marco",
+    "nome": "Dom Marco",
+    "endereco": "Rua T 45, 88",
+    "bairro": "Setor Bueno",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6874067,
+    "lng": -49.2787501,
+    "telefone": "62998549611",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 10h – 0h",
+    "fotos": [
+      "dom-marco_passtel-mini-verdinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Passtel Mini Verdinho",
+        "descricao": "Pastel de carne-seca com brócolis na manteiga. Acompanhado de vinagrete de repolho roxo com tomate-cereja.",
+        "foto": "dom-marco_passtel-mini-verdinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dom-marco/"
+  },
+  {
+    "id": 26,
+    "slug": "espetim-miguelito",
+    "nome": "Espetim Miguelito",
+    "endereco": "Av. C 11, 460",
+    "bairro": "Setor Sudoeste",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7271382,
+    "lng": -52.317081,
+    "telefone": "6234322723",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "espetim-miguelito_fraldinha-pe-de-cana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fraldinha pé de cana",
+        "descricao": "Tiras de fraldinha temperada mergulhadas no purê de mandioca com cachaça. Acompanha mandioca frita e um refogado de repolho verde, roxo e couve.",
+        "foto": "espetim-miguelito_fraldinha-pe-de-cana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetim-miguelito/"
+  },
+  {
+    "id": 27,
+    "slug": "frango-rei",
+    "nome": "Frango Rei",
+    "endereco": "Av. Rio Verde, 0",
+    "bairro": "Vila Rosa",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7333806,
+    "lng": -49.2651024,
+    "telefone": "6234128607",
+    "horarios": "Segunda-feira: 11h – 14h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h | Domingo: 11h – 16h",
+    "fotos": [
+      "frango-rei_bacon-enamorado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bacon Enamorado",
+        "descricao": "Queijo coalho enrolado no bacon grelhado e servido com geleia de goiabada um pouco picante. Acompanha couve crispy temperada.",
+        "foto": "frango-rei_bacon-enamorado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/frango-rei/"
+  },
+  {
+    "id": 28,
+    "slug": "gercina-bar",
+    "nome": "Gercina Bar",
+    "endereco": "Rua 104, 239",
+    "bairro": "Setor Sul",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6890891,
+    "lng": -49.2568989,
+    "telefone": "62981422355",
+    "horarios": "Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 17h – 23h | Domingo: 11h30 – 16h",
+    "fotos": [
+      "gercina-bar_joia-do-araguaia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Joia do Araguaia",
+        "descricao": "Bolinho de caranha com alho-poró, emulsão de agrião. Acompanhado de picles de maxixe e acelga.",
+        "foto": "gercina-bar_joia-do-araguaia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gercina-bar/"
+  },
+  {
+    "id": 29,
+    "slug": "3778-revision-v1",
+    "nome": "Jajá Drinks",
+    "endereco": "Rua 74, 329",
+    "bairro": "Setor Central",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.670002,
+    "lng": -49.2617926,
+    "telefone": "62981536312",
+    "horarios": "Terça-feira: 10h – 23h | Quarta-feira: 10h – 23h | Quinta-feira: 10h – 23h | Sexta-feira: 10h – 23h | Sábado: 10h – 23h | Domingo: 10h – 21h",
+    "fotos": [
+      "jaja-drinks_tako-fake-do-jaja.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tako fake do Jajá",
+        "descricao": "Takos variados: de legumes e carne suína. Acompanhados de vinagrete temperado.",
+        "foto": "jaja-drinks_tako-fake-do-jaja.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3778-revision-v1/"
+  },
+  {
+    "id": 30,
+    "slug": "jantinha-do-bin-laden",
+    "nome": "Jantinha do Bin Laden",
+    "endereco": "Av. C-0233, 427",
+    "bairro": "Jardim América",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7210722,
+    "lng": -49.2867236,
+    "telefone": "62991277802",
+    "horarios": "Segunda-feira: 17h30 – 0h | Terça-feira: 17h30 – 0h | Quarta-feira: 17h30 – 0h | Quinta-feira: 17h30 – 0h | Sexta-feira: 17h30 – 0h | Sábado: 17h30 – 0h",
+    "fotos": [
+      "jantinha-do-bin-laden_almondega-raiz-picante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Almôndega Raiz Picante",
+        "descricao": "Almôndega de frango picante com guariroba ao molho de cebola. Acompanha: salada de repolhos com alho-poró e torradas.",
+        "foto": "jantinha-do-bin-laden_almondega-raiz-picante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jantinha-do-bin-laden/"
+  },
+  {
+    "id": 31,
+    "slug": "jantinha-do-elcimar",
+    "nome": "Jantinha do Elcimar",
+    "endereco": "Rua das Orquídeas Goiânia - GO",
+    "bairro": "",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6136005,
+    "lng": -49.248065,
+    "telefone": "(62) 99903-3774",
+    "horarios": "Segunda-feira: 18h – 22h30 | Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 22h30 | Quinta-feira: 18h – 22h30 | Sexta-feira: 18h – 22h30 | Sábado: 11h – 22h30",
+    "fotos": [
+      "jantinha-do-elcimar_tilapia-do-elcimar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tilápia do Elcimar",
+        "descricao": "Filé de tilápia empanado. Acompanhado de molho de picles com rúcula.\nEndereço: Rua C, 117 | Jardim América, Goiânia – GO",
+        "foto": "jantinha-do-elcimar_tilapia-do-elcimar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jantinha-do-elcimar/"
+  },
+  {
+    "id": 32,
+    "slug": "jantinha-do-fabinho",
+    "nome": "Jantinha do Fabinho",
+    "endereco": "Rua das Orquídeas",
+    "bairro": "Goiânia - GO",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6136005,
+    "lng": -49.248065,
+    "telefone": "62)992251852",
+    "horarios": "Segunda, das 17h à 0h | Terça, das 17h à 0h | Quarta, das 17h à 0h | Quinta, das 17h à 0h | Sexta, das 17h à 0h | Sábado, das 11h à 0h |",
+    "fotos": [
+      "jantinha-do-fabinho_linguica-atropelada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Linguica atropelada",
+        "descricao": "Mistura de linguiça suína temperada, com verduras e milho cozido.",
+        "foto": "jantinha-do-fabinho_linguica-atropelada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jantinha-do-fabinho/"
+  },
+  {
+    "id": 33,
+    "slug": "jantinha-do-lipao",
+    "nome": "Jantinha do Lipão",
+    "endereco": "R. Fernando de Noronha, 1",
+    "bairro": "Setor Urias Magalhães",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6348654,
+    "lng": -49.2699606,
+    "telefone": "62993415369",
+    "horarios": "Segunda-feira: 18h30 – 23h30 | Terça-feira: 18h30 – 23h30 | Quarta-feira: 18h30 – 23h30 | Quinta-feira: 18h30 – 23h30 | Sexta-feira: 18h30 – 0h | Sábado: 18h30 – 0h",
+    "fotos": [
+      "jantinha-do-lipao_torradinha-sertaneja.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Torradinha sertaneja",
+        "descricao": "Torradas com carne-seca temperada e cream cheese, servidas com salada fresca de alho-poró, cebola-roxa e cenoura. Acompanha um molho de creme de leite com maionese.",
+        "foto": "jantinha-do-lipao_torradinha-sertaneja.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jantinha-do-lipao/"
+  },
+  {
+    "id": 34,
+    "slug": "jantinha-entre-amigos",
+    "nome": "Jantinha Entre Amigos",
+    "endereco": "Rua Todos os Santos, 71",
+    "bairro": "Goiânia - GO",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6892667,
+    "lng": -49.3497851,
+    "telefone": "62982721132",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "jantinha-entre-amigos_mimos-de-costela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mimos de Costela",
+        "descricao": "Kafta de costela assada na brasa recheada com pasta de alho-poró e quatro queijos. Acompanhada de vinagrete, maionese verde, e geleia de abacaxi com pimenta.",
+        "foto": "jantinha-entre-amigos_mimos-de-costela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jantinha-entre-amigos/"
+  },
+  {
+    "id": 35,
+    "slug": "kl-grill-jantinha",
+    "nome": "KL Grill Jantinha",
+    "endereco": "Av. Barão do Rio Branco, 37",
+    "bairro": "Jardim Luz",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7485089,
+    "lng": -49.2782022,
+    "telefone": "62994079403",
+    "horarios": "Segunda-feira: 11h – 14h e 17h – 23h30 | Terça-feira: 11h – 14h e 17h – 23h30 | Quarta-feira: 11h – 14h e 17h – 23h30 | Quinta-feira: 11h – 14h e 17h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 23h30",
+    "fotos": [
+      "kl-grill-jantinha_barquinha-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Barquinha do Sertão",
+        "descricao": "Canapé em formato de barquinha recheada com carne de sol, cream cheese e alho-poró.",
+        "foto": "kl-grill-jantinha_barquinha-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kl-grill-jantinha/"
+  },
+  {
+    "id": 36,
+    "slug": "lado-leste-cervejaria",
+    "nome": "Lado Leste Cervejaria",
+    "endereco": "R. 240, 81",
+    "bairro": "Setor Leste Universitário",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6792098,
+    "lng": -49.2430919,
+    "telefone": "62994983443",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 11h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "lado-leste-cervejaria_as-roles-do-lado-leste-o-segredo-esta-no-brocolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "As Rolês do Lado Leste – O segredo está no Brócolis!",
+        "descricao": "Almôndegas feitas com couve e brócolis, recheadas com carnes variadas e queijo. Finalizadas com molho de tomate e uma generosa camada de queijo.",
+        "foto": "lado-leste-cervejaria_as-roles-do-lado-leste-o-segredo-esta-no-brocolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/lado-leste-cervejaria/"
+  },
+  {
+    "id": 37,
+    "slug": "3780-autosave-v1",
+    "nome": "Limas Bar",
+    "endereco": "R. Minas Gerais, 50",
+    "bairro": "Setor Urias Magalhães",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6345318,
+    "lng": -49.2699967,
+    "telefone": "62994094955",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 11h – 0h | Domingo: 11h – 0h",
+    "fotos": [
+      "limas-bar_parme-de-tilapia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Parme de tilápia",
+        "descricao": "Filé de tilápia empanados na farinha panko. Servido com molho de tomate e muçarela. Acompanha maionese de alho-poró.",
+        "foto": "limas-bar_parme-de-tilapia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3780-autosave-v1/"
+  },
+  {
+    "id": 38,
+    "slug": "magelinha-bar-e-cozinha",
+    "nome": "Magelinha Bar e Cozinha",
+    "endereco": "R. Monte Castelo, 106",
+    "bairro": "Jardim Planalto",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7114451,
+    "lng": -49.2998089,
+    "telefone": "62981665565",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 11h – 14h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h",
+    "fotos": [
+      "magelinha-bar-e-cozinha_pastelao-a-moda-magelinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastelão à Moda Magelinha",
+        "descricao": "Pastelão com carne defumada, acompanhado de salada de repolho com tomate e couve.",
+        "foto": "magelinha-bar-e-cozinha_pastelao-a-moda-magelinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/magelinha-bar-e-cozinha/"
+  },
+  {
+    "id": 39,
+    "slug": "marupiara-gastrobar",
+    "nome": "Marupiara Gastrobar",
+    "endereco": "Av. Boulevard Conde dos Arcos, 287",
+    "bairro": "Setor Goiânia 2",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.628745,
+    "lng": -49.2483024,
+    "telefone": "62981113033",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 11h – 0h | Domingo: 11h – 17h",
+    "fotos": [
+      "marupiara-gastrobar_tortilhas-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tortilhas de Buteco",
+        "descricao": "Tortilhas crocantes, recheadas com frango desfiado, queijos, acompanhadas com picles de jiló.",
+        "foto": "marupiara-gastrobar_tortilhas-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/marupiara-gastrobar/"
+  },
+  {
+    "id": 40,
+    "slug": "maua-gastrobar",
+    "nome": "Mauá Gastrobar",
+    "endereco": "Av. Dom Emanuel, 143",
+    "bairro": "Cidade Jardim",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6773008,
+    "lng": -49.3105885,
+    "telefone": "6231000024",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 12h – 23h | Sábado: 12h – 23h | Domingo: 12h – 23h",
+    "fotos": [
+      "maua-gastrobar_a-braba-no-brocolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A Braba no Brócolis",
+        "descricao": "Croquetas artesanais feitas com carne de cupim desfiada, temperada e misturada com alho-poró recheada com muçarela. Acompanha uma maionese de brócolis cru com limão.",
+        "foto": "maua-gastrobar_a-braba-no-brocolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/maua-gastrobar/"
+  },
+  {
+    "id": 41,
+    "slug": "miozin-du-goias",
+    "nome": "Miozin du Goiás",
+    "endereco": "Avenida São João, 166",
+    "bairro": "Vila Maria José",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7120768,
+    "lng": -49.2432824,
+    "telefone": "62981364158",
+    "horarios": "Segunda-feira: 10h – 14h30 e 17h30 – 0h | Terça-feira: 10h – 14h30 e 17h30 – 0h | Quarta-feira: 10h – 14h30 e 17h30 – 0h | Quinta-feira: 10h – 14h30 e 17h30 – 0h | Sexta-feira: 10h – 14h30 e 17h30 – 0h | Sábado: 9h – 0h",
+    "fotos": [
+      "miozin-du-goias_peixe-maravilha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Peixe Maravilha",
+        "descricao": "Bolinho de peixe com espinafre. Acompanha molho verde.",
+        "foto": "miozin-du-goias_peixe-maravilha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/miozin-du-goias/"
+  },
+  {
+    "id": 42,
+    "slug": "perimetral-bar",
+    "nome": "Perimetral Bar",
+    "endereco": "Av. Perimetral, 4340",
+    "bairro": "Setor Coimbra",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6826888,
+    "lng": -49.2889015,
+    "telefone": "62992130739",
+    "horarios": "Terça-feira: 14h – 23h | Quarta-feira: 14h – 23h | Quinta-feira: 14h – 23h | Sexta-feira: 10h – 0h | Sábado: 10h – 0h | Domingo: 10h – 22h",
+    "fotos": [
+      "perimetral-bar_sabor-da-roca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabor da Roça",
+        "descricao": "Costela assada na pressão, temperada, acompanhada de mandioca e cenoura. Finalizada com crispy de couve.",
+        "foto": "perimetral-bar_sabor-da-roca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/perimetral-bar/"
+  },
+  {
+    "id": 43,
+    "slug": "pescados-gastrobar",
+    "nome": "Pescados Gastrobar",
+    "endereco": "Av. Bela Vista, 16",
+    "bairro": "Parque Trindade",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7428073,
+    "lng": -49.215859,
+    "telefone": "62995099341",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 16h",
+    "fotos": [
+      "pescados-gastrobar_hotilapia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Hotilápia",
+        "descricao": "Enrolados de peixe branco empanados na farinha panko, recheados com cream cheese e espinafre, acompanhados de geleia de açaí do Pará.",
+        "foto": "pescados-gastrobar_hotilapia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pescados-gastrobar/"
+  },
+  {
+    "id": 44,
+    "slug": "primo-rico",
+    "nome": "Primo Rico",
+    "endereco": "Av. Goiás Norte, 2",
+    "bairro": "Residencial Humaitá",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6238394,
+    "lng": -49.2749002,
+    "telefone": "62992107160",
+    "horarios": "Segunda-feira: 16h – 01h30 | Terça-feira: 16h – 1h30 | Quarta-feira: 16h – 0h30 | Quinta-feira: 16h – 1h30 | Sexta-feira: 16h – 1h30 | Sábado: 16h – 1h30 | Domingo: 16h – 1h30",
+    "fotos": [
+      "primo-rico_rodadinha-do-primo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rodadinha do Primo",
+        "descricao": "Espetinhos variados de coração, moela, picanha, provolone, filé, frango com bacon, cupim, língua, kafta de frango e kafta de carne. Acompanhados de mandioca cozida e molho verde com agrião e alho-poró.",
+        "foto": "primo-rico_rodadinha-do-primo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/primo-rico/"
+  },
+  {
+    "id": 45,
+    "slug": "tata-gastrobar",
+    "nome": "Tata Gastrobar",
+    "endereco": "Alameda Vista Alegre, 10",
+    "bairro": "Jardim Petrópolis",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6691077,
+    "lng": -49.325984,
+    "telefone": "62984469519",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 16h",
+    "fotos": [
+      "tata-gastrobar_brocolis-e-o-segredo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brócolis é o Segredo",
+        "descricao": "Filé da coxa e sobrecoxa desossada, defumada, servida com farofa panko com alho-poró e cebola. Acompanha: creme de queijos dentro da miniabóbora com verduras e legumes.",
+        "foto": "tata-gastrobar_brocolis-e-o-segredo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tata-gastrobar/"
+  },
+  {
+    "id": 46,
+    "slug": "to-bar",
+    "nome": "Tô Bar",
+    "endereco": "Rua 20, 1078",
+    "bairro": "Setor Central",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6770231,
+    "lng": -49.2524109,
+    "telefone": "62992989117",
+    "horarios": "Quarta-feira: 17h30 – 23h30 | Quinta-feira: 17h30 – 23h30 | Sexta-feira: 17h30 – 23h30 | Sábado: 17h30 – 23h30 | Domingo: 17h30 – 23h30",
+    "fotos": [
+      "to-bar_rissole-de-rabada.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rissole de Rabada",
+        "descricao": "Rissole de rabada desfiada, empanada em farinha panko. Acompanha saladinha de agrião e chutney de manga.",
+        "foto": "to-bar_rissole-de-rabada.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/to-bar/"
+  },
+  {
+    "id": 47,
+    "slug": "toka-do-vei",
+    "nome": "Toka do Véi",
+    "endereco": "Av. Curussá, 1",
+    "bairro": "Jardim Helvécia",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.7541138,
+    "lng": -49.3148793,
+    "telefone": "62996960182",
+    "horarios": "Segunda-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 11h – 23h | Domingo: 11h – 23h",
+    "fotos": [
+      "toka-do-vei_pirarucu-na-toka.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pirarucu na Toka",
+        "descricao": "Pirarucu empanado com massa de espinafre e farinha panko. Acompanha geleia de cupuaçu com toque de pimenta-dedo-de-moça.",
+        "foto": "toka-do-vei_pirarucu-na-toka.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/toka-do-vei/"
+  },
+  {
+    "id": 48,
+    "slug": "tribos-do-espeto",
+    "nome": "Tribos do Espeto",
+    "endereco": "Av. Nova York, 1336",
+    "bairro": "Jardim Novo Mundo",
+    "cidade": "Goiás",
+    "cidade_slug": "goias",
+    "ano": "2026",
+    "lat": -16.6709744,
+    "lng": -49.2113032,
+    "telefone": "6232131315",
+    "horarios": "Domingo: 11h – 0h | Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "tribos-do-espeto_joelho-do-tatu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Joelho do Tatu",
+        "descricao": "Joelho de porco suculento, marinado em especiarias selecionadas e lentamente cozido com alecrim fresco, alho-poró e toques de açafrão. Acompanhado de pãezinhos.",
+        "foto": "tribos-do-espeto_joelho-do-tatu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tribos-do-espeto/"
+  }
+]

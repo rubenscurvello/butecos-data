@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "slug": "adegadega",
+    "nome": "Adegadega",
+    "endereco": "R. Juiz Aderbal de Oliveira, 209",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2127563237",
+    "horarios": "Segunda-feira: 17h – 22h | Terça-feira: 17h – 22h | Quarta-feira: 17h – 22h | Quinta-feira: 17h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h",
+    "fotos": [
+      "adegadega_perola-rosa-do-mar.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pérola Rosa do Mar",
+        "descricao": "Almôndega com molho de coentro com base de omelete de alface.",
+        "foto": "adegadega_perola-rosa-do-mar.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/adegadega/"
+  },
+  {
+    "id": 2,
+    "slug": "bar-cevina-lounge",
+    "nome": "Bar Cevina Lounge",
+    "endereco": "Rod. Washington Luiz, 2500",
+    "bairro": "Pq. Duque de Caxias",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21980999222",
+    "horarios": "Segunda-feira: 12h – 22h | Terça-feira: 12h – 22h | Quarta-feira: 12h – 22h | Quinta-feira: 12h – 22h | Sexta-feira: 12h – 23h | Sábado: 12h – 22h | Domingo: 12h – 20h",
+    "fotos": [
+      "bar-cevina-lounge_bau-da-felicidade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Baú da felicidade",
+        "descricao": "Três bolinhos recheados com costela desfiada, queijo muçarela, gorgonzola e alho-poró. Servido em forma de pérolas preciosas em cama crocante sabor bacon, em uma forma bem inusitada. Acompanhados de geleia de manga com pimenta, maionese artesanal de especiarias e ouro comestível.",
+        "foto": "bar-cevina-lounge_bau-da-felicidade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-cevina-lounge/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-do-diretor",
+    "nome": "Bar do Diretor",
+    "endereco": "R. Major Correia de Melo, 353",
+    "bairro": "Jardim Vinte e Cinco de Agosto",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21964271810",
+    "horarios": "Segunda-feira: 11h30 – 15h | Terça-feira: 11h30 – 15h | Quarta-feira: 11h30 – 15h | Quinta-feira: 11h30 – 22h | Sexta-feira: 11h30 – 22h | Sábado: 11h30 – 22h | Domingo: 11h30 – 15h",
+    "fotos": [
+      "bar-do-diretor_sanduiche-de-carne-louca-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sanduíche de carne louca crocante",
+        "descricao": "Um pão ciabatta recheado com carne louca (carne desfiada), aioli de ervas, queijo muçarela, alface-americana e cebola crocante, acompanhado de batata canoa.",
+        "foto": "bar-do-diretor_sanduiche-de-carne-louca-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-diretor/"
+  },
+  {
+    "id": 4,
+    "slug": "bar-parada-16",
+    "nome": "Bar Parada 16",
+    "endereco": "R. Deputado Sá Rego, 289",
+    "bairro": "Vila São Luís",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21982226000",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 13h – 23h30 | Domingo: 13h – 22h",
+    "fotos": [
+      "bar-parada-16_sabor-da-saudade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabor da Saudade",
+        "descricao": "Bolinho com carne bovina, com um toque de brócolis, ricota e ervas finas, finalizado com queijo meia cura e cream cheese. Acompanha geleia de maracujá levemente apimentada.",
+        "foto": "bar-parada-16_sabor-da-saudade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-parada-16/"
+  },
+  {
+    "id": 5,
+    "slug": "beer-soccer-club",
+    "nome": "Beer Soccer Club",
+    "endereco": "R. Passo da Pátria, 228 - Loja",
+    "bairro": "Jardim Vinte e Cinco de Agosto",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2126532196",
+    "horarios": "Segunda-feira: 11h30 – 22h | Terça-feira: 11h30 – 22h | Quarta-feira: 11h30 – 22h | Quinta-feira: 11h30 – 22h | Sexta-feira: 11h30 – 23h | Sábado: 11h30 – 23h | Domingo: 11h30 – 22h",
+    "fotos": [
+      "beer-soccer-club_hat-trick-de-camarao-na-cestinha-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Hat-trick de camarão na cestinha crocante",
+        "descricao": "Três cestinhas crocantes, recheadas com camarão cremoso e gratinado. Acompanhadas pelos molhos vermelho e amarelo.",
+        "foto": "beer-soccer-club_hat-trick-de-camarao-na-cestinha-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/beer-soccer-club/"
+  },
+  {
+    "id": 6,
+    "slug": "bela-gastrobar",
+    "nome": "Bela Gastrobar",
+    "endereco": "Av. Presidente Lincoln, 263",
+    "bairro": "Jardim Meriti",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21980326861",
+    "horarios": "Terça-feira: 11h – 15h e 18h – 23h | Quarta-feira: 11h – 15h e 18h – 23h | Quinta-feira: 11h – 15h e 18h – 23h | Sexta-feira: 11h – 15h e 18h – 23h | Sábado: 11h – 15h e 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "bela-gastrobar_bela-crocancia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bela Crocância",
+        "descricao": "Harumaki de camarão, cream cheese e repolho.",
+        "foto": "bela-gastrobar_bela-crocancia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bela-gastrobar/"
+  },
+  {
+    "id": 7,
+    "slug": "boteco-du-nada",
+    "nome": "Boteco Du nada",
+    "endereco": "Rua Caburi, 60",
+    "bairro": "Califórnia",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21969375254",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 0h",
+    "fotos": [
+      "boteco-du-nada_naquela-mesa-com-seu-joaquim.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Naquela mesa com seu Joaquim",
+        "descricao": "Barquetes com recheio de camarão e alho-poró.",
+        "foto": "boteco-du-nada_naquela-mesa-com-seu-joaquim.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-du-nada/"
+  },
+  {
+    "id": 8,
+    "slug": "calcadas-grill",
+    "nome": "Calçadas Grill",
+    "endereco": "R. Estudante Galdêncio Miguel, 530",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21970475903",
+    "horarios": "Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 23h | Sexta-feira: 11h – 23h | Sábado: 11h – 23h | Domingo: 11h – 17h | Segunda-feira: 11h – 23h",
+    "fotos": [
+      "calcadas-grill_pirulito-de-bacalhau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pirulito de Bacalhau",
+        "descricao": "Creme de bacalhau com alho-poró, frito na farinha panko em formato de pirulito.",
+        "foto": "calcadas-grill_pirulito-de-bacalhau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/calcadas-grill/"
+  },
+  {
+    "id": 9,
+    "slug": "camarao-da-lu",
+    "nome": "Camarão da Lu",
+    "endereco": "R. Alberto Teixeira da Cunha, 1046",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21968106125",
+    "horarios": "Quarta-feira: 18h – 1h | Quinta-feira: 18h – 1h | Sexta-feira: 18h – 1h | Sábado: 18h – 1h | Domingo: 12h – 0h",
+    "fotos": [
+      "camarao-da-lu_raizes-da-lu.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Raízes da Lu",
+        "descricao": "Coxinha com massa de abóbora com recheio de camarão, muçarela ralada, alho-poró, cebola, coentro picado e cream cheese.",
+        "foto": "camarao-da-lu_raizes-da-lu.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/camarao-da-lu/"
+  },
+  {
+    "id": 10,
+    "slug": "chopperia-do-baixinho",
+    "nome": "Chopperia do Baixinho",
+    "endereco": "Av. Automóvel Clube, 2697",
+    "bairro": "Vilar dos Teles",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21974268605",
+    "horarios": "Segunda-feira: 15h – 0h | Terça-feira: 15h – 0h | Quarta-feira: 15h – 0h | Quinta-feira: 15h – 0h | Sexta-feira: 15h – 0h | Sábado: 15h – 0h",
+    "fotos": [
+      "chopperia-do-baixinho_porconzola.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porconzola",
+        "descricao": "Bolinho de porco desfiado, combinado com bacon crocante e recheado com creme de gorgonzola e abacaxi caramelizado. Coberto com geleia de maracujá.",
+        "foto": "chopperia-do-baixinho_porconzola.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/chopperia-do-baixinho/"
+  },
+  {
+    "id": 11,
+    "slug": "5874-revision-v1",
+    "nome": "Edinho do Caranguejo",
+    "endereco": "R. Humberto de Campos, 143",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2127721319",
+    "horarios": "Segunda-feira: 12h – 23h | Terça-feira: 12h – 23h | Quarta-feira: 12h – 23h | Quinta-feira: 12h – 23h | Sexta-feira: 12h – 23h30 | Sábado: 12h – 23h30",
+    "fotos": [
+      "edinho-do-caranguejo_mare-alta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maré Alta",
+        "descricao": "Peixe e camarão, finalizado com uma crosta de queijo, acompanha um molho de espinafre.",
+        "foto": "edinho-do-caranguejo_mare-alta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/5874-revision-v1/"
+  },
+  {
+    "id": 12,
+    "slug": "kings-bar",
+    "nome": "King’s Bar",
+    "endereco": "R. Estudante Eliane Castanheira, 808",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21969420755",
+    "horarios": "Segunda-feira: 17h – 1h | Terça-feira: 17h – 1h | Quarta-feira: 17h – 1h | Quinta-feira: 17h – 1h | Sexta-feira: 17h – 1h | Sábado: 17h – 1h | Domingo: 17h – 1h |",
+    "fotos": [
+      "king-s-bar_tacomigo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "TaComigo",
+        "descricao": "Uma “dupla de dois” tacos de milho crocantes recheados com picanha suína desfiada e defumada com banana-da-terra grelhada, maionese de alecrim e finalização com crispy de couve e queijo muçarela. Servido com molho escuro e toque de limão.",
+        "foto": "king-s-bar_tacomigo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/kings-bar/"
+  },
+  {
+    "id": 13,
+    "slug": "massaretto-bar",
+    "nome": "Massaretto Bar",
+    "endereco": "Av. Carioca, 181 -",
+    "bairro": "Vila Rosali",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21973521928",
+    "horarios": "",
+    "fotos": [
+      "massaretto-bar_couve-que-te-quero-carne.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Couve que te quero Carne",
+        "descricao": "Massa de pastel crocante, couve refogada no azeite e alho, costela assada lentamente e desfiada. Acompanhado de molho agridoce de pimenta.",
+        "foto": "massaretto-bar_couve-que-te-quero-carne.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/massaretto-bar/"
+  },
+  {
+    "id": 14,
+    "slug": "nosso-canto",
+    "nome": "Nosso Canto",
+    "endereco": "R. Genuíno Siqueira, 1395 - Loja",
+    "bairro": "Jardim Meriti",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2127520955",
+    "horarios": "Terça-feira: 12h – 17h | Quarta-feira: 12h – 20h | Quinta-feira: 12h – 21h | Sexta-feira: 12h – 22h | Sábado: 11h – 22h | Domingo: 11h – 20h",
+    "fotos": [
+      "nosso-canto_pra-pedir-musica-no-fantastico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pra pedir música no fantástico",
+        "descricao": "Cestinha de costela e linguiça na brasa, recheada com creme de espinafre, com toque de gorgonzola e coberto por muçarela.",
+        "foto": "nosso-canto_pra-pedir-musica-no-fantastico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nosso-canto/"
+  },
+  {
+    "id": 15,
+    "slug": "panela-velha-gastronomia",
+    "nome": "Panela Velha Gastronomia",
+    "endereco": "Estr. Vereador Oscar Dias Oliveira, 210",
+    "bairro": "Vila São Sebastião",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21984278700",
+    "horarios": "Terça-feira: 18h – 0h30 | Quarta-feira: 18h – 0h30 | Quinta-feira: 18h – 0h30 | Sexta-feira: 18h – 0h30 | Sábado: 18h – 0h30 | Domingo: 18h – 0h30",
+    "fotos": [
+      "panela-velha-gastronomia_xerife.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Xerife",
+        "descricao": "Croquete de batata com espinafre e ervas, com cream cheese de camarão, cebolinha e alga nori, servido em formato de estrela de massa de pastel frita, finalizando por um camarão “pistola”.",
+        "foto": "panela-velha-gastronomia_xerife.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/panela-velha-gastronomia/"
+  },
+  {
+    "id": 16,
+    "slug": "pasta-da-nonna",
+    "nome": "Pasta da Nonna",
+    "endereco": "Avenida Brasil, 367",
+    "bairro": "Vila São Luís",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "2127710403",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h30 | Sábado: 13h – 23h30 | Domingo: 13h – 23h",
+    "fotos": [
+      "pasta-da-nonna_ninho-da-nonna.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ninho da Nonna",
+        "descricao": "Cestinha recheada com uma carne bovina desfiada, creme de queijo e azeite de rúcula com parmesão.",
+        "foto": "pasta-da-nonna_ninho-da-nonna.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pasta-da-nonna/"
+  },
+  {
+    "id": 17,
+    "slug": "taina-gourmet",
+    "nome": "Tainá Gourmet",
+    "endereco": "Av. Expedicionário José Amaro, 838",
+    "bairro": "Vila São Luís",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21981005236",
+    "horarios": "Segunda-feira: 11h30 – 23h | Terça-feira: 11h30 – 23h | Quarta-feira: 11h30 – 23h | Quinta-feira: 11h30 – 23h | Sexta-feira: 11h30 – 23h | Sábado: 11h30 – 23h | Domingo: 11h30 – 22h",
+    "fotos": [
+      "taina-gourmet_flor-de-boteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Flor de Boteco",
+        "descricao": "Flor de massa de pastel com costela desfiada e queijo derretido, com vinagrete e couve crispy.",
+        "foto": "taina-gourmet_flor-de-boteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/taina-gourmet/"
+  },
+  {
+    "id": 18,
+    "slug": "tiririkas-grill",
+    "nome": "Tiririkas Grill",
+    "endereco": "R. Dr. Manuel Reis, 910 - Pça. Osmar S. de Carvalho",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21970074626",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 0h | Sábado: 11h – 0h | Domingo: 11h – 17h",
+    "fotos": [
+      "tiririkas-grill_cupim-na-bengala-do-tiririkas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cupim na bengala do tiririkas",
+        "descricao": "Cupim no bafo em um sanduíche de pão bengala com pasta de alho e uma salada com alface-americana, tomate e cebola-roxa.",
+        "foto": "tiririkas-grill_cupim-na-bengala-do-tiririkas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tiririkas-grill/"
+  },
+  {
+    "id": 19,
+    "slug": "tsuba-izakaya",
+    "nome": "Tsuba Izakaya",
+    "endereco": "R. Joaquim Cardoso de Matos, 745",
+    "bairro": "Luz",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21980319863",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 22h",
+    "fotos": [
+      "tsuba-izakaya_guioza-bok-choy.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Guioza Bok Choy",
+        "descricao": "Guioza é um pastel chinês com carne suína, camarão, acelga chinesa (bok choy) e broto de alho (nirá)",
+        "foto": "tsuba-izakaya_guioza-bok-choy.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/tsuba-izakaya/"
+  },
+  {
+    "id": 20,
+    "slug": "villa-182-gastronomia",
+    "nome": "Villa 182 Gastronomia",
+    "endereco": "R. José Amaro",
+    "bairro": "Vila São Sebastião",
+    "cidade": "Rio de Janeiro - Baixada Fluminense",
+    "cidade_slug": "nova-iguacu-duque-de-caxias",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "21974574762",
+    "horarios": "Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h30 | Sábado: 13h – 23h30 | Domingo: 13h – 23h30",
+    "fotos": [
+      "villa-182-gastronomia_porco-loko.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porco Loko",
+        "descricao": "Crocante de porco desfiado com abacaxi caramelizado, cream cheese, pimenta-do-reino e rúcula. Acompanhamento: maionese defumada de alho.",
+        "foto": "villa-182-gastronomia_porco-loko.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/villa-182-gastronomia/"
+  }
+]

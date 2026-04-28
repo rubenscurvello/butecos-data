@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "slug": "350-lanches",
+    "nome": "350 Lanches",
+    "endereco": "R. Albano Schmidt, 1061",
+    "bairro": "Boa Vista",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3069235,
+    "lng": -48.826462,
+    "telefone": "4799019151",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h",
+    "fotos": [
+      "350-lanches_crispy-real.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crispy Real",
+        "descricao": "Filé de peito de frango empanado na farinha panko e alho-poró. Acompanha molho de maionese da casa e molho de maionese com mostarda e tay sweet chilli.",
+        "foto": "350-lanches_crispy-real.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/350-lanches/"
+  },
+  {
+    "id": 2,
+    "slug": "alho-e-menta-e-acaideira",
+    "nome": "Alho e Menta e Açaideira",
+    "endereco": "Rua Mário César Machado dos Santos, 358",
+    "bairro": "Fátima",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3315526,
+    "lng": -48.8177865,
+    "telefone": "47999538981",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "alho-e-menta-e-acaideira_maria-mineira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Maria Mineira",
+        "descricao": "Bolinhos de feijoada recheados com bacon, servidos com torresmos à pururuca e costelinha suína ao molho barbecue. Acompanham creme de alho e molho barbecue.",
+        "foto": "alho-e-menta-e-acaideira_maria-mineira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/alho-e-menta-e-acaideira/"
+  },
+  {
+    "id": 3,
+    "slug": "bar-do-adolfo",
+    "nome": "Bar do Adolfo",
+    "endereco": "R. Alagoas, 303",
+    "bairro": "Anita Garibaldi",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.316979,
+    "lng": -48.8533534,
+    "telefone": "4734330175",
+    "horarios": "Segunda-feira: 16h – 0h | Terça-feira: 16h – 0h | Quarta-feira: 16h – 0h | Quinta-feira: 16h – 0h | Sexta-feira: 16h – 0h | Sábado: 10h – 15h",
+    "fotos": [
+      "bar-do-adolfo_chapeado-do-adolfo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Chapeado do Adolfo",
+        "descricao": "Chapeado de carne, verdura, legumes e molho shoyu, acompanhado de fatias de pão francês com queijo gratinado.",
+        "foto": "bar-do-adolfo_chapeado-do-adolfo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-adolfo/"
+  },
+  {
+    "id": 4,
+    "slug": "boteco-do-jota",
+    "nome": "Boteco do Jota",
+    "endereco": "Rua Xanxerê, 667",
+    "bairro": "Saguaçu",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2733998,
+    "lng": -48.8400768,
+    "telefone": "47996080089",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 11h – 22h | Domingo: 11h – 20h",
+    "fotos": [
+      "boteco-do-jota_boi-no-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Boi no Poró",
+        "descricao": "Pastel de costela bovina com alho-poró. Acompanha molho vinagrete.",
+        "foto": "boteco-do-jota_boi-no-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-jota/"
+  },
+  {
+    "id": 5,
+    "slug": "casa-amarela-2",
+    "nome": "Casa Amarela",
+    "endereco": "R. Dona Francisca, 773",
+    "bairro": "Saguaçu",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2951063,
+    "lng": -48.8419772,
+    "telefone": "4732711377",
+    "horarios": "Segunda-feira: 11h – 23h | Terça-feira: 11h – 23h | Quarta-feira: 11h – 23h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "casa-amarela_camarao-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Camarão Crocante",
+        "descricao": "Camarões brancos temperados e envoltos no tempurá e panko, acompanhados de batatas rústicas da casa e molhos.",
+        "foto": "casa-amarela_camarao-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-amarela-2/"
+  },
+  {
+    "id": 6,
+    "slug": "dovah-lanches-e-shawarmas",
+    "nome": "Dovah Lanches e Shawarmas",
+    "endereco": "R. Graciosa, 935",
+    "bairro": "Guanabara",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3196602,
+    "lng": -48.8314284,
+    "telefone": "47999772078",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30 | Domingo: 18h – 23h30",
+    "fotos": [
+      "dovah-lanches-e-shawarmas_lanchinhos-da-nick.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Lanchinhos da Nick",
+        "descricao": "Minishawarma de frango e costela, acompanhado de molho caseiro e creme de alho.",
+        "foto": "dovah-lanches-e-shawarmas_lanchinhos-da-nick.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/dovah-lanches-e-shawarmas/"
+  },
+  {
+    "id": 7,
+    "slug": "empadas-jerke",
+    "nome": "Empadas Jerke",
+    "endereco": "R. Doutor João Colin, 393",
+    "bairro": "Centro",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2978087,
+    "lng": -48.8480179,
+    "telefone": "4734223739",
+    "horarios": "Segunda-feira: 07h30 – 21h | Terça-feira: 7h30 – 21h | Quarta-feira: 7h30 – 21h | Quinta-feira: 7h30 – 21h | Sexta-feira: 7h30 – 21h | Sábado: 7h30 – 19h",
+    "fotos": [
+      "empadas-jerke_camaraomelete.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "CamarãOmelete",
+        "descricao": "Omelete de camarão com alho-poró  e manjericão. Acompanha geleia de pimenta sweet chilli e torradas.",
+        "foto": "empadas-jerke_camaraomelete.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/empadas-jerke/"
+  },
+  {
+    "id": 8,
+    "slug": "espaco-sabor-2",
+    "nome": "Espaço Sabor",
+    "endereco": "R. Ricardo Stamm Gomes, 27 - Pça. Hercílio Luz",
+    "bairro": "Bucarein",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3059915,
+    "lng": -48.8402092,
+    "telefone": "4730282260",
+    "horarios": "Segunda-feira: 10h – 15h | Terça-feira: 10h – 19h30 | Quarta-feira: 10h – 19h30 | Quinta-feira: 10h – 19h30 | Sexta-feira: 10h – 19h30 | Sábado: 10h – 19h30",
+    "fotos": [
+      "espaco-sabor_ambulante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ambulante",
+        "descricao": "Cubos de alcatra mesclados com queijo, servidos em minipães franceses, com brotos de trevo.",
+        "foto": "espaco-sabor_ambulante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espaco-sabor-2/"
+  },
+  {
+    "id": 9,
+    "slug": "holy-meat",
+    "nome": "Holy Meat",
+    "endereco": "Rua Tijucas, 386",
+    "bairro": "Centro",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.296533,
+    "lng": -48.8437787,
+    "telefone": "4732026163",
+    "horarios": "Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 22h30 | Quinta-feira: 18h – 22h30 | Sexta-feira: 18h – 22h30 | Sábado: 18h – 22h30 | Domingo: 11h – 14h",
+    "fotos": [
+      "holy-meat_dadinhos-de-tapioca-e-brocolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Dadinhos de Tapioca e Brócolis",
+        "descricao": "Dadinhos de tapioca com brócolis, linguiça Blumenau e queijo coalho. Com aioli de alho confitado, geleia de laranja com pimenta e crispy de alho-poró.",
+        "foto": "holy-meat_dadinhos-de-tapioca-e-brocolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/holy-meat/"
+  },
+  {
+    "id": 10,
+    "slug": "joe-tekila",
+    "nome": "Joe Tekila",
+    "endereco": "R. Santa Catarina, 2349",
+    "bairro": "Floresta",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3463918,
+    "lng": -48.8470697,
+    "telefone": "47999488449",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h",
+    "fotos": [
+      "joe-tekila_sabor-escondido.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabor Escondido",
+        "descricao": "Petisco de boteco, escondidinho verde de camarão com alho-poró.",
+        "foto": "joe-tekila_sabor-escondido.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/joe-tekila/"
+  },
+  {
+    "id": 11,
+    "slug": "mais-mais-lanches",
+    "nome": "Mais Mais lanches",
+    "endereco": "R. Engenheiro Niemeyer, 25",
+    "bairro": "Centro",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3029294,
+    "lng": -48.8463113,
+    "telefone": "4734233696",
+    "horarios": "Segunda-feira: 7h – 19h | Terça-feira: 7h – 19h | Quarta-feira: 7h – 19h | Quinta-feira: 7h – 19h | Sexta-feira: 7h – 19h | Sábado: 7h – 16h",
+    "fotos": [
+      "mais-mais-lanches_bolinhos-da-dona-maria.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinhos da Dona Maria",
+        "descricao": "Bolinhos de carne com molho de mostarda escura.",
+        "foto": "mais-mais-lanches_bolinhos-da-dona-maria.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mais-mais-lanches/"
+  },
+  {
+    "id": 12,
+    "slug": "mr-lupulo",
+    "nome": "Mr. Lúpulo",
+    "endereco": "R. Pres. Prudente de Moraes, 1097",
+    "bairro": "Santo Antônio",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "(47) 3804-1097 | (47) 98800-8125",
+    "horarios": "Terça-feira: 16h – 23h | Quarta-feira: 16h – 23h | Quinta-feira: 16h – 23h | Sexta-feira: 16h – 23h | Sábado: 12h – 22h",
+    "fotos": [
+      "mr-lupulo_roca-para-a-cidade.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Roça para a cidade",
+        "descricao": "Discos de milho verde, recheados com queijo gorgonzola, torresmo e alho-poró, e três discos de banana-da-terra, recheados com carne-seca cremosa e crocante de alho-poró.",
+        "foto": "mr-lupulo_roca-para-a-cidade.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mr-lupulo/"
+  },
+  {
+    "id": 13,
+    "slug": "petisqueira-caxias",
+    "nome": "Petisqueira Caxias",
+    "endereco": "Rua Max Colin, 2535",
+    "bairro": "América",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2950851,
+    "lng": -48.8440559,
+    "telefone": "(47) 3453 0167 | (47) 99964-6057",
+    "horarios": "Segunda-feira: 17h30 – 23h | Terça-feira: 17h30 – 23h | Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 23h | Sábado: 17h30 – 23h",
+    "fotos": [
+      "petisqueira-caxias_crab-cheese.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crab Cheese",
+        "descricao": "Coxinha de carne de siri com molho de maionese de alface, molho de ketchup e molho de pimenta agridoce.",
+        "foto": "petisqueira-caxias_crab-cheese.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/petisqueira-caxias/"
+  },
+  {
+    "id": 14,
+    "slug": "petisqueira-do-binho",
+    "nome": "Petisqueira do Binho",
+    "endereco": "R. Antônio Augusto do Livramento, 47",
+    "bairro": "Espinheiros",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2905231,
+    "lng": -48.7745994,
+    "telefone": "47 3227-6076",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 23h30 | Domingo: 11h – 15h",
+    "fotos": [
+      "petisqueira-do-binho_peixe-fiorentina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Peixe Fiorentina",
+        "descricao": "Filé de peixe delicadamente recheado com espinafre, alho-poró, bacon e ricota fresca, empanado na panko para uma textura única e crocante.",
+        "foto": "petisqueira-do-binho_peixe-fiorentina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/petisqueira-do-binho/"
+  },
+  {
+    "id": 15,
+    "slug": "san-julian-brew-pub",
+    "nome": "San Julian Brew Pub",
+    "endereco": "Rua São Juliano, 14",
+    "bairro": "Anita Garibaldi",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3251052,
+    "lng": -48.8609006,
+    "telefone": "47997151511",
+    "horarios": "Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "san-julian-brew-pub_peixe-a-sopp.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Peixe à Sopp",
+        "descricao": "Filé de linguado recheado com presunto, queijo, palmito e repolho roxo, empanado no sucrilhos e farinha panko. Acompanha fritas e molho tártaro.",
+        "foto": "san-julian-brew-pub_peixe-a-sopp.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/san-julian-brew-pub/"
+  },
+  {
+    "id": 16,
+    "slug": "skina-samuca-bar-e-restaurante",
+    "nome": "Skina Samuca Bar e Restaurante",
+    "endereco": "Rua Santa Catarina, 1033",
+    "bairro": "Floresta",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3319436,
+    "lng": -48.8468237,
+    "telefone": "47991782090",
+    "horarios": "Segunda-feira: 06h30 – 20h | Terça-feira: 6h30 – 20h | Quarta-feira: 6h30 – 20h | Quinta-feira: 6h30 – 20h | Sexta-feira: 6h30 – 20h | Sábado: 6h30 – 14h",
+    "fotos": [
+      "skina-samuca-bar-e-restaurante_pao-com-bolinho-do-samuca.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pão com Bolinho do Samuca",
+        "descricao": "Dois pães com bolinho de carne e salada de tomate, alface e molho cremoso de maionese.",
+        "foto": "skina-samuca-bar-e-restaurante_pao-com-bolinho-do-samuca.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/skina-samuca-bar-e-restaurante/"
+  },
+  {
+    "id": 17,
+    "slug": "soparia-temperos-do-norte",
+    "nome": "Soparia Temperos do Norte",
+    "endereco": "Rua Senador Rodrigo Lobo, 609",
+    "bairro": "Iririú",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.2663708,
+    "lng": -48.8174852,
+    "telefone": "47988915846",
+    "horarios": "Terça-feira: 18h30 – 22h | Quarta-feira: 18h30 – 22h | Quinta-feira: 18h30 – 22h | Sexta-feira: 18h30 – 22h | Sábado: 18h30 – 22h",
+    "fotos": [
+      "soparia-temperos-do-norte_o-gigante-dos-dois-rios.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O gigante dos dois Rios",
+        "descricao": "Bolinhos de pirarucu, servidos com dois molhos que representam o Encontro das Águas: uma geleia de cupuaçu com toque de pimenta e um molho picante artesanal.",
+        "foto": "soparia-temperos-do-norte_o-gigante-dos-dois-rios.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/soparia-temperos-do-norte/"
+  },
+  {
+    "id": 18,
+    "slug": "sul-bar",
+    "nome": "Sul Bar",
+    "endereco": "R. Santa Catarina, 908",
+    "bairro": "Floresta",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3463918,
+    "lng": -48.8470697,
+    "telefone": "4796868111",
+    "horarios": "",
+    "fotos": [
+      "sul-bar_louca-e-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Louca e Crocante",
+        "descricao": "Carne desfiada servida sobre torradinhas, finalizada com salada de brotos, repolho roxo e vinagrete da casa.",
+        "foto": "sul-bar_louca-e-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/sul-bar/"
+  },
+  {
+    "id": 19,
+    "slug": "x-picanha",
+    "nome": "X-Picanha",
+    "endereco": "Rua Fátima, 545 -",
+    "bairro": "Itaum",
+    "cidade": "Joinville",
+    "cidade_slug": "joinville",
+    "ano": "2026",
+    "lat": -26.3350206,
+    "lng": -48.8170414,
+    "telefone": "4734663245",
+    "horarios": "Segunda-feira: 11h30 – 0h | Terça-feira: 11h30 – 0h | Quarta-feira: 11h30 – 0h | Quinta-feira: 11h30 – 0h | Sexta-feira: 11h30 – 0h | Sábado: 11h30 – 0h",
+    "fotos": [
+      "x-picanha_top-calabrese.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Top Calabrese",
+        "descricao": "Calabresa acebolada. Acompanha picles, farofa e pão com molho da casa.",
+        "foto": "x-picanha_top-calabrese.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/x-picanha/"
+  }
+]

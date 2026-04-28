@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "slug": "anita-restaurante-e-petiscaria",
+    "nome": "Anita Restaurante e Petiscaria",
+    "endereco": "R. Anita Garibaldi, 4596",
+    "bairro": "Barreirinha",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3756914,
+    "lng": -49.2627748,
+    "telefone": "4133540069",
+    "horarios": "Terça-feira: 12h – 13h30 | Terça-feira: 18h30 – 23h | Quarta-feira: 12h – 13h30 e 18h30 – 23h | Quinta-feira: 12h – 13h30 e 18h30 – 23h | Sexta-feira: 12h – 13h30 e 18h30 – 23h | Sábado: 18h30 – 23h",
+    "fotos": [
+      "anita-restaurante-e-petiscaria_fuzileti-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Fuzileti de Buteco",
+        "descricao": "Alcatra angus suculenta em cubos feitos à milanesa, ao molho bechamel com alho-poró e quatro queijos, finalizada com queijo gratinado, servida em um cesto de massa crocante comestível. Acompanha pesto de rúcula e torradas temperadas.",
+        "foto": "anita-restaurante-e-petiscaria_fuzileti-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/anita-restaurante-e-petiscaria/"
+  },
+  {
+    "id": 2,
+    "slug": "armazem-california",
+    "nome": "Armazém Califórnia",
+    "endereco": "Rua Saldanha Marinho, 68",
+    "bairro": "Centro",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4290164,
+    "lng": -49.2725571,
+    "telefone": "4132245629",
+    "horarios": "Segunda-feira: 12h – 18h | Terça-feira: 12h – 18h | Quarta-feira: 12h – 18h | Quinta-feira: 12h – 18h | Sexta-feira: 12h – 18h | Sábado: 12h – 16h",
+    "fotos": [
+      "armazem-california_sabores-do-libano.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sabores do Líbano",
+        "descricao": "Croquete de kafta, charutinho de folha de parreira, pasta de babaganush e tabule, acompanha pimenta à moda da casa à base de tahine e pão árabe.",
+        "foto": "armazem-california_sabores-do-libano.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-california/"
+  },
+  {
+    "id": 3,
+    "slug": "armazem-do-espetinho",
+    "nome": "Armazém do Espetinho",
+    "endereco": "Rua Barão de Santo Ângelo, 1507",
+    "bairro": "Xaxim",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.5154986,
+    "lng": -49.2724203,
+    "telefone": "41999280267",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "armazem-do-espetinho_queijinho-intrometido-e-acompanhado.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Queijinho intrometido e acompanhado",
+        "descricao": "Espetinho de carne, assado na brasa, desconstruído, coberto com molho de tomate rústico e queijo, acompanhado de couve-flor empanada.",
+        "foto": "armazem-do-espetinho_queijinho-intrometido-e-acompanhado.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/armazem-do-espetinho/"
+  },
+  {
+    "id": 4,
+    "slug": "4745-revision-v1",
+    "nome": "Baba Salim",
+    "endereco": "Rua Amintas de Barros, 45",
+    "bairro": "Centro",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4277415,
+    "lng": -49.2653985,
+    "telefone": "4132227672",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "baba-salim_magdoussa-salim.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Magdoussa Salim",
+        "descricao": "Berinjela com carne à moda árabe, acompanha pão sírio.",
+        "foto": "baba-salim_magdoussa-salim.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4745-revision-v1/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-do-claudio",
+    "nome": "Bar do Cláudio",
+    "endereco": "Rua Niterói, 265",
+    "bairro": "Cajuru",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4630711,
+    "lng": -49.2147878,
+    "telefone": "(41) 3365-8464 | (41) 99162-2318",
+    "horarios": "Segunda-feira: 11h – 22h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 22h",
+    "fotos": [
+      "bar-do-claudio_supply.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Supply",
+        "descricao": "Bolinho de arroz e brócolis, recheado com costela. Acompanha molho de pimenta e creme de alho.",
+        "foto": "bar-do-claudio_supply.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-claudio/"
+  },
+  {
+    "id": 6,
+    "slug": "4742-revision-v1",
+    "nome": "Bar do Edmundo",
+    "endereco": "Av. Prefeito Erasto Gaertner, 1764",
+    "bairro": "Bacacheri",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3959746,
+    "lng": -49.2314011,
+    "telefone": "4132572407",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "bar-do-edmundo_pastel-de-bacalhau.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel de bacalhau",
+        "descricao": "Pastel com recheio de bacalhoada desconstruída, acompanha pesto de azeitona.",
+        "foto": "bar-do-edmundo_pastel-de-bacalhau.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4742-revision-v1/"
+  },
+  {
+    "id": 7,
+    "slug": "3734-revision-v1",
+    "nome": "Bar do Gaúcho",
+    "endereco": "Rua Oliveira Viana, 513",
+    "bairro": "Hauer",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4794788,
+    "lng": -49.2564207,
+    "telefone": "41999963676",
+    "horarios": "Terça-feira: 16h30 – 1h | Quarta-feira: 16h30 – 1h | Quinta-feira: 16h30 – 1h | Sexta-feira: 16h30 – 1h | Sábado: 16h30 – 1h",
+    "fotos": [
+      "bar-do-gaucho_pao-com-bolinho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pão com bolinho",
+        "descricao": "Bolinho de carne, pão d’água, alface, tomate, queijo muçarela e maionese caseira, acompanha uma porção de torresmo.",
+        "foto": "bar-do-gaucho_pao-com-bolinho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3734-revision-v1/"
+  },
+  {
+    "id": 8,
+    "slug": "bar-do-gildo",
+    "nome": "Bar do Gildo",
+    "endereco": "Rua José Merhy, 745",
+    "bairro": "Boa Vista",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.394567,
+    "lng": -49.2444826,
+    "telefone": "4130397908",
+    "horarios": "Segunda-feira: 16h – 22h30 | Terça-feira: 16h – 22h30 | Quarta-feira: 16h – 22h30 | Quinta-feira: 16h – 22h30 | Sexta-feira: 16h – 22h30",
+    "fotos": [
+      "bar-do-gildo_alcatra-da-casa-com-verduras-do-campo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Alcatra da casa com verduras do campo",
+        "descricao": "Coração de alcatra ao molho madeira com couve-flor branqueada, broto de bambu e alho-poró salteado com folhas frescas de rúcula e alface. Acompanha molho rosê da casa e uma unidade de pão francês fatiado.",
+        "foto": "bar-do-gildo_alcatra-da-casa-com-verduras-do-campo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-gildo/"
+  },
+  {
+    "id": 9,
+    "slug": "bar-do-montejorge",
+    "nome": "Bar do Montejorge",
+    "endereco": "R. Professor Dario Velloso, 581",
+    "bairro": "Vila Izabel",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4589415,
+    "lng": -49.2951001,
+    "telefone": "41991420505",
+    "horarios": "Terça-feira: 16h – 22h15 | Quarta-feira: 16h – 22h15 | Quinta-feira: 16h – 22h15 | Sexta-feira: 16h – 22h15 | Sábado: 11h – 21h15 | Domingo: 11h – 15h15",
+    "fotos": [
+      "bar-do-montejorge_canopolis.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Canópolis",
+        "descricao": "Canudinho crocante com brócolis, creme de mandioca e linguiça Blumenau.",
+        "foto": "bar-do-montejorge_canopolis.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-montejorge/"
+  },
+  {
+    "id": 10,
+    "slug": "bar-do-morango",
+    "nome": "Bar do Morango",
+    "endereco": "Rua David Geronasso, 567",
+    "bairro": "Boa Vista",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3921147,
+    "lng": -49.2516914,
+    "telefone": "(41) 98444-4520 | (41) 99135-0012",
+    "horarios": "Terça-feira: 15h – 22h | Quarta-feira: 15h – 22h | Quinta-feira: 15h – 22h | Sexta-feira: 15h – 22h | Sábado: 11h – 22h | Domingo: 11h – 17h",
+    "fotos": [
+      "bar-do-morango_bolinho-de-frango-do-morango.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de frango do Morango",
+        "descricao": "Bolinho de frango com massa de batata e brócolis, recheado com catupiry empanado e frito. Acompanha bruschetta com caponata de berinjela.",
+        "foto": "bar-do-morango_bolinho-de-frango-do-morango.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-morango/"
+  },
+  {
+    "id": 11,
+    "slug": "bar-quintal-maria-flor",
+    "nome": "Bar Quintal Maria Flor",
+    "endereco": "Rua Holanda, 1089",
+    "bairro": "Boa Vista",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.39619,
+    "lng": -49.2502056,
+    "telefone": "41996952568",
+    "horarios": "Quarta-feira: 17h30 – 23h | Quinta-feira: 17h30 – 23h | Sexta-feira: 17h30 – 0h | Sábado: 12h – 0h | Domingo: 17h30 – 23h",
+    "fotos": [
+      "bar-quintal-maria-flor_encanto-magia-e-euforia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Encanto, magia e euforia",
+        "descricao": "Ragu de carne bovina com bacon ao molho, polenta cremosa com queijo. Acompanha uma saladinha de rúcula, agrião e lascas de parmesão e, para finalizar, um doce de abóbora em calda.",
+        "foto": "bar-quintal-maria-flor_encanto-magia-e-euforia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-quintal-maria-flor/"
+  },
+  {
+    "id": 12,
+    "slug": "basset-lanches",
+    "nome": "Basset Lanches",
+    "endereco": "Rua Marechal Hermes, 1024",
+    "bairro": "Centro Cívico",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4096634,
+    "lng": -49.2658042,
+    "telefone": "4131540761",
+    "horarios": "Domingo: 15h – 23h | Segunda-feira: 15h – 23h | Terça-feira: 15h – 23h | Quarta-feira: 15h – 23h | Quinta-feira: 15h – 23h | Sexta-feira: 15h – 23h | Sábado: 15h – 23h",
+    "fotos": [
+      "basset-lanches_escabasset.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Escabasset",
+        "descricao": "Finas fatias de carne bovina flambadas, com verduras e legumes refogados, marinados em azeite de oliva e vinagre branco, acompanhadas de pão francês.",
+        "foto": "basset-lanches_escabasset.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/basset-lanches/"
+  },
+  {
+    "id": 13,
+    "slug": "bendito-boteco-da-galera",
+    "nome": "Bendito Boteco da Galera",
+    "endereco": "Rua Itajubá, 618",
+    "bairro": "Portão",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4807543,
+    "lng": -49.2987165,
+    "telefone": "41999742128",
+    "horarios": "Segunda-feira: 17h – 22h30 | Terça-feira: 17h – 22h30 | Quarta-feira: 17h – 22h30 | Quinta-feira: 17h – 22h30 | Sexta-feira: 17h – 22h30",
+    "fotos": [
+      "bendito-boteco-da-galera_mini-kaftas.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mini Kaftas",
+        "descricao": "Minikaftas artesanais servidas com espinafre cozido no ponto certo, acompanhadas de dois molhos da casa: maionese verde artesanal e um molho de pimenta especial.",
+        "foto": "bendito-boteco-da-galera_mini-kaftas.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bendito-boteco-da-galera/"
+  },
+  {
+    "id": 14,
+    "slug": "boteco-da-ordem",
+    "nome": "Boteco da Ordem",
+    "endereco": "Avenida Jaime Reis, 12",
+    "bairro": "São Francisco",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4272727,
+    "lng": -49.2740282,
+    "telefone": "4130498418",
+    "horarios": "Domingo: 10h – 23h | Segunda-feira: 17h – 23h30 | Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 0h30 | Sábado: 12h – 0h30",
+    "fotos": [
+      "boteco-da-ordem_espetinho-de-torresmo-no-pao-frances.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetinho de torresmo no pão francês",
+        "descricao": "Espetinho de torresmo no pão francês, acompanha maionese e alface-americana.",
+        "foto": "boteco-da-ordem_espetinho-de-torresmo-no-pao-frances.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-da-ordem/"
+  },
+  {
+    "id": 15,
+    "slug": "boteco-do-batel",
+    "nome": "Boteco do Batel",
+    "endereco": "Rua Alferes Ângelo Sampaio, 1671",
+    "bairro": "Batel",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.439308,
+    "lng": -49.2856038,
+    "telefone": "41999912602",
+    "horarios": "Terça-feira: 16h – 22h | Quarta-feira: 16h – 22h | Quinta-feira: 16h – 22h | Sexta-feira: 16h – 22h | Sábado: 12h – 22h",
+    "fotos": [
+      "boteco-do-batel_rabo-de-boteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Rabo de Boteco",
+        "descricao": "Dadinho de rabada com agrião e queijo provolone. Acompanha molho de mel e mostarda e guacamole.",
+        "foto": "boteco-do-batel_rabo-de-boteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-batel/"
+  },
+  {
+    "id": 16,
+    "slug": "boteco-do-careca",
+    "nome": "Boteco do Careca",
+    "endereco": "R. Dr. Alfredo Vieira Barcelos, 285",
+    "bairro": "Uberaba",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4716168,
+    "lng": -49.2319885,
+    "telefone": "41999963339",
+    "horarios": "Terça-feira: 16h – 23h30 | Quarta-feira: 16h – 23h30 | Quinta-feira: 16h – 23h30 | Sexta-feira: 16h – 23h30 | Sábado: 11h – 23h30",
+    "fotos": [
+      "boteco-do-careca_ribs-potato.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Ribs Potato",
+        "descricao": "Batata inglesa dourada com ragu de costela, creme de queijo e crispy de couve temperado.",
+        "foto": "boteco-do-careca_ribs-potato.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-careca/"
+  },
+  {
+    "id": 17,
+    "slug": "boteco-do-peroba",
+    "nome": "Boteco do Peroba",
+    "endereco": "Avenida Manoel Ribas, 7412",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3983686,
+    "lng": -49.3410577,
+    "telefone": "41988852847",
+    "horarios": "Terça-feira: 16h30 – 23h | Quarta-feira: 16h30 – 23h | Quinta-feira: 16h30 – 23h30 | Sexta-feira: 16h30 – 23h | Sábado: 10h – 23h | Domingo: 10h – 15h",
+    "fotos": [
+      "boteco-do-peroba_medalhao-de-pernil.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Medalhão de pernil",
+        "descricao": "Bolinho de pernil enrolado em tiras de bacon, acompanhado com geleia de abacaxi apimentada.",
+        "foto": "boteco-do-peroba_medalhao-de-pernil.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-peroba/"
+  },
+  {
+    "id": 18,
+    "slug": "boteco-do-zampi",
+    "nome": "Boteco do Zampi",
+    "endereco": "Rua Omar Raymundo Picheth, 903",
+    "bairro": "Xaxim",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.510816,
+    "lng": -49.2760158,
+    "telefone": "41984881389",
+    "horarios": "Terça-feira: 17h – 23h | Quarta-feira: 17h – 23h | Quinta-feira: 17h – 23h | Sexta-feira: 17h – 23h | Sábado: 17h – 23h | Domingo: 14h – 20h",
+    "fotos": [
+      "boteco-do-zampi_brusqueta-de-boteco.jpeg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brusqueta de Boteco",
+        "descricao": "Brusqueta de costela com couve crispy e maionese de alho e pimenta-biquinho.",
+        "foto": "boteco-do-zampi_brusqueta-de-boteco.jpeg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-do-zampi/"
+  },
+  {
+    "id": 19,
+    "slug": "botega-bar-e-petiscaria",
+    "nome": "Botega Bar e Petiscaria",
+    "endereco": "Avenida Manoel Ribas, 7250",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3987798,
+    "lng": -49.3396568,
+    "telefone": "41995960387",
+    "horarios": "Terça-feira: 17h15 – 23h | Quarta-feira: 17h15 – 23h | Quinta-feira: 17h15 – 23h | Sexta-feira: 17h15 – 23h | Sábado: 11h30 – 14h45 e 18h – 23h | Domingo: 11h30 – 15h",
+    "fotos": [
+      "botega-bar-e-petiscaria_trem-bao-d.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trem Bão D+",
+        "descricao": "Costela assada ao tempero de Minas, acompanha molho de alho-poró, mandioca cremosa e farofa de banana-da-terra com bacon e couve.",
+        "foto": "botega-bar-e-petiscaria_trem-bao-d.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/botega-bar-e-petiscaria/"
+  },
+  {
+    "id": 20,
+    "slug": "brado-bar",
+    "nome": "Brado Bar",
+    "endereco": "Rua Vitório Marenda, 36",
+    "bairro": "Afonso Pena",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "41998143689",
+    "horarios": "Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 22h30 | Quinta-feira: 18h – 22h30 | Sexta-feira: 17h30 – 23h30 | Sábado: 17h30 – 23h30",
+    "fotos": [
+      "brado-bar_trouxinha-de-alface.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Trouxinha de Alface",
+        "descricao": "Trouxinha de alface, com gohan (arroz japonês), molho shoyu (óleo de gergelim, pimenta-do-reino, pimenta-branca), molho gochujang (açúcar mascavo, pouco de óleo de gergelim e vinagre), panceta fina frita na manteiga.",
+        "foto": "brado-bar_trouxinha-de-alface.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/brado-bar/"
+  },
+  {
+    "id": 21,
+    "slug": "buteco-do-minero",
+    "nome": "Buteco do Minero",
+    "endereco": "Rua Omar Raymundo Picheth, 784",
+    "bairro": "Xaxim",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.5103523,
+    "lng": -49.2771221,
+    "telefone": "(41) 3224-3691 | (41) 99946-3042",
+    "horarios": "Terça-feira: 17h – 23h30 | Quarta-feira: 17h – 23h30 | Quinta-feira: 17h – 23h30 | Sexta-feira: 17h – 23h30 | Sábado: 11h30 – 23h30 | Domingo: 17h – 22h30",
+    "fotos": [
+      "buteco-do-minero_o-mio-do-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O mió do Buteco",
+        "descricao": "Polenta cremosa com fraldinha desfiada.",
+        "foto": "buteco-do-minero_o-mio-do-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-do-minero/"
+  },
+  {
+    "id": 22,
+    "slug": "cabana-bar-petiscaria-2",
+    "nome": "Cabana Bar & Petiscaria",
+    "endereco": "Av. Marechal Humberto de Alencar Castelo Branco, 655",
+    "bairro": "Cristo Rei",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4326813,
+    "lng": -49.2378184,
+    "telefone": "4131530935",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "cabana-bar-petiscaria_combinado-cabana.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Combinado Cabana",
+        "descricao": "Porção com dois espetinhos de lombo suíno à milanesa, dois espetinhos de provolone à milanesa e seis palitos de polenta, acompanhados de molho de agrião.",
+        "foto": "cabana-bar-petiscaria_combinado-cabana.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cabana-bar-petiscaria-2/"
+  },
+  {
+    "id": 23,
+    "slug": "casa-dbia",
+    "nome": "Casa D’Bia",
+    "endereco": "Rua Roraima, 1369",
+    "bairro": "Cajuru",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4529135,
+    "lng": -49.2100828,
+    "telefone": "4132251795",
+    "horarios": "Segunda-feira: 12h – 22h30 | Terça-feira: 12h – 22h30 | Quarta-feira: 12h – 22h30 | Quinta-feira: 12h – 22h30 | Sexta-feira: 12h – 22h30 | Sábado: 14h – 21h | Domingo: 12h – 18h",
+    "fotos": [
+      "casa-d-bia_raizes-do-sertao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Raízes do Sertão",
+        "descricao": "Bolinho de mandioca recheado com costelinha de porco, couve e queijo coalho. Servido com Ypioca Ouro, fatia de caju, geleia de pimenta com maracujá e pimenta Casa D’Bia.",
+        "foto": "casa-d-bia_raizes-do-sertao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/casa-dbia/"
+  },
+  {
+    "id": 24,
+    "slug": "3082-revision-v1",
+    "nome": "Casa Velha",
+    "endereco": "Rua Mateus Leme, 5981",
+    "bairro": "Abranches",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3803949,
+    "lng": -49.2733834,
+    "telefone": "4133544050",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 12h – 0h",
+    "fotos": [
+      "casa-velha_croquete-du-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croquete Du Casa",
+        "descricao": "Croquete de carne de panela, recheado com alho-poró e ora-pro-nóbis. Acompanha palitos de mandioca frita e molho especial da casa.",
+        "foto": "casa-velha_croquete-du-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/3082-revision-v1/"
+  },
+  {
+    "id": 25,
+    "slug": "cataia-bar",
+    "nome": "Cataia Bar",
+    "endereco": "Rua Paula Gomes, 13",
+    "bairro": "Centro",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4253989,
+    "lng": -49.270635,
+    "telefone": "41991110013",
+    "horarios": "Terça-feira: 11h30 – 23h | Quarta-feira: 11h30 – 23h | Quinta-feira: 11h30 – 23h | Sexta-feira: 11h30 – 1h | Sábado: 11h30 – 1h | Domingo: 11h30 – 22h30",
+    "fotos": [
+      "cataia-bar_kibe-caicara.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kibe Caiçara",
+        "descricao": "Kibe de mandioca com tilápia, espinafre refogado e tempero caiçara, crocante por fora, macio por dentro, e servido com maionese de limão.",
+        "foto": "cataia-bar_kibe-caicara.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cataia-bar/"
+  },
+  {
+    "id": 26,
+    "slug": "4760-autosave-v1",
+    "nome": "Dom Rodrigo",
+    "endereco": "Av. Vereador Toaldo Túlio, 2275",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4113426,
+    "lng": -49.3490485,
+    "telefone": "41991386566",
+    "horarios": "Segunda-feira: 18h – 22h30 | Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 22h30 | Quinta-feira: 18h – 22h30 | Sexta-feira: 18h – 22h30",
+    "fotos": [
+      "dom-rodrigo_arabezinha-de-botequim.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Arabezinha de botequim",
+        "descricao": "Dois minicharutos de repolho com molho parmegiana e três minikaftas acompanhados de molho azedo.",
+        "foto": "dom-rodrigo_arabezinha-de-botequim.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4760-autosave-v1/"
+  },
+  {
+    "id": 27,
+    "slug": "gordo-magro-gastrobar-3",
+    "nome": "Gordo & Magro Gastrobar",
+    "endereco": "Rua Theodoro Makiolka, 2009",
+    "bairro": "Santa Cândida",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3660778,
+    "lng": -49.2401505,
+    "telefone": "41984324811",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "gordo-magro-gastrobar_verde-que-te-quero-bacon.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Verde que te quero bacon",
+        "descricao": "Pastéis recheados com escarola e bacon e rolinhos primavera recheados com repolho, cenoura e escarola com bacon. Acompanha molho de pimenta-dedo-de-moça e molho de pimenta com goiabada.",
+        "foto": "gordo-magro-gastrobar_verde-que-te-quero-bacon.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gordo-magro-gastrobar-3/"
+  },
+  {
+    "id": 28,
+    "slug": "jacobina-bar",
+    "nome": "Jacobina Bar",
+    "endereco": "R. Conselheiro Carrão, 348",
+    "bairro": "Juvevê",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.420892,
+    "lng": -49.2545636,
+    "telefone": "4130166111",
+    "horarios": "Segunda-feira: 11h30 – 15h | Segunda-feira: 18h – 23h | Terça-feira: 11h30 – 15h e 18h – 23h | Quarta-feira: 11h30 – 15h e 18h – 23h | Quinta-feira: 11h30 – 15h e 18h – 23h | Sexta-feira: 11h30 – 15h e 18h – 23h | Sábado: 11h30 – 16h e  18h – 23h | Domingo: 11h30 – 16h",
+    "fotos": [
+      "jacobina-bar_mexidao-da-vo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Mexidão da Vó",
+        "descricao": "Petisco dividido em três partes: linguiça picadinha e temperada, farofinha “rica” e molhada e bolinhos de feijão. Acompanha molho de pimenta da casa.",
+        "foto": "jacobina-bar_mexidao-da-vo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/jacobina-bar/"
+  },
+  {
+    "id": 29,
+    "slug": "ko-gastropub",
+    "nome": "KO Gastropub",
+    "endereco": "Rua Pedro Krasinski, 60",
+    "bairro": "Capão Raso",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4988947,
+    "lng": -49.2936342,
+    "telefone": "41997172888",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "ko-gastropub_caponata-com-costelinha-de-apoio.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Caponata com costelinha de apoio",
+        "descricao": "Caponata ao fundo com costelinha de porco, regada ao molho mostarda e mel.",
+        "foto": "ko-gastropub_caponata-com-costelinha-de-apoio.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ko-gastropub/"
+  },
+  {
+    "id": 30,
+    "slug": "o-taberneiro",
+    "nome": "O Taberneiro",
+    "endereco": "Rua Dom Pedro I, 643",
+    "bairro": "Água Verde",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4591722,
+    "lng": -49.2825507,
+    "telefone": "41988500603",
+    "horarios": "Terça-feira: 17h – 21:40 | Quarta-feira: 17h – 21:40 | Quinta-feira: 17h – 22h | Sexta-feira: 17h – 22h | Sábado: 17h – 22h",
+    "fotos": [
+      "o-taberneiro_colher-armadilha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Colher armadilha",
+        "descricao": "Purê cremoso de couve-flor com pedaços crocantes e dourados de torresmo, temperado com especiarias. Acompanha crispy de couve-manteiga e vinagrete da casa.",
+        "foto": "o-taberneiro_colher-armadilha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/o-taberneiro/"
+  },
+  {
+    "id": 31,
+    "slug": "obrzut-bar",
+    "nome": "Obrzut-Bar",
+    "endereco": "Rua Moacir Vieira Gomes, 49",
+    "bairro": "Campo Comprido",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4477638,
+    "lng": -49.3491532,
+    "telefone": "(41) 99936-6811 | (41) 3528-4125",
+    "horarios": "Segunda-feira: 9h – 23h | Terça-feira: 9h – 23h | Quarta-feira: 9h – 23h | Quinta-feira: 9h – 23h | Sexta-feira: 9h – 23h | Sábado: 9h – 23h",
+    "fotos": [
+      "obrzut-bar_buraco-quente-de-fraldinha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Buraco quente de fraldinha",
+        "descricao": "Buraco quente de fraldinha, recheado com queijo, cenoura, bacon, cheiro-verde e acompanhado de molho da casa.",
+        "foto": "obrzut-bar_buraco-quente-de-fraldinha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/obrzut-bar/"
+  },
+  {
+    "id": 32,
+    "slug": "oz-70-bar-e-restaurante",
+    "nome": "OZ 70 Bar e Restaurante",
+    "endereco": "R. Francisco de Paula Guimarães, 369",
+    "bairro": "Ahu",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4060914,
+    "lng": -49.2644245,
+    "telefone": "41988501065",
+    "horarios": "Segunda-feira: 11h – 21h30 | Terça-feira: 11h – 21h30 | Quarta-feira: 11h – 21h30 | Quinta-feira: 11h – 21h30 | Sexta-feira: 11h – 21h30 | Sábado: 11h – 21h30",
+    "fotos": [
+      "oz-70-bar-e-restaurante_tartaroz.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "TartarOZ",
+        "descricao": "Tartar de mignon envolvido em uma trouxinha de acelga branqueada, acompanhado de berinjela empanada em cubos.",
+        "foto": "oz-70-bar-e-restaurante_tartaroz.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/oz-70-bar-e-restaurante/"
+  },
+  {
+    "id": 33,
+    "slug": "paparico-gastrobar",
+    "nome": "Paparico Gastrobar",
+    "endereco": "Rua Leão Sallum, 1240",
+    "bairro": "Boa Vista",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.3917178,
+    "lng": -49.2530229,
+    "telefone": "41996576420",
+    "horarios": "Terça-feira: 17h30 – 22h | Quarta-feira: 17h30 – 22h | Quinta-feira: 17h30 – 22h | Sexta-feira: 17h30 – 22h | Sábado: 11h30 – 15h",
+    "fotos": [
+      "paparico-gastrobar_bolinhografia-do-brasil.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinhografia do Brasil",
+        "descricao": "Petisco composto por 8 bolinhos, inspirados em 4 pratos tradicionais da culinária brasileira: bobó de camarão com rúcula, rabada com agrião, jabá com jerimum e cupim assado com rúcula. Acompanha molho de pimenta.",
+        "foto": "paparico-gastrobar_bolinhografia-do-brasil.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/paparico-gastrobar/"
+  },
+  {
+    "id": 34,
+    "slug": "4787-revision-v1",
+    "nome": "PickNick Bar",
+    "endereco": "Avenida Manoel Ribas, 5966",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4040811,
+    "lng": -49.3283037,
+    "telefone": "4132734279",
+    "horarios": "Terça-feira: 15h – 22h30 | Quarta-feira: 15h – 22h30 | Quinta-feira: 15h – 22h30 | Sexta-feira: 15h – 23h30 | Sábado: 15h – 23h30 | Domingo: 15h – 22h30",
+    "fotos": [
+      "picknick-bar_crostela.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crostela",
+        "descricao": "Bolinho de costela desfiada misturada com queijo, finalizado com crispy de couve temperada. Acompanha molho de pimenta e creme de alho.",
+        "foto": "picknick-bar_crostela.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4787-revision-v1/"
+  },
+  {
+    "id": 35,
+    "slug": "puinas-bar",
+    "nome": "Puinas Bar",
+    "endereco": "Av. Vereador Toaldo Túlio, 1136",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.407694,
+    "lng": -49.3389602,
+    "telefone": "(41) 3022-1968 | (41) 99866-6819",
+    "horarios": "Segunda-feira: 11h30 – 14h30 e 18h – 23h | Terça-feira: 11h30 – 14h30 e 18h – 23h | Quarta-feira: 11h30 – 14h30 e 18h – 23h | Quinta-feira: 11h30 – 14h30 e 18h – 23h | Sexta-feira: 11h30 – 14h30 e 18h – 23h | Sábado: 11h30 – 14h30 e 18h – 23h",
+    "fotos": [
+      "puinas-bar_brocheta.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brocheta",
+        "descricao": "Espetinho de frango com abobrinha e alho-poró, molho tarê e cebola crispy.",
+        "foto": "puinas-bar_brocheta.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/puinas-bar/"
+  },
+  {
+    "id": 36,
+    "slug": "rancho-kanela",
+    "nome": "Rancho Kanela",
+    "endereco": "Rua José Marcassa, 392",
+    "bairro": "Xaxim",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.5066824,
+    "lng": -49.2718922,
+    "telefone": "41999922800",
+    "horarios": "Segunda-feira: 11h – 23h30 | Terça-feira: 11h – 23h30 | Quarta-feira: 11h – 23h30 | Quinta-feira: 11h – 23h30 | Sexta-feira: 11h – 23h30 | Sábado: 11h – 23h30 | Domingo: 11h – 23h30",
+    "fotos": [
+      "rancho-kanela_kibe-de-agriao.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Kibe de agrião",
+        "descricao": "Kibe de agrião, acompanha molhos de agrião, alho verde, pimenta suave, vinagrete de raiz-forte.",
+        "foto": "rancho-kanela_kibe-de-agriao.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/rancho-kanela/"
+  },
+  {
+    "id": 37,
+    "slug": "rosti-bar-e-food",
+    "nome": "Rosti Bar e Food",
+    "endereco": "Rua Enette Dubard, 175",
+    "bairro": "Tatuquara",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.5610098,
+    "lng": -49.339163,
+    "telefone": "41991128571",
+    "horarios": "Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 0h | Sábado: 18h – 0h | Domingo: 18h – 22h30",
+    "fotos": [
+      "rosti-bar-e-food_bolinho-cervejeiro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho cervejeiro",
+        "descricao": "Bolinho de bagaço de malte, carne moída e linguiça, recheado com queijo, tomate seco e manjericão. Acompanha molho de mostarda e mel e pesto de rúcula.",
+        "foto": "rosti-bar-e-food_bolinho-cervejeiro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/rosti-bar-e-food/"
+  },
+  {
+    "id": 38,
+    "slug": "4793-autosave-v1",
+    "nome": "Schnaps Bar",
+    "endereco": "Rua André Zanetti, 129",
+    "bairro": "Vista Alegre",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.413488,
+    "lng": -49.2907766,
+    "telefone": "(41) 99919-7775 | (41) 3408-2027",
+    "horarios": "Terça-feira: 18h – 22h30 | Quarta-feira: 18h – 22h30 | Quinta-feira: 11h30 – 14h30 e 18h – 22h30 | Sexta-feira: 11h30 – 14h30 e 18h – 22h30 | Sábado: 12h – 16h | Domingo: 12h – 16h",
+    "fotos": [
+      "schnaps-bar_misturadinho-da-casa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Misturadinho da casa",
+        "descricao": "Cestinha de macarrão frito com carne de panela, tempurá de couve, cenoura e repolho-roxo, acompanha goiabada com queijo enrolada no bacon, molho cremoso e maionese da casa.",
+        "foto": "schnaps-bar_misturadinho-da-casa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4793-autosave-v1/"
+  },
+  {
+    "id": 39,
+    "slug": "seu-luis-bar-e-petiscaria",
+    "nome": "Seu Luís Bar e Petiscaria",
+    "endereco": "Rua José Ziliotto, 223",
+    "bairro": "Centro",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": null,
+    "lng": null,
+    "telefone": "4135345747",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 11h30 – 23h30",
+    "fotos": [
+      "seu-luis-bar-e-petiscaria_crepe-de-espinafre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crepe de Espinafre",
+        "descricao": "Crepe de espinafre, recheado com pernil desfiado ao molho de especiarias, coberto com molho especial de queijo.",
+        "foto": "seu-luis-bar-e-petiscaria_crepe-de-espinafre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/seu-luis-bar-e-petiscaria/"
+  },
+  {
+    "id": 40,
+    "slug": "trieste-bar-e-restaurante",
+    "nome": "Trieste Bar e Restaurante",
+    "endereco": "Rua Professor Francisco Zardo, 920",
+    "bairro": "Santa Felicidade",
+    "cidade": "Curitiba",
+    "cidade_slug": "curitiba-butecos",
+    "ano": "2026",
+    "lat": -25.4051898,
+    "lng": -49.342405,
+    "telefone": "41984037574",
+    "horarios": "Segunda-feira: 18h – 23h30 | Terça-feira: 18h – 23h30 | Quarta-feira: 18h – 23h30 | Quinta-feira: 18h – 23h30 | Sexta-feira: 18h – 23h30 | Sábado: 18h – 22h",
+    "fotos": [
+      "trieste-bar-e-restaurante_crepinafre.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Crepinafre",
+        "descricao": "Crepioca recheada de espinafre, queijo e bacon. Para finalizar, um brigadeiro de abóbora com coco. Acompanha molho de espinafre com queijo.",
+        "foto": "trieste-bar-e-restaurante_crepinafre.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/trieste-bar-e-restaurante/"
+  }
+]

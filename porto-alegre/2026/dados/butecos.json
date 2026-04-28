@@ -1,0 +1,777 @@
+[
+  {
+    "id": 1,
+    "slug": "a-virgem-bar",
+    "nome": "A Virgem Bar",
+    "endereco": "R. Olavo Bilac, 251",
+    "bairro": "Azenha",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0429561,
+    "lng": -51.2167985,
+    "telefone": "51991243362",
+    "horarios": "Segunda-feira: 17h – 0h | Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 1h | Sábado: 17h – 1h",
+    "fotos": [
+      "a-virgem-bar_bella-virgem.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bella Virgem",
+        "descricao": "Refogado de espinafre com molho três queijos. Acompanha: tirinhas de pão com azeite e ervas finas.",
+        "foto": "a-virgem-bar_bella-virgem.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/a-virgem-bar/"
+  },
+  {
+    "id": 2,
+    "slug": "annalu-churras-pub",
+    "nome": "Annalu Churras Pub",
+    "endereco": "R. Gomes de Freitas, 421",
+    "bairro": "Jardim Itu",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0141466,
+    "lng": -51.1433257,
+    "telefone": "51995964278",
+    "horarios": "Segunda-feira: 18h – 23h | Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "annalu-churras-pub_espetinho-poro-e-brasa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetinho Poró e Brasa",
+        "descricao": "Espetinho de filé-mignon com molho autoral de tomate com alho-poró, acompanha batata frita e molho especial.",
+        "foto": "annalu-churras-pub_espetinho-poro-e-brasa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/annalu-churras-pub/"
+  },
+  {
+    "id": 3,
+    "slug": "arvo-bar",
+    "nome": "Arvo Bar",
+    "endereco": "R. Coronel Fernando Machado, 1200",
+    "bairro": "Centro",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0348067,
+    "lng": -51.2365792,
+    "telefone": "51980101187",
+    "horarios": "Terça-feira: 18h – 23h | Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h | Domingo: 18h – 23h",
+    "fotos": [
+      "arvo-bar_o-melhor-sanduba-do-mundo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O melhor sanduba do mundo",
+        "descricao": "Baguete crocante com dois recheios: entrecôte assado na brasa de um lado e queijo coalho braseado do outro. Acompanha maionese especial da casa, folhas frescas de rúcula e agrião, cebola roxa crocante, tomate confitado e queijo muçarela gratinado por cima.",
+        "foto": "arvo-bar_o-melhor-sanduba-do-mundo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/arvo-bar/"
+  },
+  {
+    "id": 4,
+    "slug": "bah-brasa",
+    "nome": "Bah Brasa",
+    "endereco": "Av. Dr. Sezefredo Azambuja Vieira, 2240 Canoas - RS",
+    "bairro": "",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -29.9204464,
+    "lng": -51.1175296,
+    "telefone": "51996681116",
+    "horarios": "Quarta-feira: 18h30 – 23h30 | Quinta-feira: 18h30 – 23h30 | Sexta-feira: 18h30 – 23h30 | Sábado: 18h30 – 23h30",
+    "fotos": [
+      "bah-brasa_bolinho-do-brasa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho do Brasa",
+        "descricao": "Bolinho de batata-doce com couve e ora-pro-nóbis empanado com farofa de torresmo.",
+        "foto": "bah-brasa_bolinho-do-brasa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bah-brasa/"
+  },
+  {
+    "id": 5,
+    "slug": "bar-44-amarelinho",
+    "nome": "Bar 44 Amarelinho",
+    "endereco": "Av. Assis Brasil, 171",
+    "bairro": "Santa Maria Gorete",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -29.9741244,
+    "lng": -51.1146966,
+    "telefone": "51994442778",
+    "horarios": "Segunda-feira: 11h30 – 14h30 e 17h30 – 22h30 | Terça-feira: 11h30 – 14h30 e 17h – 22h30 | Quarta-feira: 11h30 – 14h30 e 17h30 – 22h30 | Quinta-feira: 11h30 – 14h30 e 17h30 – 22h30 | Sexta-feira: 11h30 – 14h e 17h30 – 23h | Sábado: 11h30 – 14h e 17h30 – 23h | Domingo: 17h30 – 22h",
+    "fotos": [
+      "bar-44-amarelinho_charutinhos-jalapenos.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Charutinhos Jalapeños",
+        "descricao": "Charutos de massa de pastel caseira, recheados com repolho, queijo muçarela e passata de tomates; nas versões com lombo suíno, camarão e bacalhau desfiado.",
+        "foto": "bar-44-amarelinho_charutinhos-jalapenos.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-44-amarelinho/"
+  },
+  {
+    "id": 6,
+    "slug": "bar-do-alemao-3",
+    "nome": "Bar do Alemão",
+    "endereco": "R. Doutor Timóteo, 201",
+    "bairro": "Floresta",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0150343,
+    "lng": -51.2004493,
+    "telefone": "5132223148",
+    "horarios": "Segunda-feira: 11h – 22h | Terça-feira: 11h – 22h | Quarta-feira: 11h – 22h | Quinta-feira: 11h – 22h | Sexta-feira: 11h – 22h | Sábado: 11h – 15h",
+    "fotos": [
+      "bar-do-alemao_bolinho-de-couve-da-vovo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de couve da vovó",
+        "descricao": "Bolinho de arroz com couve, sem glúten. Acompanhado de pasta de alho-poró.",
+        "foto": "bar-do-alemao_bolinho-de-couve-da-vovo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/bar-do-alemao-3/"
+  },
+  {
+    "id": 7,
+    "slug": "9838-revision-v1",
+    "nome": "Barril Pub",
+    "endereco": "Av. Wenceslau Escobar, 2997",
+    "bairro": "Cristal",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.1006657,
+    "lng": -51.2489033,
+    "telefone": "5135162015",
+    "horarios": "Segunda-feira: 11h30 – 23h | Terça-feira: 11h30 – 23h | Quarta-feira: 11h30 – 0h | Quinta-feira: 11h30 – 0h | Sexta-feira: 11h30 – 0h | Sábado: 11h30 – 0h",
+    "fotos": [
+      "barril-pub_brocolis-na-rede.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brócolis na rede!",
+        "descricao": "Bolinho de aipim, recheado com brócolis cremoso. Acompanha maionese da casa e geleia de bergamota com pimenta.",
+        "foto": "barril-pub_brocolis-na-rede.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/9838-revision-v1/"
+  },
+  {
+    "id": 8,
+    "slug": "beladora",
+    "nome": "Beladora",
+    "endereco": "Avenida Guaíba, 10748",
+    "bairro": "Ipanema",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.1355654,
+    "lng": -51.2324874,
+    "telefone": "5131054661",
+    "horarios": "Terça-feira: 16h – 1h | Quarta-feira: 16h – 1h | Quinta-feira: 16h – 1h | Sexta-feira: 16h – 1h | Sábado: 12h – 1h | Domingo: 12h – 1h",
+    "fotos": [
+      "beladora_espetinho-beladora.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Espetinho Beladora",
+        "descricao": "Espetinhos de brócolis, couve-flor, alho-poró, cenoura e queijo empanados e fritos. Acompanha molho verde.",
+        "foto": "beladora_espetinho-beladora.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/beladora/"
+  },
+  {
+    "id": 9,
+    "slug": "boteco-vitoria",
+    "nome": "Boteco Vitória",
+    "endereco": "R. Felizardo, 445",
+    "bairro": "Jardim Botânico",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0496927,
+    "lng": -51.1876599,
+    "telefone": "51995043364",
+    "horarios": "Terça-feira: 11h30 – 14h30 e 17h – 0h | Quarta-feira: 11h30 – 14h30 e 17h – 0h | Quinta-feira: 11h30 – 14h30 e 17h – 0h | Sexta-feira: 11h30 – 14h30 e 17h – 0h | Sábado: 12h – 0h30",
+    "fotos": [
+      "boteco-vitoria_a-vaca-foi-para-o-brejo.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "A vaca foi para o brejo",
+        "descricao": "Aipim cozido e carne de panela, finalizado com farofa crocante e alho-poró",
+        "foto": "boteco-vitoria_a-vaca-foi-para-o-brejo.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/boteco-vitoria/"
+  },
+  {
+    "id": 10,
+    "slug": "buteco-petiscos",
+    "nome": "Buteco Petiscos",
+    "endereco": "R. Marechal Floriano Peixoto, 387",
+    "bairro": "Centro",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0348781,
+    "lng": -51.2272455,
+    "telefone": "5132213989",
+    "horarios": "Segunda-feira: 11h – 21h | Terça-feira: 11h – 21h | Quarta-feira: 11h – 21h | Quinta-feira: 11h – 21h | Sexta-feira: 11h – 21h | Sábado: 11h – 18h",
+    "fotos": [
+      "buteco-petiscos_bacalhau-do-popeye-com-toque-de-olivia.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bacalhau do Popeye com toque de Olívia",
+        "descricao": "Bacalhau desfiado com espinafre e cubinhos de batatas ao molho branco. Finalizado com castanha-do-pará e gratinado no forno. Acompanha chips de batata-doce.",
+        "foto": "buteco-petiscos_bacalhau-do-popeye-com-toque-de-olivia.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/buteco-petiscos/"
+  },
+  {
+    "id": 11,
+    "slug": "cafe-de-garagem",
+    "nome": "Café de Garagem",
+    "endereco": "R. Paulo Henrique Ten-Caten, 112",
+    "bairro": "Santa Rosa de Lima",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -29.9962602,
+    "lng": -51.0911375,
+    "telefone": "51994373741",
+    "horarios": "Segunda-feira: 7h – 17h30 | Terça-feira: 7h – 17h30 | Quarta-feira: 7h – 21h30 | Quinta-feira: 7h – 21h30 | Sexta-feira: 7h – 21h30 | Sábado: 11h – 21h",
+    "fotos": [
+      "cafe-de-garagem_coxinha-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Coxinha de Buteco",
+        "descricao": "Coxinhas com 4 recheios diferentes: carne de panela com couve verde; frango com alho-poró; brócolis com bacon; repolho roxo, cenoura, alho-poró e couve-chinesa. Acompanha geleia de abacaxi com pimenta, maionese com salsa e alho-poró; pasta de pimenta-biquinho e pimenta-dedo-de-moça.",
+        "foto": "cafe-de-garagem_coxinha-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/cafe-de-garagem/"
+  },
+  {
+    "id": 12,
+    "slug": "4851-revision-v1",
+    "nome": "El Farol",
+    "endereco": "R. Mariante, 855",
+    "bairro": "Rio Branco",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0298698,
+    "lng": -51.2042763,
+    "telefone": "51994479447",
+    "horarios": "Terça-feira: 18h30 – 0h | Quarta-feira: 18h30 – 0h | Quinta-feira: 18h30 – 0h | Sexta-feira: 18h30 – 0h | Sábado: 18h30 – 0h | Domingo: 18h30 – 0h",
+    "fotos": [
+      "el-farol_sanduiche-del-10.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Sanduíche del 10",
+        "descricao": "Pão baguete recheado com bife à milanesa, queijo, ovo cozido, salada e maionese de alho-poró.",
+        "foto": "el-farol_sanduiche-del-10.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/4851-revision-v1/"
+  },
+  {
+    "id": 13,
+    "slug": "espetinho-bar-do-martins",
+    "nome": "Espetinho Bar do Martins",
+    "endereco": "Av. Circular, 593",
+    "bairro": "Vila Jardim",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0308809,
+    "lng": -51.1544467,
+    "telefone": "51994261019",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "espetinho-bar-do-martins_cachurrasco-de-pao-parmesao-na-brasa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cachurrasco de pão parmesão na brasa",
+        "descricao": "Pão de parmesão com carne e fatias de alface e tomate, batata-palha e molho especial.",
+        "foto": "espetinho-bar-do-martins_cachurrasco-de-pao-parmesao-na-brasa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/espetinho-bar-do-martins/"
+  },
+  {
+    "id": 14,
+    "slug": "golden-bull",
+    "nome": "Golden Bull",
+    "endereco": "Rua Cipó, 1264",
+    "bairro": "Passo D'Areia",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0203945,
+    "lng": -51.1622231,
+    "telefone": "51999743253",
+    "horarios": "Segunda-feira: 18h – 0h | Terça-feira: 18h – 0h | Quarta-feira: 18h – 0h | Quinta-feira: 18h – 0h | Sexta-feira: 18h – 0h | Sábado: 18h – 0h",
+    "fotos": [
+      "golden-bull_brusqueta-golden.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Brusqueta Golden",
+        "descricao": "Brusqueta de carne de panela, molho de alho-poró, creme aligot, queijo e ervas-finas.",
+        "foto": "golden-bull_brusqueta-golden.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/golden-bull/"
+  },
+  {
+    "id": 15,
+    "slug": "gringos-lanches",
+    "nome": "Gringo’s Lanches",
+    "endereco": "Av. Ceará, 823",
+    "bairro": "São João",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0070023,
+    "lng": -51.1936153,
+    "telefone": "5135191878",
+    "horarios": "Segunda-feira: 11h – 22h30 | Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 22h30 | Sábado: 11h – 14h30",
+    "fotos": [
+      "gringo-s-lanches_tesouro-de-molho.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tesouro de molho",
+        "descricao": "Bife à parmegiana cortado em pedacinhos.",
+        "foto": "gringo-s-lanches_tesouro-de-molho.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/gringos-lanches/"
+  },
+  {
+    "id": 16,
+    "slug": "inca-bar-de-cervejas",
+    "nome": "Inca Bar de Cervejas",
+    "endereco": "Avenida Inácio Vasconcelos, 69",
+    "bairro": "Boa Vista",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0221865,
+    "lng": -51.1820588,
+    "telefone": "51998474113",
+    "horarios": "Terça-feira: 17h30 – 22h30 | Quarta-feira: 17h30 – 22h30 | Quinta-feira: 17h30 – 22h30 | Sexta-feira: 17h30 – 22h30 | Sábado: 17h30 – 22h30",
+    "fotos": [
+      "inca-bar-de-cervejas_croqueta-andina.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croqueta andina",
+        "descricao": "Croquetes de milho, recheadas com alho-poró, queijos provolone e muçarela. Acompanha molhos: maionese com coentro, sweet chilli e mostarda e mel.",
+        "foto": "inca-bar-de-cervejas_croqueta-andina.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/inca-bar-de-cervejas/"
+  },
+  {
+    "id": 17,
+    "slug": "mato-bar",
+    "nome": "Mato Bar",
+    "endereco": "Rua Francisco Ferrer, 192",
+    "bairro": "Rio Branco",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0351211,
+    "lng": -51.2072801,
+    "telefone": "51998952432",
+    "horarios": "Quarta-feira: 18h – 23h | Quinta-feira: 18h – 23h | Sexta-feira: 18h – 23h | Sábado: 18h – 23h",
+    "fotos": [
+      "mato-bar_bolinhas-crocantes-do-mato.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinhas crocantes do Mato",
+        "descricao": "Azeitonas empanadas. Acompanha creme de aipo e maionese de girassol.",
+        "foto": "mato-bar_bolinhas-crocantes-do-mato.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/mato-bar/"
+  },
+  {
+    "id": 18,
+    "slug": "molt-be",
+    "nome": "Molt Be",
+    "endereco": "R. Dr. Mario Totta, 963",
+    "bairro": "Tristeza",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.1136526,
+    "lng": -51.250872,
+    "telefone": "51994928290",
+    "horarios": "Segunda-feira: 11h30 – 15h | Terça-feira: 11h30 – 15h | Quarta-feira: 11h30 – 15h e 17h – 22h30 | Quinta-feira: 11h30 – 15h e 17h – 22h30 | Sexta-feira: 11h30 – 15h e 17h – 22h30 | Sábado: 11h – 22h30 | Domingo: 11h – 18h",
+    "fotos": [
+      "molt-be_croqueta-de-puerro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croqueta de Puerro",
+        "descricao": "Bolinho com recheio cremoso de alho-poró. Acompanha: molho de bacon.",
+        "foto": "molt-be_croqueta-de-puerro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/molt-be/"
+  },
+  {
+    "id": 19,
+    "slug": "ninkasi-bar",
+    "nome": "Ninkasi Bar",
+    "endereco": "R. João Alfredo, 557",
+    "bairro": "Cidade Baixa",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0396167,
+    "lng": -51.2267355,
+    "telefone": "5134072119",
+    "horarios": "Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 2h | Sábado: 17h – 2h",
+    "fotos": [
+      "ninkasi-bar_peppa-mafiosa.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Peppa Mafiosa",
+        "descricao": "Charutos de repolho com porco desfiado ao molho agridoce, acompanhados de chips de batata-doce.",
+        "foto": "ninkasi-bar_peppa-mafiosa.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/ninkasi-bar/"
+  },
+  {
+    "id": 20,
+    "slug": "nosso-bar",
+    "nome": "Nosso Bar",
+    "endereco": "Av. Bento Gonçalves, 1979",
+    "bairro": "Partenon",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0644921,
+    "lng": -51.183265,
+    "telefone": "5131054721",
+    "horarios": "Domingo: 17h – 2h | Segunda-feira: 17h – 2h | Terça: 17h – 2h | Quarta-feira: 17h – 2h | Quinta-feira: 17h – 2h | Sexta-feira: 17h – 4h | Sábado: 17h – 4h |",
+    "fotos": [
+      "nosso-bar_pastel-de-vento.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Pastel de vento",
+        "descricao": "Combinação de três pastéis acompanhados de três recheios – você mesmo monta o seu pastel conforme seu gosto. Recheios de: carne com couve crispy, queijo com rúcula e o doce de chocolate com pimenta.",
+        "foto": "nosso-bar_pastel-de-vento.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/nosso-bar/"
+  },
+  {
+    "id": 21,
+    "slug": "piko-bar-e-cozinha",
+    "nome": "Piko Bar e Cozinha",
+    "endereco": "R. Pedro Boticário, 560",
+    "bairro": "Partenon",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0721788,
+    "lng": -51.2001674,
+    "telefone": "51981710858",
+    "horarios": "Segunda-feira: 11h30 – 14h | Terça-feira: 11h30 – 14h e 18h – 23h30 | Quarta-feira: 11h30 – 14h e 18h – 23h30 | Quinta-feira: 11h30 – 14h e 18h – 23h30 | Sexta-feira: 11h30 – 14h e 18h – 23h30 | Sábado: 18h – 23h30",
+    "fotos": [
+      "piko-bar-e-cozinha_popeye-roll.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Popeye Roll",
+        "descricao": "Massa de pizza recheada com espinafre, bechamel e muçarela. Finalizada com bechamel e parmesão. Acompanha maionese da casa.",
+        "foto": "piko-bar-e-cozinha_popeye-roll.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/piko-bar-e-cozinha/"
+  },
+  {
+    "id": 22,
+    "slug": "pinacoteca-cafe",
+    "nome": "Pinacoteca Café",
+    "endereco": "Rua da República, 409",
+    "bairro": "Cidade Baixa",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0383442,
+    "lng": -51.2231435,
+    "telefone": "51980643265",
+    "horarios": "Terça-feira: 17h – 0h | Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 2h | Sábado: 17h – 2h | Domingo: 17h – 0h |",
+    "fotos": [
+      "pinacoteca-cafe_croque-flor.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Croque-flor",
+        "descricao": "Croqueta empanada em panko, recheada de creme de couve-flor e queijo muçarela derretido. Acompanha vinagrete e aioli de tomate seco.",
+        "foto": "pinacoteca-cafe_croque-flor.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pinacoteca-cafe/"
+  },
+  {
+    "id": 23,
+    "slug": "pinhos-botecaria-pub",
+    "nome": "Pinhos Botecaria Pub",
+    "endereco": "Av. Victor Barreto, 3588",
+    "bairro": "Centro",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -29.9203608,
+    "lng": -51.181254,
+    "telefone": "51996044639",
+    "horarios": "Quarta-feira: 19h – 0h | Quinta-feira: 19h – 0h | Sexta-feira: 19h – 2h | Sábado: 19h – 2h",
+    "fotos": [
+      "pinhos-botecaria-pub_delicia-poro.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Delícia Poró",
+        "descricao": "Massa de minipizza recheada com molho cremoso de frango e alho-poró.",
+        "foto": "pinhos-botecaria-pub_delicia-poro.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pinhos-botecaria-pub/"
+  },
+  {
+    "id": 24,
+    "slug": "pito-bar",
+    "nome": "Pito Bar",
+    "endereco": "R. Mariante, 587",
+    "bairro": "Rio Branco",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0298698,
+    "lng": -51.2042763,
+    "telefone": "51992356624",
+    "horarios": "Segunda-feira: 11h – 15h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 18h – 0h | Domingo: 18h – 0h",
+    "fotos": [
+      "pito-bar_tabua-campeira.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Tábua Campeira",
+        "descricao": "Tábua de pão de alho recheado com linguiça campeira e queijo colonial, finalizada com vinagrete de alho-poró e erva-doce.",
+        "foto": "pito-bar_tabua-campeira.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/pito-bar/"
+  },
+  {
+    "id": 25,
+    "slug": "poeta-bar",
+    "nome": "Poeta Bar",
+    "endereco": "Rua dos Andradas, 777",
+    "bairro": "Centro Histórico",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0299195,
+    "lng": -51.2288837,
+    "telefone": "51989025645",
+    "horarios": "Segunda-feira: 11h – 22h30 | Terça-feira: 11h – 22h30 | Quarta-feira: 11h – 22h30 | Quinta-feira: 11h – 22h30 | Sexta-feira: 11h – 22h30 | Sábado: 11h – 22h30 | Domingo: 11h – 22h30",
+    "fotos": [
+      "poeta-bar_coco-crispy.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Cocó Crispy",
+        "descricao": "Frango empanado na farinha panko. Acompanha crispy de alho-poró e molhos da casa.",
+        "foto": "poeta-bar_coco-crispy.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/poeta-bar/"
+  },
+  {
+    "id": 26,
+    "slug": "point-do-pastel",
+    "nome": "Point do Pastel",
+    "endereco": "R. Dra. Maria Augusta Generoso Estrela, 1070",
+    "bairro": "Rubem Berta",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0069266,
+    "lng": -51.1047205,
+    "telefone": "(51) 3368-2830 | (51) 98501-6026",
+    "horarios": "Terça-feira: 18h30 – 0h | Quarta-feira: 18h30 – 0h | Quinta-feira: 18h30 – 0h | Sexta-feira: 18h30 – 0h | Sábado: 18h30 – 0h | Domingo: 18h30 – 0h",
+    "fotos": [
+      "point-do-pastel_o-magnifico.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "O Magnífico",
+        "descricao": "Pastel frito, com recheio de filé-mignon ao molho de nata, brócolis e queijo muçarela.",
+        "foto": "point-do-pastel_o-magnifico.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/point-do-pastel/"
+  },
+  {
+    "id": 27,
+    "slug": "resenha-gourmet",
+    "nome": "Resenha Gourmet",
+    "endereco": "Avenida do Forte, 1220",
+    "bairro": "Vila Ipiranga",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0270968,
+    "lng": -51.1507662,
+    "telefone": "5132735192",
+    "horarios": "Segunda-feira: 11h – 0h | Terça-feira: 11h – 0h | Quarta-feira: 11h – 0h | Quinta-feira: 11h – 0h | Sexta-feira: 11h – 0h | Sábado: 11h – 0h",
+    "fotos": [
+      "resenha-gourmet_bolinho-resenha.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho Resenha",
+        "descricao": "Bolinho de verduras com bacon e queijo, acompanhado da maionese da casa e chimichurri.",
+        "foto": "resenha-gourmet_bolinho-resenha.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/resenha-gourmet/"
+  },
+  {
+    "id": 28,
+    "slug": "retro-bar",
+    "nome": "Retrô Bar",
+    "endereco": "Av. Rocio, 479",
+    "bairro": "Vila João Pessoa",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0694944,
+    "lng": -51.1795241,
+    "telefone": "(51) 3352-2917 | (51) 98021-4909",
+    "horarios": "Segunda-feira: 8h – 0h | Terça-feira: 8h – 0h | Quarta-feira: 8h – 0h | Quinta-feira: 8h – 0h | Sexta-feira: 8h – 0h | Sábado: 8h – 0h",
+    "fotos": [
+      "retro-bar_bolinho-de-buteco.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Bolinho de Buteco",
+        "descricao": "Bolinho de aipim com brócolis e molho quatro queijos.",
+        "foto": "retro-bar_bolinho-de-buteco.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/retro-bar/"
+  },
+  {
+    "id": 29,
+    "slug": "rota-66",
+    "nome": "Rota 66",
+    "endereco": "Av. Economista Nilo Wulff, 902",
+    "bairro": "Restinga",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.1503679,
+    "lng": -51.1455685,
+    "telefone": "(51) 3250-1010",
+    "horarios": "Segunda-feira: 11h30 – 0h | Terça-feira: 11h30 – 0h | Quarta-feira: 11h30 – 0h | Quinta-feira: 11h30 – 0h | Sexta-feira: 11h30 – 0h | Sábado: 11h30 – 0h | Domingo: 11h30 – 0h",
+    "fotos": [
+      "rota-66_spin-bacon.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Spin Bacon",
+        "descricao": "Bolinho de espinafre, recheado com bacon. Acompanha torradas e maionese especial da casa.",
+        "foto": "rota-66_spin-bacon.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/rota-66/"
+  },
+  {
+    "id": 30,
+    "slug": "snack-bar-do-barba",
+    "nome": "Snack Bar do Barba",
+    "endereco": "R. Ângelo Crivellaro, 540",
+    "bairro": "Jardim do Salso",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.0497968,
+    "lng": -51.1701009,
+    "telefone": "51981450140",
+    "horarios": "Terça-feira: 18h – 23:59 | Quarta-feira: 18h – 23:59 | Quinta-feira: 18h – 23:59 | Sexta-feira: 18h – 1h | Sábado: 18h – 1h | Domingo: 18h – 23:59",
+    "fotos": [
+      "snack-bar-do-barba_feijoca-crocante.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Feijoca Crocante",
+        "descricao": "Coxinha de feijoada com couve, costela, bacon e molho especial.",
+        "foto": "snack-bar-do-barba_feijoca-crocante.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/snack-bar-do-barba/"
+  },
+  {
+    "id": 31,
+    "slug": "terreiro-bar",
+    "nome": "Terreiro Bar",
+    "endereco": "Rua Luiz Afonso, 247",
+    "bairro": "Cidade Baixa",
+    "cidade": "Porto Alegre",
+    "cidade_slug": "porto-alegre",
+    "ano": "2026",
+    "lat": -30.038313,
+    "lng": -51.2199392,
+    "telefone": "51991282196",
+    "horarios": "Quarta-feira: 17h – 0h | Quinta-feira: 17h – 0h | Sexta-feira: 17h – 0h | Sábado: 17h – 0h | Domingo: 17h – 22h",
+    "fotos": [
+      "terreiro-bar_porcao-de-axe.jpg"
+    ],
+    "pratos": [
+      {
+        "nome": "Porção de Axé",
+        "descricao": "Porção de seis pastéis, sendo metade deles de feijoada. A outra metade de moqueca vegana, onde a protagonista é a banana-da-terra. Acompanha creme sour de pimenta e pesto de coentro.",
+        "foto": "terreiro-bar_porcao-de-axe.jpg"
+      }
+    ],
+    "url": "https://comidadibuteco.com.br/buteco/terreiro-bar/"
+  }
+]
