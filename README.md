@@ -1,6 +1,6 @@
 # butecos-data
 
-Dados do app **Comida de Buteco** — gerados automaticamente pelo scraper, organizados por cidade.
+Dados do app **Butecos Próximos** — gerados automaticamente pelo scraper, organizados por cidade.
 
 ## Estrutura
 
